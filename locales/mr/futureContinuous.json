@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "sentence": "I will be studying tonight.",
+    "translation": "मी आज रात्री अभ्यास करत असेन.",
+    "meaning": "मी आज रात्रीच्या वेळी अभ्यास करण्यात मग्न असेन अशी माझी अपेक्षा आहे."
+  },
+  {
+    "id": 2,
+    "sentence": "She will not be attending the meeting.",
+    "translation": "ती बैठकीला (मीटिंगला) उपस्थित राहणार नाही.",
+    "meaning": "तिची बैठकीला उपस्थित राहण्याची किंवा भाग घेण्याची योजना नाही."
+  },
+  {
+    "id": 3,
+    "sentence": "They will be playing football tomorrow.",
+    "translation": "ते उद्या फुटबॉल खेळत असतील.",
+    "meaning": "त्यांनी उद्या फुटबॉल सामन्याचे नियोजन केले आहे आणि ते खेळाच्या ओघात असतील."
+  },
+  {
+    "id": 4,
+    "sentence": "He will not be working late.",
+    "translation": "तो उशिरापर्यंत काम करत नसणार.",
+    "meaning": "त्याचा आज रात्री उशिरापर्यंत अतिरिक्त वेळ काम करण्याचा इरादा नाही."
+  },
+  {
+    "id": 5,
+    "sentence": "We will be traveling next week.",
+    "translation": "आम्ही पुढच्या आठवड्यात प्रवास करत असू.",
+    "meaning": "आम्ही पुढच्या आठवड्यात प्रवासाला जाण्याची योजना आखली आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "I will not be sleeping early.",
+    "translation": "मी लवकर झोपणार नसणार.",
+    "meaning": "मी रात्री उशिरापर्यंत जागे राहण्याची योजना आखली आहे आणि लवकर झोपणार नाही."
+  },
+  {
+    "id": 7,
+    "sentence": "She will be cooking dinner at 8 PM.",
+    "translation": "ती रात्री ८ वाजता जेवण बनवत असेल.",
+    "meaning": "बरोबर रात्री ८ वाजता ती रात्रीचे जेवण बनवण्यात मग्न असेल अशी अपेक्षा आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "They will not be watching the movie.",
+    "translation": "ते चित्रपट पाहत नसतील.",
+    "meaning": "त्यांचा तो चित्रपट पाहण्याचा मानस नाही."
+  },
+  {
+    "id": 9,
+    "sentence": "He will be driving to Delhi tomorrow.",
+    "translation": "तो उद्या गाडी चालवून दिल्लीला जात असेल.",
+    "meaning": "उद्या त्याचा गाडी चालवत दिल्लीच्या दिशेने प्रवास सुरू असेल."
+  },
+  {
+    "id": 10,
+    "sentence": "We will not be visiting the museum.",
+    "translation": "आम्ही संग्रहालयाला (म्युझियमला) भेट देणार नसणार.",
+    "meaning": "आम्ही आमच्या आगामी प्रवासाच्या यादीत संग्रहालयाचा समावेश करणार नाही."
+  },
+  {
+    "id": 11,
+    "sentence": "I will be writing a letter.",
+    "translation": "मी पत्र लिहीत असेन.",
+    "meaning": "मी कागदावर पत्र लिहिण्यात काही वेळ घालवणार आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "She will not be practicing piano.",
+    "translation": "ती पियानोचा सराव करत नसणार.",
+    "meaning": "तिची आज पियानो वाजवण्याचा सराव करण्याची योजना नाही."
+  },
+  {
+    "id": 13,
+    "sentence": "They will be building a new house.",
+    "translation": "ते नवीन घर बांधत असतील.",
+    "meaning": "ते त्यांचे नवीन राहते घर उभारण्याच्या कामात गुंतलेले असतील."
+  },
+  {
+    "id": 14,
+    "sentence": "He will not be calling you tonight.",
+    "translation": "तो आज रात्री तुम्हाला फोन करत नसणार.",
+    "meaning": "त्याची आज संध्याकाळी तुम्हाला फोन करण्याची योजना नाही."
+  },
+  {
+    "id": 15,
+    "sentence": "We will be celebrating the festival.",
+    "translation": "आम्ही सण साजरा करत असू.",
+    "meaning": "आम्ही सणाच्या आनंदात आणि उपक्रमांमध्ये सहभागी होण्याची योजना आखत आहोत."
+  },
+  {
+    "id": 16,
+    "sentence": "I will not be using my phone.",
+    "translation": "मी माझा फोन वापरत नसणार.",
+    "meaning": "मी ऑफलाईन राहण्याची योजना आखली आहे आणि माझा फोन वापरणार नाही."
+  },
+  {
+    "id": 17,
+    "sentence": "She will be cleaning her room.",
+    "translation": "ती तिची खोली साफ करत असेल.",
+    "meaning": "ती तिच्या बेडरूमची स्वच्छता आणि आवराआवरा करण्यात वेळ घालवण्याची शक्यता आहे."
+  },
+  {
+    "id": 18,
+    "sentence": "They will not be studying for the test.",
+    "translation": "ते परीक्षेचा अभ्यास करत नसतील.",
+    "meaning": "त्यांची आगामी परीक्षेसाठी उजळणी किंवा अभ्यास करण्याची योजना नाही."
+  },
+  {
+    "id": 19,
+    "sentence": "He will be fixing the car.",
+    "translation": "तो कार दुरुस्त करत असेल.",
+    "meaning": "त्याची स्वतःची गाडी दुरुस्त करण्यात वेळ घालवण्याची योजना आहे."
+  },
+  {
+    "id": 20,
+    "sentence": "She will not be dancing at the party.",
+    "translation": "ती पार्टीमध्ये डान्स करत नसणार.",
+    "meaning": "ती पार्टीला उपस्थित राहील पण डान्स फ्लोअरवर नाचणार नाही."
+  },
+  {
+    "id": 21,
+    "sentence": "They will be discussing the plan.",
+    "translation": "ते योजनेवर चर्चा करत असतील.",
+    "meaning": "ते पुढील योजना आखण्यासाठी आपसात चर्चा करत असतील."
+  },
+  {
+    "id": 22,
+    "sentence": "He will not be joining us.",
+    "translation": "तो आपल्यासोबत सहभागी होत नसणार.",
+    "meaning": "तो आपल्यासोबत येणार नाही किंवा आपल्या ग्रुपच्या उपक्रमात भाग घेणार नाही."
+  },
+  {
+    "id": 23,
+    "sentence": "We will be preparing lunch.",
+    "translation": "आम्ही दुपारचे जेवण बनवत असू.",
+    "meaning": "आम्ही दुपारचे जेवण तयार करण्यात मग्न असण्याची योजना आहे."
+  },
+  {
+    "id": 24,
+    "sentence": "I will not be working tomorrow.",
+    "translation": "मी उद्या काम करत नसणार.",
+    "meaning": "उद्या माझी सुट्टी आहे, त्यामुळे मी काम करणार नाही."
+  },
+  {
+    "id": 25,
+    "sentence": "She will be reading a novel.",
+    "translation": "ती कादंबरी वाचत असेल.",
+    "meaning": "तिची शांतपणे पुस्तक वाचण्यात वेळ घालवण्याची योजना आहे."
+  },
+  {
+    "id": 26,
+    "sentence": "They will not be playing games.",
+    "translation": "ते खेळ खेळत नसतील.",
+    "meaning": "ते त्यांचा मोकळा वेळ व्हिडिओ किंवा बोर्ड गेम खेळण्यात घालवणार नाहीत."
+  },
+  {
+    "id": 27,
+    "sentence": "He will be teaching the class.",
+    "translation": "तो वर्गाला शिकवत असेल.",
+    "meaning": "तो वर्गातील विद्यार्थ्यांना धडा शिकवण्यात मग्न असण्याची अपेक्षा आहे."
+  },
+  {
+    "id": 28,
+    "sentence": "We will not be attending the function.",
+    "translation": "आम्ही कार्यक्रमाला उपस्थित राहत नसू.",
+    "meaning": "आम्ही औपचारिक कार्यक्रमाला किंवा समारंभाला उपस्थित राहणार नाही."
+  },
+  {
+    "id": 29,
+    "sentence": "I will be jogging in the morning.",
+    "translation": "मी सकाळी जॉगिंग करत असेन.",
+    "meaning": "माझी उद्या सकाळी धावण्याचा व्यायाम करण्याची योजना आहे."
+  },
+  {
+    "id": 30,
+    "sentence": "She will not be answering calls.",
+    "translation": "ती फोन कॉल्स स्वीकारत नसणार.",
+    "meaning": "ती व्यस्त असेल आणि येणाऱ्या कोणत्याही फोन कॉलला उत्तर देणार नाही."
+  },
+  {
+    "id": 31,
+    "sentence": "They will be organizing the event.",
+    "translation": "ते कार्यक्रमाचे आयोजन करत असतील.",
+    "meaning": "ते कार्यक्रमाची तयारी आणि व्यवस्था करण्यात व्यस्त असण्याची योजना आहे."
+  },
+  {
+    "id": 32,
+    "sentence": "He will not be traveling abroad.",
+    "translation": "तो परदेशी प्रवास करत नसणार.",
+    "meaning": "तो त्याची सुट्टी इथेच घालवेल आणि परदेशात जाणार नाही."
+  },
+  {
+    "id": 33,
+    "sentence": "We will be enjoying the trip.",
+    "translation": "आम्ही प्रवासाचा आनंद घेत असू.",
+    "meaning": "आम्हाला आमच्या प्रवासादरम्यान छान वेळ घालवण्याची अपेक्षा आहे."
+  },
+  {
+    "id": 34,
+    "sentence": "I will not be buying anything.",
+    "translation": "मी काहीही खरेदी करत नसणार.",
+    "meaning": "माझी पैसे वाचवण्याची योजना आहे आणि मी दुकानात काहीही खरेदी करणार नाही."
+  },
+  {
+    "id": 35,
+    "sentence": "She will be painting the wall.",
+    "translation": "ती भिंतीला रंग देत असेल.",
+    "meaning": "तिची दुपारचा वेळ बेडरूमच्या भिंती रंगवण्यात घालवण्याची योजना आहे."
+  },
+  {
+    "id": 36,
+    "sentence": "They will not be listening to music.",
+    "translation": "ते गाणी/संगीत ऐकत नसतील.",
+    "meaning": "ते शांत ठिकाणी काम करत असतील आणि गाणी ऐकणार नाहीत."
+  },
+  {
+    "id": 37,
+    "sentence": "He will be watching TV.",
+    "translation": "तो टीव्ही पाहत असेल.",
+    "meaning": "त्याची संध्याकाळचे काही तास टीव्ही कार्यक्रम पाहण्यात घालवण्याची योजना आहे."
+  },
+  {
+    "id": 38,
+    "sentence": "We will not be staying here.",
+    "translation": "आम्ही इथे राहत नसू / थांबत नसू.",
+    "meaning": "आमच्या राहण्याची दुसरी सोय आहे आणि आम्ही या ठिकाणी थांबणार नाही."
+  },
+  {
+    "id": 39,
+    "sentence": "I will be meeting my friend.",
+    "translation": "मी माझ्या मित्राला भेटत असेन.",
+    "meaning": "माझी माझ्या मित्राला भेटण्याची आणि वेळ घालवण्याची योजना आहे."
+  },
+  {
+    "id": 40,
+    "sentence": "She will not be baking a cake.",
+    "translation": "ती केक बनवत (बेक करत) नसणार.",
+    "meaning": "ती आज कोणताही केक किंवा बेकरी पदार्थ बनवणार नाही."
+  }
+]

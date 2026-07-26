@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "sentence": "I was reading a book.",
+    "translation": "मी एक पुस्तक वाचत होतो / होते.",
+    "meaning": "जेव्हा दुसरी एखादी गोष्ट घडली, तेव्हा मी पुस्तक वाचण्यात व्यस्त होतो/होते."
+  },
+  {
+    "id": 2,
+    "sentence": "She was not cooking dinner.",
+    "translation": "ती रात्रीचे जेवण बनवत नव्हती.",
+    "meaning": "ती संध्याकाळचा स्वयंपाक करण्यात व्यस्त नव्हती."
+  },
+  {
+    "id": 3,
+    "sentence": "They were playing football.",
+    "translation": "ते फुटबॉल खेळत होते.",
+    "meaning": "ते फुटबॉलचा सामना खेळण्यात व्यस्त होते."
+  },
+  {
+    "id": 4,
+    "sentence": "He was not watching TV.",
+    "translation": "तो टीव्ही पाहत नव्हता.",
+    "meaning": "तो टीव्ही कार्यक्रम पाहण्यात व्यस्त नव्हता."
+  },
+  {
+    "id": 5,
+    "sentence": "We were studying together.",
+    "translation": "आम्ही एकत्र अभ्यास करत होतो.",
+    "meaning": "आम्ही एकत्र शिकण्यात आणि अभ्यास करण्यात वेळ घालवला."
+  },
+  {
+    "id": 6,
+    "sentence": "The dog was not barking.",
+    "translation": "कुत्रा भुंकत नव्हता.",
+    "meaning": "कुत्रा शांत होता आणि कोणताही मोठा भुंकण्याचा आवाज करत नव्हता."
+  },
+  {
+    "id": 7,
+    "sentence": "She was writing a letter.",
+    "translation": "ती पत्र लिहीत होती.",
+    "meaning": "ती कागदावर पत्र लिहिण्यात व्यस्त होती."
+  },
+  {
+    "id": 8,
+    "sentence": "I was not walking in the park.",
+    "translation": "मी बागेत (पार्क मध्ये) चालत नव्हतो / नव्हते.",
+    "meaning": "मी सार्वजनिक बागेत फिरण्यात वेळ घालवत नव्हतो/नव्हते."
+  },
+  {
+    "id": 9,
+    "sentence": "They were dancing at the party.",
+    "translation": "ते पार्टीमध्ये नाचत होते.",
+    "meaning": "ते कार्यक्रमात संगीताच्या तालावर डान्स करत होते."
+  },
+  {
+    "id": 10,
+    "sentence": "He was driving to work.",
+    "translation": "तो गाडी चालवून कामावर जात होता.",
+    "meaning": "तो त्याच्या कारने कामाच्या ठिकाणी जात होता."
+  },
+  {
+    "id": 11,
+    "sentence": "We were not laughing at the joke.",
+    "translation": "आम्ही त्या विनोदावर हसत नव्हतो.",
+    "meaning": "आम्हाला तो विनोद रंजक वाटला नाही आणि आम्ही हसत नव्हतो."
+  },
+  {
+    "id": 12,
+    "sentence": "She was painting a picture.",
+    "translation": "ती चित्र रंगवत होती.",
+    "meaning": "ती कॅनव्हासवर चित्रात रंग भरण्यात व्यस्त होती."
+  },
+  {
+    "id": 13,
+    "sentence": "I was listening to music.",
+    "translation": "मी गाणी/संगीत ऐकत होतो / होते.",
+    "meaning": "मी माझ्या उपकरणावर लागलेल्या गाण्यांवर लक्ष देत होतो/होते."
+  },
+  {
+    "id": 14,
+    "sentence": "They were not building a house.",
+    "translation": "ते घर बांधत नव्हते.",
+    "meaning": "ते राहते घर उभारण्याच्या कामात नव्हते."
+  },
+  {
+    "id": 15,
+    "sentence": "He was fixing the car.",
+    "translation": "तो कार दुरुस्त करत होता.",
+    "meaning": "तो गाडीची दुरुस्ती करण्यात व्यस्त होता."
+  },
+  {
+    "id": 16,
+    "sentence": "We were waiting for the bus.",
+    "translation": "आम्ही बसची वाट पाहत होतो.",
+    "meaning": "आम्ही बस थांब्यावर बस येण्याची वाट पाहत उभे होतो."
+  },
+  {
+    "id": 17,
+    "sentence": "She was not talking on the phone.",
+    "translation": "ती फोनवर बोलत नव्हती.",
+    "meaning": "ती कोणाशीही फोनवर संभाषण करत नव्हती."
+  },
+  {
+    "id": 18,
+    "sentence": "I was cleaning my room.",
+    "translation": "मी माझी खोली साफ करत होतो / होते.",
+    "meaning": "मी माझी बेडरूम आवरण्यात आणि साफ करण्यात व्यस्त होतो/होते."
+  },
+  {
+    "id": 19,
+    "sentence": "They were singing a song.",
+    "translation": "ते गाणे गात होते.",
+    "meaning": "ते एक गाणे सादर करत होते."
+  },
+  {
+    "id": 20,
+    "sentence": "He was not learning English.",
+    "translation": "तो इंग्रजी शिकत नव्हता.",
+    "meaning": "तो त्या वेळी इंग्रजी भाषेचा अभ्यास करत नव्हता."
+  },
+  {
+    "id": 21,
+    "sentence": "We were enjoying the movie.",
+    "translation": "आम्ही चित्रपटाचा आनंद घेत होतो.",
+    "meaning": "चित्रपट पाहताना आम्हाला तो खूप आवडत होता."
+  },
+  {
+    "id": 22,
+    "sentence": "She was watering the plants.",
+    "translation": "ती झाडांना पाणी घालत होती.",
+    "meaning": "ती तिच्या बागेतील रोपांना पाणी देत होती."
+  },
+  {
+    "id": 23,
+    "sentence": "I was not doing my homework.",
+    "translation": "मी माझा गृहपाठ करत नव्हतो / नव्हते.",
+    "meaning": "मी माझ्या शाळेचे कोणतेही काम करत नव्हतो/नव्हते."
+  },
+  {
+    "id": 24,
+    "sentence": "They were running in the field.",
+    "translation": "ते मैदानावर धावत होते.",
+    "meaning": "ते हिरव्या मैदानावर वेगाने धावत होते."
+  },
+  {
+    "id": 25,
+    "sentence": "He was playing the guitar.",
+    "translation": "तो गिटार वाजवत होता.",
+    "meaning": "तो गिटारवर संगीत निर्माण करण्यात व्यस्त होता."
+  },
+  {
+    "id": 26,
+    "sentence": "We were not traveling to Delhi.",
+    "translation": "आम्ही दिल्लीला प्रवास करत नव्हतो.",
+    "meaning": "आम्ही दिल्लीच्या दिशेने प्रवास करत नव्हतो."
+  },
+  {
+    "id": 27,
+    "sentence": "She was teaching the class.",
+    "translation": "ती वर्गाला शिकवत होती.",
+    "meaning": "ती वर्गातील विद्यार्थ्यांना धडा शिकवत होती."
+  },
+  {
+    "id": 28,
+    "sentence": "I was drawing a sketch.",
+    "translation": "मी एक स्केच/चित्र काढत होतो / होते.",
+    "meaning": "मी पेन्सिलने चित्र काढण्यात व्यस्त होतो/होते."
+  },
+  {
+    "id": 29,
+    "sentence": "They were discussing the plan.",
+    "translation": "ते योजनेवर चर्चा करत होते.",
+    "meaning": "ते पुढील कामांची आखणी करण्यासाठी संवाद साधत होते."
+  },
+  {
+    "id": 30,
+    "sentence": "He was not climbing a tree.",
+    "translation": "तो झाडावर चढत नव्हता.",
+    "meaning": "तो झाडाच्या फांद्यांवर चढत नव्हता."
+  },
+  {
+    "id": 31,
+    "sentence": "We were preparing dinner.",
+    "translation": "आम्ही रात्रीचे जेवण बनवत होतो.",
+    "meaning": "आम्ही सर्वजण मिळून संध्याकाळचा स्वयंपाक करत होतो."
+  },
+  {
+    "id": 32,
+    "sentence": "She was organizing her desk.",
+    "translation": "ती तिचा टेबल (डेस्क) आवरत होती.",
+    "meaning": "ती तिच्या ऑफिस टेबलावरील फायली आणि वस्तू व्यवस्थित लावत होती."
+  },
+  {
+    "id": 33,
+    "sentence": "I was not riding my bike.",
+    "translation": "मी माझी सायकल चालवत नव्हतो / नव्हते.",
+    "meaning": "मी सायकल चालवून प्रवास करत नव्हतो/नव्हते."
+  },
+  {
+    "id": 34,
+    "sentence": "They were enjoying the rain.",
+    "translation": "ते पावसाचा आनंद घेत होते.",
+    "meaning": "बाहेर पाऊस पडत असताना ते आनंदी वेळ घालवत होते."
+  },
+  {
+    "id": 35,
+    "sentence": "He was reading the newspaper.",
+    "translation": "तो वर्तमानपत्र/वृत्तपत्र वाचत होता.",
+    "meaning": "तो छापलेले वृत्तपत्र वाचण्यात व्यस्त होता."
+  },
+  {
+    "id": 36,
+    "sentence": "We were not visiting our relatives.",
+    "translation": "आम्ही आमच्या नातेवाईकांना भेटायला जात नव्हतो.",
+    "meaning": "आम्ही आमच्या नातेवाईकांच्या घरी भेट देण्यासाठी प्रवास करत नव्हतो."
+  },
+  {
+    "id": 37,
+    "sentence": "She was baking a cake.",
+    "translation": "ती केक बनवत (बेक करत) होती.",
+    "meaning": "ती ओव्हनमध्ये गोड केक तयार करण्यात व्यस्त होती."
+  },
+  {
+    "id": 38,
+    "sentence": "I was playing chess.",
+    "translation": "मी बुद्धिबळ (चेस) खेळत होतो / होते.",
+    "meaning": "मी बुद्धिबळाच्या खेळात मग्न होतो/होते."
+  },
+  {
+    "id": 39,
+    "sentence": "They were not practicing yoga.",
+    "translation": "ते योगाचा सराव करत नव्हते.",
+    "meaning": "ते शारीरिक आणि मानसिक योगासने करत नव्हते."
+  },
+  {
+    "id": 40,
+    "sentence": "He was repairing the roof.",
+    "translation": "तो छताची दुरुस्ती करत होता.",
+    "meaning": "तो छताची गळती किंवा तुटलेली दुरुस्ती करण्यात व्यस्त होता."
+  }
+]

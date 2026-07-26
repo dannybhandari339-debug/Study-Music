@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "sentence": "I had been studying for two hours when my friend arrived.",
+    "translation": "माझा मित्र आला तेव्हा मी दोन तास अभ्यास करत होतो.",
+    "meaning": "माझा मित्र येण्यापूर्वी माझे अभ्यासाचे सत्र दोन तास सतत सुरू होते."
+  },
+  {
+    "id": 2,
+    "sentence": "She had been cooking all morning when the guests came.",
+    "translation": "पाहुणे आले तेव्हा ती सकाळपासून स्वयंपाक करत होती.",
+    "meaning": "पाहुणे येईपर्यंत ती सकाळपासून स्वयंपाक करण्यात व्यस्त होती."
+  },
+  {
+    "id": 3,
+    "sentence": "They had been playing cricket when it started to rain.",
+    "translation": "पाऊस सुरू झाला तेव्हा ते क्रिकेट खेळत होते.",
+    "meaning": "पाऊस सुरू झाला तेव्हा त्यांचा क्रिकेटचा सामना सुरू होता."
+  },
+  {
+    "id": 4,
+    "sentence": "We had been walking for miles when we found a café.",
+    "translation": "आम्हाला कॅफे सापडला तेव्हा आम्ही कित्येक मैल चालत होतो.",
+    "meaning": "आम्हाला शेवटी कॅफे सापडण्यापूर्वी आमचे चालणे कित्येक मैल सुरू होते."
+  },
+  {
+    "id": 5,
+    "sentence": "He had been working late when his boss called him.",
+    "translation": "त्याच्या बॉसने फोन केला तेव्हा तो उशिरापर्यंत काम करत होता.",
+    "meaning": "त्याच्या मॅनेजरने फोन केला तेव्हा त्याचे ऑफिसचे काम उशिरापर्यंत सुरू होते."
+  },
+  {
+    "id": 6,
+    "sentence": "I had been reading a novel when the lights went out.",
+    "translation": "वीज गेली तेव्हा मी एक कादंबरी वाचत होतो.",
+    "meaning": "वीज गेली त्या क्षणी मी माझे पुस्तक वाचत होतो."
+  },
+  {
+    "id": 7,
+    "sentence": "She had been practicing dance when her teacher entered.",
+    "translation": "तिच्या शिक्षिकेने प्रवेश केला तेव्हा ती नृत्याचा सराव करत होती.",
+    "meaning": "तिच्या शिक्षिकेने आत प्रवेश केला नेमक्या त्याच वेळी तिचा नृत्याचा सराव सुरू होता."
+  },
+  {
+    "id": 8,
+    "sentence": "They had been discussing the plan when the manager joined.",
+    "translation": "व्यवस्थापक (मॅनेजर) सहभागी झाला तेव्हा ते योजनेवर चर्चा करत होते.",
+    "meaning": "मॅनेजर सोबत येण्यापूर्वीच त्यांची योजनेवरील चर्चा सुरू होती."
+  },
+  {
+    "id": 9,
+    "sentence": "We had been waiting for the bus when it finally came.",
+    "translation": "शेवटी बस आली तेव्हा आम्ही बसची वाट पाहत होतो.",
+    "meaning": "बस येईपर्यंत आमची बस स्टॉपवरील वाट पाहणे सुरू होते."
+  },
+  {
+    "id": 10,
+    "sentence": "He had been exercising regularly when he felt stronger.",
+    "translation": "जेव्हा त्याला अधिक मजबूत वाटू लागले, तेव्हा तो नियमितपणे व्यायाम करत होता.",
+    "meaning": "अधिक निरोगी वाटण्यास सुरुवात होण्यापूर्वी तो नियमित व्यायामाची सवय पाळत होता."
+  },
+  {
+    "id": 11,
+    "sentence": "I had been writing emails when the internet stopped working.",
+    "translation": "इंटरनेट बंद पडले तेव्हा मी ईमेल लिहीत होतो.",
+    "meaning": "इंटरनेट कनेक्शन बंद पडले तेव्हा मी ईमेल लिहीत होतो."
+  },
+  {
+    "id": 12,
+    "sentence": "She had been singing beautifully when the audience applauded.",
+    "translation": "प्रेक्षकांनी टाळ्या वाजवल्या तेव्हा ती अतिशय सुंदरपणे गात होती.",
+    "meaning": "लोकांनी टाळ्या वाजवल्या त्या क्षणी तिचे गायन सुरू होते."
+  },
+  {
+    "id": 13,
+    "sentence": "They had been traveling for days when they reached Delhi.",
+    "translation": "ते दिल्लीला पोहोचले तेव्हा ते कित्येक दिवस प्रवास करत होते.",
+    "meaning": "दिल्लीला पोहोचण्यापूर्वी त्यांचा प्रवास कित्येक दिवसांपासून सुरू होता."
+  },
+  {
+    "id": 14,
+    "sentence": "They had been building the house when the storm hit.",
+    "translation": "वादळ आले तेव्हा ते घर बांधत होते.",
+    "meaning": "वादळ आले तेव्हा त्यांच्या घराचे बांधकाम चालू होते."
+  },
+  {
+    "id": 15,
+    "sentence": "We had been planning the trip when everything changed.",
+    "translation": "सर्व काही बदलले तेव्हा आम्ही सहलीचे नियोजन करत होतो.",
+    "meaning": "अचानक परिस्थिती बदलण्यापूर्वी आमचे सहलीचे नियोजन सुरू होते."
+  },
+  {
+    "id": 16,
+    "sentence": "He had been teaching for years when he retired.",
+    "translation": "ते निवृत्त (रिटायर) झाले तेव्हा ते अनेक वर्षांपासून शिकवत होते.",
+    "meaning": "ते निवृत्त होईपर्यंत त्यांचे शिक्षक म्हणून काम अनेक वर्षांपासून सुरू होते."
+  },
+  {
+    "id": 17,
+    "sentence": "I had been saving money before I bought a new phone.",
+    "translation": "नवीन फोन खरेदी करण्यापूर्वी मी पैसे वाचवत होतो.",
+    "meaning": "नवीन फोन खरेदी करण्यापूर्वी मी बऱ्याच काळापासून पैसे साठवत होतो."
+  },
+  {
+    "id": 18,
+    "sentence": "She had been working hard before she got promoted.",
+    "translation": "बढती (प्रमोशन) मिळण्यापूर्वी ती कठोर परिश्रम करत होती.",
+    "meaning": "नोकरीत प्रमोशन मिळण्यापूर्वी तिचे कठोर परिश्रम सुरू होते."
+  },
+  {
+    "id": 19,
+    "sentence": "They had been practicing daily before the competition began.",
+    "translation": "स्पर्धा सुरू होण्यापूर्वी ते दररोज सराव करत होते.",
+    "meaning": "अधिकृत स्पर्धा सुरू होईपर्यंत त्यांचा रोजचा सराव सुरू होता."
+  },
+  {
+    "id": 20,
+    "sentence": "We had been preparing food before the guests arrived.",
+    "translation": "पाहुणे येण्यापूर्वी आम्ही जेवण तयार करत होतो.",
+    "meaning": "पाहुणे आमच्या घरी पोहोचण्यापूर्वी आम्ही जेवण बनवत होतो."
+  },
+  {
+    "id": 21,
+    "sentence": "He had been training regularly before he won the race.",
+    "translation": "शर्यत जिंकण्यापूर्वी तो नियमितपणे प्रशिक्षण घेत होता.",
+    "meaning": "शर्यत जिंकण्यापर्यंत त्याचा नियमित सराव व प्रशिक्षण सुरू होते."
+  },
+  {
+    "id": 22,
+    "sentence": "I had been researching the topic before I wrote the report.",
+    "translation": "अहवाल (रिपोर्ट) लिहिण्यापूर्वी मी विषयावर संशोधन करत होतो.",
+    "meaning": "अधिकृत रिपोर्ट लिहिण्यापूर्वी मी विषयाचा सखोल अभ्यास करत होतो."
+  },
+  {
+    "id": 23,
+    "sentence": "She had been studying all night before the exam started.",
+    "translation": "परीक्षा सुरू होण्यापूर्वी ती रात्रभर अभ्यास करत होती.",
+    "meaning": "परीक्षा सुरू होईपर्यंत ती रात्रभर अभ्यास करत होती."
+  },
+  {
+    "id": 24,
+    "sentence": "They had been rehearsing before the final performance.",
+    "translation": "अंतिम सादरीकरणापूर्वी ते रिहर्सल (सराव) करत होते.",
+    "meaning": "स्टेजवरील अंतिम सादरीकरणापूर्वी त्यांचा सराव सुरू होता."
+  },
+  {
+    "id": 25,
+    "sentence": "We had been cleaning the house before the festival started.",
+    "translation": "सण सुरू होण्यापूर्वी आम्ही घराची स्वच्छता करत होतो.",
+    "meaning": "सण सुरू होईपर्यंत आमच्या घराची स्वच्छता सुरू होती."
+  },
+  {
+    "id": 26,
+    "sentence": "He had been investing wisely before he became wealthy.",
+    "translation": "श्रीमंत होण्यापूर्वी तो समजूतदारपणे गुंतवणूक करत होता.",
+    "meaning": "श्रीमंत होण्यापूर्वी तो समजूतदारपणे पैसे गुंतवत होता."
+  },
+  {
+    "id": 27,
+    "sentence": "I had been learning coding before I got my first job.",
+    "translation": "माझी पहिली नोकरी मिळण्यापूर्वी मी कोडिंग शिकत होतो.",
+    "meaning": "पहिली नोकरी मिळण्यापूर्वी मी प्रोग्रामिंग शिकण्यात वेळ घालवत होतो."
+  }
+]

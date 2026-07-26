@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "sentence": "I will finish my homework tonight.",
+    "translation": "मी आज रात्री माझा गृहपाठ पूर्ण करेन.",
+    "meaning": "मी आज रात्री झोपण्यापूर्वी माझ्या शाळेचा गृहपाठ पूर्ण करण्याची योजना आखत आहे."
+  },
+  {
+    "id": 2,
+    "sentence": "She will not attend the meeting.",
+    "translation": "ती बैठकीला (मीटिंगला) उपस्थित राहणार नाही.",
+    "meaning": "तीने आगामी बैठकीला उपस्थित न राहण्याचा निर्णय घेतला आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "They will travel to Japan next year.",
+    "translation": "ते पुढच्या वर्षी जपानला प्रवास करतील.",
+    "meaning": "येत्या वर्षात जपानला भेट देण्याची त्यांची योजना आहे."
+  },
+  {
+    "id": 4,
+    "sentence": "He will not forget your birthday.",
+    "translation": "तो तुमचा वाढदिवस विसरणार नाही.",
+    "meaning": "तो तुमच्या वाढदिवसाची तारीख लक्षात ठेवेल."
+  },
+  {
+    "id": 5,
+    "sentence": "We will watch a movie later.",
+    "translation": "आम्ही नंतर चित्रपट पाहू.",
+    "meaning": "आम्ही आज नंतर एखादा चित्रपट पाहण्याचा विचार करत आहोत."
+  },
+  {
+    "id": 6,
+    "sentence": "I will not eat junk food anymore.",
+    "translation": "मी आता जंक फूड खाणार नाही.",
+    "meaning": "मी आतापासून अस्वास्थ्यकर अन्न न खाण्याचा निर्णय घेतला आहे."
+  },
+  {
+    "id": 7,
+    "sentence": "She will become a doctor someday.",
+    "translation": "ती कधीतरी डॉक्टर बनेल.",
+    "meaning": "भविष्यात वैद्यकीय शिक्षण घेऊन डॉक्टर म्हणून काम करण्याचा तिचा मानस आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "They will not agree with the decision.",
+    "translation": "ते या निर्णयाशी सहमत होणार नाहीत.",
+    "meaning": "त्यांचे मत वेगळे आहे आणि ते हा निर्णय स्वीकारणार नाहीत."
+  },
+  {
+    "id": 9,
+    "sentence": "He will call you in the evening.",
+    "translation": "तो संध्याकाळी तुम्हाला फोन करेल.",
+    "meaning": "तो संध्याकाळच्या वेळी तुम्हाला फोन करण्याची योजना आखत आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "We will not miss the train.",
+    "translation": "आम्ही ट्रेन चुकवणार नाही.",
+    "meaning": "आम्ही वेळेवर पोहोचून आमची ट्रेन पकडू."
+  },
+  {
+    "id": 11,
+    "sentence": "I will learn a new language.",
+    "translation": "मी एक नवीन भाषा शिकेन.",
+    "meaning": "मी नवीन भाषा बोलण्याचे आणि वाचण्याचे कौशल्य आत्मसात करण्याची योजना करत आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "She will not join the party.",
+    "translation": "ती पार्टीमध्ये सहभागी होणार नाही.",
+    "meaning": "तीने या सामाजिक कार्यक्रमाला न जाण्याचा निर्णय घेतला आहे."
+  },
+  {
+    "id": 13,
+    "sentence": "They will build a new house.",
+    "translation": "ते एक नवीन घर बांधतील.",
+    "meaning": "ते नवीन राहते घर बांधण्याची योजना आखत आहेत."
+  },
+  {
+    "id": 14,
+    "sentence": "He will not apologize for this.",
+    "translation": "तो यासाठी माफी मागणार नाही.",
+    "meaning": "तो या परिस्थितीबद्दल दिलगिरी व्यक्त करण्यास किंवा माफी मागण्यास नकार देतो."
+  },
+  {
+    "id": 15,
+    "sentence": "We will celebrate your success.",
+    "translation": "आम्ही तुमच्या यशाचा उत्सव साजरा करू.",
+    "meaning": "आम्ही तुमच्या यशाचा आनंद साजरा करण्यासाठी एकत्र येण्याची योजना आखत आहोत."
+  },
+  {
+    "id": 16,
+    "sentence": "I will not waste my time.",
+    "translation": "मी माझा वेळ वाया घालवणार नाही.",
+    "meaning": "मी माझ्या वेळेचा उपयोग उत्पादनक्षम आणि समजूतदारपणे करण्याचा निर्धार केला आहे."
+  },
+  {
+    "id": 17,
+    "sentence": "She will help you with your work.",
+    "translation": "ती तुम्हाला तुमच्या कामात मदत करेल.",
+    "meaning": "ती तुमची कामे पूर्ण करण्यासाठी तुम्हाला सहकार्य करण्याची योजना आखत आहे."
+  },
+  {
+    "id": 18,
+    "sentence": "They will not accept the offer.",
+    "translation": "ते ही ऑफर/हा प्रस्ताव स्वीकारणार नाहीत.",
+    "meaning": "ते हा प्रस्ताव नाकारण्याची किंवा अमान्य करण्याची योजना करत आहेत."
+  },
+  {
+    "id": 19,
+    "sentence": "He will win the competition.",
+    "translation": "तो स्पर्धा जिंकेल.",
+    "meaning": "स्पर्धेत त्याचा विजय होण्याची दाट शक्यता आहे."
+  },
+  {
+    "id": 20,
+    "sentence": "We will not ignore the problem.",
+    "translation": "आम्ही समस्येकडे दुर्लक्ष करणार नाही.",
+    "meaning": "आम्ही या समस्येचा थेट सामना करून ती सोडवणार आहोत."
+  },
+  {
+    "id": 21,
+    "sentence": "I will write a letter tomorrow.",
+    "translation": "मी उद्या एक पत्र लिहीन.",
+    "meaning": "मी उद्या एक पत्र लिहिण्याचा विचार करत आहे."
+  },
+  {
+    "id": 22,
+    "sentence": "She will not support your idea.",
+    "translation": "ती तुमच्या कल्पनेला पाठिंबा देणार नाही.",
+    "meaning": "ती तुमच्या प्रस्तावाशी असहमती दर्शवते आणि त्याला पाठिंबा देणार नाही."
+  },
+  {
+    "id": 23,
+    "sentence": "They will organize an event.",
+    "translation": "ते एका कार्यक्रमाचे आयोजन करतील.",
+    "meaning": "ते लवकरच एका विशेष कार्यक्रमाचे संयोजन करणार आहेत."
+  },
+  {
+    "id": 24,
+    "sentence": "He will not lie again.",
+    "translation": "तो पुन्हा खोटे बोलणार नाही.",
+    "meaning": "तो आतापासून फक्त खरेच बोलण्याचे वचन देतो."
+  },
+  {
+    "id": 25,
+    "sentence": "We will meet next week.",
+    "translation": "आम्ही पुढच्या आठवड्यात भेटू.",
+    "meaning": "आम्ही पुढच्या आठवड्यात एकत्र येऊन चर्चा करण्याची योजना आखत आहोत."
+  },
+  {
+    "id": 26,
+    "sentence": "They will invite us to the wedding.",
+    "translation": "ते आपल्याला लग्नाचे आमंत्रण देतील.",
+    "meaning": "ते त्यांच्या विवाह सोहळ्यासाठी आपल्याला आमंत्रण पत्र पाठवणार आहेत."
+  },
+  {
+    "id": 27,
+    "sentence": "He will not break the promise.",
+    "translation": "तो दिलेले वचन मोडणार नाही.",
+    "meaning": "तो शब्दाला पक्का राहील आणि विश्वासू राहील."
+  },
+  {
+    "id": 28,
+    "sentence": "We will enjoy the trip.",
+    "translation": "आम्ही या प्रवासाचा आनंद घेऊ.",
+    "meaning": "हा प्रवास खूप आनंददायी होईल अशी आम्हाला आशा आहे."
+  },
+  {
+    "id": 29,
+    "sentence": "I will not complain anymore.",
+    "translation": "मी आता कोणतीही तक्रार करणार नाही.",
+    "meaning": "मी आता असंतोष व्यक्त करणे बंद करण्याचा निर्णय घेतला आहे."
+  },
+  {
+    "id": 30,
+    "sentence": "She will sing beautifully.",
+    "translation": "ती खूप छान गाणे गाईल.",
+    "meaning": "ती उत्तम गायन सादर करण्याची योजना करत आहे."
+  },
+  {
+    "id": 31,
+    "sentence": "They will not participate in the game.",
+    "translation": "ते या खेळात भाग घेणार नाहीत.",
+    "meaning": "त्यांनी सामन्यात सहभागी न होण्याचा निर्णय घेतला आहे."
+  },
+  {
+    "id": 32,
+    "sentence": "He will achieve his goals.",
+    "translation": "तो त्याची ध्येये साध्य करेल.",
+    "meaning": "तो स्वतःसाठी ठरवलेली उद्दिष्टे पूर्ण करणार आहे."
+  },
+  {
+    "id": 33,
+    "sentence": "We will not forget your kindness.",
+    "translation": "आम्ही तुमचा दयाळूपणा/नम्रपणा कधीही विसरणार नाही.",
+    "meaning": "तुम्ही किती दयाळू आणि मदतगार होता हे आम्ही नेहमी लक्षात ठेवू."
+  },
+  {
+    "id": 34,
+    "sentence": "I will visit my grandparents.",
+    "translation": "मी माझ्या आजी-आजोबांना भेटायला जाईन.",
+    "meaning": "मी माझ्या आजी-आजोबांच्या घरी छान वेळ घालवण्याचे ठरवले आहे."
+  },
+  {
+    "id": 35,
+    "sentence": "She will not trust him again.",
+    "translation": "ती पुन्हा त्याच्यावर विश्वास ठेवणार नाही.",
+    "meaning": "ती आता त्याच्या प्रामाणिकपणावर विश्वास ठेवणार नाही."
+  },
+  {
+    "id": 36,
+    "sentence": "They will start a new business.",
+    "translation": "ते एक नवीन व्यवसाय सुरू करतील.",
+    "meaning": "ते नवीन व्यवसाय स्थापन करण्याची योजना आखत आहेत."
+  },
+  {
+    "id": 37,
+    "sentence": "He will not ignore your advice.",
+    "translation": "तो तुमच्या सल्ल्याकडे दुर्लक्ष करणार नाही.",
+    "meaning": "तो तुमचे बोलणे काळजीपूर्वक ऐकेल आणि तुमच्या सल्ल्याचे पालन करेल."
+  },
+  {
+    "id": 38,
+    "sentence": "We will learn new skills.",
+    "translation": "आम्ही नवीन कौशल्ये शिकू.",
+    "meaning": "आम्ही उपयुक्त ज्ञान आणि कौशल्ये आत्मसात करण्याची अपेक्षा करतो."
+  },
+  {
+    "id": 39,
+    "sentence": "I will not make the same mistake.",
+    "translation": "मी तीच चूक पुन्हा करणार नाही.",
+    "meaning": "मी माझी जुनी चूक पुन्हा टाळण्याचा प्रयत्न करेन."
+  },
+  {
+    "id": 40,
+    "sentence": "She will complete her project soon.",
+    "translation": "ती तिचा प्रोजेक्ट लवकरच पूर्ण करेल.",
+    "meaning": "ती येत्या काही दिवसांत तिचा प्रकल्प पूर्ण करण्याची योजना करत आहे."
+  },
+  {
+    "id": 41,
+    "sentence": "They will not arrive on time.",
+    "translation": "ते वेळेवर पोहोचणार नाहीत.",
+    "meaning": "त्यांना उशीर होत आहे आणि ते ठरलेल्या वेळेत पोहोचू शकणार नाहीत."
+  },
+  {
+    "id": 42,
+    "sentence": "He will help the poor.",
+    "translation": "तो गरिबांना मदत करेल.",
+    "meaning": "तो गरजू लोकांना दान आणि सहकार्य देण्याची योजना आखत आहे."
+  },
+  {
+    "id": 43,
+    "sentence": "We will not argue anymore.",
+    "translation": "आम्ही आता भांडण/वाद घालणार नाही.",
+    "meaning": "आम्ही आमचे मतभेद मिटवून वाद घालणे बंद करण्याचे ठरवले आहे."
+  },
+  {
+    "id": 44,
+    "sentence": "I will go to the gym tomorrow.",
+    "translation": "मी उद्या जिममध्ये जाईन.",
+    "meaning": "माझा उद्या व्यायामासाठी जिममध्ये जाण्याचा बेत आहे."
+  },
+  {
+    "id": 45,
+    "sentence": "She will not accept the invitation.",
+    "translation": "ती निमंत्रण स्वीकारणार नाही.",
+    "meaning": "ती या कार्यक्रमाला उपस्थित राहण्याचे आमंत्रण नम्रपणे नाकारणार आहे."
+  },
+  {
+    "id": 46,
+    "sentence": "They will finish the work quickly.",
+    "translation": "ते काम पटकन/लवकर पूर्ण करतील.",
+    "meaning": "ते आपले काम वेगाने पूर्ण करणार आहेत."
+  },
+  {
+    "id": 47,
+    "sentence": "He will not forget to call you.",
+    "translation": "तो तुम्हाला फोन करायला विसरणार नाही.",
+    "meaning": "तो दिलेल्या वाद्यानुसार नक्की तुम्हाला फोन करेल."
+  }
+]

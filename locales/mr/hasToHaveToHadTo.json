@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "sentence": "He has to take care of his health.",
+    "translation": "त्याला त्याच्या आरोग्याची काळजी घ्यावी लागते.",
+    "meaning": "त्याच्यासाठी त्याच्या शारीरिक आरोग्यावर लक्ष केंद्रित करणे आवश्यक आहे."
+  },
+  {
+    "id": 2,
+    "sentence": "They have to renew their passports.",
+    "translation": "त्यांना त्यांच्या पासपोर्टचे नूतनीकरण करावे लागते.",
+    "meaning": "त्यांच्यासाठी प्रवास दस्तऐवज नूतनीकरण करणे ही कायदेशीर गरज आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "I have to book train tickets in advance.",
+    "translation": "मला आधीच रेल्वे तिकिटे बुक करावी लागतात.",
+    "meaning": "जागा निश्चित करण्यासाठी मला आधीच तिकिटे खरेदी करणे आवश्यक आहे."
+  },
+  {
+    "id": 4,
+    "sentence": "You have to take an umbrella; it may rain.",
+    "translation": "तुम्हाला छत्री घ्यावी लागेल; पाऊस पडू शकतो.",
+    "meaning": "आज छत्री सोबत ठेवणे अत्यंत गरजेचे आहे."
+  },
+  {
+    "id": 5,
+    "sentence": "We have to be polite to everyone.",
+    "translation": "आपल्याला सर्वांशी नम्र राहावे लागते.",
+    "meaning": "प्रत्येकाशी आदराने वागणे हे आपले सामाजिक कर्तव्य आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "She has to clean her room every weekend.",
+    "translation": "तिला दर वीकेंडला तिची खोली स्वच्छ करावी लागते.",
+    "meaning": "तिची खोली स्वच्छ ठेवणे ही तिची गरज किंवा काम आहे."
+  },
+  {
+    "id": 7,
+    "sentence": "He has to fix his bike.",
+    "translation": "त्याला त्याची बाइक दुरुस्त करावी लागेल.",
+    "meaning": "त्याला गाडी चालवता यावी म्हणून त्याची बाइक दुरुस्त करणे गरजेचे आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "They have to register for the competition.",
+    "translation": "त्यांना स्पर्धेसाठी नोंदणी करावी लागेल.",
+    "meaning": "स्पर्धेत भाग घेण्यापूर्वी नोंदणी करणे हा अनिवार्य नियम आहे."
+  },
+  {
+    "id": 9,
+    "sentence": "I have to send an email to my boss.",
+    "translation": "मला माझ्या बॉसला ईमेल पाठवावा लागेल.",
+    "meaning": "माझ्या वरिष्ठांना ईमेल करणे ही माझी कामाची जबाबदारी आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "You have to be careful while driving.",
+    "translation": "गाडी चालवताना तुम्हाला काळजी घ्यावी लागेल.",
+    "meaning": "सुरक्षिततेसाठी सावधगिरीने गाडी चालवणे अत्यंत महत्त्वाचे आणि अनिवार्य आहे."
+  },
+  {
+    "id": 11,
+    "sentence": "We have to support our friends.",
+    "translation": "आपल्याला आपल्या मित्रांना पाठिंबा द्यावा लागतो.",
+    "meaning": "आपल्या मित्रांना मदत करणे हे आपले नैतिक कर्तव्य आहे असे आपल्याला वाटते."
+  },
+  {
+    "id": 12,
+    "sentence": "She has to attend her yoga class.",
+    "translation": "तिला तिच्या योगा क्लासला उपस्थित राहावे लागते.",
+    "meaning": "तिच्या ठरलेल्या योगा क्लासला जाणे तिच्यासाठी आवश्यक आहे."
+  },
+  {
+    "id": 13,
+    "sentence": "He has to call the plumber.",
+    "translation": "त्याला प्लंबरला फोन करावा लागेल.",
+    "meaning": "गळती दुरुस्त करण्यासाठी तज्ज्ञांशी संपर्क साधणे त्याच्यासाठी आवश्यक आहे."
+  },
+  {
+    "id": 14,
+    "sentence": "They have to pay the rent.",
+    "translation": "त्यांना भाडे द्यावे लागते.",
+    "meaning": "त्यांच्या राहण्याच्या जागेसाठी भाडे देणे ही त्यांची आर्थिक जबाबदारी आहे."
+  },
+  {
+    "id": 15,
+    "sentence": "I have to take notes during the lecture.",
+    "translation": "मला व्याख्यानादरम्यान नोट्स काढाव्या लागतात.",
+    "meaning": "नंतर अभ्यास करण्यासाठी महत्त्वाचे मुद्दे लिहून घेणे माझ्यासाठी आवश्यक आहे."
+  },
+  {
+    "id": 16,
+    "sentence": "We have to wake up early tomorrow.",
+    "translation": "आपल्याला उद्या सकाळी लवकर उठावे लागेल.",
+    "meaning": "आपल्यासाठी सकाळी लवकर उठणे आवश्यक आहे."
+  },
+  {
+    "id": 17,
+    "sentence": "She doesn't have to wake up at 5 AM on weekends.",
+    "translation": "तिला वीकेंडला सकाळी ५ वाजता उठण्याची गरज नाही.",
+    "meaning": "शनिवारी आणि रविवारी तिच्यासाठी लवकर उठण्याचे कोणतेही बंधन नाही."
+  },
+  {
+    "id": 18,
+    "sentence": "He doesn't have to complete the project today.",
+    "translation": "त्याला आजच प्रोजेक्ट पूर्ण करण्याची गरज नाही.",
+    "meaning": "मुदत आज संपत नाही, त्यामुळे त्याला तो आत्ताच पूर्ण करण्याची गरज नाही."
+  },
+  {
+    "id": 19,
+    "sentence": "They don't have to attend the seminar if they don't want to.",
+    "translation": "त्यांची इच्छा नसेल तर त्यांना सेमिनारला उपस्थित राहण्याची गरज नाही.",
+    "meaning": "त्यांच्यासाठी उपस्थिती ऐच्छिक आहे, सक्तीची नाही."
+  },
+  {
+    "id": 20,
+    "sentence": "I don't have to take a cab; I can walk.",
+    "translation": "मला टॅक्सी करण्याची गरज नाही; मी चालत जाऊ शकतो.",
+    "meaning": "चालत जाण्याचा पर्याय असल्याने माझ्यासाठी टॅक्सी करणे आवश्यक नाही."
+  },
+  {
+    "id": 21,
+    "sentence": "You don't have to bring food; we already have enough.",
+    "translation": "तुम्हाला जेवण आणण्याची गरज नाही; आमच्याकडे आधीच पुरेसे आहे.",
+    "meaning": "तुम्हाला या कार्यक्रमासाठी जेवण आणण्याची गरज नाही."
+  },
+  {
+    "id": 22,
+    "sentence": "We don't have to go shopping today.",
+    "translation": "आपल्याला आज खरेदीला जाण्याची गरज नाही.",
+    "meaning": "आज दुकानात जाणे हे आपल्यासाठी आवश्यक काम नाही."
+  },
+  {
+    "id": 23,
+    "sentence": "She doesn't have to participate in the competition.",
+    "translation": "तिला स्पर्धेत भाग घेण्याची गरज नाही.",
+    "meaning": "स्पर्धेत प्रवेश करणे तिच्यासाठी बंधनकारक नाही."
+  },
+  {
+    "id": 24,
+    "sentence": "They don't have to wait in the queue; they have priority access.",
+    "translation": "त्यांना रांगेत वाट पाहण्याची गरज नाही; त्यांच्याकडे प्राधान्य प्रवेश आहे.",
+    "meaning": "खास पास असल्यामुळे त्यांना रांगेत उभे राहण्याची गरज नाही."
+  },
+  {
+    "id": 25,
+    "sentence": "I had to wake up early for work.",
+    "translation": "मला कामासाठी लवकर उठावे लागले होते.",
+    "meaning": "भूतकाळात, कामावर जाण्यासाठी मला लवकर उठणे आवश्यक होते."
+  },
+  {
+    "id": 26,
+    "sentence": "She had to cancel her trip due to illness.",
+    "translation": "आजारपणामुळे तिला तिचा प्रवास रद्द करावा लागला.",
+    "meaning": "भूतकाळात आजारपणामुळे तिला तिचा प्रवास रद्द करावा लागला होता."
+  },
+  {
+    "id": 27,
+    "sentence": "We had to finish the project on time.",
+    "translation": "आम्हाला वेळेत प्रोजेक्ट पूर्ण करावा लागला.",
+    "meaning": "आम्हाला दिलेल्या वेळेच्या आत काम पूर्ण करणे अनिवार्य होते."
+  },
+  {
+    "id": 28,
+    "sentence": "He had to apologize for his mistake.",
+    "translation": "त्याला त्याच्या चुकीबद्दल माफी मागावी लागली.",
+    "meaning": "त्याने केलेल्या चुकीबद्दल माफी मागणे त्याच्यासाठी गरजेचे होते."
+  },
+  {
+    "id": 29,
+    "sentence": "They had to leave the party early.",
+    "translation": "त्यांना पार्टीतून लवकर निघून जावे लागले.",
+    "meaning": "कार्यक्रम संपण्यापूर्वीच त्यांना तिथून निघून जावे लागले."
+  },
+  {
+    "id": 30,
+    "sentence": "I had to study all night for the exam.",
+    "translation": "मला परीक्षेसाठी रात्रभर अभ्यास करावा लागला.",
+    "meaning": "परीक्षेच्या तयारीसाठी मला रात्रभर अभ्यास करणे आवश्यक होते."
+  },
+  {
+    "id": 31,
+    "sentence": "We had to take a different route home.",
+    "translation": "आम्हाला घरी जाण्यासाठी वेगळा रस्ता घ्यावा लागला.",
+    "meaning": "रस्त्यात अडथळे असल्यामुळे आम्हाला दुसऱ्या मार्गाने जावे लागले."
+  },
+  {
+    "id": 32,
+    "sentence": "She had to take care of her younger brother.",
+    "translation": "तिला तिच्या लहान भावाची काळजी घ्यावी लागली.",
+    "meaning": "भूतकाळात तिच्यावर लहान भावाची काळजी घेण्याची जबाबदारी देण्यात आली होती."
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "sentence": "I have been working all day.",
+    "translation": "मी दिवसभर काम करत आहे.",
+    "meaning": "मी आज सकाळी/आधी काम करण्यास सुरुवात केली होती आणि अजूनही काम करत आहे."
+  },
+  {
+    "id": 2,
+    "sentence": "She has been studying for hours.",
+    "translation": "ती कित्येक तासांपासून अभ्यास करत आहे.",
+    "meaning": "तीने तासांपूर्वी अभ्यास सुरू केला होता आणि ती अजूनही अभ्यास करत आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "They have been playing football since morning.",
+    "translation": "ते सकाळपासून फुटबॉल खेळत आहेत.",
+    "meaning": "त्यांनी सकाळी फुटबॉल खेळायला सुरुवात केली आणि अजूनही खेळत आहेत."
+  },
+  {
+    "id": 4,
+    "sentence": "We have been waiting for you.",
+    "translation": "आम्ही तुमची वाट पाहत आहोत.",
+    "meaning": "आम्ही तुमच्या येण्याची वाट पाहण्यास आधीच सुरुवात केली होती आणि अजूनही पाहत आहोत."
+  },
+  {
+    "id": 5,
+    "sentence": "He has been reading this book for a week.",
+    "translation": "तो एका आठवड्यापासून हे पुस्तक वाचत आहे.",
+    "meaning": "त्याने एका आठवड्यापूर्वी पुस्तक वाचायला सुरुवात केली होती आणि तो अजूनही वाचत आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "I have been learning English for two years.",
+    "translation": "मी दोन वर्षांपासून इंग्रजी शिकत आहे.",
+    "meaning": "मी दोन वर्षांपूर्वी इंग्रजीचा अभ्यास सुरू केला होता आणि अजूनही शिकणे चालू आहे."
+  },
+  {
+    "id": 7,
+    "sentence": "She has been cooking since 6 PM.",
+    "translation": "ती संध्याकाळी ६ वाजेपासून स्वयंपाक करत आहे.",
+    "meaning": "तीने संध्याकाळी ६ वाजता जेवण बनवायला सुरुवात केली होती आणि ती अजूनही स्वयंपाक करत आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "We have been traveling around India.",
+    "translation": "आम्ही भारतभर प्रवास करत आहोत.",
+    "meaning": "आम्ही काही काळापूर्वी आमचा भारत प्रवास सुरू केला होता आणि तो अजूनही सुरू आहे."
+  },
+  {
+    "id": 9,
+    "sentence": "They have been building a new house.",
+    "translation": "ते एक नवीन घर बांधत आहेत.",
+    "meaning": "त्यांनी नवीन घर बांधण्यास सुरुवात केली असून बांधकाम अजूनही सुरू आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "He has been practicing the piano daily.",
+    "translation": "तो दररोज पियानोचा सराव करत आहे.",
+    "meaning": "तो दररोज पियानो वाजवण्याचा सराव करत आहे."
+  },
+  {
+    "id": 11,
+    "sentence": "I have been writing a novel.",
+    "translation": "मी एक कादंबरी (नॉव्हेल) लिहीत आहे.",
+    "meaning": "मी पुस्तक लिहिण्यास सुरुवात केली होती आणि अजूनही ती लिहिण्याच्या प्रक्रियेत आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "She has been painting beautiful pictures.",
+    "translation": "ती सुंदर चित्रे काढत आहे.",
+    "meaning": "ती सुंदर कलाकृती तयार करण्यात आपला वेळ घालवत आहे."
+  },
+  {
+    "id": 13,
+    "sentence": "We have been discussing the project.",
+    "translation": "आम्ही प्रकल्पावर (प्रोजेक्टवर) चर्चा करत आहोत.",
+    "meaning": "आम्ही आधी प्रोजेक्टबद्दल बोलण्यास सुरुवात केली होती आणि अजूनही चर्चा करत आहोत."
+  },
+  {
+    "id": 14,
+    "sentence": "They have been working hard on their goals.",
+    "translation": "ते त्यांच्या ध्येयांवर कठोर परिश्रम करत आहेत.",
+    "meaning": "त्यांनी त्यांचे ध्येय साध्य करण्यासाठी सातत्याने मेहनत घेतली आहे."
+  },
+  {
+    "id": 15,
+    "sentence": "He has been jogging every morning.",
+    "translation": "तो रोज सकाळी जॉगिंग करत आहे.",
+    "meaning": "त्याने दररोज सकाळी धावण्याची सवय लावून घेतली आहे."
+  },
+  {
+    "id": 16,
+    "sentence": "I have been preparing for the exam.",
+    "translation": "मी परीक्षेची तयारी करत आहे.",
+    "meaning": "मी परीक्षेचा अभ्यास करण्यासाठी आणि तयार होण्यासाठी वेळ देत आहे."
+  },
+  {
+    "id": 17,
+    "sentence": "I have been watching this series.",
+    "translation": "मी ही मालिका (सीरिज) पाहत आहे.",
+    "meaning": "मी अलीकडेच हा शो पाहण्यास सुरुवात केली होती आणि अजूनही तो पाहत आहे."
+  },
+  {
+    "id": 18,
+    "sentence": "She has been teaching mathematics.",
+    "translation": "ती गणित शिकवत आहे.",
+    "meaning": "ती काही काळापासून गणिताची शिक्षिका म्हणून काम करत आहे."
+  },
+  {
+    "id": 19,
+    "sentence": "We have been organizing the event.",
+    "translation": "आम्ही कार्यक्रमाचे आयोजन करत आहोत.",
+    "meaning": "आम्ही कार्यक्रमाच्या रूपरेषेचे सक्रियपणे नियोजन आणि समन्वय करत आहोत."
+  },
+  {
+    "id": 20,
+    "sentence": "They have been helping the community.",
+    "translation": "ते समाजाला/समुदायाला मदत करत आहेत.",
+    "meaning": "ते त्यांच्या स्थानिक भागात सतत मदत किंवा स्वयंसेवा करत आहेत."
+  },
+  {
+    "id": 21,
+    "sentence": "He has been learning coding.",
+    "translation": "तो कोडिंग शिकत आहे.",
+    "meaning": "तो संगणक प्रोग्रामिंग (कोडिंग) चे कौशल्य आत्मसात करण्यात वेळ घालवत आहे."
+  },
+  {
+    "id": 22,
+    "sentence": "I have been exercising regularly.",
+    "translation": "मी नियमितपणे व्यायाम करत आहे.",
+    "meaning": "मी व्यायाम करण्याची आणि सक्रिय राहण्याची सततची सवय जपली आहे."
+  },
+  {
+    "id": 23,
+    "sentence": "She has been singing beautifully.",
+    "translation": "ती सुंदरपणे गाणे गात आहे.",
+    "meaning": "ती अतिशय सुंदर आणि सुरेल पद्धतीने गाणे गात आहे."
+  },
+  {
+    "id": 24,
+    "sentence": "We have been planning a surprise.",
+    "translation": "आम्ही एक सरप्राइज प्लॅन करत आहोत.",
+    "meaning": "आम्ही गुपचूप कोणासाठी तरी एक विशेष सरप्राइज तयार करत आहोत."
+  },
+  {
+    "id": 25,
+    "sentence": "They have been cleaning the house.",
+    "translation": "ते घराची स्वच्छता करत आहेत.",
+    "meaning": "ते काही काळापासून घर आवरणे आणि स्वच्छ करण्याचे काम करत आहेत."
+  },
+  {
+    "id": 26,
+    "sentence": "He has been repairing the bike.",
+    "translation": "तो सायकल/बाईकची दुरुस्ती करत आहे.",
+    "meaning": "तो त्याच्या सायकलीच्या मेकॅनिकल समस्या दुरुस्त करण्यात व्यस्त आहे."
+  },
+  {
+    "id": 27,
+    "sentence": "I have been designing a website.",
+    "translation": "मी एक वेबसाईट डिझाइन करत आहे.",
+    "meaning": "मी वेबपेजचे दृश्य आणि कार्यात्मक रूपरेषा विकसित करत आहे."
+  },
+  {
+    "id": 28,
+    "sentence": "She has been working in the garden.",
+    "translation": "ती बागेत काम करत आहे.",
+    "meaning": "तीने तिच्या बागेत झाडे लावण्यात, कचरा काढण्यात किंवा फुलांना पाणी देण्यात वेळ घालवला आहे."
+  },
+  {
+    "id": 29,
+    "sentence": "We have been decorating the room.",
+    "translation": "आम्ही खोली सजवत आहोत.",
+    "meaning": "आम्ही खोली अधिक सुंदर दिसण्यासाठी वस्तू लावत आहोत आणि रंगकाम करत आहोत."
+  },
+  {
+    "id": 30,
+    "sentence": "They have been exploring new places.",
+    "translation": "ते नवीन ठिकाणांचा शोध घेत आहेत.",
+    "meaning": "ते नवीन आणि अनोळखी भौगोलिक ठिकाणांना भेटी देत आहेत."
+  },
+  {
+    "id": 31,
+    "sentence": "He has been solving puzzles.",
+    "translation": "तो कोडी सोडवत आहे.",
+    "meaning": "तो कठीण प्रश्न किंवा कोडी सोडवण्यात आपला वेळ घालवत आहे."
+  },
+  {
+    "id": 32,
+    "sentence": "I have been practicing yoga.",
+    "translation": "मी योगाचा सराव करत आहे.",
+    "meaning": "मी ध्यानधारणा आणि योगासनांच्या सरावासाठी वेळ देत आहे."
+  }
+]

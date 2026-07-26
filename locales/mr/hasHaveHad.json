@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "sentence": "I have a new book.",
+    "translation": "माझ्याकडे एक नवीन पुस्तक आहे.",
+    "meaning": "माझ्याकडे नव्याने खरेदी केलेले पुस्तक आहे."
+  },
+  {
+    "id": 2,
+    "sentence": "She has a beautiful dress.",
+    "translation": "तिच्याकडे एक सुंदर ड्रेस आहे.",
+    "meaning": "तिच्याकडे एक आकर्षक ड्रेस आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "They had a great time yesterday.",
+    "translation": "काल त्यांचा वेळ खूप छान गेला.",
+    "meaning": "त्यांनी काल खूप आनंद घेतला."
+  },
+  {
+    "id": 4,
+    "sentence": "We have a big house.",
+    "translation": "आमच्याकडे एक मोठे घर आहे.",
+    "meaning": "आमचे एक मोठे घर आहे."
+  },
+  {
+    "id": 5,
+    "sentence": "He has a pet dog.",
+    "translation": "त्याच्याकडे एक पाळीव कुत्रा आहे.",
+    "meaning": "त्याच्याकडे एक पाळीव प्राणी म्हणून कुत्रा आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "I had a headache last night.",
+    "translation": "काल रात्री मला डोकेदुखी होती.",
+    "meaning": "काल रात्री माझ्या डोक्यात त्रास होत होता."
+  },
+  {
+    "id": 7,
+    "sentence": "You have many friends.",
+    "translation": "तुझे/तुमचे अनेक मित्र आहेत.",
+    "meaning": "तुमचा मित्रांचा मोठा गट आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "She had a red car before.",
+    "translation": "पूर्वी तिच्याकडे एक लाल कार होती.",
+    "meaning": "भूतकाळात तिच्याकडे लाल गाडी होती."
+  },
+  {
+    "id": 9,
+    "sentence": "He has a sharp mind.",
+    "translation": "त्याचे डोके खूप तल्लख आहे.",
+    "meaning": "त्याच्याकडे उत्तम बुद्धिमत्ता आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "We had dinner together.",
+    "translation": "आम्ही एकत्र रात्रीचे जेवण केले.",
+    "meaning": "आम्ही सर्वांनी एकत्र जेवण घेतले."
+  },
+  {
+    "id": 11,
+    "sentence": "They have a strong team.",
+    "translation": "त्यांच्याकडे एक मजबूत टीम आहे.",
+    "meaning": "त्यांच्याकडे सक्षम लोकांचा संघ आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "I have two brothers.",
+    "translation": "मला दोन भाऊ आहेत.",
+    "meaning": "माझे दोन भाऊ आहेत."
+  },
+  {
+    "id": 13,
+    "sentence": "She has a kind heart.",
+    "translation": "तिचे मन खूप दयाळू आहे.",
+    "meaning": "तिचा स्वभाव खूप प्रेमळ आणि दयाळू आहे."
+  },
+  {
+    "id": 14,
+    "sentence": "He had a bike in school.",
+    "translation": "शाळेत असताना त्याच्याकडे एक सायकल होती.",
+    "meaning": "शाळेच्या दिवसांत त्याच्याकडे सायकल होती."
+  },
+  {
+    "id": 15,
+    "sentence": "We have enough food.",
+    "translation": "आमच्याकडे पुरेसे अन्न आहे.",
+    "meaning": "आमच्याकडे गरजेपुरते जेवण आहे."
+  },
+  {
+    "id": 16,
+    "sentence": "They had a meeting earlier.",
+    "translation": "आज आधी त्यांची एक बैठक होती.",
+    "meaning": "त्यांनी काही वेळापूर्वी मीटिंग घेतली."
+  },
+  {
+    "id": 17,
+    "sentence": "I had a long day.",
+    "translation": "माझा आजचा दिवस खूप थकवणारा गेला.",
+    "meaning": "माझा दिवस व्यस्त आणि थकवणारा होता."
+  },
+  {
+    "id": 18,
+    "sentence": "You have a good chance.",
+    "translation": "तुझ्याकडे/तुमच्याकडे एक चांगली संधी आहे.",
+    "meaning": "तुमच्याकडे उत्तम संधी उपलब्ध आहे."
+  },
+  {
+    "id": 19,
+    "sentence": "She has a lovely smile.",
+    "translation": "तिचे हसू खूप छान/सुंदर आहे.",
+    "meaning": "तिच्या चेहऱ्यावरील हास्य खूप आकर्षक आहे."
+  },
+  {
+    "id": 20,
+    "sentence": "He has a new phone.",
+    "translation": "त्याच्याकडे एक नवीन फोन आहे.",
+    "meaning": "त्याच्याकडे नवीन मोबाईल आहे."
+  },
+  {
+    "id": 21,
+    "sentence": "We had a party last week.",
+    "translation": "गेल्या आठवड्यात आमची एक पार्टी होती.",
+    "meaning": "आम्ही गेल्या आठवड्यात पार्टी साजरी केली."
+  },
+  {
+    "id": 22,
+    "sentence": "They have a nice teacher.",
+    "translation": "त्यांचे शिक्षक खूप चांगले आहेत.",
+    "meaning": "त्यांना शिकवणारे शिक्षक खूप प्रेमळ आहेत."
+  },
+  {
+    "id": 23,
+    "sentence": "I had a dream.",
+    "translation": "मला एक स्वप्न पडले.",
+    "meaning": "झोपेत असताना मला एक स्वप्न पडले."
+  },
+  {
+    "id": 24,
+    "sentence": "You have a lot of energy.",
+    "translation": "तुझ्यात/तुमच्यात खूप ऊर्जा आहे.",
+    "meaning": "तुमच्यामध्ये खूप उत्साह आणि शक्ती आहे."
+  },
+  {
+    "id": 25,
+    "sentence": "She has a sister.",
+    "translation": "तिला एक बहीण आहे.",
+    "meaning": "तिची एक बहीण आहे."
+  },
+  {
+    "id": 26,
+    "sentence": "He has a job.",
+    "translation": "त्याच्याकडे एक नोकरी आहे.",
+    "meaning": "त्याच्याकडे रोजगाराचे साधन आहे."
+  },
+  {
+    "id": 27,
+    "sentence": "We had a test yesterday.",
+    "translation": "काल आमची परीक्षा होती.",
+    "meaning": "काल आमचा एक पेपर/चाचणी होती."
+  },
+  {
+    "id": 28,
+    "sentence": "They had a picnic.",
+    "translation": "त्यांनी सहल (पिकनिक) साजरी केली.",
+    "meaning": "त्यांनी बाहेर जाऊन एकत्र भोजनाचा आनंद घेतला."
+  },
+  {
+    "id": 29,
+    "sentence": "I have a question.",
+    "translation": "माझा एक प्रश्न आहे.",
+    "meaning": "मला एक गोष्ट विचारायची आहे."
+  },
+  {
+    "id": 30,
+    "sentence": "She had a chance.",
+    "translation": "तिच्याकडे एक संधी होती.",
+    "meaning": "भूतकाळात तिच्याकडे एक संधी उपलब्ध होती."
+  },
+  {
+    "id": 31,
+    "sentence": "He has a talent.",
+    "translation": "त्याच्याकडे एक कौशल्य/गुण आहे.",
+    "meaning": "त्याच्यामध्ये नैसर्गिक प्रतिभा आहे."
+  },
+  {
+    "id": 32,
+    "sentence": "The cat has soft fur.",
+    "translation": "मांजराचे केस खूप मऊ आहेत.",
+    "meaning": "मांजराची त्वचा/केस अतिशय मऊ आहेत."
+  },
+  {
+    "id": 33,
+    "sentence": "We have a garden in the back.",
+    "translation": "आमच्या घराच्या मागे एक बाग आहे.",
+    "meaning": "आमच्या घराच्या पाठीमागे सुंदर बगीचा आहे."
+  },
+  {
+    "id": 34,
+    "sentence": "They had a computer last year.",
+    "translation": "गेल्या वर्षी त्यांच्याकडे एक संगणक होता.",
+    "meaning": "गेल्या वर्षी त्यांच्याकडे कॉम्प्युटर होता."
+  },
+  {
+    "id": 35,
+    "sentence": "I have a sudden idea.",
+    "translation": "माझ्या मनात एक नवीन कल्पना आली आहे.",
+    "meaning": "मला आत्ताच एक उत्तम विचार सुचला आहे."
+  },
+  {
+    "id": 36,
+    "sentence": "She has many toys.",
+    "translation": "तिच्याकडे खूप खेळणी आहेत.",
+    "meaning": "तिच्याकडे खेळण्यासाठी अनेक खेळणी आहेत."
+  },
+  {
+    "id": 37,
+    "sentence": "He had fever yesterday.",
+    "translation": "काल त्याला ताप आला होता.",
+    "meaning": "काल त्याचे शरीर तापलेले होते."
+  },
+  {
+    "id": 38,
+    "sentence": "We have a holiday today.",
+    "translation": "आज आम्हाला सुट्टी आहे.",
+    "meaning": "आज आमची काम किंवा शाळेची सुट्टी आहे."
+  },
+  {
+    "id": 39,
+    "sentence": "They have three cars.",
+    "translation": "त्यांच्याकडे तीन गाड्या आहेत.",
+    "meaning": "त्यांच्याकडे तीन कार आहेत."
+  },
+  {
+    "id": 40,
+    "sentence": "I had a blue bicycle when I was young.",
+    "translation": "मी लहान असताना माझ्याकडे एक निळी सायकल होती.",
+    "meaning": "लहानपणी माझ्याकडे निळ्या रंगाची सायकल होती."
+  },
+  {
+    "id": 41,
+    "sentence": "She has a busy schedule.",
+    "translation": "तिचे वेळापत्रक खूप व्यस्त आहे.",
+    "meaning": "तिच्याकडे आज करायला खूप कामे आहेत."
+  },
+  {
+    "id": 42,
+    "sentence": "He has two dogs.",
+    "translation": "त्याच्याकडे दोन कुत्रे आहेत.",
+    "meaning": "त्याच्याकडे दोन पाळीव कुत्रे आहेत."
+  },
+  {
+    "id": 43,
+    "sentence": "We had breakfast at seven.",
+    "translation": "आम्ही सात वाजता नाश्ता केला.",
+    "meaning": "आम्ही सकाळी सात वाजता नाश्ता घेतला."
+  },
+  {
+    "id": 44,
+    "sentence": "They had a house near the river.",
+    "translation": "नदीजवळ त्यांचे एक घर होते.",
+    "meaning": "भूतकाळात त्यांचे घर नदीकाठी होते."
+  },
+  {
+    "id": 45,
+    "sentence": "I have a camera for photography.",
+    "translation": "माझ्याकडे फोटो काढण्यासाठी एक कॅमेरा आहे.",
+    "meaning": "फोटो घेण्यासाठी माझ्याकडे कॅमेरा उपलब्ध आहे."
+  },
+  {
+    "id": 46,
+    "sentence": "She had a cold last week.",
+    "translation": "गेल्या आठवड्यात तिला सर्दी झाली होती.",
+    "meaning": "गेल्या आठवड्यात तिला सर्दी-खोकल्याचा त्रास होता."
+  },
+  {
+    "id": 47,
+    "sentence": "He has a lot of patience.",
+    "translation": "त्याच्याकडे खूप संयम आहे.",
+    "meaning": "त्याच्यामध्ये शांत राहून सहन करण्याची ताकद आहे."
+  },
+  {
+    "id": 48,
+    "sentence": "We have a lesson at ten.",
+    "translation": "दहा वाजता आमचा वर्ग/पाठ आहे.",
+    "meaning": "सकाळी दहा वाजता आमचा क्लास आहे."
+  },
+  {
+    "id": 49,
+    "sentence": "They have a farm in the village.",
+    "translation": "गावात त्यांचे एक शेत आहे.",
+    "meaning": "गावाकडे त्यांची शेती आहे."
+  },
+  {
+    "id": 50,
+    "sentence": "I had a key, but I lost it.",
+    "translation": "माझ्याकडे एक किल्ली होती, पण ती हरवली.",
+    "meaning": "आधी माझ्याकडे किल्ली होती, ती आता गहाळ झाली आहे."
+  },
+  {
+    "id": 51,
+    "sentence": "She has a silver necklace.",
+    "translation": "तिच्याकडे एक चांदीचा हार आहे.",
+    "meaning": "तिच्याकडे चांदीचे दागिने आहेत."
+  },
+  {
+    "id": 52,
+    "sentence": "He had a pet rabbit when he was young.",
+    "translation": "तो लहान असताना त्याच्याकडे एक पाळीव ससा होता.",
+    "meaning": "लहानपणी त्याच्याकडे पाळलेला ससा होता."
+  },
+  {
+    "id": 53,
+    "sentence": "We have a test next Monday.",
+    "translation": "पुढील सोमवारी आमची परीक्षा आहे.",
+    "meaning": "येत्या सोमवारी आमचा पेपर आहे."
+  },
+  {
+    "id": 54,
+    "sentence": "They had a discussion yesterday.",
+    "translation": "काल त्यांच्यात चर्चा झाली होती.",
+    "meaning": "त्यांनी काल एका विषयावर संभाषण केले."
+  },
+  {
+    "id": 55,
+    "sentence": "I have a doctor's appointment tomorrow.",
+    "translation": "उद्या माझी डॉक्टरांकडे अपॉइंटमेंट आहे.",
+    "meaning": "उद्या मला डॉक्टरांकडे तपासायला जायचे आहे."
+  },
+  {
+    "id": 56,
+    "sentence": "She has a bright future.",
+    "translation": "तिचे भविष्य खूप उज्ज्वल आहे.",
+    "meaning": "तिला आयुष्यात खूप यश मिळणार आहे."
+  },
+  {
+    "id": 57,
+    "sentence": "He had a bad dream last night.",
+    "translation": "काल रात्री त्याला एक वाईट स्वप्न पडले.",
+    "meaning": "झोपेत असताना काल रात्री त्याला भीतीदायक स्वप्न पडले."
+  },
+  {
+    "id": 58,
+    "sentence": "We have many plans for the weekend.",
+    "translation": "वीकेंडसाठी आमच्याकडे अनेक प्लॅन्स आहेत.",
+    "meaning": "शनिवार-रविवारसाठी आमचे खूप बेत आखलेले आहेत."
+  },
+  {
+    "id": 59,
+    "sentence": "They had a fight, but now they are friends.",
+    "translation": "त्यांचे भांडण झाले होते, पण आता ते मित्र आहेत.",
+    "meaning": "आधी त्यांच्यात वाद झाला होता, पण आता त्यांचे जमले आहे."
+  },
+  {
+    "id": 60,
+    "sentence": "I have a map of the city.",
+    "translation": "माझ्याकडे शहराचा नकाशा आहे.",
+    "meaning": "शहरातील रस्ते दाखवणारा नकाशा माझ्याकडे उपलब्ध आहे."
+  }
+]

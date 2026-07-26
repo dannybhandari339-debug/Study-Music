@@ -1,0 +1,50 @@
+[
+  {
+    "subject": "मी (Mee)",
+    "object": "मला (Mala)",
+    "possessiveAdjective": "माझा/माझी/माझे",
+    "possessivePronoun": "माझा (Mazha)"
+  },
+  {
+    "subject": "तू/तुम्ही",
+    "object": "तुला/तुम्हाला",
+    "possessiveAdjective": "तुझा/तुमचा",
+    "possessivePronoun": "तुझा/तुमचा"
+  },
+  {
+    "subject": "तो (To)",
+    "object": "त्याला (Tyala)",
+    "possessiveAdjective": "त्याचा/त्याची",
+    "possessivePronoun": "त्याचा (Tyacha)"
+  },
+  {
+    "subject": "ती (Tee)",
+    "object": "तिला (Tila)",
+    "possessiveAdjective": "तिचा/तिची",
+    "possessivePronoun": "तिचा (Ticha)"
+  },
+  {
+    "subject": "ते (Te)",
+    "object": "त्याला/तिला",
+    "possessiveAdjective": "त्याचा/तिचा",
+    "possessivePronoun": "त्याचा/तिचा"
+  },
+  {
+    "subject": "आम्ही/आपण",
+    "object": "आम्हाला/आपल्याला",
+    "possessiveAdjective": "आमचा/आपली",
+    "possessivePronoun": "आमचा/आपला"
+  },
+  {
+    "subject": "तुम्ही (Plural)",
+    "object": "तुम्हाला",
+    "possessiveAdjective": "तुमचा/तुमची",
+    "possessivePronoun": "तुमचा (Tumcha)"
+  },
+  {
+    "subject": "ते/त्या/ती",
+    "object": "त्यांना (Tyanna)",
+    "possessiveAdjective": "त्यांचा/त्यांची",
+    "possessivePronoun": "त्यांचा (Tyancha)"
+  }
+]

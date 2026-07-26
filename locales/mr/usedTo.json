@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "sentence": "My grandmother used to sit in the sun in winter.",
+    "translation": "माझी आजी हिवाळ्यात उन्हात बसत असे.",
+    "meaning": "भूतकाळात, माझी आजी हिवाळ्यात नियमितपणे उन्हात बसत असे, परंतु आता नाही."
+  },
+  {
+    "id": 2,
+    "sentence": "I used to drink hot chocolate in winter.",
+    "translation": "मी हिवाळ्यात हॉट चॉकलेट प्यायचो.",
+    "meaning": "भूतकाळात, हिवाळ्यात हॉट कोको पिण्याची माझी सवय होती."
+  },
+  {
+    "id": 3,
+    "sentence": "She used to wear woolen clothes in December.",
+    "translation": "ती डिसेंबरमध्ये लोकरीचे कपडे घालत असे.",
+    "meaning": "ती भूतकाळात डिसेंबरमध्ये नियमितपणे उबदार लोकरीचे कपडे घालत असे."
+  },
+  {
+    "id": 4,
+    "sentence": "He used to visit the beach in summer.",
+    "translation": "तो उन्हाळ्यात बीचवर जात असे.",
+    "meaning": "तो भूतकाळात उन्हाळ्यात वारंवार बीचवर जात असे."
+  },
+  {
+    "id": 5,
+    "sentence": "We used to play Holi with great excitement.",
+    "translation": "आम्ही मोठ्या उत्साहाने होळी खेळायचो.",
+    "meaning": "आमची भूतकाळात मोठ्या उत्साहाने होळी सण साजरा करण्याची सवय होती."
+  },
+  {
+    "id": 6,
+    "sentence": "I used to have a keypad phone.",
+    "translation": "माझ्याकडे कीपॅड फोन असायचा.",
+    "meaning": "भूतकाळात, माझ्याकडे बटणाचा मोबाईल फोन होता, पण आता नाही."
+  },
+  {
+    "id": 7,
+    "sentence": "She used to listen to songs on a Walkman.",
+    "translation": "ती वॉकमनवर गाणी ऐकत असे.",
+    "meaning": "ती भूतकाळात पोर्टेबल कॅसेट प्लेयरवर नियमितपणे गाणी ऐकत असे."
+  },
+  {
+    "id": 8,
+    "sentence": "He used to play video games on a PlayStation.",
+    "translation": "तो प्लेस्टेशनवर व्हिडिओ गेम खेळायचा.",
+    "meaning": "तो त्याच्या लहानपणी कन्सोल गेम खेळण्यात वेळ घालवत असे."
+  },
+  {
+    "id": 9,
+    "sentence": "We used to watch TV on a small screen.",
+    "translation": "आम्ही छोट्या पडद्यावर टीव्ही पाहायचो.",
+    "meaning": "भूतकाळात, आमच्या टेलिव्हिजन सेटचा डिस्प्ले खूप लहान होता."
+  },
+  {
+    "id": 10,
+    "sentence": "They used to click pictures with a film camera.",
+    "translation": "ते फिल्म कॅमेऱ्याने फोटो काढायचे.",
+    "meaning": "ते आधी अ‍ॅनालॉग फिल्म रोल वापरून नियमितपणे फोटो काढायचे."
+  },
+  {
+    "id": 11,
+    "sentence": "My father used to use a typewriter at work.",
+    "translation": "माझे वडील कामावर टाईपरायटर वापरायचे.",
+    "meaning": "माझ्या वडिलांना ऑफिसचे कागदपत्र मेकॅनिकल टाईपरायटरवर टाईप करण्याची सवय होती."
+  },
+  {
+    "id": 12,
+    "sentence": "I used to send letters instead of emails.",
+    "translation": "मी ईमेल ऐवजी पत्रे पाठवायचो.",
+    "meaning": "भूतकाळात, मी इलेक्ट्रॉनिक मेल पाठवण्याऐवजी कागदी पत्रे लिहायचो आणि पाठवायचो."
+  },
+  {
+    "id": 13,
+    "sentence": "She used to record songs on a cassette.",
+    "translation": "ती कॅसेटवर गाणी रेकॉर्ड करायची.",
+    "meaning": "तिची मॅग्नेटिक टेपवर ऑडिओ ट्रॅक सेव्ह करण्याची सवय होती."
+  },
+  {
+    "id": 14,
+    "sentence": "He used to have a black-and-white TV.",
+    "translation": "त्याच्याकडे ब्लॅक-अँड-व्हाइट टीव्ही असायचा.",
+    "meaning": "त्याच्याकडे भूतकाळात ब्लॅक अँड व्हाइट टेलिव्हिजन सेट होता."
+  },
+  {
+    "id": 15,
+    "sentence": "We used to go to the internet café.",
+    "translation": "आम्ही इंटरनेट कॅफेमध्ये जायचो.",
+    "meaning": "आम्ही भूतकाळात वेब वापरण्यासाठी नियमितपणे सायबर कॅफेला भेट द्यायचो."
+  },
+  {
+    "id": 16,
+    "sentence": "I used to wake up at 5 AM.",
+    "translation": "मी सकाळी ५ वाजता उठायचो.",
+    "meaning": "माझी भूतकाळात खूप लवकर उठण्याची नियमित सवय होती."
+  },
+  {
+    "id": 17,
+    "sentence": "She used to work in a bank.",
+    "translation": "ती बँकेत काम करायची.",
+    "meaning": "ती भूतकाळात एका बँकेत काम करत होती, पण आता नाही."
+  },
+  {
+    "id": 18,
+    "sentence": "He used to work as a mechanic.",
+    "translation": "तो मेकॅनिक म्हणून काम करायचा.",
+    "meaning": "त्याचा पूर्वीचा व्यवसाय यंत्रे आणि वाहनांची दुरुस्ती करणे हा होता."
+  },
+  {
+    "id": 19,
+    "sentence": "We used to do household chores together.",
+    "translation": "आम्ही एकत्र घरातील कामे करायचो.",
+    "meaning": "आम्ही भूतकाळात नियमितपणे घरातील स्वच्छता आणि कामे एकत्र करायचो."
+  },
+  {
+    "id": 20,
+    "sentence": "They used to work hard to earn money.",
+    "translation": "ते पैसे कमावण्यासाठी खूप कष्ट करायचे.",
+    "meaning": "त्यांनी भूतकाळात आपली उपजीविका चालवण्यासाठी खूप प्रयत्न केले."
+  },
+  {
+    "id": 21,
+    "sentence": "My father used to go to the office by 9 AM.",
+    "translation": "माझे वडील सकाळी ९ वाजेपर्यंत ऑफिसला जायचे.",
+    "meaning": "माझे वडील नियमितपणे सकाळी नऊ वाजेपर्यंत त्यांच्या कामाच्या ठिकाणी पोहोचायचे."
+  },
+  {
+    "id": 22,
+    "sentence": "I used to help my mother in the kitchen.",
+    "translation": "मी स्वयंपाकघरात माझ्या आईला मदत करायचो.",
+    "meaning": "मी माझ्या लहानपणी नियमितपणे स्वयंपाकात माझ्या आईला मदत करायचो."
+  },
+  {
+    "id": 23,
+    "sentence": "She used to iron clothes every Sunday.",
+    "translation": "ती दर रविवारी कपड्यांना इस्त्री करायची.",
+    "meaning": "तिची रविवारी कपडे इस्त्री करण्याची साप्ताहिक सवय होती."
+  },
+  {
+    "id": 24,
+    "sentence": "He used to be a shopkeeper.",
+    "translation": "तो एक दुकानदार असायचा.",
+    "meaning": "त्याचा पूर्वीचा व्यवसाय किरकोळ दुकान चालवणे हा होता."
+  },
+  {
+    "id": 25,
+    "sentence": "We used to do yoga every morning.",
+    "translation": "आम्ही रोज सकाळी योगा करायचो.",
+    "meaning": "आम्ही भूतकाळात पहाटे नियमितपणे योगासने करायचो."
+  },
+  {
+    "id": 26,
+    "sentence": "I used to go to bed early.",
+    "translation": "मी लवकर झोपायचो.",
+    "meaning": "माझी भूतकाळात लवकर झोपण्याची सवय होती."
+  },
+  {
+    "id": 27,
+    "sentence": "She used to love collecting stamps.",
+    "translation": "तिला तिकीट जमा करायला आवडायचे.",
+    "meaning": "तिचा पूर्वीचा छंद टपाल तिकिटे जमा करणे हा होता."
+  },
+  {
+    "id": 28,
+    "sentence": "He used to visit his grandparents every weekend.",
+    "translation": "तो दर वीकेंडला त्याच्या आजी-आजोबांना भेटायला जायचा.",
+    "meaning": "तो भूतकाळात त्याच्या आजी-आजोबांना भेटण्यासाठी नियमितपणे जायचा."
+  },
+  {
+    "id": 29,
+    "sentence": "We used to play badminton in the evening.",
+    "translation": "आम्ही संध्याकाळी बॅडमिंटन खेळायचो.",
+    "meaning": "आमची शाळा किंवा कामानंतर बॅडमिंटन खेळण्याची नियमित सवय होती."
+  },
+  {
+    "id": 30,
+    "sentence": "They used to listen to the radio for news.",
+    "translation": "ते बातम्यांसाठी रेडिओ ऐकायचे.",
+    "meaning": "त्यांना भूतकाळात बातम्या रेडिओ प्रसारावरून मिळायच्या."
+  },
+  {
+    "id": 31,
+    "sentence": "My uncle used to bring chocolates for me.",
+    "translation": "माझे काका माझ्यासाठी चॉकलेट आणायचे.",
+    "meaning": "माझे काका जेव्हा भेटायला यायचे, तेव्हा नियमितपणे माझ्यासाठी गोड चॉकलेट्स आणायचे."
+  },
+  {
+    "id": 32,
+    "sentence": "I used to wear glasses before my eye surgery.",
+    "translation": "मी माझ्या डोळ्यांच्या शस्त्रक्रियेपूर्वी चष्मा वापरायचो.",
+    "meaning": "मी भूतकाळात नियमितपणे चष्मा वापरायचो, पण आता मला त्याची गरज नाही."
+  },
+  {
+    "id": 33,
+    "sentence": "She used to write letters to her friends.",
+    "translation": "ती तिच्या मित्रांना पत्रे लिहायची.",
+    "meaning": "तिला हाताने लिहिलेल्या पत्रांद्वारे तिच्या मित्रांशी संवाद साधण्याची सवय होती."
+  }
+]

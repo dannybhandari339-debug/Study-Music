@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "sentence": "The teacher said the class would be interesting.",
+    "translation": "शिक्षकांनी सांगितले होते की वर्ग मनोरंजक असेल.",
+    "meaning": "शिक्षकांनी भूतकाळात भाकीत किंवा वचन दिले होते की पाठ मनोरंजक असतील."
+  },
+  {
+    "id": 2,
+    "sentence": "It would be great to complete the task on time.",
+    "translation": "वेळेवर काम पूर्ण झाले तर खूप छान होईल.",
+    "meaning": "मुदतीच्या आत काम पूर्ण करणे ही एक इच्छित काल्पनिक परिस्थिती आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "The team would practice every morning.",
+    "translation": "संघ दररोज सकाळी सराव करायचा.",
+    "meaning": "खेळाडूंच्या गटाला भूतकाळात दररोज सकाळी सराव करण्याची सवय होती."
+  },
+  {
+    "id": 4,
+    "sentence": "The report showed results would improve.",
+    "translation": "अहवालावरून स्पष्ट झाले की निकालात सुधारणा होईल.",
+    "meaning": "भूतकाळातील कागदपत्रांनी भविष्यात चांगल्या निकालाची शक्यता दर्शवली होती."
+  },
+  {
+    "id": 5,
+    "sentence": "It would be nice to see progress.",
+    "translation": "प्रगती पाहणे छान वाटेल.",
+    "meaning": "प्रगती किंवा सुधारणा पाहणे हा एक आनंददायी काल्पनिक विचार आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "The group would meet regularly.",
+    "translation": "गट नियमितपणे भेटायचा.",
+    "meaning": "लोकांचा गट भूतकाळात ठरलेल्या वेळेत एकत्र येत असे."
+  },
+  {
+    "id": 7,
+    "sentence": "The coach believed the team would win.",
+    "translation": "कोचचा विश्वास होता की संघ जिंकेल.",
+    "meaning": "प्रशिक्षकाचा भूतकाळात विश्वास होता की खेळाडू विजय मिळवतील."
+  },
+  {
+    "id": 8,
+    "sentence": "It would be helpful to learn new skills.",
+    "translation": "नवीन कौशल्ये शिकणे उपयुक्त ठरेल.",
+    "meaning": "नवीन क्षमता आत्मसात करणे अत्यंत फायदेशीर काल्पनिक कृती आहे."
+  },
+  {
+    "id": 9,
+    "sentence": "The staff would follow a clear routine.",
+    "translation": "कर्मचारी स्पष्ट दिनचर्येचे पालन करायचे.",
+    "meaning": "कर्मचाऱ्यांना भूतकाळात ठरलेल्या दैनंदिन वेळापत्रकाचे पालन करण्याची सवय होती."
+  },
+  {
+    "id": 10,
+    "sentence": "The plan showed everything would work well.",
+    "translation": "योजनेवरून स्पष्ट झाले की सर्व काही व्यवस्थित चालेल.",
+    "meaning": "धोरणात्मक प्रस्तावाने दर्शवले की सर्व कामे सुरळीत चालतील."
+  },
+  {
+    "id": 11,
+    "sentence": "It would be wonderful to achieve success.",
+    "translation": "यश मिळवणे अप्रतिम असेल.",
+    "meaning": "तुमचे ध्येय गाठणे ही एक अप्रतिम काल्पनिक किंवा भविष्यातील उपलब्धी आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "The students would revise lessons daily.",
+    "translation": "विद्यार्थी दररोज पाठांची उजळणी करायचे.",
+    "meaning": "विद्यार्थ्यांना दररोज अभ्यासाची उजळणी करण्याची नियमित सवय होती."
+  },
+  {
+    "id": 13,
+    "sentence": "The manager said the project would succeed.",
+    "translation": "मॅनेजरने सांगितले होते की प्रकल्प यशस्वी होईल.",
+    "meaning": "पर्यवेक्षकाने भूतकाळात आश्वासन दिले होते की काम यशस्वी होईल."
+  },
+  {
+    "id": 14,
+    "sentence": "It would be beneficial to stay focused.",
+    "translation": "लक्ष्य केंद्रित ठेवणे फायदेशीर ठरेल.",
+    "meaning": "ध्येयावर लक्ष केंद्रित ठेवणे हे अत्यंत फायदेशीर वर्तन आहे."
+  },
+  {
+    "id": 15,
+    "sentence": "The team would work together efficiently.",
+    "translation": "संघ कार्यक्षमतेने एकत्र काम करायचा.",
+    "meaning": "सहकारी भूतकाळात उत्पादक रीतीने एकत्र काम करत असत."
+  },
+  {
+    "id": 16,
+    "sentence": "The forecast said the weather would improve.",
+    "translation": "हवामान अंदाजात म्हटले होते की हवामानात सुधारणा होईल.",
+    "meaning": "हवामान अहवालाने भूतकाळात भाकीत केले होते की हवामान सुधारेल."
+  },
+  {
+    "id": 17,
+    "sentence": "The teacher said the test would be simple.",
+    "translation": "शिक्षकांनी सांगितले होते की परीक्षा सोपी असेल.",
+    "meaning": "शिक्षकांनी भूतकाळात आश्वासन दिले होते की परीक्षा कठीण नसेल."
+  },
+  {
+    "id": 18,
+    "sentence": "It would be good to improve skills.",
+    "translation": "कौशल्ये सुधारणे चांगले ठरेल.",
+    "meaning": "स्वतःच्या क्षमता वाढवणे ही एक सकारात्मक काल्पनिक कृती आहे."
+  },
+  {
+    "id": 19,
+    "sentence": "The group would share ideas openly.",
+    "translation": "गट उघडपणे विचार मांडायचा.",
+    "meaning": "सहभागींना भूतकाळात मोकळेपणाने विचार मांडण्याची सवय होती."
+  },
+  {
+    "id": 20,
+    "sentence": "The report suggested conditions would improve.",
+    "translation": "अहवालात सुचवले होते की परिस्थिती सुधारेल.",
+    "meaning": "भूतकाळातील मूल्यांकनाने दर्शवले की काळाच्या ओघात परिस्थिती सुधारेल."
+  },
+  {
+    "id": 21,
+    "sentence": "It would be nice to see growth.",
+    "translation": "विकास पाहणे छान वाटेल.",
+    "meaning": "प्रगती पाहणे हा एक आनंददायी काल्पनिक प्रसंग आहे."
+  },
+  {
+    "id": 22,
+    "sentence": "The coach would encourage everyone.",
+    "translation": "कोच सर्वांना प्रोत्साहन द्यायचे.",
+    "meaning": "प्रशिक्षकांना संघातील सर्व सदस्यांना प्रेरित करण्याची सवय होती."
+  },
+  {
+    "id": 23,
+    "sentence": "The system showed output would rise.",
+    "translation": "सिस्टमवरून स्पष्ट झाले की उत्पादन वाढेल.",
+    "meaning": "भूतकाळातील आकडेवारीने दर्शवले की उत्पादन दर वाढणार होता."
+  },
+  {
+    "id": 24,
+    "sentence": "It would be helpful to stay organized.",
+    "translation": "सुटसुटीत आणि नियोजनबद्ध राहणे उपयुक्त ठरेल.",
+    "meaning": "नियोजनबद्ध राहणे ही एक खूप उपयोगी काल्पनिक सवय आहे."
+  },
+  {
+    "id": 25,
+    "sentence": "The team would solve problems quickly.",
+    "translation": "संघ समस्या पटकन सोडवायचा.",
+    "meaning": "सदस्य नियमितपणे भूतकाळात वेगाने समस्या सोडवत असत."
+  },
+  {
+    "id": 26,
+    "sentence": "The announcement said the event would happen.",
+    "translation": "जाहरातीत म्हटले होते की कार्यक्रम होईल.",
+    "meaning": "अधिकृत सूचनेत भूतकाळात जाहीर केले होते की कार्यक्रम आयोजित केला जाईल."
+  },
+  {
+    "id": 27,
+    "sentence": "It would be great to achieve goals.",
+    "translation": "ध्येय साध्य करणे खूप छान होईल.",
+    "meaning": "तुमची उद्दिष्टे पूर्ण करणे हा एक उत्तम काल्पनिक परिणाम आहे."
+  },
+  {
+    "id": 28,
+    "sentence": "The staff would communicate clearly.",
+    "translation": "कर्मचारी स्पष्टपणे संवाद साधायचे.",
+    "meaning": "कर्मचाऱ्यांना भूतकाळात स्पष्ट आणि थेट संवाद साधण्याची सवय होती."
+  },
+  {
+    "id": 29,
+    "sentence": "The chart showed progress would continue.",
+    "translation": "आलेखावरून स्पष्ट झाले की प्रगती सुरू राहील.",
+    "meaning": "आलेखावरून दर्शवले गेले की सततची सुधारणा कायम राहील."
+  },
+  {
+    "id": 30,
+    "sentence": "It would be beneficial to practice daily.",
+    "translation": "दररोज सराव करणे फायदेशीर ठरेल.",
+    "meaning": "दररोज सराव करणे हा अत्यंत उपयुक्त काल्पनिक प्रसंग आहे."
+  },
+  {
+    "id": 31,
+    "sentence": "The class would stay focused.",
+    "translation": "वर्ग लक्ष केंद्रित ठेवायचा.",
+    "meaning": "विद्यार्थ्यांना भूतकाळात लक्ष केंद्रित ठेवण्याची सवय होती."
+  }
+]

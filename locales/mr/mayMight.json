@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "sentence": "I may go to the market today.",
+    "translation": "मी आज बाजारात जाऊ शकतो.",
+    "meaning": "मी आज बाजारात जाण्याची शक्यता आहे, पण नक्की नाही."
+  },
+  {
+    "id": 2,
+    "sentence": "She might come late.",
+    "translation": "ती कदाचित उशिरा येऊ शकते.",
+    "meaning": "तिच्या उशिरा येण्याची थोडी शक्यता आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "We may win the match.",
+    "translation": "आम्ही सामना जिंकू शकतो.",
+    "meaning": "आमच्या सामना जिंकण्याची उत्तम शक्यता आहे."
+  },
+  {
+    "id": 4,
+    "sentence": "He might not attend the meeting.",
+    "translation": "तो कदाचित बैठकीला उपस्थित राहणार नाही.",
+    "meaning": "तो ठरलेल्या बैठकीला गैरहजर राहण्याची शक्यता आहे."
+  },
+  {
+    "id": 5,
+    "sentence": "They may visit us tomorrow.",
+    "translation": "ते उद्या आपल्याला भेटायला येऊ शकतात.",
+    "meaning": "ते उद्या आपल्याला भेटायला येणे शक्य आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "I might forget your name.",
+    "translation": "मी कदाचित तुमचे नाव विसरू शकतो.",
+    "meaning": "मला तुमचे नाव आठवणार नाही याची थोडी शक्यता आहे."
+  },
+  {
+    "id": 7,
+    "sentence": "You may enter the room now.",
+    "translation": "तुम्ही आता खोलीत प्रवेश करू शकता.",
+    "meaning": "तुम्हाला या क्षणी खोलीच्या आत जाण्याची परवानगी आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "She might not like the food.",
+    "translation": "तिला कदाचित जेवण आवडणार नाही.",
+    "meaning": "तिला जेवण आवडणार नाही अशी शक्यता आहे."
+  },
+  {
+    "id": 9,
+    "sentence": "It may rain tonight.",
+    "translation": "आज रात्री पाऊस पडू शकतो.",
+    "meaning": "हवामानाच्या स्थितीनुसार आज रात्री पाऊस पडण्याची शक्यता आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "He might call you later.",
+    "translation": "तो कदाचित तुम्हाला नंतर फोन करेल.",
+    "meaning": "तो नंतर तुमच्याशी फोनवर संपर्क साधण्याची शक्यता आहे."
+  },
+  {
+    "id": 11,
+    "sentence": "We may not finish the work today.",
+    "translation": "आम्ही कदाचित आज काम पूर्ण करू शकणार नाही.",
+    "meaning": "दिवस संपण्यापूर्वी आमचे काम पूर्ण न होण्याची शक्यता आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "They might help us.",
+    "translation": "ते कदाचित आपल्याला मदत करू शकतात.",
+    "meaning": "त्यांच्याकडून आपल्याला मदत मिळण्याची शक्यता आहे."
+  },
+  {
+    "id": 13,
+    "sentence": "I may buy a new phone.",
+    "translation": "मी नवीन फोन खरेदी करू शकतो.",
+    "meaning": "मी नवीन मोबाईल खरेदी करण्याच्या शक्यतेचा विचार करत आहे."
+  },
+  {
+    "id": 14,
+    "sentence": "She might miss the bus.",
+    "translation": "तिची कदाचित बस सुटू शकते.",
+    "meaning": "तिची बस चुकण्याची शक्यता किंवा धोका आहे."
+  },
+  {
+    "id": 15,
+    "sentence": "You may not understand this topic.",
+    "translation": "तुम्हाला कदाचित हा विषय समजणार नाही.",
+    "meaning": "तुम्हाला हा विशिष्ट विषय समजायला कठीण जाण्याची शक्यता आहे."
+  },
+  {
+    "id": 16,
+    "sentence": "He might join us later.",
+    "translation": "तो कदाचित नंतर आपल्यासोबत सामील होऊ शकतो.",
+    "meaning": "तो नंतर आपल्या गटात सामील होण्याची शक्यता आहे."
+  },
+  {
+    "id": 17,
+    "sentence": "We may travel next month.",
+    "translation": "आम्ही पुढील महिन्यात प्रवास करू शकतो.",
+    "meaning": "आम्ही पुढच्या महिन्यात प्रवासाला जाण्याचा विचार करत आहोत."
+  },
+  {
+    "id": 18,
+    "sentence": "They might not agree with us.",
+    "translation": "ते कदाचित आपल्याशी सहमत होणार नाहीत.",
+    "meaning": "त्यांचे मत आपल्या मतापेक्षा वेगळे असण्याची शक्यता आहे."
+  },
+  {
+    "id": 19,
+    "sentence": "I may watch a movie tonight.",
+    "translation": "मी आज रात्री चित्रपट पाहू शकतो.",
+    "meaning": "मी माझी संध्याकाळ चित्रपट पाहण्यात घालवू शकतो."
+  },
+  {
+    "id": 20,
+    "sentence": "She might bring her friend.",
+    "translation": "ती कदाचित तिच्या मित्राला/मैत्रिणीला सोबत आणू शकते.",
+    "meaning": "ती तिच्या मैत्रिणीला आपल्याकडे घेऊन येण्याची शक्यता आहे."
+  },
+  {
+    "id": 21,
+    "sentence": "It may not be true.",
+    "translation": "हे कदाचित खरे नसेल.",
+    "meaning": "हे विधान असत्य किंवा चुकीचे असण्याची शक्यता आहे."
+  },
+  {
+    "id": 22,
+    "sentence": "He might lose the game.",
+    "translation": "तो कदाचित सामना हरू शकतो.",
+    "meaning": "स्पर्धेत त्याचा पराभव होण्याची शक्यता आहे."
+  },
+  {
+    "id": 23,
+    "sentence": "We may need more time.",
+    "translation": "आपल्याला कदाचित आणखी वेळेची गरज भासू शकते.",
+    "meaning": "दिलेला वेळ आपल्यासाठी पुरेसा न पडण्याची शक्यता आहे."
+  },
+  {
+    "id": 24,
+    "sentence": "They might not come here.",
+    "translation": "ते कदाचित इथे येणार नाहीत.",
+    "meaning": "ते या ठिकाणी न येण्याचा निर्णय घेण्याची शक्यता आहे."
+  },
+  {
+    "id": 25,
+    "sentence": "I may learn English soon.",
+    "translation": "मी लवकरच इंग्रजी शिकू शकतो.",
+    "meaning": "मी लवकरच इंग्रजी भाषा शिकण्याच्या शक्यतेचे नियोजन करत आहे."
+  },
+  {
+    "id": 26,
+    "sentence": "You may not find him at home.",
+    "translation": "तो कदाचित तुम्हाला घरी सापडणार नाही.",
+    "meaning": "तुम्ही त्याच्या घरी जाल तेव्हा तो बाहेर असण्याची शक्यता आहे."
+  },
+  {
+    "id": 27,
+    "sentence": "He might pass the exam.",
+    "translation": "तो कदाचित परीक्षेत पास होऊ शकतो.",
+    "meaning": "त्याच्या परीक्षेत यशस्वी होण्याची शक्यता आहे."
+  },
+  {
+    "id": 28,
+    "sentence": "We may celebrate tomorrow.",
+    "translation": "आम्ही उद्या साजरा करू शकतो.",
+    "meaning": "आम्ही उद्या उत्सव/आनंदोत्सव साजरा करण्याची शक्यता आहे."
+  },
+  {
+    "id": 29,
+    "sentence": "They might not support the plan.",
+    "translation": "ते कदाचित या योजनेला पाठिंबा देणार नाहीत.",
+    "meaning": "ते या प्रस्तावाला असंमती दर्शवण्याची किंवा पाठिंबा न देण्याची शक्यता आहे."
+  },
+  {
+    "id": 30,
+    "sentence": "I may meet him today.",
+    "translation": "मी आज त्याला भेटू शकतो.",
+    "meaning": "आज माझी त्याच्याशी वैयक्तिक किंवा व्यावसायिक भेट होण्याची शक्यता आहे."
+  },
+  {
+    "id": 31,
+    "sentence": "She might forget the keys.",
+    "translation": "ती कदाचित चाव्या विसरू शकते.",
+    "meaning": "ती चुकून तिच्या चाव्या विसरण्याची शक्यता आहे."
+  },
+  {
+    "id": 32,
+    "sentence": "It may become expensive.",
+    "translation": "हे कदाचित महाग होऊ शकते.",
+    "meaning": "काळाच्या ओघात याची किंमत वाढण्याची दाट शक्यता आहे."
+  }
+]

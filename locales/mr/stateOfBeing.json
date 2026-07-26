@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "sentence": "She is happy.",
+    "translation": "ती आनंदी आहे.",
+    "meaning": "ती आनंद आणि समाधान अनुभवते."
+  },
+  {
+    "id": 2,
+    "sentence": "I am tired.",
+    "translation": "मी थकलो आहे / थकले आहे.",
+    "meaning": "मला विश्रांती किंवा झोपेची गरज आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "They were hungry.",
+    "translation": "ते उपाशी होते.",
+    "meaning": "त्यांना काहीतरी खायचे होते."
+  },
+  {
+    "id": 4,
+    "sentence": "The sky is blue.",
+    "translation": "आकाश निळे आहे.",
+    "meaning": "हवामान स्वच्छ आणि निळे दिसते."
+  },
+  {
+    "id": 5,
+    "sentence": "We are friends.",
+    "translation": "आम्ही मित्र आहोत.",
+    "meaning": "आमच्यात जवळचे नाते आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "He was tired.",
+    "translation": "तो थकलेला होता.",
+    "meaning": "भूतकाळात त्याच्यात ऊर्जेची कमतरता होती."
+  },
+  {
+    "id": 7,
+    "sentence": "You are kind.",
+    "translation": "तू दयाळू आहेस / तुम्ही दयाळू आहात.",
+    "meaning": "तुम्ही मैत्रिपूर्ण आणि प्रेमळ स्वभाव दाखवता."
+  },
+  {
+    "id": 8,
+    "sentence": "The dog was friendly.",
+    "translation": "कुत्रा मैत्रिपूर्ण होता.",
+    "meaning": "कुत्र्याने प्रेमळ वर्तन दाखवले."
+  },
+  {
+    "id": 9,
+    "sentence": "I am ready.",
+    "translation": "मी तयार आहे.",
+    "meaning": "मी आता पूर्णपणे तयार आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "The apples are fresh.",
+    "translation": "सफरचंद ताजी आहेत.",
+    "meaning": "सफरचंद नवीन तोडलेली आहेत."
+  },
+  {
+    "id": 11,
+    "sentence": "It was cold yesterday.",
+    "translation": "काल थंडी होती.",
+    "meaning": "काल तापमान कमी होते."
+  },
+  {
+    "id": 12,
+    "sentence": "The flowers are beautiful.",
+    "translation": "फुले सुंदर आहेत.",
+    "meaning": "फुले खूप छान दिसतात."
+  },
+  {
+    "id": 13,
+    "sentence": "We were excited.",
+    "translation": "आम्ही उत्सुक होतो.",
+    "meaning": "आम्हाला खूप उत्साह वाटत होता."
+  },
+  {
+    "id": 14,
+    "sentence": "The baby is quiet.",
+    "translation": "बाळ शांत आहे.",
+    "meaning": "बाळ शांत आहे आणि रडत नाही आहे."
+  },
+  {
+    "id": 15,
+    "sentence": "You were early.",
+    "translation": "तुम्ही वेळेआधी आला होतात.",
+    "meaning": "तुम्ही ठरलेल्या वेळेपूर्वी पोहोचलात."
+  },
+  {
+    "id": 16,
+    "sentence": "The car is fast.",
+    "translation": "कार वेगवान आहे.",
+    "meaning": "गाडी वेगाने धावते."
+  },
+  {
+    "id": 17,
+    "sentence": "They are helpful.",
+    "translation": "ते मदतगार आहेत.",
+    "meaning": "ते इतरांना मनापासून मदत करतात."
+  },
+  {
+    "id": 18,
+    "sentence": "The room was clean.",
+    "translation": "खोली स्वच्छ होती.",
+    "meaning": "खोलीत कोणतीही घाण नव्हती."
+  },
+  {
+    "id": 19,
+    "sentence": "I am hungry.",
+    "translation": "मला भूक लागली आहे.",
+    "meaning": "मला जेवण्याची इच्छा होत आहे."
+  },
+  {
+    "id": 20,
+    "sentence": "The boys were noisy.",
+    "translation": "मुले गोंगाट करत होती.",
+    "meaning": "मुलांनी मोठा आवाज केला."
+  },
+  {
+    "id": 21,
+    "sentence": "The chair is broken.",
+    "translation": "खुर्ची तुटलेली आहे.",
+    "meaning": "खुर्ची सुरक्षितपणे वापरता येत नाही."
+  },
+  {
+    "id": 22,
+    "sentence": "We are ready.",
+    "translation": "आम्ही तयार आहोत.",
+    "meaning": "आम्ही कामासाठी पूर्णपणे तयार आहोत."
+  },
+  {
+    "id": 23,
+    "sentence": "She was happy.",
+    "translation": "ती आनंदी होती.",
+    "meaning": "ती भूतकाळात आनंदी होती."
+  },
+  {
+    "id": 24,
+    "sentence": "The books are new.",
+    "translation": "पुस्तके नवीन आहेत.",
+    "meaning": "पुस्तके नवीन विकत घेतलेली किंवा छापलेली आहेत."
+  },
+  {
+    "id": 25,
+    "sentence": "You are smart.",
+    "translation": "तू हुशार आहेस / तुम्ही हुशार आहात.",
+    "meaning": "तुम्ही उच्च बुद्धिमत्ता दाखवता."
+  },
+  {
+    "id": 26,
+    "sentence": "The cat was hungry.",
+    "translation": "मांजर उपाशी होते.",
+    "meaning": "मांजराला आधी खायला हवे होते."
+  },
+  {
+    "id": 27,
+    "sentence": "I am a student.",
+    "translation": "मी एक विद्यार्थी आहे.",
+    "meaning": "मी शिकण्यासाठी शाळेत जातो/जाते."
+  },
+  {
+    "id": 28,
+    "sentence": "The apple is red.",
+    "translation": "सफरचंद लाल आहे.",
+    "meaning": "फळाची साल लाल रंगाची आहे."
+  },
+  {
+    "id": 29,
+    "sentence": "He is tall.",
+    "translation": "तो उंच आहे.",
+    "meaning": "त्याची उंची जास्त आहे."
+  },
+  {
+    "id": 30,
+    "sentence": "The bag was heavy.",
+    "translation": "पिशवी/बॅग जड होती.",
+    "meaning": "बॅगचे वजन खूप जास्त होते."
+  },
+  {
+    "id": 31,
+    "sentence": "You are strong.",
+    "translation": "तू बलवान आहेस / तुम्ही मजबूत आहात.",
+    "meaning": "तुमच्याकडे उत्तम शारीरिक ताकद आहे."
+  },
+  {
+    "id": 32,
+    "sentence": "The children were playing.",
+    "translation": "मुले खेळत होती.",
+    "meaning": "मुले उत्साहाने खेळत होती."
+  },
+  {
+    "id": 33,
+    "sentence": "I am cold.",
+    "translation": "मला थंडी वाजत आहे.",
+    "meaning": "मला अंगात थंडी जाणवत आहे."
+  },
+  {
+    "id": 34,
+    "sentence": "The sky was dark.",
+    "translation": "आकाश काळे/अंधारलेले होते.",
+    "meaning": "सूर्यप्रकाश नव्हता किंवा ढग आले होते."
+  },
+  {
+    "id": 35,
+    "sentence": "They were tired.",
+    "translation": "ते थकलेले होते.",
+    "meaning": "भूतकाळात त्यांच्यात ऊर्जेची कमतरता होती."
+  },
+  {
+    "id": 36,
+    "sentence": "The dogs are loud.",
+    "translation": "कुत्रे खूप आवाज करत आहेत.",
+    "meaning": "कुत्रे मोठ्याने भुंकत आहेत."
+  },
+  {
+    "id": 37,
+    "sentence": "We were late.",
+    "translation": "आम्हाला उशीर झाला होता.",
+    "meaning": "आम्ही ठरलेल्या वेळेवर पोहोचू शकलो नाही."
+  },
+  {
+    "id": 38,
+    "sentence": "The book is interesting.",
+    "translation": "पुस्तक मनोरंजक आहे.",
+    "meaning": "पुस्तक मन लावून वाचण्यासारखे आहे."
+  },
+  {
+    "id": 39,
+    "sentence": "She is kind.",
+    "translation": "ती दयाळू आहे.",
+    "meaning": "ती नम्रतेने आणि मदतीने वागते."
+  },
+  {
+    "id": 40,
+    "sentence": "You were happy.",
+    "translation": "तू आनंदी होतास / तुम्ही आनंदी होतात.",
+    "meaning": "तुमच्या चेहऱ्यावर आनंदाचे भाव होते."
+  },
+  {
+    "id": 41,
+    "sentence": "The cars are fast.",
+    "translation": "गाड्या वेगवान आहेत.",
+    "meaning": "गाड्या वेगाने धावतात."
+  },
+  {
+    "id": 42,
+    "sentence": "I am busy.",
+    "translation": "मी व्यस्त आहे / मी कामात आहे.",
+    "meaning": "माझ्याकडे आता पूर्ण करायची अनेक कामे आहेत."
+  },
+  {
+    "id": 43,
+    "sentence": "The apple was red.",
+    "translation": "सफरचंद लाल होते.",
+    "meaning": "फळ आधी लाल रंगाचे होते."
+  },
+  {
+    "id": 44,
+    "sentence": "They are tall.",
+    "translation": "ते उंच आहेत.",
+    "meaning": "त्यांची शारीरिक उंची जास्त आहे."
+  },
+  {
+    "id": 45,
+    "sentence": "The story was interesting.",
+    "translation": "गोष्ट मनोरंजक होती.",
+    "meaning": "गोष्टीने आमचे मन गुंतवून ठेवले."
+  },
+  {
+    "id": 46,
+    "sentence": "We are excited.",
+    "translation": "आम्ही उत्सुक/आनंदी आहोत.",
+    "meaning": "आम्ही खूप आनंदी आणि उत्साही आहोत."
+  },
+  {
+    "id": 47,
+    "sentence": "The teacher was kind.",
+    "translation": "शिक्षक दयाळू होते.",
+    "meaning": "शिक्षकांनी आमच्याशी प्रेमाने व्यवहार केला."
+  },
+  {
+    "id": 48,
+    "sentence": "You are early.",
+    "translation": "तुम्ही लवकर आला आहात.",
+    "meaning": "तुम्ही ठरलेल्या वेळेपूर्वी येथे आला आहात."
+  },
+  {
+    "id": 49,
+    "sentence": "The boys are noisy.",
+    "translation": "मुले गोंगाट करत आहेत.",
+    "meaning": "मुले मोठा आवाज करत आहेत."
+  },
+  {
+    "id": 50,
+    "sentence": "I am polite.",
+    "translation": "मी नम्र आहे.",
+    "meaning": "मी चांगले संस्कार आणि शिष्टाचार दाखवतो."
+  },
+  {
+    "id": 51,
+    "sentence": "The flowers are fresh.",
+    "translation": "फुले ताजी आहेत.",
+    "meaning": "फुले टवटवीत आणि नवीन तोडलेली दिसतात."
+  },
+  {
+    "id": 52,
+    "sentence": "They were helpful.",
+    "translation": "ते मदतगार होते.",
+    "meaning": "त्यांनी आधी सक्रिय मदत केली होती."
+  },
+  {
+    "id": 53,
+    "sentence": "The sun is bright.",
+    "translation": "सूर्य तेजस्वी आहे.",
+    "meaning": "सूर्य तीव्र प्रकाश देतो."
+  },
+  {
+    "id": 54,
+    "sentence": "We were friends.",
+    "translation": "आम्ही मित्र होतो.",
+    "meaning": "भूतकाळात आम्ही एकमेकांचे चांगले मित्र होतो."
+  },
+  {
+    "id": 55,
+    "sentence": "The room is clean.",
+    "translation": "खोली स्वच्छ आहे.",
+    "meaning": "खोलीत आता कोणतीही धूळ किंवा घाण नाही."
+  },
+  {
+    "id": 56,
+    "sentence": "You were kind.",
+    "translation": "तुम्ही दयाळू होतात.",
+    "meaning": "तुम्ही आधी खूप प्रेमळपणा दाखवला होता."
+  },
+  {
+    "id": 57,
+    "sentence": "I am strong.",
+    "translation": "मी मजबूत/बलवान आहे.",
+    "meaning": "माझ्याकडे उत्तम शारीरिक शक्ती आहे."
+  },
+  {
+    "id": 58,
+    "sentence": "The baby was quiet.",
+    "translation": "बाळ शांत होते.",
+    "meaning": "बाळ आधी खूप शांत होते."
+  }
+]

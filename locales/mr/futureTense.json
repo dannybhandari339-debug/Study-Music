@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "sentence": "He will clean his car on Saturday.",
+    "translation": "तो शनिवारी त्याची गाडी स्वच्छ करेल.",
+    "meaning": "या शनिवारी आपली गाडी धुण्याची आणि स्वच्छ करण्याची त्याची योजना आहे."
+  },
+  {
+    "id": 2,
+    "sentence": "They will plant trees in the garden.",
+    "translation": "ते बागेत झाडे लावतील.",
+    "meaning": "ते बागेतील मातीत नवीन रोपे लावणार आहेत."
+  },
+  {
+    "id": 3,
+    "sentence": "We will call the electrician to fix the lights.",
+    "translation": "आम्ही दिवे दुरुस्त करण्यासाठी इलेक्ट्रिशियनला बोलावू.",
+    "meaning": "लाइट्स दुरुस्त करण्यासाठी तंत्रज्ञांशी संपर्क साधण्याचा आमचा बेत आहे."
+  },
+  {
+    "id": 4,
+    "sentence": "I will prepare for the interview.",
+    "translation": "मी मुलाखतीची (इंटरव्ह्यूची) तयारी करेन.",
+    "meaning": "मी माझ्या आगामी जॉब इंटरव्ह्यूसाठी अभ्यास आणि सराव करणार आहे."
+  },
+  {
+    "id": 5,
+    "sentence": "She will wear a red dress to the party.",
+    "translation": "ती पार्टीमध्ये लाल रंगाचा ड्रेस घालेल.",
+    "meaning": "तीने कार्यक्रमासाठी लाल ड्रेस घालण्याचे ठरवले आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "He will drive us to the airport.",
+    "translation": "तो आपल्याला गाडीने विमानतळावर (एयरपोर्टवर) सोडेल.",
+    "meaning": "तो गाडी चालवून आपल्याला विमानतळापर्यंत घेऊन जाणार आहे."
+  },
+  {
+    "id": 7,
+    "sentence": "They will perform on stage at the event.",
+    "translation": "ते कार्यक्रमात मंचावर (स्टेजवर) सादरीकरण करतील.",
+    "meaning": "ते मंचावर आपली कला सादर करण्याची योजना आखत आहेत."
+  },
+  {
+    "id": 8,
+    "sentence": "We will enjoy the festival next week.",
+    "translation": "आम्ही पुढच्या आठवड्यात सणाचा आनंद घेऊ.",
+    "meaning": "आगामी सणात छान वेळ घालवण्याची आमची अपेक्षा आहे."
+  },
+  {
+    "id": 9,
+    "sentence": "I will save money for the trip.",
+    "translation": "मी प्रवासासाठी पैसे साठवेन.",
+    "meaning": "मी माझ्या प्रवासासाठी खास पैसे वाचवण्याची योजना करत आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "She will get up early tomorrow morning.",
+    "translation": "ती उद्या सकाळी लवकर उठेल.",
+    "meaning": "ती उद्या सकाळी लवकर उठण्याची योजना करत आहे."
+  },
+  {
+    "id": 11,
+    "sentence": "He will give her a surprise gift.",
+    "translation": "तो तिला एक सरप्राईज भेटवस्तू देईल.",
+    "meaning": "तो तिला एक अनपेक्षित भेटवस्तू देण्याची योजना आखत आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "They will organize a charity event.",
+    "translation": "ते एका धर्मादाय (चॅरिटी) कार्यक्रमाचे आयोजन करतील.",
+    "meaning": "ते दानासाठी निधी उभारण्यासाठी कार्यक्रम आयोजित करण्याचे ठरवत आहेत."
+  },
+  {
+    "id": 13,
+    "sentence": "We will have dinner at a restaurant.",
+    "translation": "आम्ही हॉटेलमध्ये/रेस्टॉरंटमध्ये रात्रीचे जेवण करू.",
+    "meaning": "आम्ही बाहेर रेस्टॉरंटमध्ये संध्याकाळचे जेवण घेण्याचे ठरवले आहे."
+  },
+  {
+    "id": 14,
+    "sentence": "I will complete this project on time.",
+    "translation": "मी हा प्रोजेक्ट वेळेत पूर्ण करेन.",
+    "meaning": "मी ठरवून दिलेल्या वेळेपूर्वी माझे काम पूर्ण करण्याची योजना आखली आहे."
+  },
+  {
+    "id": 15,
+    "sentence": "She will play the guitar at the concert.",
+    "translation": "ती संगीत कार्यक्रमात (कॉन्सर्टमध्ये) गिटार वाजवेल.",
+    "meaning": "ती संगीताच्या कार्यक्रमात गिटार वादन करणार आहे."
+  },
+  {
+    "id": 16,
+    "sentence": "He will call the doctor if needed.",
+    "translation": "गरज पडल्यास तो डॉक्टरांना फोन करेल.",
+    "meaning": "आवश्यकता असल्यास तो डॉक्टरांशी संपर्क साधेल."
+  },
+  {
+    "id": 17,
+    "sentence": "They will return home by 8 PM.",
+    "translation": "ते रात्री ८ वाजेपर्यंत घरी परत येतील.",
+    "meaning": "ते रात्री ८ वाजेपूर्वी घरी पोहोचण्याची अपेक्षा आहे."
+  },
+  {
+    "id": 18,
+    "sentence": "We will join, tomorrow.",
+    "translation": "आम्ही उद्या सहभागी होऊ/जॉईन होऊ.",
+    "meaning": "आम्ही उद्या उपक्रमात भाग घेण्याची योजना करत आहोत."
+  },
+  {
+    "id": 19,
+    "sentence": "I will teach my brother how to read.",
+    "translation": "मी माझ्या भावाला वाचायला शिकवेन.",
+    "meaning": "मी माझ्या भावाला वाचण्याचे कौशल्य शिकवणार आहे."
+  },
+  {
+    "id": 20,
+    "sentence": "She will finish her assignment soon.",
+    "translation": "ती तिचा गृहपाठ/असाइनमेंट लवकरच पूर्ण करेल.",
+    "meaning": "ती थोड्याच वेळात तिचे शाळेचे काम पूर्ण करणार आहे."
+  },
+  {
+    "id": 21,
+    "sentence": "He will book tickets for the movie.",
+    "translation": "तो चित्रपटाची तिकिटे बुक करेल.",
+    "meaning": "तो चित्रपटासाठी तिकिटे खरेदी करण्याची योजना आखत आहे."
+  },
+  {
+    "id": 22,
+    "sentence": "They will bring fruits from the market.",
+    "translation": "ते बाजारातून फळे आणतील.",
+    "meaning": "ते बाजारातून ताजी फळे आणण्याचे ठरवत आहेत."
+  },
+  {
+    "id": 23,
+    "sentence": "We will plan a trip to the mountains.",
+    "translation": "आम्ही डोंगरावर/पर्वतावर जाण्याची ट्रिप आयोजित करू.",
+    "meaning": "आम्ही पर्वतरांगांची सहल आयोजित करणार आहोत."
+  },
+  {
+    "id": 24,
+    "sentence": "I will paint a picture for my room.",
+    "translation": "मी माझ्या खोलीसाठी एक चित्र काढेन/रंगवेन.",
+    "meaning": "मी माझी खोली सजवण्यासाठी एक सुंदर चित्र काढणार आहे."
+  },
+  {
+    "id": 25,
+    "sentence": "She will speak confidently at the seminar.",
+    "translation": "ती सेमिनारमध्ये आत्मविश्वासाने बोलेल.",
+    "meaning": "ती तिचे भाषण पूर्ण आत्मविश्वासाने देण्याची योजना करत आहे."
+  },
+  {
+    "id": 26,
+    "sentence": "He will join a dance class next week.",
+    "translation": "तो पुढच्या आठवड्यात डान्स क्लास सुरू करेल/जॉईन करेल.",
+    "meaning": "तो पुढच्या आठवड्यापासून सुरू होणाऱ्या डान्स क्लासमध्ये प्रवेश घेणार आहे."
+  },
+  {
+    "id": 27,
+    "sentence": "They will clean the house before the guests arrive.",
+    "translation": "ते पाहुणे येण्यापूर्वी घर स्वच्छ करतील.",
+    "meaning": "ते पाहुणे येण्यापूर्वी घर व्यवस्थित आणि स्वच्छ करणार आहेत."
+  },
+  {
+    "id": 28,
+    "sentence": "We will attend the workshop tomorrow.",
+    "translation": "आम्ही उद्याच्या वर्कशॉपमध्ये (कार्यशाळेत) उपस्थित राहू.",
+    "meaning": "आम्ही उद्याच्या प्रशिक्षण कार्यशाळेत भाग घेण्याची योजना आखली आहे."
+  },
+  {
+    "id": 29,
+    "sentence": "I will listen to music after work.",
+    "translation": "मी काम संपल्यावर संगीत ऐकेन.",
+    "meaning": "मी माझे काम पूर्ण झाल्यानंतर शांत गाणी ऐकण्याचा विचार करत आहे."
+  },
+  {
+    "id": 30,
+    "sentence": "She will pack her bag for the journey.",
+    "translation": "ती प्रवासासाठी तिची बॅग भरून (पॅक करून) ठेवेल.",
+    "meaning": "ती प्रवासासाठी आपली बॅग व्यवस्थित भरणार आहे."
+  },
+  {
+    "id": 31,
+    "sentence": "He will carry the luggage for her.",
+    "translation": "तो तिच्यासाठी तिचे सामान (लगेज) उचलेल.",
+    "meaning": "तो तिचे जड सामान उचलून नेण्यास मदत करणार आहे."
+  },
+  {
+    "id": 32,
+    "sentence": "They will design a new website for the company.",
+    "translation": "ते कंपनीसाठी नवीन वेबसाईट डिझाइन करतील.",
+    "meaning": "ते त्यांच्या व्यवसायासाठी नवीन वेबसाईट तयार करण्याची योजना करत आहेत."
+  },
+  {
+    "id": 33,
+    "sentence": "We will decorate the room for the party.",
+    "translation": "आम्ही पार्टीसाठी खोली सजवू.",
+    "meaning": "आम्ही पार्टीसाठी खोलीत सुंदर सजावट करणार आहोत."
+  },
+  {
+    "id": 34,
+    "sentence": "I will try to wake up early every day.",
+    "translation": "मी दररोज सकाळी लवकर उठण्याचा प्रयत्न करेन.",
+    "meaning": "मी रोज सकाळी लवकर उठण्याचा प्रामाणिक प्रयत्न करणार आहे."
+  },
+  {
+    "id": 35,
+    "sentence": "She will share her notes with her classmates.",
+    "translation": "ती तिच्या अभ्यासाच्या नोट्स वर्गमित्रांसोबत शेअर करेल.",
+    "meaning": "ती इतर विद्यार्थ्यांना मदत करण्यासाठी तिच्या अभ्यासाच्या नोट्स देणार आहे."
+  }
+]

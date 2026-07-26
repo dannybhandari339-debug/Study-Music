@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "sentence": "I must believe in myself every day.",
+    "translation": "मला दररोज स्वतःवर विश्वास ठेवलाच पाहिजे.",
+    "meaning": "माझ्यासाठी दररोज स्वतःवर विश्वास ठेवणे अत्यंत आवश्यक आहे."
+  },
+  {
+    "id": 2,
+    "sentence": "You must stay positive in tough times.",
+    "translation": "तुम्ही कठीण काळात सकारात्मक राहिलेच पाहिजे.",
+    "meaning": "कठीण प्रसंगात सकारात्मक दृष्टिकोन ठेवणे अत्यंत आवश्यक आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "We must keep moving forward no matter what.",
+    "translation": "काहीही झाले तरी आपण पुढे जात राहिलेच पाहिजे.",
+    "meaning": "कोणत्याही आव्हानांना तोंड देऊन पुढे जाणे हे आपले अंतर्गत कर्तव्य आहे."
+  },
+  {
+    "id": 4,
+    "sentence": "I must work hard to achieve my dreams.",
+    "translation": "माझी स्वप्ने पूर्ण करण्यासाठी मला कठोर परिश्रम केलेच पाहिजेत.",
+    "meaning": "माझ्या आकांक्षा पूर्ण करण्यासाठी प्रयत्न करणे मला अत्यंत गरजेचे आहे."
+  },
+  {
+    "id": 5,
+    "sentence": "You must trust your journey.",
+    "translation": "तुम्ही तुमच्या प्रवासावर विश्वास ठेवलाच पाहिजे.",
+    "meaning": "आपल्या आयुष्याच्या प्रवासावर निष्ठा ठेवणे खूप महत्त्वाचे आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "We must help each other succeed.",
+    "translation": "आपण एकमेकांना यशस्वी होण्यासाठी मदत केलीच पाहिजे.",
+    "meaning": "आपली ध्येये गाठण्यासाठी एकमेकांना मदत करणे हे आपले कर्तव्य आहे."
+  },
+  {
+    "id": 7,
+    "sentence": "I must stay focused on my goals.",
+    "translation": "मला माझ्या ध्येयांवर लक्ष केंद्रित ठेवलेच पाहिजे.",
+    "meaning": "माझ्या उद्दिष्टांवर पूर्ण लक्ष केंद्रित करणे माझ्यासाठी अत्यंत गरजेचे आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "You must never give up hope.",
+    "translation": "तुम्ही कधीही आशा सोडली नाही पाहिजे.",
+    "meaning": "तुम्ही तुमची आशा कधीही सोडू नये हे खूप महत्त्वाचे आहे."
+  },
+  {
+    "id": 9,
+    "sentence": "We must respect one another.",
+    "translation": "आपण एकमेकांचा आदर केलाच पाहिजे.",
+    "meaning": "एकमेकांविषयी आदर दाखवणे हे आपले महत्त्वाचे नैतिक कर्तव्य आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "I must take care of my health.",
+    "translation": "मला माझ्या आरोग्याची काळजी घेतलीच पाहिजे.",
+    "meaning": "माझे शारीरिक आरोग्य जपणे हे माझे वैयक्तिक कर्तव्य आहे."
+  },
+  {
+    "id": 11,
+    "sentence": "You must follow your passion.",
+    "translation": "तुम्ही तुमच्या आवडीचा (पॅशनचा) पाठपुरावा केलाच पाहिजे.",
+    "meaning": "तुम्हाला ज्या गोष्टीची मनापासून आवड आहे ती करणे आवश्यक आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "We must learn from our mistakes.",
+    "translation": "आपण आपल्या चुकांपासून शिकलेच पाहिजे.",
+    "meaning": "आपल्या वैयक्तिक वाढीसाठी चुकांमधून शिकणे अत्यंत गरजेचे आहे."
+  },
+  {
+    "id": 13,
+    "sentence": "I must stay calm under pressure.",
+    "translation": "मला दबावाखाली शांत राहिलेच पाहिजे.",
+    "meaning": "तणावाच्या परिस्थितीत संयम राखणे माझ्यासाठी अत्यंत आवश्यक आहे."
+  },
+  {
+    "id": 14,
+    "sentence": "You must believe in your abilities.",
+    "translation": "तुम्ही तुमच्या क्षमतेवर विश्वास ठेवलाच पाहिजे.",
+    "meaning": "तुमच्या यशासाठी तुमच्या कौशल्यांवर विश्वास असणे गरजेचे आहे."
+  },
+  {
+    "id": 15,
+    "sentence": "We must spread kindness everywhere.",
+    "translation": "आपण सर्वत्र दयाळूपणा पसरवलाच पाहिजे.",
+    "meaning": "सर्व ठिकाणी दयाळूपणा दाखवणे ही आपली नैतिक जबाबदारी आहे."
+  },
+  {
+    "id": 16,
+    "sentence": "I must keep a positive mindset.",
+    "translation": "मला सकारात्मक विचारसरणी ठेवलीच पाहिजे.",
+    "meaning": "सकारात्मक दृष्टिकोन जपणे माझ्यासाठी अत्यंत गरजेचे आहे."
+  },
+  {
+    "id": 17,
+    "sentence": "You must chase your dreams fearlessly.",
+    "translation": "तुम्ही निडरपणे तुमच्या स्वप्नांचा पाठपुरावा केलाच पाहिजे.",
+    "meaning": "धैर्याने तुमच्या ध्येयांचा पाठपुरावा करणे आवश्यक आहे."
+  },
+  {
+    "id": 18,
+    "sentence": "We must support our friends.",
+    "translation": "आपण आपल्या मित्रांना पाठिंबा दिलाच पाहिजे.",
+    "meaning": "आपल्या जवळच्या मित्रांच्या पाठीशी उभे राहणे हे आपले सामाजिक कर्तव्य आहे."
+  },
+  {
+    "id": 19,
+    "sentence": "I must stay strong in challenges.",
+    "translation": "मला आव्हानांमध्ये खंबीर राहिलेच पाहिजे.",
+    "meaning": "कठीण प्रसंगात खंबीर राहणे माझ्यासाठी अत्यंत गरजेचे आहे."
+  },
+  {
+    "id": 20,
+    "sentence": "You must choose happiness daily.",
+    "translation": "तुम्ही दररोज आनंदाची निवड केलीच पाहिजे.",
+    "meaning": "दररोज आनंदी राहण्याचा विचारपूर्वक निर्णय घेणे अत्यंत महत्त्वाचे आहे."
+  },
+  {
+    "id": 21,
+    "sentence": "We must encourage one another.",
+    "translation": "आपण एकमेकांना प्रोत्साहन दिलेच पाहिजे.",
+    "meaning": "आपल्या सभोवतालच्या लोकांना प्रेरित करणे हे आपले कर्तव्य आहे."
+  },
+  {
+    "id": 22,
+    "sentence": "I must stay honest in my actions.",
+    "translation": "मला माझ्या कृत्यांमध्ये प्रामाणिक राहिलेच पाहिजे.",
+    "meaning": "मी करतो त्या प्रत्येक गोष्टीत पूर्ण प्रामाणिकपणा ठेवणे अत्यंत महत्त्वाचे आहे."
+  },
+  {
+    "id": 23,
+    "sentence": "You must believe in your potential.",
+    "translation": "तुम्ही तुमच्या क्षमतेवर विश्वास ठेवलाच पाहिजे.",
+    "meaning": "तुमच्यातील अंतर्गत शक्तीवर आणि शक्यतांवर विश्वास ठेवणे गरजेचे आहे."
+  },
+  {
+    "id": 24,
+    "sentence": "We must build a better future.",
+    "translation": "आपण उत्तम भविष्य घडवलेच पाहिजे.",
+    "meaning": "चांगले उद्याचे भविष्य निर्माण करण्याची आपली जबाबदारी आहे."
+  },
+  {
+    "id": 25,
+    "sentence": "I must stay motivated always.",
+    "translation": "मला नेहमी प्रेरित राहिलेच पाहिजे.",
+    "meaning": "माझ्या सततच्या प्रगतीसाठी माझी प्रेरणा जिवंत ठेवणे गरजेचे आहे."
+  },
+  {
+    "id": 26,
+    "sentence": "You must take care of your dreams.",
+    "translation": "तुम्ही तुमच्या स्वप्नांची काळजी घेतलीच पाहिजे.",
+    "meaning": "तुमच्या वैयक्तिक आकांक्षा जपणी ही तुमची जबाबदारी आहे."
+  },
+  {
+    "id": 27,
+    "sentence": "We must grow through experiences.",
+    "translation": "आपण अनुभवांमधून समृद्ध झालेच पाहिजे.",
+    "meaning": "आपण अनुभवणाऱ्या सर्व गोष्टींमधून शिकून परिपक्व होणे गरजेचे आहे."
+  },
+  {
+    "id": 28,
+    "sentence": "I must keep improving myself.",
+    "translation": "मला स्वतःमध्ये सतत सुधारणा करत राहिलीच पाहिजे.",
+    "meaning": "माझे चरित्र आणि कौशल्ये सुधारण्यासाठी माझी सततची वैयक्तिक बांधिलकी आहे."
+  },
+  {
+    "id": 29,
+    "sentence": "You must stay hopeful always.",
+    "translation": "तुम्ही नेहमी आशावादी राहिलेच पाहिजे.",
+    "meaning": "सततच्या सकारात्मकतेने भविष्याकडे पाहणे अत्यंत आवश्यक आहे."
+  },
+  {
+    "id": 30,
+    "sentence": "We must respect nature.",
+    "translation": "आपण निसर्गाचा आदर केलाच पाहिजे.",
+    "meaning": "निसर्गाचे मूल्य जाणून त्याचे रक्षण करणे हे आपले महत्त्वाचे कर्तव्य आहे."
+  },
+  {
+    "id": 31,
+    "sentence": "I must stay patient in difficulties.",
+    "translation": "मला अडचणींमध्ये संयम राखलाच पाहिजे.",
+    "meaning": "समस्यांना तोंड देताना शांत राहणे माझ्यासाठी गरजेचे आहे."
+  },
+  {
+    "id": 32,
+    "sentence": "You must keep a kind heart.",
+    "translation": "तुम्ही दयाळू हृदय जपलेच पाहिजे.",
+    "meaning": "नम्र, सहानुभूतीपूर्वक आणि उदार स्वभाव जपणे अत्यंत महत्त्वाचे आहे."
+  },
+  {
+    "id": 33,
+    "sentence": "We must share positivity with others.",
+    "translation": "आपण इतरांसोबत सकारात्मकता शेअर केलीच पाहिजे.",
+    "meaning": "आपल्या सभोवतालच्या लोकांमध्ये सकारात्मक विचार पसरवणे गरजेचे आहे."
+  },
+  {
+    "id": 34,
+    "sentence": "I must stay confident in decisions.",
+    "translation": "मला निर्णयांमध्ये आत्मविश्वासी राहिलेच पाहिजे.",
+    "meaning": "माझ्या निर्णयांवर ठाम विश्वास ठेवणे माझ्यासाठी अत्यंत गरजेचे आहे."
+  },
+  {
+    "id": 35,
+    "sentence": "You must never lose faith.",
+    "translation": "तुम्ही कधीही विश्वास गमावला नाही पाहिजे.",
+    "meaning": "परिस्थिती कोणतीही असो, विश्वास ठेवणे अत्यंत महत्त्वाचे आहे."
+  },
+  {
+    "id": 36,
+    "sentence": "We must embrace change.",
+    "translation": "आपण बदलाचा स्वीकार केलाच पाहिजे.",
+    "meaning": "आयुष्यातील नवीन परिस्थितीचे स्वागत करणे आणि त्यांच्याशी जुळवून घेणे आवश्यक आहे."
+  }
+]

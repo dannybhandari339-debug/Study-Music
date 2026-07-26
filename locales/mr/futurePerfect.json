@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "sentence": "I will have finished my homework by 8 PM.",
+    "translation": "मी रात्री 8 वाजेपर्यंत माझा गृहपाठ (होमवर्क) पूर्ण केलेला असेल.",
+    "meaning": "मी रात्री 8 वाजेपर्यंत किंवा त्यापूर्वी माझा गृहपाठ पूर्ण करेन."
+  },
+  {
+    "id": 2,
+    "sentence": "She will not have completed the project on time.",
+    "translation": "तिने वेळेवर प्रकल्प (प्रोजेक्ट) पूर्ण केलेला नसेल.",
+    "meaning": "अंतिम मुदत येईल तेव्हा तिचे प्रोजेक्टचे काम पूर्ण झालेले नसेल."
+  },
+  {
+    "id": 3,
+    "sentence": "They will have arrived before the meeting starts.",
+    "translation": "बैठक (मीटिंग) सुरू होण्यापूर्वी ते पोहोचलेले असतील.",
+    "meaning": "मीटिंग सुरू होण्याच्या वेळेपूर्वीच त्यांचे आगमन झालेले असेल."
+  },
+  {
+    "id": 4,
+    "sentence": "We won't have reached the station by then.",
+    "translation": "तोपर्यंत आम्ही स्टेशनवर पोहोचलो नसू.",
+    "meaning": "त्या विशिष्ट वेळेपर्यंत आम्ही रेल्वे स्टेशनवर पोहोचलेलो नसू."
+  },
+  {
+    "id": 5,
+    "sentence": "He will have learned French by next year.",
+    "translation": "पुढच्या वर्षापर्यंत तो फ्रेंच शिकलेला असेल.",
+    "meaning": "पुढील वर्ष सुरू होण्यापूर्वी त्याला फ्रेंच भाषेचे ज्ञान प्राप्त झालेले असेल."
+  },
+  {
+    "id": 6,
+    "sentence": "I will not have saved enough money by December.",
+    "translation": "डिसेंबरपर्यंत मी पुरेसे पैसे वाचवलेले नसतील.",
+    "meaning": "डिसेंबर महिना येईल तेव्हा माझी बचत पुरेशी झालेली नसेल."
+  },
+  {
+    "id": 7,
+    "sentence": "The train will have left before we get there.",
+    "translation": "आम्ही तिथे पोहोचण्यापूर्वी ट्रेन सुटलेली असेल.",
+    "meaning": "आम्ही प्लॅटफॉर्मवर पोहोचण्यापूर्वीच ट्रेन निघून गेलेली असेल."
+  },
+  {
+    "id": 8,
+    "sentence": "She won't have understood the lesson fully.",
+    "translation": "तिला तो धडा/पाठ पूर्णपणे समजलेला नसेल.",
+    "meaning": "त्या वेळेपर्यंत तिने शिकवलेल्या गोष्टी पूर्णपणे समजून घेतलेल्या नसतील."
+  },
+  {
+    "id": 9,
+    "sentence": "We will have built a new house by 2027.",
+    "translation": "2027 पर्यंत आम्ही नवीन घर बांधलेले असेल.",
+    "meaning": "2027 या वर्षापर्यंत आमच्या नवीन घराचे बांधकाम पूर्ण झालेले असेल."
+  },
+  {
+    "id": 10,
+    "sentence": "They will not have solved the problem yet.",
+    "translation": "त्यांनी अजून समस्या सोडवलेली नसेल.",
+    "meaning": "त्या टप्प्यापर्यंत समस्येचे निवारण झालेले नसेल."
+  },
+  {
+    "id": 11,
+    "sentence": "He will have written the report by tomorrow.",
+    "translation": "उद्यापर्यंत त्याने अहवाल (रिपोर्ट) लिहिलेला असेल.",
+    "meaning": "उद्यापर्यंत त्याचा रिपोर्ट लिहून पूर्ण झालेला असेल."
+  },
+  {
+    "id": 12,
+    "sentence": "I won't have cleaned the room by evening.",
+    "translation": "संध्याकाळपर्यंत मी खोली साफ केलेली नसेल.",
+    "meaning": "संध्याकाळची वेळ येईल तेव्हा माझे खोली आवरण्याचे काम पूर्ण झालेले नसेल."
+  },
+  {
+    "id": 13,
+    "sentence": "She will have cooked dinner before they arrive.",
+    "translation": "ते येण्यापूर्वी तिने रात्रीचे जेवण बनवलेले असेल.",
+    "meaning": "पाहुण्यांचे आगमन होण्यापूर्वीच तिने जेवण बनवून तयार ठेवलेले असेल."
+  },
+  {
+    "id": 14,
+    "sentence": "We will not have finished the game by then.",
+    "translation": "तोपर्यंत आम्ही खेळ संपवलेला नसेल.",
+    "meaning": "त्या वेळेसही सामना किंवा खेळ सुरूच राहिलेला असेल."
+  },
+  {
+    "id": 15,
+    "sentence": "They will have traveled to five countries by next year.",
+    "translation": "पुढच्या वर्षापर्यंत त्यांनी पाच देशांचा प्रवास केलेला असेल.",
+    "meaning": "पुढील वर्ष येण्यापूर्वी त्यांनी पाच वेगवेगळ्या देशांना भेटी देऊन पूर्ण केलेल्या असतील."
+  },
+  {
+    "id": 16,
+    "sentence": "He won't have completed his degree by June.",
+    "translation": "जूनपर्यंत त्याची पदवी (डिग्री) पूर्ण झालेली नसेल.",
+    "meaning": "जून महिना येईल तेव्हा त्याची पदवी किंवा शिक्षण पूर्ण झालेले नसेल."
+  },
+  {
+    "id": 17,
+    "sentence": "I will have read the entire book tonight.",
+    "translation": "आज रात्रीपर्यंत मी संपूर्ण पुस्तक वाचलेले असेल.",
+    "meaning": "आजची रात्र संपण्यापूर्वी मी पुस्तकातील प्रत्येक पान वाचून पूर्ण करेन."
+  },
+  {
+    "id": 18,
+    "sentence": "She will not have packed her bags in time.",
+    "translation": "तिने वेळेवर तिच्या बॅगा भरलेल्या (पॅक केलेल्या) नसतील.",
+    "meaning": "प्रस्थानापूर्वी तिचे सामान पूर्णपणे तयार झालेले नसेल."
+  },
+  {
+    "id": 19,
+    "sentence": "We will have started the project by Monday.",
+    "translation": "सोमवारपर्यंत आम्ही प्रोजेक्ट सुरू केलेला असेल.",
+    "meaning": "सोमवारपूर्वी कोणत्याही क्षणी आम्ही प्रकल्पाचे काम सुरू केलेले असेल."
+  },
+  {
+    "id": 20,
+    "sentence": "They won't have repaired the car by noon.",
+    "translation": "दुपारपर्यंत त्यांनी कार दुरुस्त केलेली नसेल.",
+    "meaning": "मास्तरी/मॅकेनिक दुपारी 12 वाजेपर्यंत कार दुरुस्तीचे काम पूर्ण करू शकलेला नसेल."
+  },
+  {
+    "id": 21,
+    "sentence": "He will have earned a promotion soon.",
+    "translation": "त्याला लवकरच पदोन्नती (प्रमोशन) मिळालेली असेल.",
+    "meaning": "जवळच्या भविष्यात त्याला त्याच्या करिअरमध्ये पदोन्नती मिळणे अपेक्षित आहे."
+  },
+  {
+    "id": 22,
+    "sentence": "I will not have memorized all the answers.",
+    "translation": "मी सर्व उत्तरे पाठांतर केलेली नसतील.",
+    "meaning": "परीक्षेच्या वेळेपर्यंत मी सर्व उत्तरे पूर्णपणे लक्षात ठेवलेली नसतील."
+  },
+  {
+    "id": 23,
+    "sentence": "She will have decorated the room beautifully.",
+    "translation": "तिने खोली सुंदरपणे सजवलेली असेल.",
+    "meaning": "खोलीच्या सजावटीचे काम पूर्ण झाले असेल आणि ती अतिशय सुंदर दिसेल."
+  },
+  {
+    "id": 24,
+    "sentence": "We won't have planted the trees yet.",
+    "translation": "आम्ही अजून झाडे लावलेली नसतील.",
+    "meaning": "त्या तारखेपर्यंत आम्ही मातीत रोपे लावण्याचे काम पूर्ण केलेले नसेल."
+  },
+  {
+    "id": 25,
+    "sentence": "They will have achieved their goals by 2030.",
+    "translation": "2030 पर्यंत त्यांनी त्यांची ध्येये साध्य केलेली असतील.",
+    "meaning": "2030 या वर्षापर्यंत त्यांनी त्यांच्या महत्त्वाकांक्षा यशस्वीपणे पूर्ण केलेल्या असतील."
+  },
+  {
+    "id": 26,
+    "sentence": "He will not have finished his lunch.",
+    "translation": "जेव्हा आम्ही भेटू तेव्हा उसने त्याचे दुपारचे जेवण संपवलेले नसेल.",
+    "meaning": "आमच्या भेटीच्या वेळी त्याचे दुपारचे जेवण खाऊन पूर्ण झालेले नसेल."
+  },
+  {
+    "id": 27,
+    "sentence": "I will have sent the email before lunch.",
+    "translation": "दुपारच्या जेवणापूर्वी मी ईमेल पाठवलेला असेल.",
+    "meaning": "लंच टाइम होण्यापूर्वीच माझा संदेश पाठवला गेलेला असेल."
+  },
+  {
+    "id": 28,
+    "sentence": "She won't have completed the assignment.",
+    "translation": "तिने वेळेत असाइनमेंट (अभ्यास) पूर्ण केलेले नसेल.",
+    "meaning": "तिने वेळेवर तिचा दिलेला स्वाध्याय/अभ्यास पूर्ण केलेला नसेल."
+  },
+  {
+    "id": 29,
+    "sentence": "We will have organized the event successfully.",
+    "translation": "आम्ही कार्यक्रमाचे यशस्वीपणे आयोजन केलेले असेल.",
+    "meaning": "कार्यक्रमाचे नियोजन आणि अंमलबजावणी पूर्णपणे यशस्वी झालेली असेल."
+  }
+]

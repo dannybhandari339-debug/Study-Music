@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "sentence": "I have finished my homework.",
+    "translation": "मी माझा गृहपाठ (होमवर्क) पूर्ण केला आहे.",
+    "meaning": "मी नुकतीच किंवा आत्ताच माझी शाळेची सर्व कामे पूर्ण केली आहेत."
+  },
+  {
+    "id": 2,
+    "sentence": "She has not eaten breakfast.",
+    "translation": "तिने नाश्ता केलेला नाही.",
+    "meaning": "तिने या क्षणापर्यंत सकाळचे जेवण/नाश्ता खाल्लेला नाही."
+  },
+  {
+    "id": 3,
+    "sentence": "They have visited Delhi many times.",
+    "translation": "त्यांनी अनेकदा दिल्लीला भेट दिली आहे.",
+    "meaning": "त्यांनी भूतकाळात अनेक वेळा दिल्लीला भेट दिली आहे."
+  },
+  {
+    "id": 4,
+    "sentence": "He has not completed the project.",
+    "translation": "त्याने प्रकल्प (प्रोजेक्ट) पूर्ण केलेला नाही.",
+    "meaning": "त्याने अजून दिलेला प्रोजेक्ट पूर्ण केलेला नाही."
+  },
+  {
+    "id": 5,
+    "sentence": "We have watched that movie already.",
+    "translation": "आम्ही तो चित्रपट आधीच पाहिला आहे.",
+    "meaning": "आम्ही तो चित्रपट आधीच पाहिलेला आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "I have not seen him today.",
+    "translation": "मी त्याला आज पाहिलेले नाही.",
+    "meaning": "मी आज त्याला भेटलेलो/पाहिलेलो नाही."
+  },
+  {
+    "id": 7,
+    "sentence": "She has learned French.",
+    "translation": "ती फ्रेंच शिकली आहे.",
+    "meaning": "तिने फ्रेंच बोलण्याची किंवा समजण्याची क्षमता प्राप्त केली आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "They have not arrived yet.",
+    "translation": "ते अजून पोहोचलेले नाहीत.",
+    "meaning": "ते या क्षणापर्यंत गंतव्यस्थानी पोहोचलेले नाहीत."
+  },
+  {
+    "id": 9,
+    "sentence": "He has written a letter.",
+    "translation": "त्याने एक पत्र लिहिले आहे.",
+    "meaning": "त्याने पत्र लिहिण्याचे काम पूर्ण केले आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "We have not cleaned the room.",
+    "translation": "आम्ही खोली साफ केलेली नाही.",
+    "meaning": "आम्ही अजून खोली स्वच्छ केलेली नाही."
+  },
+  {
+    "id": 11,
+    "sentence": "I have bought a new phone.",
+    "translation": "मी नवीन फोन खरेदी केला आहे.",
+    "meaning": "मी नुकताच एक नवीन मोबाईल फोन खरेदी केला आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "She has not called me.",
+    "translation": "तिने मला फोन केलेला नाही.",
+    "meaning": "तिने अजून मला फोन केलेला नाही."
+  },
+  {
+    "id": 13,
+    "sentence": "They have played football.",
+    "translation": "ते फुटबॉल खेळले आहेत.",
+    "meaning": "त्यांनी फुटबॉल खेळण्यात वेळ घालवला आहे."
+  },
+  {
+    "id": 14,
+    "sentence": "He has not fixed the car.",
+    "translation": "त्याने कार दुरुस्त केलेली नाही.",
+    "meaning": "त्याने अजून बिघडलेली गाडी दुरुस्त केलेली नाही."
+  },
+  {
+    "id": 15,
+    "sentence": "We have traveled abroad.",
+    "translation": "आम्ही परदेशात प्रवास केला आहे.",
+    "meaning": "आम्ही यापूर्वी दुसऱ्या देशांमध्ये प्रवास केला आहे."
+  },
+  {
+    "id": 16,
+    "sentence": "I have not read that book.",
+    "translation": "मी ते पुस्तक वाचलेले नाही.",
+    "meaning": "मी ते विशिष्ट पुस्तक वाचण्यात वेळ घालवलेला नाही."
+  },
+  {
+    "id": 17,
+    "sentence": "She has cooked dinner.",
+    "translation": "तिने रात्रीचे जेवण बनवले आहे.",
+    "meaning": "तिने संध्याकाळचे जेवण तयार केले आहे."
+  },
+  {
+    "id": 18,
+    "sentence": "They have not finished their work.",
+    "translation": "त्यांनी त्यांचे काम पूर्ण केलेले नाही.",
+    "meaning": "त्यांचे अजूनही काही काम बाकी आहे."
+  },
+  {
+    "id": 19,
+    "sentence": "He has opened the door.",
+    "translation": "त्याने दार उघडले आहे.",
+    "meaning": "दार आता उघडे आहे कारण त्याने ते उघडले आहे."
+  },
+  {
+    "id": 20,
+    "sentence": "We have not met before.",
+    "translation": "आम्ही यापूर्वी कधीही भेटलो नाही.",
+    "meaning": "आपण एकमेकांना भेटण्याची ही पहिलीच वेळ आहे."
+  },
+  {
+    "id": 21,
+    "sentence": "I have completed the task.",
+    "translation": "मी काम पूर्ण केले आहे.",
+    "meaning": "मला दिलेले काम मी पूर्ण केले आहे."
+  },
+  {
+    "id": 22,
+    "sentence": "She has not understood the lesson.",
+    "translation": "तिला तो धडा समजलेला नाही.",
+    "meaning": "वर्गात शिकवलेली संकल्पना तिला पूर्णपणे समजलेली नाही."
+  },
+  {
+    "id": 23,
+    "sentence": "They have built a house.",
+    "translation": "त्यांनी घर बांधले आहे.",
+    "meaning": "त्यांनी घराचे बांधकाम पूर्ण केले आहे."
+  },
+  {
+    "id": 24,
+    "sentence": "He has not taken the test.",
+    "translation": "त्याने परीक्षा दिलेली नाही.",
+    "meaning": "त्याने अजून परीक्षा/चाचणी दिलेली नाही."
+  },
+  {
+    "id": 25,
+    "sentence": "I have not finished my work.",
+    "translation": "मी माझे काम पूर्ण केलेले नाही.",
+    "meaning": "माझे अजूनही काही काम पूर्ण करायचे बाकी आहे."
+  },
+  {
+    "id": 26,
+    "sentence": "She has improved her skills.",
+    "translation": "तिने तिचे कौशल्य सुधारले आहे.",
+    "meaning": "काळाच्या ओघात तिची कौशल्ये अधिक उत्तम झाली आहेत."
+  },
+  {
+    "id": 27,
+    "sentence": "They have not joined the meeting.",
+    "translation": "ते बैठकीत सहभागी झालेले नाहीत.",
+    "meaning": "ते अजून बैठकीत (मीटिंगमध्ये) जॉईन झालेले नाहीत."
+  },
+  {
+    "id": 28,
+    "sentence": "He has bought groceries.",
+    "translation": "त्याने किराणा माल खरेदी केला आहे.",
+    "meaning": "त्याने अन्नपदार्थ आणि घरगुती सामान खरेदी केले आहे."
+  },
+  {
+    "id": 29,
+    "sentence": "We have not started the project.",
+    "translation": "आम्ही प्रकल्प (प्रोजेक्ट) सुरू केलेला नाही.",
+    "meaning": "आम्ही अजून प्रकल्पावर काम सुरू करायचे आहे."
+  },
+  {
+    "id": 30,
+    "sentence": "I have lost my keys.",
+    "translation": "माझ्या चाव्या हरवल्या आहेत.",
+    "meaning": "माझ्या चाव्या गहाळ झाल्यामुळे मला त्या सापडत नाहीत."
+  },
+  {
+    "id": 31,
+    "sentence": "She has not replied to my message.",
+    "translation": "तिने माझ्या संदेशाला (मेसेजला) उत्तर दिलेले नाही.",
+    "meaning": "तिने अजून माझ्या मेसेजला उत्तर दिलेले नाही."
+  },
+  {
+    "id": 32,
+    "sentence": "They have watched the show.",
+    "translation": "त्यांनी तो शो/कार्यक्रम पाहिला आहे.",
+    "meaning": "त्यांनी तो कार्यक्रम पूर्ण पाहिला आहे."
+  },
+  {
+    "id": 33,
+    "sentence": "He has not visited the doctor.",
+    "translation": "तो डॉक्टरांकडे गेलेला नाही.",
+    "meaning": "तो अजून डॉक्टरांचा सल्ला घेण्यासाठी गेलेला नाही."
+  },
+  {
+    "id": 34,
+    "sentence": "We have completed the assignment.",
+    "translation": "आम्ही असाइनमेंट पूर्ण केले आहे.",
+    "meaning": "आम्ही आमचा स्वाध्याय पूर्ण केला आहे आणि तो सबमिट करण्यासाठी तयार आहे."
+  },
+  {
+    "id": 35,
+    "sentence": "I have not found my wallet.",
+    "translation": "मला माझे पाकीट (वॉलेट) सापडलेले नाही.",
+    "meaning": "मी अजूनही माझे हरवलेले पाकीट शोधत आहे."
+  },
+  {
+    "id": 36,
+    "sentence": "She has painted the wall.",
+    "translation": "तिने भिंतीला रंग दिला आहे.",
+    "meaning": "तिने भिंती रंगवण्याचे काम पूर्ण केले आहे."
+  },
+  {
+    "id": 37,
+    "sentence": "They have not submitted the form.",
+    "translation": "त्यांनी फॉर्म जमा केलेला नाही.",
+    "meaning": "त्यांनी अजून त्यांचा अर्ज सादर/जमा केलेला नाही."
+  },
+  {
+    "id": 38,
+    "sentence": "He has broken the glass.",
+    "translation": "त्याने काच फोडली आहे.",
+    "meaning": "काच फुटली आहे कारण त्याने ती फोडली."
+  },
+  {
+    "id": 39,
+    "sentence": "We have not received the package.",
+    "translation": "आम्हाला पार्सल मिळालेले नाही.",
+    "meaning": "डिलिव्हरी अजून आमच्यापर्यंत पोहोचलेली नाही."
+  },
+  {
+    "id": 40,
+    "sentence": "I have called my friend.",
+    "translation": "मी माझ्या मित्राला फोन केला आहे.",
+    "meaning": "मी नुकताच माझ्या मित्राला फोन केला आहे."
+  },
+  {
+    "id": 41,
+    "sentence": "She has not checked her email.",
+    "translation": "तिने तिचा ईमेल तपासलेला नाही.",
+    "meaning": "तिने अजून मेसेज वाचण्यासाठी तिचा इनबॉक्स उघडलेला नाही."
+  },
+  {
+    "id": 42,
+    "sentence": "They have played the game.",
+    "translation": "ते खेळ खेळले आहेत.",
+    "meaning": "त्यांनी खेळाचा तो सामना/राउंड पूर्ण केला आहे."
+  },
+  {
+    "id": 43,
+    "sentence": "He has not finished his meal.",
+    "translation": "त्याने त्याचे जेवण पूर्ण केलेले नाही.",
+    "meaning": "त्याने अजून त्याचे सर्व अन्न खाल्लेले नाही."
+  },
+  {
+    "id": 44,
+    "sentence": "We have taken many photos.",
+    "translation": "आम्ही अनेक फोटो काढले आहेत.",
+    "meaning": "आम्ही खूप मोठ्या प्रमाणात फोटो काढले आहेत."
+  },
+  {
+    "id": 45,
+    "sentence": "I have not completed the course.",
+    "translation": "मी कोर्स पूर्ण केलेला नाही.",
+    "meaning": "मी अजूनही अभ्यासक्रम शिकत आहे आणि अजून उत्तीर्ण झालेलो नाही."
+  },
+  {
+    "id": 46,
+    "sentence": "She has bought a new dress.",
+    "translation": "तिने नवीन ड्रेस खरेदी केला आहे.",
+    "meaning": "तिने स्वतःसाठी नवीन कपडे खरेदी केले आहेत."
+  }
+]

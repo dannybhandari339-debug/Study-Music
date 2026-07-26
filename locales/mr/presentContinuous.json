@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "sentence": "I am eating dinner.",
+    "translation": "मी रात्रीचे जेवण करत आहे.",
+    "meaning": "मी सध्या माझे संध्याकाळचे जेवण घेत आहे."
+  },
+  {
+    "id": 2,
+    "sentence": "She is not reading the newspaper.",
+    "translation": "ती वृत्तपत्र वाचत नाही आहे.",
+    "meaning": "ती सध्या कोणतीही बातमी वाचत नाही आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "They are playing football.",
+    "translation": "ते फुटबॉल खेळत आहेत.",
+    "meaning": "ते सध्या फुटबॉलचा सामना खेळत आहेत."
+  },
+  {
+    "id": 4,
+    "sentence": "We are not watching TV.",
+    "translation": "आम्ही टीव्ही पाहत नाही आहोत.",
+    "meaning": "आम्ही सध्या स्क्रीनकडे पाहत नाही आहोत."
+  },
+  {
+    "id": 5,
+    "sentence": "He is writing a letter.",
+    "translation": "तो पत्र लिहित आहे.",
+    "meaning": "तो सध्या पत्र लिहीत आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "The dog is not sleeping.",
+    "translation": "कुत्रा झोपलेला नाही आहे.",
+    "meaning": "कुत्रा पूर्णपणे जागा आहे."
+  },
+  {
+    "id": 7,
+    "sentence": "I am learning English.",
+    "translation": "मी इंग्रजी शिकत आहे.",
+    "meaning": "मी या क्षणी इंग्रजीचा अभ्यास करत आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "She is cooking lunch.",
+    "translation": "ती दुपारचे जेवण बनवत आहे.",
+    "meaning": "ती आता दुपारचा स्वयंपाक करत आहे."
+  },
+  {
+    "id": 9,
+    "sentence": "They are not building a bridge.",
+    "translation": "ते पूल बांधत नाही आहेत.",
+    "meaning": "पुलाचे कोणतेही काम सुरू नाही."
+  },
+  {
+    "id": 10,
+    "sentence": "We are studying for exams.",
+    "translation": "आम्ही परीक्षेसाठी अभ्यास करत आहोत.",
+    "meaning": "आम्ही सध्या परीक्षांची तयारी करत आहोत."
+  },
+  {
+    "id": 11,
+    "sentence": "He is not driving fast.",
+    "translation": "तो वेगाने गाडी चालवत नाही आहे.",
+    "meaning": "त्याचा गाडीचा वेग सध्या सुरक्षित आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "The baby is sleeping.",
+    "translation": "बाळ झोपले आहे.",
+    "meaning": "लहान बाळ झोपलेले आहे."
+  },
+  {
+    "id": 13,
+    "sentence": "I am not listening to you.",
+    "translation": "मी तुझे ऐकत नाही आहे.",
+    "meaning": "मी तुझ्या बोलण्याकडे दुर्लक्ष करत आहे."
+  },
+  {
+    "id": 14,
+    "sentence": "She is dancing beautifully.",
+    "translation": "ती खूप सुंदर नाचत आहे.",
+    "meaning": "ती छान प्रकारे नृत्य सादर करत आहे."
+  },
+  {
+    "id": 15,
+    "sentence": "They are working together.",
+    "translation": "ते एकत्र काम करत आहेत.",
+    "meaning": "ते आता एका कामात एकमेकांना सहकार्य करत आहेत."
+  },
+  {
+    "id": 16,
+    "sentence": "We are not cleaning the house.",
+    "translation": "आम्ही घराची स्वच्छता करत नाही आहोत.",
+    "meaning": "आम्ही सध्या घरातील कामे करत नाही आहोत."
+  },
+  {
+    "id": 17,
+    "sentence": "He is painting the wall.",
+    "translation": "तो भिंतीला रंग देत आहे.",
+    "meaning": "तो सध्या भिंतीला रंग लावत आहे."
+  },
+  {
+    "id": 18,
+    "sentence": "The teacher is not shouting.",
+    "translation": "शिक्षक ओरडत नाही आहेत.",
+    "meaning": "शिक्षक हळूवारपणे बोलत आहेत."
+  },
+  {
+    "id": 19,
+    "sentence": "I am practicing yoga.",
+    "translation": "मी योगासनाचा सराव करत आहे.",
+    "meaning": "मी आता योग/व्यायाम करत आहे."
+  },
+  {
+    "id": 20,
+    "sentence": "She is not drawing anything.",
+    "translation": "ती काहीही चित्र काढत नाही आहे.",
+    "meaning": "तिच्या हातात कोरा कागद/कॅनव्हास आहे."
+  },
+  {
+    "id": 21,
+    "sentence": "They are running in the park.",
+    "translation": "ते बागेत पळत आहेत.",
+    "meaning": "ते सध्या बाहेर धावत/जॉगिंग करत आहेत."
+  },
+  {
+    "id": 22,
+    "sentence": "We are discussing the project.",
+    "translation": "आम्ही प्रकल्पावर (प्रोजेक्टवर) चर्चा करत आहोत.",
+    "meaning": "आम्ही आता टीमसोबत चर्चा करत आहोत."
+  },
+  {
+    "id": 23,
+    "sentence": "He is not fixing the fan.",
+    "translation": "तो पंखा दुरुस्त करत नाही आहे.",
+    "meaning": "पंखा अद्याप नादुरुस्तच आहे."
+  },
+  {
+    "id": 24,
+    "sentence": "The sun is shining brightly.",
+    "translation": "सूर्य प्रखरपणे चमकत आहे.",
+    "meaning": "आकाशात आज छान सूर्यप्रकाश पसरला आहे."
+  },
+  {
+    "id": 25,
+    "sentence": "I am writing an email.",
+    "translation": "मी ईमेल लिहीत आहे.",
+    "meaning": "मी डिजिटल संदेश तयार करत आहे."
+  },
+  {
+    "id": 26,
+    "sentence": "She is singing a song.",
+    "translation": "ती गाणे गात आहे.",
+    "meaning": "ती सध्या गाणे गाण्याचा आनंद घेत आहे."
+  },
+  {
+    "id": 27,
+    "sentence": "They are not traveling abroad.",
+    "translation": "ते परदेशात प्रवास करत नाही आहेत.",
+    "meaning": "ते आपल्याच देशात राहत आहेत."
+  },
+  {
+    "id": 28,
+    "sentence": "We are planting trees.",
+    "translation": "आम्ही झाडे लावत आहोत.",
+    "meaning": "आम्ही मातीत रोपे लावत आहोत."
+  },
+  {
+    "id": 29,
+    "sentence": "We are not enjoying the game.",
+    "translation": "आम्हाला या खेळाचा आनंद मिळत नाही आहे.",
+    "meaning": "हा खेळ सध्या कंटाळवाणा वाटत आहे."
+  },
+  {
+    "id": 30,
+    "sentence": "He is talking on the phone.",
+    "translation": "तो फोनवर बोलत आहे.",
+    "meaning": "त्याचे फोनवर बोलणे सुरू आहे."
+  },
+  {
+    "id": 31,
+    "sentence": "The birds are not sitting quietly.",
+    "translation": "पक्षी शांत बसलेले नाही आहेत.",
+    "meaning": "पक्षी किलबिलाट करत आणि उडत आहेत."
+  },
+  {
+    "id": 32,
+    "sentence": "I am watching TV.",
+    "translation": "मी टीव्ही पाहत आहे.",
+    "meaning": "मी दूरदर्शनवरील कार्यक्रम पाहत आहे."
+  },
+  {
+    "id": 33,
+    "sentence": "She is making a cake.",
+    "translation": "ती केक बनवत आहे.",
+    "meaning": "ती स्वयंपाकघरात केक तयार करत आहे."
+  },
+  {
+    "id": 34,
+    "sentence": "They are not solving the puzzle.",
+    "translation": "ते कोडे सोडवत नाही आहेत.",
+    "meaning": "त्यांना कोडे सोडवण्यात अडचण येत आहे."
+  },
+  {
+    "id": 35,
+    "sentence": "We are visiting relatives.",
+    "translation": "आम्ही नातेवाईकांना भेटायला जात आहोत.",
+    "meaning": "आम्ही सध्या नातेवाईकांना भेटत आहोत."
+  },
+  {
+    "id": 36,
+    "sentence": "He is studying mathematics.",
+    "translation": "तो गणिताचा अभ्यास करत आहे.",
+    "meaning": "तो आता गणिताचे प्रश्न सोडवत आहे."
+  },
+  {
+    "id": 37,
+    "sentence": "The wind is not blowing hard.",
+    "translation": "वारा वेगाने वाहत नाही आहे.",
+    "meaning": "बाहेर मंद आणि हलकी झुळूक येत आहे."
+  },
+  {
+    "id": 38,
+    "sentence": "I am exercising daily.",
+    "translation": "मी रोज व्यायाम करत आहे.",
+    "meaning": "मी माझे शरीर तंदुरुस्त ठेवण्यासाठी कसरत करत आहे."
+  },
+  {
+    "id": 39,
+    "sentence": "She is helping her friend.",
+    "translation": "ती तिच्या मैत्रिणीला मदत करत आहे.",
+    "meaning": "ती सध्या तिच्या जवळच्या मैत्रिणीला मदत करत आहे."
+  },
+  {
+    "id": 40,
+    "sentence": "I am not eating junk food.",
+    "translation": "मी जंक फूड खात नाही आहे.",
+    "meaning": "मी सध्या आरोग्यदायी आहार घेत आहे."
+  },
+  {
+    "id": 41,
+    "sentence": "She is reading a book.",
+    "translation": "ती एक पुस्तक वाचत आहे.",
+    "meaning": "ती एका पुस्तकाच्या वाचनात मग्न आहे."
+  },
+  {
+    "id": 42,
+    "sentence": "They are not playing cricket.",
+    "translation": "ते क्रिकेट खेळत नाही आहेत.",
+    "meaning": "क्रिकेटचे मैदान रिकामे आहे."
+  },
+  {
+    "id": 43,
+    "sentence": "We are watching a movie.",
+    "translation": "आम्ही एक चित्रपट पाहत आहोत.",
+    "meaning": "आम्ही आता चित्रपट पाहण्याचा आनंद घेत आहोत."
+  },
+  {
+    "id": 44,
+    "sentence": "He is not writing a report.",
+    "translation": "तो अहवाल (रिपोर्ट) लिहित नाही आहे.",
+    "meaning": "तो त्याच्या संगणकापासून दूर आहे."
+  },
+  {
+    "id": 45,
+    "sentence": "The dog is barking loudly.",
+    "translation": "कुत्रा जोरात भुंकत आहे.",
+    "meaning": "कुत्रा सध्या मोठा आवाज करत भुंकत आहे."
+  },
+  {
+    "id": 46,
+    "sentence": "I am not learning French.",
+    "translation": "मी फ्रेंच शिकत नाही आहे.",
+    "meaning": "माझा सध्याचा सराव फ्रेंच भाषेचा नाही."
+  },
+  {
+    "id": 47,
+    "sentence": "She is not cooking dinner.",
+    "translation": "ती रात्रीचे जेवण बनवत नाही आहे.",
+    "meaning": "शेगडी पूर्णपणे बंद आहे."
+  },
+  {
+    "id": 48,
+    "sentence": "They are building a house.",
+    "translation": "ते एक घर बांधत आहेत.",
+    "meaning": "एका नवीन घराचे बांधकाम सुरू आहे."
+  },
+  {
+    "id": 49,
+    "sentence": "We are not studying now.",
+    "translation": "आम्ही आता अभ्यास करत नाही आहोत.",
+    "meaning": "आम्ही आता लहान विश्रांती घेत आहोत."
+  },
+  {
+    "id": 50,
+    "sentence": "He is driving a car.",
+    "translation": "तो कार चालवत आहे.",
+    "meaning": "तो सध्या रस्त्यावर गाडी चालवत आहे."
+  },
+  {
+    "id": 51,
+    "sentence": "The baby is not crying.",
+    "translation": "बाळ रडत नाही आहे.",
+    "meaning": "बाळ शांत आणि हसतमुख आहे."
+  },
+  {
+    "id": 52,
+    "sentence": "I am listening to music.",
+    "translation": "मी संगीत ऐकत आहे.",
+    "meaning": "मी हेडफोनवर गाणी ऐकत आहे."
+  },
+  {
+    "id": 53,
+    "sentence": "She is not dancing today.",
+    "translation": "ती आज नाचत नाही आहे.",
+    "meaning": "ती आज विश्रांती घेत आहे."
+  },
+  {
+    "id": 54,
+    "sentence": "They are not working hard.",
+    "translation": "ते जास्त कष्ट करत नाही आहेत.",
+    "meaning": "ते सोफ्यावर विश्रांती घेत आहेत."
+  },
+  {
+    "id": 55,
+    "sentence": "We are cleaning the room.",
+    "translation": "आम्ही खोली स्वच्छ करत आहोत.",
+    "meaning": "आम्ही धूळ पुसत आणि झाडून सफाई करत आहोत."
+  },
+  {
+    "id": 56,
+    "sentence": "He is not painting the door.",
+    "translation": "तो दरवाजा रंगवत नाही आहे.",
+    "meaning": "दरवाजा त्याच्या मूळ लाकडी रंगातच आहे."
+  },
+  {
+    "id": 57,
+    "sentence": "The birds are flying.",
+    "translation": "पक्षी उडत आहेत.",
+    "meaning": "पक्षी आकाशात उंच भरारी घेत आहेत."
+  }
+]

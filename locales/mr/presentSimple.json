@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "sentence": "I wake up early.",
+    "translation": "मी सकाळी लवकर उठतो/उठते.",
+    "meaning": "सकाळी लवकर अंथरुणावरून उठणे."
+  },
+  {
+    "id": 2,
+    "sentence": "She does not like coffee.",
+    "translation": "तिला कॉफी आवडत नाही.",
+    "meaning": "तिला कॉफी नापसंत आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "They play cricket every Sunday.",
+    "translation": "ते दर रविवारी क्रिकेट खेळतात.",
+    "meaning": "ते रविवारी खेळ खेळतात."
+  },
+  {
+    "id": 4,
+    "sentence": "He does not watch TV daily.",
+    "translation": "तो रोज टीव्ही पाहत नाही.",
+    "meaning": "तो दररोज दूरदर्शन पाहत नाही."
+  },
+  {
+    "id": 5,
+    "sentence": "We study English.",
+    "translation": "आम्ही इंग्रजी शिकतो.",
+    "meaning": "आम्ही इंग्रजी भाषा शिकतो."
+  },
+  {
+    "id": 6,
+    "sentence": "I do not eat junk food.",
+    "translation": "मी जंक फूड खात नाही.",
+    "meaning": "मी अस्वास्थ्यकर अन्नापासून दूर राहतो."
+  },
+  {
+    "id": 7,
+    "sentence": "She writes neatly.",
+    "translation": "ती छान व नीटनेटके लिहिते.",
+    "meaning": "तिचे हस्ताक्षर खूप स्वच्छ आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "He does not run fast.",
+    "translation": "तो वेगाने पळत नाही.",
+    "meaning": "तो हळू गतीने धावतो."
+  },
+  {
+    "id": 9,
+    "sentence": "They live in Delhi.",
+    "translation": "ते दिल्लीमध्ये राहतात.",
+    "meaning": "त्यांचे घर दिल्लीत आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "We do not go out at night.",
+    "translation": "आम्ही रात्री बाहेर जात नाही.",
+    "meaning": "आम्ही रात्र झाल्यावर घरातच थांबतो."
+  },
+  {
+    "id": 11,
+    "sentence": "I like music.",
+    "translation": "मला संगीत आवडते.",
+    "meaning": "मला गाणी ऐकायला आवडते."
+  },
+  {
+    "id": 12,
+    "sentence": "She does not sing loudly.",
+    "translation": "ती मोठ्या आवाजात गात नाही.",
+    "meaning": "ती हळूवार आवाजात गाते."
+  },
+  {
+    "id": 13,
+    "sentence": "He drinks milk every day.",
+    "translation": "तो रोज दूध पितो.",
+    "meaning": "तो दररोज दुधाचे सेवन करतो."
+  },
+  {
+    "id": 14,
+    "sentence": "They do not waste time.",
+    "translation": "ते वेळ वाया घालवत नाहीत.",
+    "meaning": "ते त्यांच्या वेळेचा योग्य वापर करतात."
+  },
+  {
+    "id": 15,
+    "sentence": "We learn new things.",
+    "translation": "आम्ही नवीन गोष्टी शिकतो.",
+    "meaning": "आम्ही नवीन ज्ञान मिळवतो."
+  },
+  {
+    "id": 16,
+    "sentence": "I do not forget my homework.",
+    "translation": "मी माझा गृहपाठ विसरत नाही.",
+    "meaning": "मला नेहमी शाळेचा अभ्यास आठवतो."
+  },
+  {
+    "id": 17,
+    "sentence": "She cooks food.",
+    "translation": "ती जेवण बनवते.",
+    "meaning": "ती स्वयंपाक तयार करते."
+  },
+  {
+    "id": 18,
+    "sentence": "He does not play football.",
+    "translation": "तो फुटबॉल खेळत नाही.",
+    "meaning": "तो फुटबॉलच्या खेळात सहभागी होत नाही."
+  },
+  {
+    "id": 19,
+    "sentence": "They travel often.",
+    "translation": "ते वारंवार प्रवास करतात.",
+    "meaning": "ते वेगवेगळ्या ठिकाणी सतत भेट देतात."
+  },
+  {
+    "id": 20,
+    "sentence": "We do not ignore rules.",
+    "translation": "आम्ही नियमांकडे दुर्लक्ष करत नाही.",
+    "meaning": "आम्ही नियमांचे पालन करतो."
+  },
+  {
+    "id": 21,
+    "sentence": "I clean my room daily.",
+    "translation": "मी रोज माझी खोली स्वच्छ करतो.",
+    "meaning": "मी माझी खोली नेहमी नीटनेटक ठेवतो."
+  },
+  {
+    "id": 22,
+    "sentence": "She does not write badly.",
+    "translation": "ती वाईट लिहीत नाही.",
+    "meaning": "तिचे लेखन कौशल्य चांगले आहे."
+  },
+  {
+    "id": 23,
+    "sentence": "He studies at night.",
+    "translation": "तो रात्री अभ्यास करतो.",
+    "meaning": "तो रात्री उशिरापर्यंत अभ्यास करतो."
+  },
+  {
+    "id": 24,
+    "sentence": "They do not fight with friends.",
+    "translation": "ते मित्रांशी भांडण करत नाहीत.",
+    "meaning": "ते मित्रांसोबत चांगला संबंध ठेवतात."
+  },
+  {
+    "id": 25,
+    "sentence": "We celebrate festivals.",
+    "translation": "आम्ही सण साजरे करतो.",
+    "meaning": "आम्ही सांस्कृतिक कार्यक्रमांचा आनंद घेतो."
+  },
+  {
+    "id": 26,
+    "sentence": "I do not drive fast.",
+    "translation": "मी वेगाने गाडी चालवत नाही.",
+    "meaning": "मी सुरक्षित वेगाने गाडी चालवतो."
+  },
+  {
+    "id": 27,
+    "sentence": "She sings beautifully.",
+    "translation": "ती खूप छान गाते.",
+    "meaning": "तिचे गायन खूप सुंदर व ऐकावेसे वाटणारे आहे."
+  },
+  {
+    "id": 28,
+    "sentence": "He does not drink tea.",
+    "translation": "तो चहा पित नाही.",
+    "meaning": "तो चहा पिणे टाळतो."
+  },
+  {
+    "id": 29,
+    "sentence": "They build houses.",
+    "translation": "ते घरे बांधतात.",
+    "meaning": "त्यांचे काम घरे बांधण्याचे आहे."
+  },
+  {
+    "id": 30,
+    "sentence": "We do not break promises.",
+    "translation": "आम्ही दिलेली वचने मोडत नाही.",
+    "meaning": "आम्ही आमचा शब्द पाळतो."
+  },
+  {
+    "id": 31,
+    "sentence": "I read books.",
+    "translation": "मी पुस्तके वाचतो.",
+    "meaning": "मी पुस्तकातील मजकूर समजून घेतो."
+  },
+  {
+    "id": 32,
+    "sentence": "She does not play tennis.",
+    "translation": "ती टेनिस खेळत नाही.",
+    "meaning": "ती टेनिस हा खेळ खेळत नाही."
+  },
+  {
+    "id": 33,
+    "sentence": "He drives carefully.",
+    "translation": "तो काळजीपूर्वक गाडी चालवतो.",
+    "meaning": "तो एक सुरक्षित वाहनचालक आहे."
+  },
+  {
+    "id": 34,
+    "sentence": "They do not travel by train.",
+    "translation": "ते रेल्वेने प्रवास करत नाहीत.",
+    "meaning": "ते ट्रेनने जाणे टाळतात."
+  },
+  {
+    "id": 35,
+    "sentence": "We enjoy our time.",
+    "translation": "आम्ही आमच्या वेळेचा आनंद घेतो.",
+    "meaning": "आम्ही खूप मज्जा करतो."
+  },
+  {
+    "id": 36,
+    "sentence": "I do not like noise.",
+    "translation": "मला गोंगाट आवडत नाही.",
+    "meaning": "मला शांत वातावरण आवडते."
+  },
+  {
+    "id": 37,
+    "sentence": "She dances well.",
+    "translation": "ती छान नृत्य करते.",
+    "meaning": "ती उत्तम प्रकारे नाचते."
+  },
+  {
+    "id": 38,
+    "sentence": "He does not study regularly.",
+    "translation": "तो नियमितपणे अभ्यास करत नाही.",
+    "meaning": "त्याच्याकडे रोज अभ्यास करण्याची सवय नाही."
+  },
+  {
+    "id": 39,
+    "sentence": "They help others.",
+    "translation": "ते इतरांना मदत करतात.",
+    "meaning": "ते खूप दयाळू आणि सहकार्य करणारे आहेत."
+  },
+  {
+    "id": 40,
+    "sentence": "We do not argue much.",
+    "translation": "आम्ही जास्त वाद घालत नाही.",
+    "meaning": "आम्ही शांततेने संभाषण करतो."
+  },
+  {
+    "id": 41,
+    "sentence": "I drink water regularly.",
+    "translation": "मी नियमितपणे पाणी पितो.",
+    "meaning": "मी रोज शरीरासाठी पुरेसे पाणी पितो."
+  },
+  {
+    "id": 42,
+    "sentence": "She does not watch cartoons.",
+    "translation": "ती कार्टून पाहत नाही.",
+    "meaning": "ती अ‍ॅनिमेटेड शो पाहत नाही."
+  },
+  {
+    "id": 43,
+    "sentence": "They play in the park.",
+    "translation": "ते बागेत खेळतात.",
+    "meaning": "ते बागेमध्ये खेळण्याचा आनंद घेतात."
+  },
+  {
+    "id": 44,
+    "sentence": "He does not eat vegetables.",
+    "translation": "तो भाज्या खात नाही.",
+    "meaning": "त्याला भाज्या आवडत नाहीत."
+  },
+  {
+    "id": 45,
+    "sentence": "We visit our grandparents.",
+    "translation": "आम्ही आमच्या आजी-आजोबांना भेट देतो.",
+    "meaning": "आम्ही आमच्या वृद्ध नातेवाईकांना भेटायला जातो."
+  },
+  {
+    "id": 46,
+    "sentence": "I do not sleep late.",
+    "translation": "मी उशिरा झोपत नाही.",
+    "meaning": "मी लवकर झोपायला जातो."
+  },
+  {
+    "id": 47,
+    "sentence": "She reads stories.",
+    "translation": "ती गोष्टी वाचते.",
+    "meaning": "ती गोष्टींची पुस्तके वाचते."
+  },
+  {
+    "id": 48,
+    "sentence": "He does not help his brother.",
+    "translation": "तो त्याच्या भावाला मदत करत नाही.",
+    "meaning": "तो भावाला कामात मदत करत नाही."
+  },
+  {
+    "id": 49,
+    "sentence": "They enjoy music.",
+    "translation": "ते संगीताचा आनंद घेतात.",
+    "meaning": "त्यांना गाणी ऐकायला खूप आवडते."
+  },
+  {
+    "id": 50,
+    "sentence": "We do not skip classes.",
+    "translation": "आम्ही वर्ग बुडवत नाही.",
+    "meaning": "आम्ही नियमितपणे वर्गात उपस्थित राहतो."
+  },
+  {
+    "id": 51,
+    "sentence": "I write letters.",
+    "translation": "मी पत्रे लिहितो.",
+    "meaning": "मी कागदावर संदेश लिहितो."
+  },
+  {
+    "id": 52,
+    "sentence": "She does not drive a car.",
+    "translation": "ती गाडी चालवत नाही.",
+    "meaning": "तिला गाडी चालवायला येत नाही."
+  },
+  {
+    "id": 53,
+    "sentence": "He teaches students.",
+    "translation": "तो विद्यार्थ्यांना शिकवतो.",
+    "meaning": "तो एक शिक्षक म्हणून काम करतो."
+  },
+  {
+    "id": 54,
+    "sentence": "They do not clean their room.",
+    "translation": "ते त्यांची खोली स्वच्छ करत नाहीत.",
+    "meaning": "त्यांची खोली अस्ताव्यस्त राहते."
+  },
+  {
+    "id": 55,
+    "sentence": "We play games.",
+    "translation": "आम्ही खेळ खेळतो.",
+    "meaning": "आम्ही मैदानी किंवा इनडोअर खेळ खेळतो."
+  },
+  {
+    "id": 56,
+    "sentence": "I do not tell lies.",
+    "translation": "मी खोटे बोलत नाही.",
+    "meaning": "मी नेहमी खरे बोलतो."
+  },
+  {
+    "id": 57,
+    "sentence": "She paints pictures.",
+    "translation": "ती चित्रे रंगवते.",
+    "meaning": "ती सुंदर चित्रे काढते."
+  },
+  {
+    "id": 58,
+    "sentence": "He does not listen carefully.",
+    "translation": "तो लक्षपूर्वक ऐकत नाही.",
+    "meaning": "तो गोष्टींकडे पूर्ण लक्ष देत नाही."
+  }
+]

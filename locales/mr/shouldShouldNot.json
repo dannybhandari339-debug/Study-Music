@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "sentence": "You should wake up early.",
+    "translation": "तुम्ही सकाळी लवकर उठले पाहिजे.",
+    "meaning": "तुमच्यासाठी सकाळी लवकर उठणे फायदेशीर आणि योग्य आहे."
+  },
+  {
+    "id": 2,
+    "sentence": "You should not skip breakfast.",
+    "translation": "तुम्ही सकाळचा नाश्ता सोडला नाही पाहिजे.",
+    "meaning": "सकाळचा नाश्ता न सोडण्याचा सल्ला दिला जातो कारण ते आरोग्यासाठी वाईट आहे."
+  },
+  {
+    "id": 3,
+    "sentence": "She should study harder.",
+    "translation": "तिने अधिक मेहनतीने अभ्यास केला पाहिजे.",
+    "meaning": "तिने तिच्या अभ्यासात जास्त मेहनत घेण्याचा सल्ला दिला जातो."
+  },
+  {
+    "id": 4,
+    "sentence": "He should not waste time.",
+    "translation": "त्याने वेळ वाया घालवला नाही पाहिजे.",
+    "meaning": "त्याने निरुपयोगी कामांमध्ये वेळ वाया घालवणे अयोग्य आहे."
+  },
+  {
+    "id": 5,
+    "sentence": "We should help others.",
+    "translation": "आपण इतरांना मदत केली पाहिजे.",
+    "meaning": "गरजू लोकांना मदत करणे हे आपले नैतिक कर्तव्य आणि चांगले काम आहे."
+  },
+  {
+    "id": 6,
+    "sentence": "They should not lie.",
+    "translation": "त्यांनी खोटे बोलले नाही पाहिजे.",
+    "meaning": "खोटे बोलणे किंवा इतरांना फसवणे चुकीचे आहे."
+  },
+  {
+    "id": 7,
+    "sentence": "I should call my parents.",
+    "translation": "मी माझ्या पालकांना फोन केला पाहिजे.",
+    "meaning": "माझ्या कुटुंबाला फोन करणे ही माझी एक चांगली आणि जबाबदार कृती आहे."
+  },
+  {
+    "id": 8,
+    "sentence": "You should not drive fast.",
+    "translation": "तुम्ही वेगाने गाडी चालवली नाही पाहिजे.",
+    "meaning": "वेगाने गाडी चालवणे असुरक्षित आहे आणि तसे न करण्याचा सल्ला दिला जातो."
+  },
+  {
+    "id": 9,
+    "sentence": "She should drink more water.",
+    "translation": "तिने जास्त पाणी प्यायले पाहिजे.",
+    "meaning": "तिच्या आरोग्यासाठी जास्त पाणी पिणे फायदेशीर आहे."
+  },
+  {
+    "id": 10,
+    "sentence": "He should not shout at people.",
+    "translation": "त्याने लोकांवर ओरडले नाही पाहिजे.",
+    "meaning": "इतरांवर आवाज उठवणे हे असभ्य वर्तन आहे."
+  },
+  {
+    "id": 11,
+    "sentence": "We should save money.",
+    "translation": "आपण पैसे वाचवले पाहिजेत.",
+    "meaning": "भविष्यातील गरजांसाठी पैसे बाजूला ठेवणे शहाणपणाचे आहे."
+  },
+  {
+    "id": 12,
+    "sentence": "They should not fight.",
+    "translation": "त्यांनी भांडण केले नाही पाहिजे.",
+    "meaning": "आपसात भांडण किंवा वाद घालणे हे वाईट वर्तन आहे."
+  },
+  {
+    "id": 13,
+    "sentence": "I should exercise daily.",
+    "translation": "मी रोज व्यायाम केला पाहिजे.",
+    "meaning": "दररोज व्यायाम करणे माझ्यासाठी खूप फायदेशीर आहे."
+  },
+  {
+    "id": 14,
+    "sentence": "You should not eat junk food.",
+    "translation": "तुम्ही जंक फूड खाल्ले नाही पाहिजे.",
+    "meaning": "अस्वस्थ फास्ट फूड खाणे टाळण्याचा सल्ला दिला जातो."
+  },
+  {
+    "id": 15,
+    "sentence": "She should finish her homework.",
+    "translation": "तिने तिचा गृहपाठ पूर्ण केला पाहिजे.",
+    "meaning": "तिने शाळेचा गृहपाठ पूर्ण करणे अपेक्षित आहे."
+  },
+  {
+    "id": 16,
+    "sentence": "He should not be rude.",
+    "translation": "त्याने असभ्य वागले नाही पाहिजे.",
+    "meaning": "अशिष्ट किंवा उद्धट वर्तन दाखवणे ही वाईट सवय आहे."
+  },
+  {
+    "id": 17,
+    "sentence": "We should respect teachers.",
+    "translation": "आपण शिक्षकांचा आदर केला पाहिजे.",
+    "meaning": "शिक्षकांबद्दल आदर दाखवणे ही अत्यंत मोलाची सवय आहे."
+  },
+  {
+    "id": 18,
+    "sentence": "They should not make noise.",
+    "translation": "त्यांनी गोंधळ/आवाज केला नाही पाहिजे.",
+    "meaning": "त्यांनी शांत राहावे आणि मोठा आवाज करू नये असा सल्ला दिला जातो."
+  },
+  {
+    "id": 19,
+    "sentence": "I should learn English.",
+    "translation": "मी इंग्रजी शिकले पाहिजे.",
+    "meaning": "इंग्रजी भाषा शिकणे माझ्यासाठी खूप फायदेशीर आहे."
+  },
+  {
+    "id": 20,
+    "sentence": "You should not be late.",
+    "translation": "तुम्ही उशीर केला नाही पाहिजे.",
+    "meaning": "तुम्ही वेळेवर पोहोचावे ही अपेक्षा आहे."
+  },
+  {
+    "id": 21,
+    "sentence": "She should wear warm clothes.",
+    "translation": "तिने उबदार कपडे घातले पाहिजेत.",
+    "meaning": "थंडीपासून वाचण्यासाठी तिने उबदार कपडे घालण्याचा सल्ला दिला जातो."
+  },
+  {
+    "id": 22,
+    "sentence": "He should not ignore advice.",
+    "translation": "त्याने सल्ल्याकडे दुर्लक्ष केले नाही पाहिजे.",
+    "meaning": "इतरांनी दिलेल्या उपयुक्त सल्ल्याकडे दुर्लक्ष करणे अयोग्य आहे."
+  },
+  {
+    "id": 23,
+    "sentence": "We should keep the room clean.",
+    "translation": "आपण खोली स्वच्छ ठेवली पाहिजे.",
+    "meaning": "आपली खोली स्वच्छ ठेवणे आरोग्यासाठी चांगले आहे."
+  },
+  {
+    "id": 24,
+    "sentence": "They should not break rules.",
+    "translation": "त्यांनी नियम मोडले नाही पाहिजेत.",
+    "meaning": "ठरवून दिलेल्या नियमांचे पालन करणे त्यांच्यासाठी गरजेचे आहे."
+  },
+  {
+    "id": 25,
+    "sentence": "I should read books.",
+    "translation": "मी पुस्तके वाचली पाहिजेत.",
+    "meaning": "मानसिक विकासासाठी पुस्तके वाचणे ही खूप चांगली सवय आहे."
+  },
+  {
+    "id": 26,
+    "sentence": "You should not use bad words.",
+    "translation": "तुम्ही वाईट शब्द वापरले नाही पाहिजेत.",
+    "meaning": "वाइट किंवा अपशब्द वापरणे अयोग्य आहे."
+  },
+  {
+    "id": 27,
+    "sentence": "She should visit the doctor.",
+    "translation": "तिने डॉक्टरांकडे गेले पाहिजे.",
+    "meaning": "तिच्या आरोग्यासाठी तिने डॉक्टरांचा सल्ला घेणे योग्य आहे."
+  },
+  {
+    "id": 28,
+    "sentence": "He should not sleep late.",
+    "translation": "त्याने उशिरा झोपले नाही पाहिजे.",
+    "meaning": "उशिरापर्यंत जागे राहणे आरोग्यासाठी वाईट आहे."
+  }
+]

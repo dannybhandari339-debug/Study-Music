@@ -8627,7 +8627,7 @@
       ]
     },
     "day16": {
-      "title": "Past Perfect Continuous Tense",
+      "title": "Pasado Perfecto Continuo (Past Perfect Continuous Tense)",
       "sentences": [
         {
           "id": 1,
@@ -8637,7 +8637,8 @@
             "had",
             "have"
           ],
-          "meaning": "My study session was ongoing for two hours before the moment my friend came."
+          "translation": "Había estado estudiando durante dos horas cuando llegó mi amigo.",
+          "meaning": "Mi sesión de estudio estuvo en curso durante dos horas antes del momento en que vino mi amigo."
         },
         {
           "id": 2,
@@ -8647,7 +8648,8 @@
             "cooking",
             "cooked"
           ],
-          "meaning": "Her meal preparation was active all morning up until the guests stepped in."
+          "translation": "Ella había estado cocinando toda la mañana cuando llegaron los invitados.",
+          "meaning": "Su preparación de la comida estuvo activa toda la mañana hasta que entraron los invitados."
         },
         {
           "id": 3,
@@ -8657,7 +8659,8 @@
             "playing",
             "played"
           ],
-          "meaning": "Their cricket game was active and ongoing just as the rain began to fall."
+          "translation": "Ellos habían estado jugando al críquet cuando empezó a llover.",
+          "meaning": "Su partido de críquet estaba en curso en el preciso momento en que empezó a caer la lluvia."
         },
         {
           "id": 4,
@@ -8667,7 +8670,8 @@
             "walking",
             "walked"
           ],
-          "meaning": "Our physical walk went on for miles before we finally came across a coffee shop."
+          "translation": "Habíamos estado caminando durante millas cuando encontramos una cafetería.",
+          "meaning": "Nuestra caminata se prolongó por millas antes de que finalmente encontramos una cafetería."
         },
         {
           "id": 5,
@@ -8677,7 +8681,8 @@
             "been",
             "being"
           ],
-          "meaning": "His office work was in progress late in the evening when his manager made a call."
+          "translation": "Él había estado trabajando hasta tarde cuando su jefe lo llamó.",
+          "meaning": "Su trabajo de oficina estaba en progreso tarde por la noche cuando su gerente hizo una llamada."
         },
         {
           "id": 6,
@@ -8687,7 +8692,8 @@
             "reading",
             "read"
           ],
-          "meaning": "I was in the middle of reading my book at the moment the electricity failed."
+          "translation": "Había estado leyendo una novela cuando se fue la luz.",
+          "meaning": "Estaba en medio de leer mi libro en el momento en que falló la electricidad."
         },
         {
           "id": 7,
@@ -8697,7 +8703,8 @@
             "practicing",
             "practiced"
           ],
-          "meaning": "Her dance rehearsal session was in progress exactly when the instructor walked in."
+          "translation": "Ella había estado practicando danza cuando entró su profesor.",
+          "meaning": "Su sesión de ensayo de danza estaba en progreso exactamente cuando entró el instructor."
         },
         {
           "id": 8,
@@ -8707,7 +8714,8 @@
             "discussing",
             "discussed"
           ],
-          "meaning": "Their planning session was already active when their manager joined the table."
+          "translation": "Ellos habían estado discutiendo el plan cuando se unió el gerente.",
+          "meaning": "Su sesión de planificación ya estaba activa cuando su gerente se unió a la mesa."
         },
         {
           "id": 9,
@@ -8717,7 +8725,8 @@
             "waiting",
             "waited"
           ],
-          "meaning": "Our wait at the bus stop was ongoing until the moment the bus arrived."
+          "translation": "Habíamos estado esperando el autobús cuando finalmente llegó.",
+          "meaning": "Nuestra espera en la parada de autobús estuvo en curso hasta el momento en que llegó el autobús."
         },
         {
           "id": 10,
@@ -8727,7 +8736,8 @@
             "exercising",
             "exercised"
           ],
-          "meaning": "He was on a regular physical workout routine prior to starting to feel much healthier."
+          "translation": "Él había estado haciendo ejercicio con regularidad cuando se sintió más fuerte.",
+          "meaning": "Seguía una rutina de entrenamiento físico antes de comenzar a sentirse mucho más saludable."
         },
         {
           "id": 11,
@@ -8737,7 +8747,8 @@
             "writing",
             "written"
           ],
-          "meaning": "I was actively drafting digital letters just as the network connection dropped."
+          "translation": "Había estado escribiendo correos electrónicos cuando internet dejó de funcionar.",
+          "meaning": "Estaba redactando cartas digitales justo cuando se cayó la conexión de red."
         },
         {
           "id": 12,
@@ -8747,7 +8758,8 @@
             "singing",
             "sung"
           ],
-          "meaning": "Her melodic vocal performance was active at the moment the crowd clapped."
+          "translation": "Ella había estado cantando de manera hermosa cuando el público aplaudió.",
+          "meaning": "Su interpretación vocal melódica estaba activa en el momento en que la multitud aplaudió."
         },
         {
           "id": 13,
@@ -8757,7 +8769,8 @@
             "traveling",
             "traveled"
           ],
-          "meaning": "Their road or train journey had been going on for several days before reaching Delhi."
+          "translation": "Ellos habían estado viajando durante días cuando llegaron a Delhi.",
+          "meaning": "Su viaje por carretera o tren se había prolongado durante varios días antes de llegar a Delhi."
         },
         {
           "id": 14,
@@ -8767,7 +8780,8 @@
             "building",
             "built"
           ],
-          "meaning": "The construction work on their house was ongoing when the storm struck."
+          "translation": "Ellos habían estado construyendo la casa cuando azotó la tormenta.",
+          "meaning": "El trabajo de construcción de su casa estaba en curso cuando ocurrió la tormenta."
         },
         {
           "id": 15,
@@ -8777,7 +8791,8 @@
             "planning",
             "planned"
           ],
-          "meaning": "Our vacation planning was actively in progress before sudden events altered everything."
+          "translation": "Habíamos estado planeando el viaje cuando todo cambió.",
+          "meaning": "Nuestra planificación de vacaciones estaba activamente en curso antes de que eventos repentinos lo alteraran todo."
         },
         {
           "id": 16,
@@ -8787,7 +8802,8 @@
             "teaching",
             "taught"
           ],
-          "meaning": "His long educational career was active for years until the moment of his retirement."
+          "translation": "Él había estado enseñando durante años cuando se jubiló.",
+          "meaning": "Su larga carrera educativa estuvo activa durante años hasta el momento de su jubilación."
         },
         {
           "id": 17,
@@ -8797,7 +8813,8 @@
             "saving",
             "saved"
           ],
-          "meaning": "I set aside money over a long period prior to purchasing a brand new phone."
+          "translation": "Había estado ahorrando dinero antes de comprar un teléfono nuevo.",
+          "meaning": "Guardé dinero durante un largo período antes de comprar un teléfono totalmente nuevo."
         },
         {
           "id": 18,
@@ -8807,7 +8824,8 @@
             "working",
             "worked"
           ],
-          "meaning": "Her high-intensity work efforts were ongoing prior to receiving her job promotion."
+          "translation": "Ella había estado trabajando duro antes de ser ascendida.",
+          "meaning": "Sus intensos esfuerzos laborales estuvieron en curso antes de recibir su ascenso laboral."
         },
         {
           "id": 19,
@@ -8817,7 +8835,8 @@
             "practicing",
             "practiced"
           ],
-          "meaning": "Their daily rehearsals were ongoing up to the commencement of the official contest."
+          "translation": "Ellos habían estado practicando a diario antes de que comenzara la competición.",
+          "meaning": "Sus ensayos diarios continuaron hasta el inicio del concurso oficial."
         },
         {
           "id": 20,
@@ -8827,7 +8846,8 @@
             "preparing",
             "prepared"
           ],
-          "meaning": "We were in the middle of preparing meals before the visitors reached our home."
+          "translation": "Habíamos estado preparando la comida antes de que llegaran los invitados.",
+          "meaning": "Estábamos en medio de preparar la comida antes de que las visitas llegaran a nuestro hogar."
         },
         {
           "id": 21,
@@ -8837,7 +8857,8 @@
             "training",
             "trained"
           ],
-          "meaning": "He followed a strict physical workout program right up until winning the track event."
+          "translation": "Él había estado entrenando con regularidad antes de ganar la carrera.",
+          "meaning": "Siguió un estricto programa de entrenamiento físico justo hasta ganar el evento deportivo."
         },
         {
           "id": 22,
@@ -8847,7 +8868,8 @@
             "researching",
             "researched"
           ],
-          "meaning": "I spent hours studying and gathering topic details prior to drafting the formal report."
+          "translation": "Había estado investigando el tema antes de escribir el informe.",
+          "meaning": "Pasé horas estudiando y recopilando detalles del tema antes de redactar el informe formal."
         },
         {
           "id": 23,
@@ -8857,7 +8879,8 @@
             "studying",
             "studied"
           ],
-          "meaning": "She stayed up through the night learning material right up to the start of the test."
+          "translation": "Ella había estado estudiando toda la noche antes de que comenzara el examen.",
+          "meaning": "Se quedó despierta toda la noche estudiando el material justo hasta el comienzo de la prueba."
         },
         {
           "id": 24,
@@ -8867,7 +8890,8 @@
             "rehearsing",
             "rehearsed"
           ],
-          "meaning": "They spent considerable time practicing acts prior to the official stage show."
+          "translation": "Ellos habían estado ensayando antes de la actuación final.",
+          "meaning": "Pasaron un tiempo considerable practicando los actos antes de la presentación oficial en el escenario."
         },
         {
           "id": 25,
@@ -8877,7 +8901,8 @@
             "cleaning",
             "cleaned"
           ],
-          "meaning": "Our house-cleaning efforts were active leading up to the holiday celebrations."
+          "translation": "Habíamos estado limpiando la casa antes de que comenzara el festival.",
+          "meaning": "Nuestros esfuerzos de limpieza en casa estuvieron activos antes de las celebraciones festivas."
         },
         {
           "id": 26,
@@ -8887,7 +8912,8 @@
             "investing",
             "invested"
           ],
-          "meaning": "He consistently allocated his money into good assets prior to building high wealth."
+          "translation": "Él había estado invirtiendo sabiamente antes de hacerse rico.",
+          "meaning": "Destinó constantemente su dinero a buenos activos antes de acumular gran riqueza."
         },
         {
           "id": 27,
@@ -8897,40 +8923,41 @@
             "learning",
             "learned"
           ],
-          "meaning": "I dedicated significant time to studying programming before securing my first employment."
+          "translation": "Había estado aprendiendo programación antes de conseguir mi primer trabajo.",
+          "meaning": "Dediqué un tiempo significativo a estudiar programación antes de conseguir mi primer empleo."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Interrupted Actions",
-          "description": "Write about an activity that was ongoing in the past right up until it was interrupted by a sudden event.",
+          "title": "Acciones Interrumpidas",
+          "description": "Escribe sobre una actividad que estuvo en curso en el pasado justo hasta que fue interrumpida por un evento repentino.",
           "imageUrl": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I had been studying for two hours when my friend arrived.",
-            "She had been cooking all morning when the guests came.",
-            "They had been playing cricket when it started to rain.",
-            "I had been reading a novel when the lights went out.",
-            "We had been waiting for the bus when it finally came."
+            "Había estado estudiando durante dos horas cuando llegó mi amigo.",
+            "Ella había estado cocinando toda la mañana cuando llegaron los invitados.",
+            "Ellos habían estado jugando al críquet cuando empezó a llover.",
+            "Había estado leyendo una novela cuando se fue la luz.",
+            "Habíamos estado esperando el autobús cuando finalmente llegó."
           ]
         },
         {
           "id": 2,
-          "title": "Efforts and Results",
-          "description": "Describe a prolonged effort or activity that led to a specific result or transition in the past.",
+          "title": "Esfuerzos y Resultados",
+          "description": "Describe un esfuerzo o actividad prolongada que condujo a un resultado o transición específica en el pasado.",
           "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "He had been teaching for years when he retired.",
-            "I had been saving money before I bought a new phone.",
-            "She had been working hard before she got promoted.",
-            "He had been training regularly before he won the race.",
-            "I had been learning coding before I got my first job."
+            "Él había estado enseñando durante años cuando se jubiló.",
+            "Había estado ahorrando dinero antes de comprar un teléfono nuevo.",
+            "Ella había estado trabajando duro antes de ser ascendida.",
+            "Él había estado entrenando con regularidad antes de ganar la carrera.",
+            "Había estado aprendiendo programación antes de conseguir mi primer trabajo."
           ]
         }
       ]
     },
     "day17": {
-      "title": "Modals: Can & Could",
+      "title": "Verbos Modales: Can y Could (Modals: Can & Could)",
       "sentences": [
         {
           "id": 1,
@@ -8940,7 +8967,8 @@
             "can",
             "could"
           ],
-          "meaning": "I possess the ability to swim efficiently in the present."
+          "translation": "Puedo nadar muy bien.",
+          "meaning": "Poseo la capacidad de nadar eficientemente en el presente."
         },
         {
           "id": 2,
@@ -8950,7 +8978,8 @@
             "can't",
             "couldn't"
           ],
-          "meaning": "I do not have the ability or knowledge to solve this problem right now."
+          "translation": "No puedo resolver este problema.",
+          "meaning": "No tengo la capacidad ni el conocimiento para resolver este problema en este momento."
         },
         {
           "id": 3,
@@ -8960,7 +8989,8 @@
             "can",
             "could"
           ],
-          "meaning": "She has an excellent singing voice and can perform nicely now."
+          "translation": "Ella puede cantar de manera hermosa.",
+          "meaning": "Ella tiene una voz excelente y puede interpretar muy bien ahora."
         },
         {
           "id": 4,
@@ -8970,7 +9000,8 @@
             "can't",
             "couldn't"
           ],
-          "meaning": "He does not know how to operate a vehicle at present."
+          "translation": "Él no puede conducir un coche.",
+          "meaning": "Él no sabe cómo operar un vehículo en la actualidad."
         },
         {
           "id": 5,
@@ -8980,7 +9011,8 @@
             "can",
             "could"
           ],
-          "meaning": "It is possible for us to complete this task before the day ends."
+          "translation": "Podemos terminar esto hoy.",
+          "meaning": "Es posible para nosotros completar esta tarea antes de que termine el día."
         },
         {
           "id": 6,
@@ -8990,7 +9022,8 @@
             "can't",
             "couldn't"
           ],
-          "meaning": "It is not possible for them to attend the social gathering."
+          "translation": "Ellos no pueden venir a la fiesta.",
+          "meaning": "No es posible para ellos asistir a la reunión social."
         },
         {
           "id": 7,
@@ -9000,7 +9033,8 @@
             "can",
             "cannot"
           ],
-          "meaning": "It is possible for you to acquire any skill if you practice consistently."
+          "translation": "Puedes aprender cualquier cosa con práctica.",
+          "meaning": "Es posible para ti adquirir cualquier habilidad si practicas constantemente."
         },
         {
           "id": 8,
@@ -9010,7 +9044,8 @@
             "can't",
             "could"
           ],
-          "meaning": "I am unable to locate my keys at this moment."
+          "translation": "No puedo encontrar mis llaves.",
+          "meaning": "No puedo localizar mis llaves en este momento."
         },
         {
           "id": 9,
@@ -9020,7 +9055,8 @@
             "can",
             "could"
           ],
-          "meaning": "She is currently able to converse fluently in three different languages."
+          "translation": "Ella puede hablar tres idiomas.",
+          "meaning": "Actualmente ella es capaz de conversar con fluidez en tres idiomas diferentes."
         },
         {
           "id": 10,
@@ -9030,7 +9066,8 @@
             "can't",
             "couldn't"
           ],
-          "meaning": "He is currently unable to grasp the concepts being taught."
+          "translation": "Él no puede entender la lección.",
+          "meaning": "Actualmente él no logra comprender los conceptos que se están enseñando."
         },
         {
           "id": 11,
@@ -9040,7 +9077,8 @@
             "can",
             "couldn't"
           ],
-          "meaning": "I am willing and able to assist you with that task right now."
+          "translation": "Puedo ayudarte con eso.",
+          "meaning": "Estoy dispuesto y soy capaz de ayudarte con esa tarea en este momento."
         },
         {
           "id": 12,
@@ -9050,7 +9088,8 @@
             "can't",
             "could"
           ],
-          "meaning": "It is impossible or unwise for us to overlook this problem now."
+          "translation": "No podemos ignorar este problema.",
+          "meaning": "Es imposible o imprudente para nosotros ignorar este problema ahora."
         },
         {
           "id": 13,
@@ -9060,7 +9099,8 @@
             "can",
             "couldn't"
           ],
-          "meaning": "They have a strong possibility of achieving victory in the game."
+          "translation": "Ellos pueden ganar el partido.",
+          "meaning": "Tienen una gran posibilidad de lograr la victoria en el juego."
         },
         {
           "id": 14,
@@ -9070,7 +9110,8 @@
             "can't",
             "can"
           ],
-          "meaning": "You are not permitted or able to go inside this room."
+          "translation": "No puedes entrar a esta habitación.",
+          "meaning": "No tienes permitido o no puedes ingresar a esta habitación."
         },
         {
           "id": 15,
@@ -9080,7 +9121,8 @@
             "can",
             "couldn't"
           ],
-          "meaning": "She has the skill to prepare very tasty food."
+          "translation": "Ella puede cocinar comidas deliciosas.",
+          "meaning": "Ella tiene la habilidad de preparar comida muy sabrosa."
         },
         {
           "id": 16,
@@ -9090,7 +9132,8 @@
             "can't",
             "could"
           ],
-          "meaning": "He lacks the physical strength to pick up that heavy package."
+          "translation": "Él no puede levantar esa caja pesada.",
+          "meaning": "Él carece de la fuerza física para levantar ese paquete pesado."
         },
         {
           "id": 17,
@@ -9100,7 +9143,8 @@
             "can",
             "could"
           ],
-          "meaning": "The mountains are visible to me from my current position."
+          "translation": "Puedo ver las montañas.",
+          "meaning": "Las montañas son visibles para mí desde mi posición actual."
         },
         {
           "id": 18,
@@ -9110,7 +9154,8 @@
             "can't",
             "could"
           ],
-          "meaning": "We do not find it safe or reliable to place full faith in him."
+          "translation": "No podemos confiar en él por completo.",
+          "meaning": "No consideramos seguro o confiable depositar toda nuestra fe en él."
         },
         {
           "id": 19,
@@ -9120,7 +9165,8 @@
             "can",
             "could"
           ],
-          "meaning": "They have the mental capability to complete the puzzle now."
+          "translation": "Ellos pueden resolver el rompecabezas.",
+          "meaning": "Ellos tienen la capacidad mental para completar el rompecabezas ahora."
         },
         {
           "id": 20,
@@ -9130,7 +9176,8 @@
             "can't",
             "couldn't"
           ],
-          "meaning": "You are not allowed or able to go before the regular time today."
+          "translation": "No puedes irte temprano hoy.",
+          "meaning": "No tienes permitido salir antes del horario regular hoy."
         },
         {
           "id": 21,
@@ -9140,7 +9187,8 @@
             "could",
             "can"
           ],
-          "meaning": "I had the ability to swim during my childhood years."
+          "translation": "Podía nadar cuando era joven.",
+          "meaning": "Tenía la capacidad de nadar durante mis años de infancia."
         },
         {
           "id": 22,
@@ -9150,7 +9198,8 @@
             "couldn't",
             "can't"
           ],
-          "meaning": "I was unable to find the solution to the puzzle in the past."
+          "translation": "No pude resolver el rompecabezas.",
+          "meaning": "Fui incapaz de encontrar la solución al rompecabezas en el pasado."
         },
         {
           "id": 23,
@@ -9160,7 +9209,8 @@
             "could",
             "can"
           ],
-          "meaning": "She possessed a lovely singing voice when she was a little girl."
+          "translation": "Ella podía cantar de manera hermosa cuando era niña.",
+          "meaning": "Poseía una voz hermosa para cantar cuando era una niña pequeña."
         },
         {
           "id": 24,
@@ -9170,7 +9220,8 @@
             "couldn't",
             "can't"
           ],
-          "meaning": "He did not have a license or know how to drive during the previous year."
+          "translation": "Él no podía conducir el año pasado.",
+          "meaning": "No tenía licencia o no sabía conducir durante el año anterior."
         },
         {
           "id": 25,
@@ -9180,7 +9231,8 @@
             "could",
             "can"
           ],
-          "meaning": "We were able to complete the work before the deadline yesterday."
+          "translation": "Pudimos terminar el trabajo a tiempo.",
+          "meaning": "Fuimos capaces de completar el trabajo antes de la fecha límite ayer."
         },
         {
           "id": 26,
@@ -9190,7 +9242,8 @@
             "couldn't",
             "can't"
           ],
-          "meaning": "They were not able to be present at the scheduled meeting."
+          "translation": "Ellos no pudieron asistir a la reunión.",
+          "meaning": "No pudieron estar presentes en la reunión programada."
         },
         {
           "id": 27,
@@ -9200,7 +9253,8 @@
             "could",
             "can't"
           ],
-          "meaning": "It was possible or is possible for you to acquire much knowledge from this book."
+          "translation": "Podrías aprender mucho de este libro.",
+          "meaning": "Era posible o es posible para ti adquirir mucho conocimiento de este libro."
         },
         {
           "id": 28,
@@ -9210,7 +9264,8 @@
             "couldn't",
             "can't"
           ],
-          "meaning": "I was unable to locate my mobile device earlier."
+          "translation": "No pude encontrar mi teléfono.",
+          "meaning": "Fui incapaz de localizar mi dispositivo móvil anteriormente."
         },
         {
           "id": 29,
@@ -9220,7 +9275,8 @@
             "could",
             "can"
           ],
-          "meaning": "She had the ability to converse in French with ease at that time."
+          "translation": "Ella podía hablar francés con fluidez.",
+          "meaning": "Tenía la capacidad de conversar en francés con facilidad en ese momento."
         },
         {
           "id": 30,
@@ -9230,7 +9286,8 @@
             "couldn't",
             "can't"
           ],
-          "meaning": "He was unable to make sense of the guidelines given to him."
+          "translation": "Él no pudo entender las instrucciones.",
+          "meaning": "Fue incapaz de comprender las pautas que se le dieron."
         },
         {
           "id": 31,
@@ -9240,7 +9297,8 @@
             "could",
             "can"
           ],
-          "meaning": "I had the time and capability to assist you on the previous day."
+          "translation": "Pude ayudarte ayer.",
+          "meaning": "Tenía el tiempo y la capacidad para ayudarte en el día anterior."
         },
         {
           "id": 32,
@@ -9250,7 +9308,8 @@
             "couldn't",
             "can't"
           ],
-          "meaning": "We were unable to overlook or disregard the safety warning."
+          "translation": "No pudimos ignorar la advertencia.",
+          "meaning": "Fuimos incapaces de pasar por alto o ignorar la advertencia de seguridad."
         },
         {
           "id": 33,
@@ -9260,7 +9319,8 @@
             "could",
             "can"
           ],
-          "meaning": "They had a strong possibility of winning the match at that point."
+          "translation": "Ellos podían ganar el partido.",
+          "meaning": "Tenían una gran posibilidad de ganar el encuentro en ese momento."
         },
         {
           "id": 34,
@@ -9270,7 +9330,8 @@
             "couldn't",
             "can't"
           ],
-          "meaning": "You were not permitted or able to go inside the building yesterday."
+          "translation": "No podías entrar al edificio.",
+          "meaning": "No tenías permitido o no podías ingresar al edificio ayer."
         },
         {
           "id": 35,
@@ -9280,7 +9341,8 @@
             "could",
             "can"
           ],
-          "meaning": "She possessed excellent cooking skills during that period."
+          "translation": "Ella podía cocinar muy bien.",
+          "meaning": "Poseía excelentes habilidades culinarias durante ese período."
         },
         {
           "id": 36,
@@ -9290,7 +9352,8 @@
             "couldn't",
             "can't"
           ],
-          "meaning": "He lacked the strength to lift that heavy box at that moment."
+          "translation": "Él no pudo levantar la caja.",
+          "meaning": "Le faltó fuerza para levantar esa caja pesada en ese momento."
         },
         {
           "id": 37,
@@ -9300,7 +9363,8 @@
             "could",
             "can"
           ],
-          "meaning": "The stars were perfectly visible in the clear sky last night."
+          "translation": "Podía ver las estrellas con claridad.",
+          "meaning": "Las estrellas eran perfectamente visibles en el cielo despejado anoche."
         },
         {
           "id": 38,
@@ -9310,7 +9374,8 @@
             "couldn't",
             "can't"
           ],
-          "meaning": "We were unable to put our trust or confidence in him in the past."
+          "translation": "No podíamos confiar en él.",
+          "meaning": "Éramos incapaces de poner nuestra confianza o fe en él en el pasado."
         },
         {
           "id": 39,
@@ -9320,7 +9385,8 @@
             "could",
             "can"
           ],
-          "meaning": "They had the capacity to resolve the issue when it occurred."
+          "translation": "Ellos pudieron resolver el problema.",
+          "meaning": "Tenían la capacidad de resolver el problema cuando ocurrió."
         },
         {
           "id": 40,
@@ -9330,40 +9396,41 @@
             "couldn't",
             "can't"
           ],
-          "meaning": "You did not have permission or capability to depart early yesterday."
+          "translation": "No podías irte temprano.",
+          "meaning": "No tenías permiso o capacidad para salir temprano ayer."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Present Talents & Challenges",
-          "description": "Write about things you can do easily right now, and things you currently cannot do.",
+          "title": "Talentos y Desafíos Presentes",
+          "description": "Escribe sobre cosas que puedes hacer fácilmente ahora mismo y cosas que actualmente no puedes hacer.",
           "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I can swim very well.",
-            "She can sing beautifully.",
-            "I can't find my keys.",
-            "She can speak three languages.",
-            "He can't lift that heavy box."
+            "Puedo nadar muy bien.",
+            "Ella puede cantar de manera hermosa.",
+            "No puedo encontrar mis llaves.",
+            "Ella puede hablar tres idiomas.",
+            "Él no puede levantar esa caja pesada."
           ]
         },
         {
           "id": 2,
-          "title": "Past Abilities & Limits",
-          "description": "Reflect on what you could achieve when you were younger, or something you couldn't do in a past situation.",
+          "title": "Habilidades y Límites Pasados",
+          "description": "Reflexiona sobre lo que podías lograr cuando eras más joven, o algo que no pudiste hacer en una situación pasada.",
           "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I could swim when I was young.",
-            "I couldn't solve the puzzle.",
-            "She could sing beautifully as a child.",
-            "He couldn't drive last year.",
-            "We couldn't ignore the warning."
+            "Podía nadar cuando era joven.",
+            "No pude resolver el rompecabezas.",
+            "Ella podía cantar de manera hermosa cuando era niña.",
+            "Él no podía conducir el año pasado.",
+            "No pudimos ignorar la advertencia."
           ]
         }
       ]
     },
     "day18": {
-      "title": "Modals: Should & Should Not",
+      "title": "Verbos Modales: Should y Should Not (Modals: Should & Should Not)",
       "sentences": [
         {
           "id": 1,
@@ -9373,7 +9440,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is recommended and beneficial for you to rise early in the morning."
+          "translation": "Deberías despertarte temprano.",
+          "meaning": "Es recomendable y beneficioso para ti levantarte temprano por la mañana."
         },
         {
           "id": 2,
@@ -9383,7 +9451,8 @@
             "not",
             "never"
           ],
-          "meaning": "It is advice not to miss your morning meal as it is bad for your health."
+          "translation": "No deberías saltarte el desayuno.",
+          "meaning": "Se aconseja no omitir tu comida matutina ya que es malo para tu salud."
         },
         {
           "id": 3,
@@ -9393,7 +9462,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is recommended that she puts more effort into her academic studies."
+          "translation": "Ella debería estudiar más duro.",
+          "meaning": "Se recomienda que ponga más esfuerzo en sus estudios académicos."
         },
         {
           "id": 4,
@@ -9403,7 +9473,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is bad or unwise for him to spend his time on unproductive tasks."
+          "translation": "Él no debería perder el tiempo.",
+          "meaning": "Es malo o imprudente para él gastar su tiempo en tareas improductivas."
         },
         {
           "id": 5,
@@ -9413,7 +9484,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is our moral duty or a recommended good deed to assist people in need."
+          "translation": "Deberíamos ayudar a los demás.",
+          "meaning": "Es nuestro deber moral o una buena acción recomendada asistir a las personas necesitadas."
         },
         {
           "id": 6,
@@ -9423,7 +9495,8 @@
             "not",
             "no"
           ],
-          "meaning": "It is wrong and advised against to speak untruths or deceive others."
+          "translation": "Ellos no deberían mentir.",
+          "meaning": "Es incorrecto y se desaconseja decir falsedades o engañar a otros."
         },
         {
           "id": 7,
@@ -9433,7 +9506,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is a good and responsible action for me to phone my family."
+          "translation": "Debería llamar a mis padres.",
+          "meaning": "Es una acción buena y responsable de mi parte llamar a mi familia."
         },
         {
           "id": 8,
@@ -9443,7 +9517,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is unsafe and highly recommended not to operate a vehicle at high speeds."
+          "translation": "No deberías conducir rápido.",
+          "meaning": "Es peligroso y se recomienda encarecidamente no operar un vehículo a gran velocidad."
         },
         {
           "id": 9,
@@ -9453,7 +9528,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is recommended for her health to consume a higher volume of fluids."
+          "translation": "Ella debería beber más agua.",
+          "meaning": "Se recomienda para su salud consumir un mayor volumen de líquidos."
         },
         {
           "id": 10,
@@ -9463,7 +9539,8 @@
             "not",
             "no"
           ],
-          "meaning": "It is rude and highly advised against raising his voice at others."
+          "translation": "Él no debería gritar a la gente.",
+          "meaning": "Es de mala educación y se desaconseja encarecidamente alzar la voz a los demás."
         },
         {
           "id": 11,
@@ -9473,7 +9550,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is wise and advised to set aside finances for future requirements."
+          "translation": "Deberíamos ahorrar dinero.",
+          "meaning": "Es sabio y se aconseja reservar finanzas para necesidades futuras."
         },
         {
           "id": 12,
@@ -9483,7 +9561,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is negative behavior and advised against to engage in physical or verbal conflict."
+          "translation": "Ellos no deberían pelear.",
+          "meaning": "Es un comportamiento negativo y se desaconseja participar en conflictos físicos o verbales."
         },
         {
           "id": 13,
@@ -9493,7 +9572,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is highly beneficial and recommended for me to work out every day."
+          "translation": "Debería hacer ejercicio a diario.",
+          "meaning": "Es muy beneficioso y recomendable para mí hacer ejercicio todos los días."
         },
         {
           "id": 14,
@@ -9503,7 +9583,8 @@
             "not",
             "never"
           ],
-          "meaning": "It is recommended to avoid eating unhealthy, highly processed fast food."
+          "translation": "No deberías comer comida basura.",
+          "meaning": "Se recomienda evitar comer comida rápida no saludable y ultraprocesada."
         },
         {
           "id": 15,
@@ -9513,7 +9594,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is expected and recommended that she completes her school assignments."
+          "translation": "Ella debería terminar sus deberes.",
+          "meaning": "Se espera y se recomienda que complete sus tareas escolares."
         },
         {
           "id": 16,
@@ -9523,7 +9605,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is bad manners and advised against to display impolite behavior."
+          "translation": "Él no debería ser maleducado.",
+          "meaning": "Es de malos modales y se desaconseja mostrar un comportamiento irrespetuoso."
         },
         {
           "id": 17,
@@ -9533,7 +9616,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is a highly valuable and recommended attitude to show honor to educators."
+          "translation": "Deberíamos respetar a los profesores.",
+          "meaning": "Es una actitud muy valiosa y recomendada mostrar honor a los educadores."
         },
         {
           "id": 18,
@@ -9543,7 +9627,8 @@
             "not",
             "no"
           ],
-          "meaning": "They are advised to remain quiet and not create loud, disruptive sounds."
+          "translation": "Ellos no deberían hacer ruido.",
+          "meaning": "Se les aconseja permanecer en silencio y no crear sonidos fuertes o molestos."
         },
         {
           "id": 19,
@@ -9553,7 +9638,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is extremely beneficial and recommended for me to study the English language."
+          "translation": "Debería aprender inglés.",
+          "meaning": "Es extremadamente beneficioso y recomendable para mí estudiar el idioma inglés."
         },
         {
           "id": 20,
@@ -9563,7 +9649,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is recommended and expected that you arrive on time rather than delayed."
+          "translation": "No deberías llegar tarde.",
+          "meaning": "Se recomienda y se espera que llegues a tiempo en lugar de retrasado."
         },
         {
           "id": 21,
@@ -9573,7 +9660,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is advised for her to dress in thick garments to stay warm."
+          "translation": "Ella debería llevar ropa de abrigo.",
+          "meaning": "Se le aconseja vestirse con prendas gruesas para mantenerse abrigada."
         },
         {
           "id": 22,
@@ -9583,7 +9671,8 @@
             "not",
             "no"
           ],
-          "meaning": "It is unwise for him to neglect helpful suggestions given by others."
+          "translation": "Él no debería ignorar los consejos.",
+          "meaning": "Es imprudente para él descuidar las sugerencias útiles que le dan otros."
         },
         {
           "id": 23,
@@ -9593,7 +9682,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is recommended and hygienic for us to maintain a tidy living space."
+          "translation": "Deberíamos mantener la habitación limpia.",
+          "meaning": "Es recomendable e higiénico para nosotros mantener un espacio ordenado."
         },
         {
           "id": 24,
@@ -9603,7 +9693,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is recommended and obligatory for them to follow established regulations."
+          "translation": "Ellos no deberían romper las reglas.",
+          "meaning": "Es recomendable y obligatorio para ellos seguir las regulaciones establecidas."
         },
         {
           "id": 25,
@@ -9613,7 +9704,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is a highly recommended habit for mental growth to read literature."
+          "translation": "Debería leer libros.",
+          "meaning": "Es un hábito muy recomendado para el crecimiento mental leer literatura."
         },
         {
           "id": 26,
@@ -9623,7 +9715,8 @@
             "not",
             "no"
           ],
-          "meaning": "It is highly offensive and advised against using vulgar or negative language."
+          "translation": "No deberías usar palabrotas.",
+          "meaning": "Es muy ofensivo y se desaconseja usar lenguaje vulgar o negativo."
         },
         {
           "id": 27,
@@ -9633,7 +9726,8 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is advised for her health to see a medical professional."
+          "translation": "Ella debería visitar al médico.",
+          "meaning": "Se aconseja para su salud consultar a un profesional médico."
         },
         {
           "id": 28,
@@ -9643,40 +9737,41 @@
             "should",
             "shouldn't"
           ],
-          "meaning": "It is unhealthy and advised against staying awake late into the night."
+          "translation": "Él no debería dormirse tarde.",
+          "meaning": "Es poco saludable y se desaconseja quedarse despierto hasta altas horas de la noche."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Healthy Lifestyle Advice",
-          "description": "Write recommendations using 'should' and 'should not' to help someone maintain a highly healthy physical and mental lifestyle.",
+          "title": "Consejos para un Estilo de Vida Saludable",
+          "description": "Escribe recomendaciones usando 'should' y 'should not' para ayudar a alguien a mantener un estilo de vida físico y mental muy saludable.",
           "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "You should wake up early.",
-            "You should not skip breakfast.",
-            "She should drink more water.",
-            "You should not eat junk food.",
-            "I should exercise daily."
+            "Deberías despertarte temprano.",
+            "No deberías saltarte el desayuno.",
+            "Ella debería beber más agua.",
+            "No deberías comer comida basura.",
+            "Debería hacer ejercicio a diario."
           ]
         },
         {
           "id": 2,
-          "title": "Good Social Manners & Conduct",
-          "description": "Give advice about showing polite behaviors, respect, and positive actions in society and daily life.",
+          "title": "Buenos Modales y Conducta Social",
+          "description": "Da consejos sobre cómo mostrar comportamientos educados, respeto y acciones positivas en la sociedad y en la vida diaria.",
           "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "We should help others.",
-            "They should not lie.",
-            "He should not shout at people.",
-            "We should respect teachers.",
-            "He should not be rude."
+            "Deberíamos ayudar a los demás.",
+            "Ellos no deberían mentir.",
+            "Él no debería gritar a la gente.",
+            "Deberíamos respetar a los profesores.",
+            "Él no debería ser maleducado."
           ]
         }
       ]
     },
     "day19": {
-      "title": "Modals: May & Might",
+      "title": "Verbos Modales: May y Might (Modals: May & Might)",
       "sentences": [
         {
           "id": 1,
@@ -9686,7 +9781,8 @@
             "may",
             "must"
           ],
-          "meaning": "It is possible that I will go to the market today, but not guaranteed."
+          "translation": "Puede que vaya al mercado hoy.",
+          "meaning": "Es posible que vaya al mercado hoy, pero no está garantizado."
         },
         {
           "id": 2,
@@ -9696,7 +9792,8 @@
             "might",
             "should"
           ],
-          "meaning": "There is a slight possibility that she will arrive late."
+          "translation": "Ella podría llegar tarde.",
+          "meaning": "Existe una ligera posibilidad de que ella llegue tarde."
         },
         {
           "id": 3,
@@ -9706,7 +9803,8 @@
             "may",
             "had to"
           ],
-          "meaning": "We have a good possibility of winning the sports game."
+          "translation": "Puede que ganemos el partido.",
+          "meaning": "Tenemos una buena posibilidad de ganar el partido deportivo."
         },
         {
           "id": 4,
@@ -9716,7 +9814,8 @@
             "not",
             "never"
           ],
-          "meaning": "There is a chance that he will be absent from the scheduled meeting."
+          "translation": "Puede que él no asista a la reunión.",
+          "meaning": "Existe la posibilidad de que él esté ausente en la reunión programada."
         },
         {
           "id": 5,
@@ -9726,7 +9825,8 @@
             "may",
             "has to"
           ],
-          "meaning": "It is possible they will come to see us tomorrow."
+          "translation": "Puede que ellos nos visiten mañana.",
+          "meaning": "Es posible que vengan a vernos mañana."
         },
         {
           "id": 6,
@@ -9736,7 +9836,8 @@
             "might",
             "should"
           ],
-          "meaning": "There is a small chance that I will not remember your name."
+          "translation": "Podría olvidar tu nombre.",
+          "meaning": "Existe una pequeña posibilidad de que no recuerde tu nombre."
         },
         {
           "id": 7,
@@ -9746,7 +9847,8 @@
             "may",
             "might not"
           ],
-          "meaning": "You are officially permitted to go inside the room at this moment."
+          "translation": "Puedes entrar a la habitación ahora.",
+          "meaning": "Tienes permiso oficial para ingresar a la habitación en este momento."
         },
         {
           "id": 8,
@@ -9756,7 +9858,8 @@
             "might",
             "should"
           ],
-          "meaning": "It is possible, though uncertain, that she will dislike the meal."
+          "translation": "Puede que a ella no le guste la comida.",
+          "meaning": "Es posible, aunque incierto, que a ella no le guste la comida."
         },
         {
           "id": 9,
@@ -9766,7 +9869,8 @@
             "may",
             "must"
           ],
-          "meaning": "The weather conditions suggest a possibility of rain tonight."
+          "translation": "Puede que llueva esta noche.",
+          "meaning": "Las condiciones meteorológicas sugieren una posibilidad de lluvia esta noche."
         },
         {
           "id": 10,
@@ -9776,7 +9880,8 @@
             "might",
             "will have"
           ],
-          "meaning": "There is a possibility that he will contact you on the phone later."
+          "translation": "Él podría llamarte más tarde.",
+          "meaning": "Existe la posibilidad de que él te contacte por teléfono más tarde."
         },
         {
           "id": 11,
@@ -9786,7 +9891,8 @@
             "not",
             "no"
           ],
-          "meaning": "It is possible that we will fail to complete our task before the day ends."
+          "translation": "Puede que no terminemos el trabajo hoy.",
+          "meaning": "Es posible que no logremos completar nuestra tarea antes de que termine el día."
         },
         {
           "id": 12,
@@ -9796,7 +9902,8 @@
             "might",
             "should not"
           ],
-          "meaning": "They have a potential chance of offering us assistance."
+          "translation": "Ellos podrían ayudarnos.",
+          "meaning": "Tienen una oportunidad potencial de ofrecernos asistencia."
         },
         {
           "id": 13,
@@ -9806,7 +9913,8 @@
             "may",
             "had"
           ],
-          "meaning": "I am considering the possibility of purchasing a new mobile device."
+          "translation": "Puede que compre un teléfono nuevo.",
+          "meaning": "Estoy considerando la posibilidad de comprar un nuevo dispositivo móvil."
         },
         {
           "id": 14,
@@ -9816,7 +9924,8 @@
             "might",
             "doesn't have to"
           ],
-          "meaning": "There is a risk or possibility that she will fail to catch the bus."
+          "translation": "Ella podría perder el autobús.",
+          "meaning": "Existe un riesgo o posibilidad de que ella no alcance a tomar el autobús."
         },
         {
           "id": 15,
@@ -9826,7 +9935,8 @@
             "not",
             "no"
           ],
-          "meaning": "It is possible that you will find this specific subject difficult to grasp."
+          "translation": "Puede que no entiendas este tema.",
+          "meaning": "Es posible que este tema específico te resulte difícil de comprender."
         },
         {
           "id": 16,
@@ -9836,7 +9946,8 @@
             "might",
             "has to"
           ],
-          "meaning": "It is possible that he will meet up with our group at a later time."
+          "translation": "Él podría unirse a nosotros más tarde.",
+          "meaning": "Es posible que él se reúna con nuestro grupo más adelante."
         },
         {
           "id": 17,
@@ -9846,7 +9957,8 @@
             "may",
             "don't have to"
           ],
-          "meaning": "We are thinking about taking a journey next month."
+          "translation": "Puede que viajemos el próximo mes.",
+          "meaning": "Estamos pensando en la posibilidad de hacer un viaje el mes que viene."
         },
         {
           "id": 18,
@@ -9856,7 +9968,8 @@
             "might",
             "shall"
           ],
-          "meaning": "There is a chance they will have a different opinion than ours."
+          "translation": "Puede que ellos no estén de acuerdo con nosotros.",
+          "meaning": "Existe la posibilidad de que tengan una opinión diferente a la nuestra."
         },
         {
           "id": 19,
@@ -9866,7 +9979,8 @@
             "may",
             "has"
           ],
-          "meaning": "I might spend my evening viewing a motion picture."
+          "translation": "Puede que vea una película esta noche.",
+          "meaning": "Podría pasar la noche viendo una película."
         },
         {
           "id": 20,
@@ -9876,7 +9990,8 @@
             "might",
             "ought"
           ],
-          "meaning": "It is possible she will accompany her friend to our place."
+          "translation": "Ella podría traer a su amiga.",
+          "meaning": "Es posible que ella venga acompañada de su amiga a nuestro lugar."
         },
         {
           "id": 21,
@@ -9886,7 +10001,8 @@
             "may",
             "must"
           ],
-          "meaning": "There is a possibility that the statement is false or incorrect."
+          "translation": "Puede que no sea verdad.",
+          "meaning": "Existe la posibilidad de que la afirmación sea falsa o incorrecta."
         },
         {
           "id": 22,
@@ -9896,7 +10012,8 @@
             "might",
             "has to"
           ],
-          "meaning": "There is a chance that he will be defeated in the competition."
+          "translation": "Él podría perder el juego.",
+          "meaning": "Existe la posibilidad de que él sea derrotado en la competición."
         },
         {
           "id": 23,
@@ -9906,7 +10023,8 @@
             "may",
             "had to"
           ],
-          "meaning": "It is possible that the allocated duration will be insufficient for us."
+          "translation": "Puede que necesitemos más tiempo.",
+          "meaning": "Es posible que el tiempo asignado sea insuficiente para nosotros."
         },
         {
           "id": 24,
@@ -9916,7 +10034,8 @@
             "not",
             "never"
           ],
-          "meaning": "It is possible they will decide not to make their way to this location."
+          "translation": "Puede que ellos no vengan aquí.",
+          "meaning": "Es posible que decidan no venir a este lugar."
         },
         {
           "id": 25,
@@ -9926,7 +10045,8 @@
             "may",
             "haven't"
           ],
-          "meaning": "I am planning on the possibility of studying the English language soon."
+          "translation": "Puede que aprenda inglés pronto.",
+          "meaning": "Estoy planificando la posibilidad de estudiar el idioma inglés pronto."
         },
         {
           "id": 26,
@@ -9936,7 +10056,8 @@
             "may",
             "must"
           ],
-          "meaning": "It is possible that he will be away when you visit his house."
+          "translation": "Puede que no lo encuentres en casa.",
+          "meaning": "Es posible que él esté fuera cuando visites su casa."
         },
         {
           "id": 27,
@@ -9946,7 +10067,8 @@
             "might",
             "would"
           ],
-          "meaning": "There is a potential possibility of him succeeding in the test."
+          "translation": "Él podría aprobar el examen.",
+          "meaning": "Existe la posibilidad potencial de que tenga éxito en la prueba."
         },
         {
           "id": 28,
@@ -9956,7 +10078,8 @@
             "may",
             "had to"
           ],
-          "meaning": "It is possible that we will host a celebratory gathering tomorrow."
+          "translation": "Puede que celebremos mañana.",
+          "meaning": "Es posible que organicemos una reunión festiva mañana."
         },
         {
           "id": 29,
@@ -9966,7 +10089,8 @@
             "might",
             "should"
           ],
-          "meaning": "It is possible they will express disagreement or withhold support for the proposal."
+          "translation": "Puede que ellos no apoyen el plan.",
+          "meaning": "Es posible que expresen desacuerdo o retengan su apoyo a la propuesta."
         },
         {
           "id": 30,
@@ -9976,7 +10100,8 @@
             "may",
             "must not"
           ],
-          "meaning": "I might have a personal or professional encounter with him today."
+          "translation": "Puede que me reúna con él hoy.",
+          "meaning": "Podría tener un encuentro personal o profesional con él hoy."
         },
         {
           "id": 31,
@@ -9986,7 +10111,8 @@
             "might",
             "doesn't have to"
           ],
-          "meaning": "She has a chance of leaving her keys behind by accident."
+          "translation": "Ella podría olvidar las llaves.",
+          "meaning": "Tiene la posibilidad de dejar sus llaves olvidadas por accidente."
         },
         {
           "id": 32,
@@ -9996,40 +10122,41 @@
             "may",
             "has"
           ],
-          "meaning": "The price has a high possibility of increasing over time."
+          "translation": "Puede que se vuelva caro.",
+          "meaning": "El precio tiene una alta posibilidad de aumentar con el tiempo."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Future Possibilities & Plans",
-          "description": "Write about the uncertain events, potential weather changes, and possible weekend plans using 'may' and 'might'.",
+          "title": "Posibilidades Futuras y Permisos",
+          "description": "Escribe sobre planes o eventos potenciales en los que estás pensando usando 'may' y 'might'.",
           "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I may go to the market today.",
-            "She might come late.",
-            "We may win the match.",
-            "It may rain tonight.",
-            "We may travel next month."
+            "Puede que vaya al mercado hoy.",
+            "Ella podría llegar tarde.",
+            "Puede que ganemos el partido.",
+            "Puede que llueva esta noche.",
+            "Puede que viajemos el próximo mes."
           ]
         },
         {
           "id": 2,
-          "title": "Uncertain Events & Doubts",
-          "description": "Describe scenarios where you are not completely sure about other people's choices or future reactions.",
+          "title": "Eventos Inciertos y Dudas",
+          "description": "Describe escenarios en los que no estás completamente seguro de las elecciones de otras personas o sus reacciones futuras.",
           "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "He might not attend the meeting.",
-            "She might not like the food.",
-            "They might not agree with us.",
-            "I might forget your name.",
-            "You may not find him at home."
+            "Puede que él no asista a la reunión.",
+            "Puede que a ella no le guste la comida.",
+            "Puede que ellos no estén de acuerdo con nosotros.",
+            "Podría olvidar tu nombre.",
+            "Puede que no lo encuentres en casa."
           ]
         }
       ]
     },
     "day20": {
-      "title": "Modals: Has to, Have to, Had to",
+      "title": "Verbos Modales: Has to, Have to, Had to (Modals: Has to, Have to, Had to)",
       "sentences": [
         {
           "id": 1,
@@ -10039,7 +10166,8 @@
             "has",
             "have"
           ],
-          "meaning": "It is necessary for him (singular) to focus on his physical wellbeing."
+          "translation": "Él tiene que cuidar su salud.",
+          "meaning": "Es necesario que él (en singular) se concentre en su bienestar físico."
         },
         {
           "id": 2,
@@ -10049,7 +10177,8 @@
             "have",
             "has"
           ],
-          "meaning": "It is a legal requirement for them (plural) to renew their travel documents."
+          "translation": "Ellos tienen que renovar sus pasaportes.",
+          "meaning": "Es un requisito legal para ellos (en plural) renovar sus documentos de viaje."
         },
         {
           "id": 3,
@@ -10059,7 +10188,8 @@
             "have",
             "has"
           ],
-          "meaning": "It is necessary for me to purchase tickets early to secure a seat."
+          "translation": "Tengo que reservar los billetes de tren con antelación.",
+          "meaning": "Es necesario que compre los billetes con tiempo para asegurar un asiento."
         },
         {
           "id": 4,
@@ -10069,7 +10199,8 @@
             "have",
             "has"
           ],
-          "meaning": "It is highly recommended or necessary to bring an umbrella today."
+          "translation": "Tienes que llevar un paraguas; puede que llueva.",
+          "meaning": "Es muy recomendable o necesario llevar un paraguas hoy."
         },
         {
           "id": 5,
@@ -10079,7 +10210,8 @@
             "have",
             "has"
           ],
-          "meaning": "It is our social obligation or duty to treat everyone with respect."
+          "translation": "Tenemos que ser educados con todos.",
+          "meaning": "Es nuestra obligación o deber social tratar a todos con respeto."
         },
         {
           "id": 6,
@@ -10089,7 +10221,8 @@
             "has",
             "have"
           ],
-          "meaning": "It is a requirement or chore for her to tidy up her room."
+          "translation": "Ella tiene que limpiar su habitación todos los fines de semana.",
+          "meaning": "Es un requisito o tarea para ella ordenar su habitación."
         },
         {
           "id": 7,
@@ -10099,7 +10232,8 @@
             "has",
             "have"
           ],
-          "meaning": "It is necessary for him to repair his bicycle so he can ride it."
+          "translation": "Él tiene que arreglar su bicicleta.",
+          "meaning": "Es necesario que repare su bicicleta para poder usarla."
         },
         {
           "id": 8,
@@ -10109,7 +10243,8 @@
             "have",
             "has"
           ],
-          "meaning": "It is a compulsory rule to sign up before participating in the contest."
+          "translation": "Ellos tienen que registrarse para la competición.",
+          "meaning": "Es una regla obligatoria inscribirse antes de participar en el concurso."
         },
         {
           "id": 9,
@@ -10119,7 +10254,8 @@
             "have",
             "has"
           ],
-          "meaning": "It is an immediate work responsibility for me to email my employer."
+          "translation": "Tengo que enviar un correo electrónico a mi jefe.",
+          "meaning": "Es una responsabilidad laboral inmediata para mí enviar un correo a mi empleador."
         },
         {
           "id": 10,
@@ -10129,7 +10265,8 @@
             "have",
             "has"
           ],
-          "meaning": "It is extremely important and mandatory for safety to drive cautiously."
+          "translation": "Tienes que tener cuidado al conducir.",
+          "meaning": "Es extremadamente importante y obligatorio por seguridad conducir con precaución."
         },
         {
           "id": 11,
@@ -10139,7 +10276,8 @@
             "have",
             "has"
           ],
-          "meaning": "We feel a moral obligation or duty to offer help to our friends."
+          "translation": "Tenemos que apoyar a nuestros amigos.",
+          "meaning": "Sentimos la obligación moral o el deber de ofrecer ayuda a nuestros amigos."
         },
         {
           "id": 12,
@@ -10149,7 +10287,8 @@
             "has",
             "have"
           ],
-          "meaning": "She is required or committed to go to her scheduled yoga lesson."
+          "translation": "Ella tiene que asistir a su clase de yoga.",
+          "meaning": "Está obligada o comprometida a ir a su lección programada de yoga."
         },
         {
           "id": 13,
@@ -10159,7 +10298,8 @@
             "has",
             "have"
           ],
-          "meaning": "It is necessary for him to contact the specialist to fix the leaks."
+          "translation": "Él tiene que llamar al fontanero.",
+          "meaning": "Es necesario que contacte con el especialista para reparar las fugas."
         },
         {
           "id": 14,
@@ -10169,7 +10309,8 @@
             "have",
             "has"
           ],
-          "meaning": "It is their financial and contractual obligation to pay for their housing."
+          "translation": "Ellos tienen que pagar el alquiler.",
+          "meaning": "Es su obligación financiera y contractual pagar por su vivienda."
         },
         {
           "id": 15,
@@ -10179,7 +10320,8 @@
             "have",
             "has"
           ],
-          "meaning": "It is necessary for me to write down important points to study later."
+          "translation": "Tengo que tomar notas durante la conferencia.",
+          "meaning": "Es necesario que anote los puntos importantes para estudiar más tarde."
         },
         {
           "id": 16,
@@ -10189,7 +10331,8 @@
             "have",
             "has"
           ],
-          "meaning": "It is necessary for us to rise early in the morning."
+          "translation": "Tenemos que despertarnos temprano mañana.",
+          "meaning": "Es necesario que nos levantemos temprano por la mañana."
         },
         {
           "id": 17,
@@ -10199,7 +10342,8 @@
             "doesn't",
             "don't"
           ],
-          "meaning": "There is no obligation or necessity for her to wake up early on Saturdays and Sundays."
+          "translation": "Ella no tiene que despertarse a las 5 AM los fines de semana.",
+          "meaning": "No hay obligación ni necesidad de que se levante temprano los sábados y domingos."
         },
         {
           "id": 18,
@@ -10209,7 +10353,8 @@
             "doesn't",
             "don't"
           ],
-          "meaning": "The deadline is not today, so he is not required to finish it right now."
+          "translation": "Él no tiene que completar el proyecto hoy.",
+          "meaning": "La fecha límite no es hoy, por lo que no se le exige terminarlo ahora mismo."
         },
         {
           "id": 19,
@@ -10219,7 +10364,8 @@
             "don't",
             "doesn't"
           ],
-          "meaning": "Attendance is voluntary for them, not compulsory."
+          "translation": "Ellos no tienen que asistir al seminario si no quieren.",
+          "meaning": "La asistencia es voluntaria para ellos, no obligatoria."
         },
         {
           "id": 20,
@@ -10229,7 +10375,8 @@
             "don't",
             "doesn't"
           ],
-          "meaning": "It is not necessary for me to hire a taxi since walking is an option."
+          "translation": "No tengo que coger un taxi; puedo ir andando.",
+          "meaning": "No es necesario que contrate un taxi ya que caminar es una opción."
         },
         {
           "id": 21,
@@ -10239,7 +10386,8 @@
             "don't",
             "doesn't"
           ],
-          "meaning": "There is no need for you to carry food to this event."
+          "translation": "No tienes que traer comida; ya tenemos suficiente.",
+          "meaning": "No hay necesidad de que traigas comida a este evento."
         },
         {
           "id": 22,
@@ -10249,7 +10397,8 @@
             "don't",
             "doesn't"
           ],
-          "meaning": "Going to the shops is not a necessary task for us today."
+          "translation": "No tenemos que ir de compras hoy.",
+          "meaning": "Ir a las tiendas no es una tarea necesaria para nosotros hoy."
         },
         {
           "id": 23,
@@ -10259,7 +10408,8 @@
             "doesn't",
             "don't"
           ],
-          "meaning": "It is not mandatory for her to enter the contest."
+          "translation": "Ella no tiene que participar en la competición.",
+          "meaning": "No es obligatorio para ella inscribirse en el concurso."
         },
         {
           "id": 24,
@@ -10269,7 +10419,8 @@
             "don't",
             "doesn't"
           ],
-          "meaning": "They are exempt from standing in line because of their special pass."
+          "translation": "Ellos no tienen que hacer cola; tienen acceso prioritario.",
+          "meaning": "Están exentos de hacer cola debido a su pase especial."
         },
         {
           "id": 25,
@@ -10279,7 +10430,8 @@
             "had",
             "has"
           ],
-          "meaning": "In the past, it was necessary for me to wake up early to go to work."
+          "translation": "Tuve que despertarme temprano para ir a trabajar.",
+          "meaning": "En el pasado, fue necesario que me levantara temprano para ir a trabajar."
         },
         {
           "id": 26,
@@ -10289,7 +10441,8 @@
             "had",
             "has"
           ],
-          "meaning": "She was forced by bad health to call off her journey in the past."
+          "translation": "Ella tuvo que cancelar su viaje debido a una enfermedad.",
+          "meaning": "Se vio obligada por su mala salud a suspender su viaje en el pasado."
         },
         {
           "id": 27,
@@ -10299,7 +10452,8 @@
             "had",
             "have"
           ],
-          "meaning": "We were obligated to complete the task within the given timeframe."
+          "translation": "Tuvimos que terminar el proyecto a tiempo.",
+          "meaning": "Estábamos obligados a completar la tarea dentro del plazo establecido."
         },
         {
           "id": 28,
@@ -10309,7 +10463,8 @@
             "had",
             "has"
           ],
-          "meaning": "It was necessary for him to say sorry for what he did wrong."
+          "translation": "Él tuvo que disculparse por su error.",
+          "meaning": "Fue necesario que pidiera perdón por lo que hizo mal."
         },
         {
           "id": 29,
@@ -10319,7 +10474,8 @@
             "had",
             "have"
           ],
-          "meaning": "They were required or forced to depart from the social event before it ended."
+          "translation": "Ellos tuvieron que irse temprano de la fiesta.",
+          "meaning": "Se vieron obligados a abandonar el evento social antes de que terminara."
         },
         {
           "id": 30,
@@ -10329,7 +10485,8 @@
             "had",
             "have"
           ],
-          "meaning": "It was necessary for me to spend the entire night preparing for my test."
+          "translation": "Tuve que estudiar toda la noche para el examen.",
+          "meaning": "Fue necesario para mí pasar toda la noche preparándome para la prueba."
         },
         {
           "id": 31,
@@ -10339,7 +10496,8 @@
             "had",
             "have"
           ],
-          "meaning": "We were forced to travel along another path because of road blocks."
+          "translation": "Tuvimos que tomar una ruta diferente a casa.",
+          "meaning": "Nos vimos obligados a viajar por otro camino debido a bloqueos en la carretera."
         },
         {
           "id": 32,
@@ -10349,40 +10507,41 @@
             "had",
             "has"
           ],
-          "meaning": "She was given the responsibility of looking after her sibling in the past."
+          "translation": "Ella tuvo que cuidar a su hermano menor.",
+          "meaning": "Se le dio la responsabilidad de cuidar a su hermano en el pasado."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Daily Responsibilities & Obligations",
-          "description": "Write about your active obligations, rules at work or school, and chore routines using 'has to' and 'have to'.",
+          "title": "Responsabilidades y Obligaciones Diarias",
+          "description": "Escribe sobre tus obligaciones activas, reglas en el trabajo o la escuela, y rutinas de tareas domésticas usando 'has to' y 'have to'.",
           "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "He has to take care of his health.",
-            "They have to renew their passports.",
-            "I have to book train tickets in advance.",
-            "We have to be polite to everyone.",
-            "She has to clean her room every weekend."
+            "Él tiene que cuidar su salud.",
+            "Ellos tienen que renovar sus pasaportes.",
+            "Tengo que reservar los billetes de tren con antelación.",
+            "Tenemos que ser educados con todos.",
+            "Ella tiene que limpiar su habitación todos los fines de semana."
           ]
         },
         {
           "id": 2,
-          "title": "Lack of Obligation & Past Demands",
-          "description": "Describe things that are voluntary (not necessary) in your life, or look back at difficult obligations you met in the past using 'don't/doesn't have to' and 'had to'.",
+          "title": "Ausencia de Obligación y Exigencias Pasadas",
+          "description": "Describe cosas que son voluntarias (no necesarias) en tu vida, o recuerda obligaciones difíciles que cumpliste en el pasado usando 'don't/doesn't have to' y 'had to'.",
           "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "She doesn't have to wake up at 5 AM on weekends.",
-            "They don't have to attend the seminar if they don't want to.",
-            "I had to study all night for the exam.",
-            "She had to cancel her trip due to illness.",
-            "We had to take a different route home."
+            "Ella no tiene que despertarse a las 5 AM los fines de semana.",
+            "Ellos no tienen que asistir al seminario si no quieren.",
+            "Tuve que estudiar toda la noche para el examen.",
+            "Ella tuvo que cancelar su viaje debido a una enfermedad.",
+            "Tuvimos que tomar una ruta diferente a casa."
           ]
         }
       ]
     },
     "day21": {
-      "title": "Modals: Must",
+      "title": "Verbos Modales: Must (Modals: Must)",
       "sentences": [
         {
           "id": 1,
@@ -10392,7 +10551,8 @@
             "must",
             "can't"
           ],
-          "meaning": "It is absolutely necessary and vital for me to have self-belief every day."
+          "translation": "Debo creer en mí mismo todos los días.",
+          "meaning": "Es absolutamente necesario e vital para mí confiar en mí mismo todos los días."
         },
         {
           "id": 2,
@@ -10402,7 +10562,8 @@
             "must",
             "should not"
           ],
-          "meaning": "It is highly essential that you maintain an optimistic attitude during difficult moments."
+          "translation": "Debes mantenerte positivo en momentos difíciles.",
+          "meaning": "Es muy esencial que mantengas una actitud optimista durante los momentos difíciles."
         },
         {
           "id": 3,
@@ -10412,7 +10573,8 @@
             "must",
             "has to"
           ],
-          "meaning": "We have a strong internal obligation to continue progressing despite any challenges."
+          "translation": "Debemos seguir avanzando pase lo que pase.",
+          "meaning": "Tenemos la firme obligación interna de continuar progresando a pesar de cualquier desafío."
         },
         {
           "id": 4,
@@ -10422,7 +10584,8 @@
             "must",
             "could"
           ],
-          "meaning": "It is extremely necessary for me to exert effort to fulfill my lifelong aspirations."
+          "translation": "Debo trabajar duro para alcanzar mis sueños.",
+          "meaning": "Es extremadamente necesario que me esfuerce para cumplir mis aspiraciones de toda la vida."
         },
         {
           "id": 5,
@@ -10432,7 +10595,8 @@
             "must",
             "might not"
           ],
-          "meaning": "It is highly recommended and crucial to have confidence in your unique life path."
+          "translation": "Debes confiar en tu camino.",
+          "meaning": "Es muy recomendable y crucial tener confianza en tu camino único de vida."
         },
         {
           "id": 6,
@@ -10442,7 +10606,8 @@
             "must",
             "would"
           ],
-          "meaning": "We are strongly obligated to assist one another in reaching our common goals."
+          "translation": "Debemos ayudarnos mutuamente a tener éxito.",
+          "meaning": "Estamos firmemente obligados a asistirnos unos a otros para alcanzar nuestras metas comunes."
         },
         {
           "id": 7,
@@ -10452,7 +10617,8 @@
             "must",
             "don't have to"
           ],
-          "meaning": "It is highly necessary for me to concentrate fully on my objectives."
+          "translation": "Debo mantenerme enfocado en mis metas.",
+          "meaning": "Es de suma necesidad para mí concentrarme totalmente en mis objetivos."
         },
         {
           "id": 8,
@@ -10462,7 +10628,8 @@
             "must",
             "should not"
           ],
-          "meaning": "It is critical and mandatory that you never abandon your optimistic expectations."
+          "translation": "Nunca debes perder la esperanza.",
+          "meaning": "Es crítico y obligatorio que nunca abandones tus expectativas optimistas."
         },
         {
           "id": 9,
@@ -10472,7 +10639,8 @@
             "must",
             "has"
           ],
-          "meaning": "We have an important moral obligation to show respect toward each other."
+          "translation": "Debemos respetarnos unos a otros.",
+          "meaning": "Tenemos una importante obligación moral de mostrarnos respeto mutuo."
         },
         {
           "id": 10,
@@ -10482,7 +10650,8 @@
             "must",
             "might"
           ],
-          "meaning": "It is my personal duty and necessity to preserve my physical wellbeing."
+          "translation": "Debo cuidar mi salud.",
+          "meaning": "Es mi deber personal y necesidad preservar mi bienestar físico."
         },
         {
           "id": 11,
@@ -10492,7 +10661,8 @@
             "must",
             "would"
           ],
-          "meaning": "It is highly essential and recommended that you pursue what you truly love doing."
+          "translation": "Debes seguir tu pasión.",
+          "meaning": "Es sumamente esencial y recomendable que persigas aquello que realmente amas hacer."
         },
         {
           "id": 12,
@@ -10502,7 +10672,8 @@
             "must",
             "doesn't have to"
           ],
-          "meaning": "It is vital for our personal growth to acquire wisdom from our errors."
+          "translation": "Debemos aprender de nuestros errores.",
+          "meaning": "Es vital para nuestro crecimiento personal adquirir sabiduría a partir de nuestros errores."
         },
         {
           "id": 13,
@@ -10512,7 +10683,8 @@
             "must",
             "might"
           ],
-          "meaning": "It is highly necessary for me to maintain composure during stressful events."
+          "translation": "Debo mantener la calma bajo presión.",
+          "meaning": "Es de gran necesidad para mí mantener la compostura durante eventos estresantes."
         },
         {
           "id": 14,
@@ -10522,7 +10694,8 @@
             "must",
             "could"
           ],
-          "meaning": "It is vital for your success that you have deep confidence in your skills."
+          "translation": "Debes creer en tus capacidades.",
+          "meaning": "Es vital para tu éxito que tengas una profunda confianza en tus habilidades."
         },
         {
           "id": 15,
@@ -10532,7 +10705,8 @@
             "must",
             "have"
           ],
-          "meaning": "We have a shared moral responsibility to distribute kindness in all places."
+          "translation": "Debemos difundir amabilidad en todas partes.",
+          "meaning": "Tenemos la responsabilidad moral compartida de repartir bondad en todos los lugares."
         },
         {
           "id": 16,
@@ -10542,7 +10716,8 @@
             "must",
             "may not"
           ],
-          "meaning": "It is highly essential for me to maintain an optimistic frame of mind."
+          "translation": "Debo mantener una mentalidad positiva.",
+          "meaning": "Es sumamente esencial para mí mantener una actitud mental optimista."
         },
         {
           "id": 17,
@@ -10552,7 +10727,8 @@
             "must",
             "would"
           ],
-          "meaning": "It is strongly necessary for you to pursue your goals with courage."
+          "translation": "Debes perseguir tus sueños sin temor.",
+          "meaning": "Es muy necesario que persigas tus metas con valentía."
         },
         {
           "id": 18,
@@ -10562,7 +10738,8 @@
             "must",
             "don't have to"
           ],
-          "meaning": "We feel a deep social and moral obligation to stand by our close companions."
+          "translation": "Debemos apoyar a nuestros amigos.",
+          "meaning": "Sentimos una profunda obligación social y moral de respaldar a nuestros compañeros cercanos."
         },
         {
           "id": 19,
@@ -10572,7 +10749,8 @@
             "must",
             "has to"
           ],
-          "meaning": "It is necessary for me to remain robust and courageous during difficult trials."
+          "translation": "Debo mantenerme fuerte ante los desafíos.",
+          "meaning": "Es necesario que permanezca firme y valiente durante las pruebas difíciles."
         },
         {
           "id": 20,
@@ -10582,7 +10760,8 @@
             "must",
             "might not"
           ],
-          "meaning": "It is highly essential to make a conscious choice to be happy every single day."
+          "translation": "Debes elegir la felicidad a diario.",
+          "meaning": "Es altamente esencial tomar la decisión consciente de ser feliz todos los días."
         },
         {
           "id": 21,
@@ -10592,7 +10771,8 @@
             "must",
             "would"
           ],
-          "meaning": "We have a duty to inspire and lift up the spirits of those around us."
+          "translation": "Debemos animarnos unos a otros.",
+          "meaning": "Tenemos el deber de inspirar y elevar el ánimo de quienes nos rodean."
         },
         {
           "id": 22,
@@ -10602,7 +10782,8 @@
             "must",
             "can't"
           ],
-          "meaning": "It is absolutely critical for me to maintain complete integrity in everything I do."
+          "translation": "Debo mantenerme honesto en mis acciones.",
+          "meaning": "Es absolutamente crítico para mí mantener una integridad completa en todo lo que hago."
         },
         {
           "id": 23,
@@ -10612,7 +10793,8 @@
             "must",
             "should not"
           ],
-          "meaning": "It is essential that you trust your inner power and possibilities."
+          "translation": "Debes creer en tu potencial.",
+          "meaning": "Es esencial que confíes en tu poder interno y en tus posibilidades."
         },
         {
           "id": 24,
@@ -10622,7 +10804,8 @@
             "must",
             "had to"
           ],
-          "meaning": "We share an active responsibility to construct a superior tomorrow."
+          "translation": "Debemos construir un futuro mejor.",
+          "meaning": "Compartimos la responsabilidad activa de edificar un mañana superior."
         },
         {
           "id": 25,
@@ -10632,7 +10815,8 @@
             "must",
             "could"
           ],
-          "meaning": "It is vital for my continuous progress to keep my drive alive at all times."
+          "translation": "Debo mantenerme motivado siempre.",
+          "meaning": "Es vital para mi progreso continuo mantener viva mi motivación en todo momento."
         },
         {
           "id": 26,
@@ -10642,7 +10826,8 @@
             "must",
             "doesn't have to"
           ],
-          "meaning": "It is your responsibility to nurture and protect your own personal aspirations."
+          "translation": "Debes cuidar de tus sueños.",
+          "meaning": "Es tu responsabilidad nutrir y proteger tus propias aspiraciones personales."
         },
         {
           "id": 27,
@@ -10652,7 +10837,8 @@
             "must",
             "might not"
           ],
-          "meaning": "It is necessary for us to learn and mature from whatever we live through."
+          "translation": "Debemos crecer a través de las experiencias.",
+          "meaning": "Es necesario para nosotros aprender y madurar a partir de todo lo que vivimos."
         },
         {
           "id": 28,
@@ -10662,7 +10848,8 @@
             "must",
             "has to"
           ],
-          "meaning": "I have an ongoing personal commitment to enhance my character and skills."
+          "translation": "Debo seguir mejorando como persona.",
+          "meaning": "Tengo un compromiso personal continuo para mejorar mi carácter y habilidades."
         },
         {
           "id": 29,
@@ -10672,7 +10859,8 @@
             "must",
             "won't"
           ],
-          "meaning": "It is highly essential to look forward to the future with constant optimism."
+          "translation": "Debes mantener la esperanza siempre.",
+          "meaning": "Es sumamente esencial mirar hacia el futuro con constante optimismo."
         },
         {
           "id": 30,
@@ -10682,7 +10870,8 @@
             "must",
             "doesn't have to"
           ],
-          "meaning": "We have a critical ethical obligation to value and protect the natural world."
+          "translation": "Debemos respetar la naturaleza.",
+          "meaning": "Tenemos una obligación ética crítica de valorar y proteger el mundo natural."
         },
         {
           "id": 31,
@@ -10692,7 +10881,8 @@
             "must",
             "could"
           ],
-          "meaning": "It is necessary for me to remain enduring and calm when facing problems."
+          "translation": "Debo mantenerme paciente ante las dificultades.",
+          "meaning": "Es necesario para mí permanecer paciente y sereno al enfrentar problemas."
         },
         {
           "id": 32,
@@ -10702,7 +10892,8 @@
             "must",
             "should not"
           ],
-          "meaning": "It is vital to preserve a gentle, sympathetic, and generous nature."
+          "translation": "Debes mantener un corazón bondadoso.",
+          "meaning": "Es vital preservar una naturaleza afable, empática y generosa."
         },
         {
           "id": 33,
@@ -10712,7 +10903,8 @@
             "must",
             "had to"
           ],
-          "meaning": "We are highly encouraged to distribute positive vibes to people around us."
+          "translation": "Debemos compartir positividad con los demás.",
+          "meaning": "Se nos anima fuertemente a transmitir buena energía a las personas que nos rodean."
         },
         {
           "id": 34,
@@ -10722,7 +10914,8 @@
             "must",
             "will have"
           ],
-          "meaning": "It is essential for me to maintain unwavering faith in my choices."
+          "translation": "Debo mantenerme seguro en mis decisiones.",
+          "meaning": "Es esencial para mí mantener una fe inquebrantable en mis elecciones."
         },
         {
           "id": 35,
@@ -10732,7 +10925,8 @@
             "must",
             "should not"
           ],
-          "meaning": "It is absolutely vital that you keep believing, regardless of the situation."
+          "translation": "Nunca debes perder la fe.",
+          "meaning": "Es absolutamente vital que sigas creyendo, independientemente de la situación."
         },
         {
           "id": 36,
@@ -10742,40 +10936,41 @@
             "must",
             "doesn't have to"
           ],
-          "meaning": "It is necessary for us to welcome and adapt to new life circumstances."
+          "translation": "Debemos aceptar el cambio.",
+          "meaning": "Es necesario para nosotros acoger y adaptarnos a las nuevas circunstancias de la vida."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Strong Personal Rules & Beliefs",
-          "description": "Write about your absolute rules, core values, and life guidelines using 'must'.",
+          "title": "Reglas y Creencias Personales Firmes",
+          "description": "Escribe sobre tus reglas absolutas, valores fundamentales y pautas de vida usando 'must'.",
           "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I must believe in myself every day.",
-            "You must stay positive in tough times.",
-            "I must work hard to achieve my dreams.",
-            "You must trust your journey.",
-            "I must stay focused on my goals."
+            "Debo creer en mí mismo todos los días.",
+            "Debes mantenerte positivo en momentos difíciles.",
+            "Debo trabajar duro para alcanzar mis sueños.",
+            "Debes confiar en tu camino.",
+            "Debo mantenerme enfocado en mis metas."
           ]
         },
         {
           "id": 2,
-          "title": "Shared Values & Future Commitments",
-          "description": "Describe the changes we need to make as a society or group, and how we should support each other using 'must'.",
+          "title": "Valores Compartidos y Compromisos Futuros",
+          "description": "Describe los cambios que debemos hacer como sociedad o grupo, y cómo debemos apoyarnos mutuamente usando 'must'.",
           "imageUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "We must keep moving forward no matter what.",
-            "We must help each other succeed.",
-            "We must respect one another.",
-            "We must build a better future.",
-            "We must grow through experiences."
+            "Debemos seguir avanzando pase lo que pase.",
+            "Debemos ayudarnos mutuamente a tener éxito.",
+            "Debemos respetarnos unos a otros.",
+            "Debemos construir un futuro mejor.",
+            "Debemos crecer a través de las experiencias."
           ]
         }
       ]
     },
     "day22": {
-      "title": "Modals: Would",
+      "title": "Verbos Modales: Would (Modals: Would)",
       "sentences": [
         {
           "id": 1,
@@ -10785,7 +10980,8 @@
             "would",
             "will"
           ],
-          "meaning": "The instructor predicted or promised in the past that the lessons would be engaging."
+          "translation": "El profesor dijo que la clase sería interesante.",
+          "meaning": "El instructor predijo o prometió en el pasado que las lecciones serían entretenidas."
         },
         {
           "id": 2,
@@ -10795,7 +10991,8 @@
             "would",
             "will"
           ],
-          "meaning": "It is a desirable hypothetical situation to finish the work within the deadline."
+          "translation": "Sería genial completar la tarea a tiempo.",
+          "meaning": "Es una situación hipotética deseable terminar el trabajo dentro del plazo."
         },
         {
           "id": 3,
@@ -10805,7 +11002,8 @@
             "would",
             "will"
           ],
-          "meaning": "The sports group had a past habit or routine of practicing early each day."
+          "translation": "El equipo entrenaba todas las mañanas.",
+          "meaning": "El grupo deportivo tenía el hábito o la rutina pasada de entrenar temprano cada día."
         },
         {
           "id": 4,
@@ -10815,7 +11013,8 @@
             "would",
             "will"
           ],
-          "meaning": "Past documentation indicated a future prospect of better outcomes."
+          "translation": "El informe mostró que los resultados mejorarían.",
+          "meaning": "La documentación pasada indicaba una perspectiva futura de mejores resultados."
         },
         {
           "id": 5,
@@ -10825,7 +11024,8 @@
             "would",
             "will"
           ],
-          "meaning": "It is a pleasant hypothetical thought to witness advancement or improvement."
+          "translation": "Sería agradable ver avances.",
+          "meaning": "Es un pensamiento hipotético agradable presenciar un progreso o mejora."
         },
         {
           "id": 6,
@@ -10835,7 +11035,8 @@
             "would",
             "will"
           ],
-          "meaning": "The assembly of people used to gather at set intervals in the past."
+          "translation": "El grupo se reunía regularmente.",
+          "meaning": "El grupo de personas solía reunirse a intervalos fijos en el pasado."
         },
         {
           "id": 7,
@@ -10845,7 +11046,8 @@
             "would",
             "will"
           ],
-          "meaning": "The trainer held a past belief that the players were going to achieve victory."
+          "translation": "El entrenador creía que el equipo ganaría.",
+          "meaning": "El entrenador tenía la creencia pasada de que los jugadores iban a lograr la victoria."
         },
         {
           "id": 8,
@@ -10855,7 +11057,8 @@
             "would",
             "will"
           ],
-          "meaning": "Acquiring new abilities is a highly beneficial hypothetical action."
+          "translation": "Sería útil aprender nuevas habilidades.",
+          "meaning": "Adquirir nuevas capacidades es una acción hipotética altamente beneficiosa."
         },
         {
           "id": 9,
@@ -10865,7 +11068,8 @@
             "would",
             "will"
           ],
-          "meaning": "The employees had a past habit of adhering to a structured daily schedule."
+          "translation": "El personal seguía una rutina clara.",
+          "meaning": "Los empleados tenían el hábito pasado de apegarse a un horario diario estructurado."
         },
         {
           "id": 10,
@@ -10875,7 +11079,8 @@
             "would",
             "will"
           ],
-          "meaning": "The strategic proposal indicated that all operations would run smoothly."
+          "translation": "El plan mostró que todo funcionaría bien.",
+          "meaning": "La propuesta estratégica indicaba que todas las operaciones se desarrollarían sin problemas."
         },
         {
           "id": 11,
@@ -10885,7 +11090,8 @@
             "would",
             "will"
           ],
-          "meaning": "Reaching your target is an amazing hypothetical or future accomplishment."
+          "translation": "Sería maravilloso alcanzar el éxito.",
+          "meaning": "Alcanzar tu objetivo es un logro hipotético o futuro increíble."
         },
         {
           "id": 12,
@@ -10895,7 +11101,8 @@
             "would",
             "will"
           ],
-          "meaning": "The learners had a regular habit of reviewing their study material each day."
+          "translation": "Los estudiantes repasaban las lecciones a diario.",
+          "meaning": "Los alumnos tenían el hábito regular de revisar su material de estudio cada día."
         },
         {
           "id": 13,
@@ -10905,7 +11112,8 @@
             "would",
             "will"
           ],
-          "meaning": "The supervisor expressed a past assurance that the task would be a success."
+          "translation": "El gerente dijo que el proyecto tendría éxito.",
+          "meaning": "El supervisor expresó una garantía pasada de que la tarea sería un éxito."
         },
         {
           "id": 14,
@@ -10915,7 +11123,8 @@
             "would",
             "will"
           ],
-          "meaning": "Maintaining attention on goals is a highly advantageous hypothetical behavior."
+          "translation": "Sería beneficioso mantenerse enfocado.",
+          "meaning": "Mantener la atención en las metas es un comportamiento hipotético muy ventajoso."
         },
         {
           "id": 15,
@@ -10925,7 +11134,8 @@
             "would",
             "will"
           ],
-          "meaning": "The colleagues regularly cooperated in a productive, past routine."
+          "translation": "El equipo trabajaba junto de manera eficiente.",
+          "meaning": "Los compañeros cooperaban regularmente en una rutina pasada productiva."
         },
         {
           "id": 16,
@@ -10935,7 +11145,8 @@
             "would",
             "will"
           ],
-          "meaning": "The meteorological report predicted in the past that weather conditions would get better."
+          "translation": "El pronóstico dijo que el clima mejoraría.",
+          "meaning": "El informe meteorológico predijo en el pasado que las condiciones climáticas mejorarían."
         },
         {
           "id": 17,
@@ -10945,7 +11156,8 @@
             "would",
             "will"
           ],
-          "meaning": "The tutor promised in the past that the examination would not be difficult."
+          "translation": "El profesor dijo que la prueba sería sencilla.",
+          "meaning": "El tutor prometió en el pasado que el examen no sería difícil."
         },
         {
           "id": 18,
@@ -10955,7 +11167,8 @@
             "would",
             "will"
           ],
-          "meaning": "Enhancing one's capabilities is a positive hypothetical action."
+          "translation": "Sería bueno mejorar las habilidades.",
+          "meaning": "Mejorar las capacidades de uno es una acción hipotética positiva."
         },
         {
           "id": 19,
@@ -10965,7 +11178,8 @@
             "would",
             "will"
           ],
-          "meaning": "The participants had a past habit or hypothetical routine of communicating ideas freely."
+          "translation": "El grupo compartía ideas abiertamente.",
+          "meaning": "Los participantes tenían el hábito pasado o rutina hipotética de comunicar sus ideas libremente."
         },
         {
           "id": 20,
@@ -10975,7 +11189,8 @@
             "would",
             "will"
           ],
-          "meaning": "The past assessment hinted that circumstances would get better over time."
+          "translation": "El informe sugirió que las condiciones mejorarían.",
+          "meaning": "La evaluación pasada insinuó que las circunstancias mejorarían con el tiempo."
         },
         {
           "id": 21,
@@ -10985,7 +11200,8 @@
             "would",
             "will"
           ],
-          "meaning": "Observing development is a pleasant hypothetical scenario."
+          "translation": "Sería agradable ver crecimiento.",
+          "meaning": "Observar el desarrollo es un escenario hipotético agradable."
         },
         {
           "id": 22,
@@ -10995,7 +11211,8 @@
             "would",
             "will"
           ],
-          "meaning": "The trainer had a regular past habit of motivating all the team members."
+          "translation": "El entrenador animaba a todos.",
+          "meaning": "El entrenador tenía el hábito regular en el pasado de motivar a todos los miembros del equipo."
         },
         {
           "id": 23,
@@ -11005,7 +11222,8 @@
             "would",
             "will"
           ],
-          "meaning": "Past metrics indicated that production rates were set to increase."
+          "translation": "El sistema mostró que la producción aumentaría.",
+          "meaning": "Las métricas pasadas indicaban que las tasas de producción estaban destinadas a aumentar."
         },
         {
           "id": 24,
@@ -11015,7 +11233,8 @@
             "would",
             "will"
           ],
-          "meaning": "Remaining orderly is a very useful hypothetical or future habit."
+          "translation": "Sería útil mantenerse organizado.",
+          "meaning": "Permanecer ordenado es un hábito hipotético o futuro muy útil."
         },
         {
           "id": 25,
@@ -11025,7 +11244,8 @@
             "would",
             "will"
           ],
-          "meaning": "The members routinely resolved issues in a swift past manner."
+          "translation": "El equipo resolvía los problemas rápidamente.",
+          "meaning": "Los miembros resolvían rutinariamente los problemas de manera veloz en el pasado."
         },
         {
           "id": 26,
@@ -11035,7 +11255,8 @@
             "would",
             "will"
           ],
-          "meaning": "The official notice declared in the past that the occasion was scheduled to take place."
+          "translation": "El anuncio dijo que el evento se llevaría a cabo.",
+          "meaning": "El aviso oficial declaró en el pasado que la ocasión estaba programada para realizarse."
         },
         {
           "id": 27,
@@ -11045,7 +11266,8 @@
             "would",
             "will"
           ],
-          "meaning": "Fulfilling your objectives is an excellent hypothetical outcome."
+          "translation": "Sería genial alcanzar los objetivos.",
+          "meaning": "Cumplir tus objetivos es un excelente resultado hipotético."
         },
         {
           "id": 28,
@@ -11055,7 +11277,8 @@
             "would",
             "will"
           ],
-          "meaning": "The workers had a regular past routine of clear and direct communication."
+          "translation": "El personal se comunicaba claramente.",
+          "meaning": "Los trabajadores tenían la rutina regular en el pasado de comunicarse de forma clara y directa."
         },
         {
           "id": 29,
@@ -11065,7 +11288,8 @@
             "would",
             "will"
           ],
-          "meaning": "The visual graph indicated that ongoing improvements would persist."
+          "translation": "El gráfico mostró que el progreso continuaría.",
+          "meaning": "El gráfico visual indicaba que las mejoras continuas persistirían."
         },
         {
           "id": 30,
@@ -11075,7 +11299,8 @@
             "would",
             "will"
           ],
-          "meaning": "Engaging in daily exercise or repetition is a highly helpful hypothetical scenario."
+          "translation": "Sería beneficioso practicar a diario.",
+          "meaning": "Realizar ejercicios o repeticiones diarias es un escenario hipotético muy útil."
         },
         {
           "id": 31,
@@ -11085,40 +11310,41 @@
             "would",
             "will"
           ],
-          "meaning": "The students had a past habit or hypothetical expectation of staying attentive."
+          "translation": "La clase se mantenía concentrada.",
+          "meaning": "Los estudiantes tenían el hábito pasado o expectativa hipotética de mantenerse atentos."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Hypothetical Scenarios & Desires",
-          "description": "Write about things that would make your life better, more productive, or happier using 'would'.",
+          "title": "Escenarios Hipotéticos y Deseos",
+          "description": "Escribe sobre cosas que harían tu vida mejor, más productiva o más feliz usando 'would'.",
           "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "It would be great to complete the task on time.",
-            "It would be nice to see progress.",
-            "It would be helpful to learn new skills.",
-            "It would be wonderful to achieve success.",
-            "It would be beneficial to stay focused."
+            "Sería genial completar la tarea a tiempo.",
+            "Sería agradable ver avances.",
+            "Sería útil aprender nuevas habilidades.",
+            "Sería maravilloso alcanzar el éxito.",
+            "Sería beneficioso mantenerse enfocado."
           ]
         },
         {
           "id": 2,
-          "title": "Past Routines & Reports",
-          "description": "Describe regular habits from your childhood or write about what past reports predicted using 'would'.",
+          "title": "Rutinas Pasadas e Informes",
+          "description": "Describe hábitos regulares de tu infancia o escribe sobre lo que predecían informes pasados usando 'would'.",
           "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "The team would practice every morning.",
-            "The group would meet regularly.",
-            "The coach believed the team would win.",
-            "The students would revise lessons daily.",
-            "The forecast said the weather would improve."
+            "El equipo entrenaba todas las mañanas.",
+            "El grupo se reunía regularmente.",
+            "El entrenador creía que el equipo ganaría.",
+            "Los estudiantes repasaban las lecciones a diario.",
+            "El pronóstico dijo que el clima mejoraría."
           ]
         }
       ]
     },
     "day23": {
-      "title": "Used To",
+      "title": "Hábitos Pasados: Used To (Used To)",
       "sentences": [
         {
           "id": 1,
@@ -11128,7 +11354,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "In the past, my grandmother regularly sat in the sun during cold weather, but she doesn't now."
+          "translation": "Mi abuela solía sentarse al sol en invierno.",
+          "meaning": "En el pasado, mi abuela se sentaba regularmente al sol durante el clima frío, pero ya no lo hace."
         },
         {
           "id": 2,
@@ -11138,7 +11365,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "In the past, I had a habit of drinking hot cocoa during winter."
+          "translation": "Solía beber chocolate caliente en invierno.",
+          "meaning": "En el pasado, tenía el hábito de beber chocolate caliente durante el invierno."
         },
         {
           "id": 3,
@@ -11148,7 +11376,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "She regularly wore warm wool clothing in December in the past."
+          "translation": "Ella solía usar ropa de lana en diciembre.",
+          "meaning": "En el pasado, ella vestía regularmente ropa cálida de lana en diciembre."
         },
         {
           "id": 4,
@@ -11158,7 +11387,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "He frequently went to the beach during hot seasons in the past."
+          "translation": "Él solía visitar la playa en verano.",
+          "meaning": "En el pasado, él iba con frecuencia a la playa durante las temporadas de calor."
         },
         {
           "id": 5,
@@ -11168,7 +11398,8 @@
             "used to",
             "are used to"
           ],
-          "meaning": "We had a past habit of celebrating the Holi festival with high enthusiasm."
+          "translation": "Solíamos jugar Holi con gran entusiasmo.",
+          "meaning": "Teníamos el hábito pasado de celebrar el festival Holi con mucho entusiasmo."
         },
         {
           "id": 6,
@@ -11178,7 +11409,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "In the past, I owned a physical keypad mobile phone, but I don't anymore."
+          "translation": "Solía tener un teléfono con teclado.",
+          "meaning": "En el pasado, poseía un teléfono móvil con teclado físico, pero ya no."
         },
         {
           "id": 7,
@@ -11188,7 +11420,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "She regularly played music on a portable cassette player in the past."
+          "translation": "Ella solía escuchar canciones en un Walkman.",
+          "meaning": "Ella reproducía música regularmente en un reproductor de casetes portátil en el pasado."
         },
         {
           "id": 8,
@@ -11198,7 +11431,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "He spent time playing console games in his younger days."
+          "translation": "Él solía jugar videojuegos en una PlayStation.",
+          "meaning": "Él pasaba tiempo jugando juegos de consola en sus días de juventud."
         },
         {
           "id": 9,
@@ -11208,7 +11442,8 @@
             "used to",
             "are used to"
           ],
-          "meaning": "In the past, our television set had a tiny display."
+          "translation": "Solíamos ver la televisión en una pantalla pequeña.",
+          "meaning": "En el pasado, nuestro televisor tenía una pantalla muy pequeña."
         },
         {
           "id": 10,
@@ -11218,7 +11453,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "They regularly took photographs using analog rolls of film before."
+          "translation": "Ellos solían tomar fotos con una cámara de rollo.",
+          "meaning": "Anteriormente tomaban fotografías regularmente usando rollos analógicos de película."
         },
         {
           "id": 11,
@@ -11228,7 +11464,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "My dad had a habit of typing office documents on a mechanical typewriter."
+          "translation": "Mi padre solía usar una máquina de escribir en el trabajo.",
+          "meaning": "Mi padre tenía el hábito de escribir documentos de oficina en una máquina de escribir mecánica."
         },
         {
           "id": 12,
@@ -11238,7 +11475,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "In the past, I wrote and posted paper letters rather than sending electronic mail."
+          "translation": "Solía enviar cartas en lugar de correos electrónicos.",
+          "meaning": "En el pasado, escribía y enviaba cartas de papel en lugar de correos electrónicos."
         },
         {
           "id": 13,
@@ -11248,7 +11486,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "She had a habit of saving audio tracks onto magnetic tapes."
+          "translation": "Ella solía grabar canciones en un casete.",
+          "meaning": "Ella tenía el hábito de guardar pistas de audio en cintas magnéticas."
         },
         {
           "id": 14,
@@ -11258,7 +11497,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "He owned a monochrome television set in the past."
+          "translation": "Él solía tener un televisor en blanco y negro.",
+          "meaning": "En el pasado, él poseía un televisor monocromático."
         },
         {
           "id": 15,
@@ -11268,7 +11508,8 @@
             "used to",
             "are used to"
           ],
-          "meaning": "We regularly visited cybercafes to access the web in the past."
+          "translation": "Solíamos ir al cibercafé.",
+          "meaning": "En el pasado, visitábamos cibercafés regularmente para acceder a la red."
         },
         {
           "id": 16,
@@ -11278,7 +11519,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "I had a regular routine of waking up very early in the past."
+          "translation": "Solía despertarme a las 5 AM.",
+          "meaning": "Tenía la rutina regular de levantarme muy temprano en el pasado."
         },
         {
           "id": 17,
@@ -11288,7 +11530,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "She was employed at a banking institution in the past, but she is not now."
+          "translation": "Ella solía trabajar en un banco.",
+          "meaning": "Estuvo empleada en una institución bancaria en el pasado, pero ahora no."
         },
         {
           "id": 18,
@@ -11298,7 +11541,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "His past profession was repairing machinery and vehicles."
+          "translation": "Él solía trabajar como mecánico.",
+          "meaning": "Su profesión pasada era reparar maquinaria y vehículos."
         },
         {
           "id": 19,
@@ -11308,7 +11552,8 @@
             "used to",
             "are used to"
           ],
-          "meaning": "We regularly shared domestic cleaning and tasks in the past."
+          "translation": "Solíamos hacer las tareas del hogar juntos.",
+          "meaning": "En el pasado, compartíamos regularmente las tareas y limpieza doméstica."
         },
         {
           "id": 20,
@@ -11318,7 +11563,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "They exerted great effort to make a living in the past."
+          "translation": "Ellos solían trabajar duro para ganar dinero.",
+          "meaning": "En el pasado, se esforzaban mucho para ganarse la vida."
         },
         {
           "id": 21,
@@ -11328,7 +11574,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "My dad regularly arrived at his workplace by nine o'clock in the morning."
+          "translation": "Mi padre solía ir a la oficina a las 9 AM.",
+          "meaning": "Mi padre llegaba regularmente a su lugar de trabajo antes de las nueve de la mañana."
         },
         {
           "id": 22,
@@ -11338,7 +11585,8 @@
             "used to",
             "am used to"
           ],
-          "meaning": "I regularly assisted my mom with cooking in my younger years."
+          "translation": "Solía ayudar a mi madre en la cocina.",
+          "meaning": "Ayudaba regularmente a mi mamá a cocinar en mis años de juventud."
         },
         {
           "id": 23,
@@ -11348,7 +11596,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "She had a weekly routine of pressing laundry on Sundays."
+          "translation": "Ella solía planchar la ropa todos los domingos.",
+          "meaning": "Tenía una rutina semanal de planchar la ropa los domingos."
         },
         {
           "id": 24,
@@ -11358,7 +11607,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "His previous occupation was managing a retail store."
+          "translation": "Él solía ser comerciante.",
+          "meaning": "Su ocupación anterior era administrar una tienda minorista."
         },
         {
           "id": 25,
@@ -11368,7 +11618,8 @@
             "used to",
             "are used to"
           ],
-          "meaning": "We regularly practiced yoga exercises at dawn in the past."
+          "translation": "Solíamos hacer yoga todas las mañanas.",
+          "meaning": "En el pasado, practicábamos ejercicios de yoga al amanecer regularmente."
         },
         {
           "id": 26,
@@ -11378,7 +11629,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "I had a habit of sleeping early in the past."
+          "translation": "Solía irme a la cama temprano.",
+          "meaning": "Tenía el hábito de dormir temprano en el pasado."
         },
         {
           "id": 27,
@@ -11388,7 +11640,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "Her past hobby was gathering postage stamps."
+          "translation": "A ella le solía encantar coleccionar sellos.",
+          "meaning": "Su pasatiempo pasado era juntar sellos postales."
         },
         {
           "id": 28,
@@ -11398,7 +11651,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "He made regular weekly trips to see his grandparents in the past."
+          "translation": "Él solía visitar a sus abuelos cada fin de semana.",
+          "meaning": "Hacía viajes semanales regulares para ver a sus abuelos en el pasado."
         },
         {
           "id": 29,
@@ -11408,7 +11662,8 @@
             "used to",
             "are used to"
           ],
-          "meaning": "We had a regular habit of playing badminton after school/work."
+          "translation": "Solíamos jugar al bádminton por la tarde.",
+          "meaning": "Teníamos el hábito regular de jugar al bádminton después de la escuela o trabajo."
         },
         {
           "id": 30,
@@ -11418,7 +11673,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "They got their daily news updates from wireless radio broadcasts in the past."
+          "translation": "Ellos solían escuchar la radio para enterarse de las noticias.",
+          "meaning": "Obtenían sus actualizaciones diarias de noticias en transmisiones de radio en el pasado."
         },
         {
           "id": 31,
@@ -11428,7 +11684,8 @@
             "used to",
             "is used to"
           ],
-          "meaning": "My uncle regularly gifted me sweet treats when he visited before."
+          "translation": "Mi tío solía traerme chocolates.",
+          "meaning": "Mi tío me regalaba golosinas regularmente cuando nos visitaba antes."
         },
         {
           "id": 32,
@@ -11438,7 +11695,8 @@
             "used to",
             "use to"
           ],
-          "meaning": "I wore spectacles regularly in the past, but I don't need them now."
+          "translation": "Solía usar gafas antes de mi cirugía ocular.",
+          "meaning": "Usaba anteojos regularmente en el pasado, pero ahora no los necesito."
         },
         {
           "id": 33,
@@ -11448,47 +11706,48 @@
             "used to",
             "is used to"
           ],
-          "meaning": "She was in the habit of corresponding with pen pals via hand-written mail."
+          "translation": "Ella solía escribir cartas a sus amigos.",
+          "meaning": "Tenía el hábito de corresponderse con amigos mediante cartas escritas a mano."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Childhood & Retro Lifestyle",
-          "description": "Write about the technology, gadgets, and entertainment options you regularly used in the past using 'used to'.",
+          "title": "Infancia y Estilo de Vida Retro",
+          "description": "Escribe sobre la tecnología, dispositivos y opciones de entretenimiento que usabas regularmente en el pasado con 'used to'.",
           "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I used to have a keypad phone.",
-            "She used to listen to songs on a Walkman.",
-            "He used to play video games on a PlayStation.",
-            "We used to watch TV on a small screen.",
-            "They used to click pictures with a film camera."
+            "Solía tener un teléfono con teclado.",
+            "Ella solía escuchar canciones en un Walkman.",
+            "Él solía jugar videojuegos en una PlayStation.",
+            "Solíamos ver la televisión en una pantalla pequeña.",
+            "Ellos solían tomar fotos con una cámara de rollo."
           ]
         },
         {
           "id": 2,
-          "title": "Past Occupations & Activities",
-          "description": "Describe previous jobs, old weekly routines, or sports and games you and your family played regularly using 'used to'.",
+          "title": "Ocupaciones Pasadas y Actividades",
+          "description": "Describe trabajos anteriores, viejas rutinas semanales o deportes que tú y tu familia jugaban regularmente usando 'used to'.",
           "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "She used to work in a bank.",
-            "He used to work as a mechanic.",
-            "He used to visit his grandparents every weekend.",
-            "We used to play badminton in the evening.",
-            "I used to help my mother in the kitchen."
+            "Ella solía trabajar en un banco.",
+            "Él solía trabajar como mecánico.",
+            "Él solía visitar a sus abuelos cada fin de semana.",
+            "Solíamos jugar al bádminton por la tarde.",
+            "Solía ayudar a mi madre en la cocina."
           ]
         }
       ]
     },
     "day24": {
-      "title": "Prepositions",
+      "title": "Preposiciones (Prepositions)",
       "prepositionsData": [
         {
           "key": "in",
-          "title": "In",
-          "description": "Longer periods like months, years, and centuries",
-          "example": "I was born in July.",
-          "longDescription": "Use \"In\" for longer periods like months, years, and centuries. (Example: \"I was born in July.\") It is also used to indicate being enclosed or inside a physical space.",
+          "title": "In (En / Dentro de)",
+          "description": "Períodos más largos como meses, años y siglos, o dentro de un espacio",
+          "example": "Nací en julio.",
+          "longDescription": "Usa \"In\" para períodos de tiempo más largos como meses, años y siglos. (Ejemplo: \"Nací en julio.\") También se usa para indicar estar dentro o encerrado en un espacio físico.",
           "sentences": [
             {
               "id": 1,
@@ -11499,7 +11758,8 @@
                 "on",
                 "at"
               ],
-              "meaning": "The birth month is July (longer time period)."
+              "meaning": "El mes de nacimiento es julio (período de tiempo más largo).",
+              "translation": "Nací en julio."
             },
             {
               "id": 2,
@@ -11510,7 +11770,8 @@
                 "at",
                 "for"
               ],
-              "meaning": "The travel will take place during the summer season."
+              "meaning": "El viaje se realizará durante la temporada de verano.",
+              "translation": "Viajaremos en verano."
             },
             {
               "id": 3,
@@ -11521,7 +11782,8 @@
                 "on",
                 "since"
               ],
-              "meaning": "The founding year of the company is 2010."
+              "meaning": "El año de fundación de la empresa es 2010.",
+              "translation": "La empresa fue fundada en 2010."
             },
             {
               "id": 4,
@@ -11532,7 +11794,8 @@
                 "at",
                 "for"
               ],
-              "meaning": "This event occurred during that specific century."
+              "meaning": "Este evento ocurrió durante ese siglo específico.",
+              "translation": "Los humanos caminaron sobre la luna en el siglo veinte."
             },
             {
               "id": 5,
@@ -11543,7 +11806,8 @@
                 "on",
                 "at"
               ],
-              "meaning": "The keys are enclosed inside the drawer."
+              "meaning": "Las llaves están dentro del cajón.",
+              "translation": "Las llaves están en el cajón."
             },
             {
               "id": 6,
@@ -11554,7 +11818,8 @@
                 "on",
                 "above"
               ],
-              "meaning": "She is inside her bedroom reading a book."
+              "meaning": "Ella está dentro de su dormitorio leyendo un libro.",
+              "translation": "Ella está leyendo un libro en su habitación."
             },
             {
               "id": 7,
@@ -11565,7 +11830,8 @@
                 "at",
                 "on"
               ],
-              "meaning": "The milk is enclosed inside the bottle."
+              "meaning": "La leche está dentro de la botella.",
+              "translation": "Hay leche fresca en la botella."
             },
             {
               "id": 8,
@@ -11576,16 +11842,17 @@
                 "on",
                 "at"
               ],
-              "meaning": "The coin was inside his clothing pocket."
+              "meaning": "La moneda estaba dentro del bolsillo de su ropa.",
+              "translation": "Encontró una moneda en su bolsillo."
             }
           ]
         },
         {
           "key": "on",
-          "title": "On",
-          "description": "Specific days and dates",
-          "example": "We met on Monday.",
-          "longDescription": "Use \"On\" for specific days and dates. (Example: \"We met on Monday.\") It is also used when referring to a position on a physical surface.",
+          "title": "On (En / Sobre)",
+          "description": "Días y fechas específicas, o sobre una superficie",
+          "example": "Nos reunimos el lunes.",
+          "longDescription": "Usa \"On\" para días y fechas específicas. (Ejemplo: \"Nos reunimos el lunes.\") También se usa al referirse a una posición sobre una superficie física.",
           "sentences": [
             {
               "id": 1,
@@ -11596,7 +11863,8 @@
                 "in",
                 "at"
               ],
-              "meaning": "The meeting occurred on that specific day."
+              "meaning": "La reunión ocurrió en ese día específico.",
+              "translation": "Nos reunimos el lunes."
             },
             {
               "id": 2,
@@ -11607,7 +11875,8 @@
                 "at",
                 "in"
               ],
-              "meaning": "The start date is a specific date of the year."
+              "meaning": "El cumpleaños cae en una fecha específica.",
+              "translation": "Su cumpleaños es el 15 de julio."
             },
             {
               "id": 3,
@@ -11618,7 +11887,8 @@
                 "in",
                 "since"
               ],
-              "meaning": "The visit happens on that specific holiday day."
+              "meaning": "La llamada telefónica se realizará en ese día festivo específico.",
+              "translation": "Te llamaré el día de Navidad."
             },
             {
               "id": 4,
@@ -11629,7 +11899,8 @@
                 "at",
                 "for"
               ],
-              "meaning": "The delivery is scheduled for Tuesday."
+              "meaning": "La prueba está programada para ese día específico.",
+              "translation": "El examen es el viernes por la mañana."
             },
             {
               "id": 5,
@@ -11640,7 +11911,8 @@
                 "in",
                 "above"
               ],
-              "meaning": "The book is resting on the surface of the table."
+              "meaning": "La taza reposa sobre la superficie de la mesa.",
+              "translation": "Hay una taza sobre la mesa."
             },
             {
               "id": 6,
@@ -11651,7 +11923,8 @@
                 "at",
                 "in"
               ],
-              "meaning": "The clock is attached to the vertical surface of the wall."
+              "meaning": "Su apartamento está en ese nivel de superficie específico.",
+              "translation": "Él vive en el segundo piso."
             },
             {
               "id": 7,
@@ -11662,7 +11935,8 @@
                 "in",
                 "over"
               ],
-              "meaning": "The phone is resting on top of the bed's surface."
+              "meaning": "El teléfono está apoyado sobre la superficie del mostrador.",
+              "translation": "Ella dejó su teléfono sobre el mostrador."
             },
             {
               "id": 8,
@@ -11673,16 +11947,17 @@
                 "in",
                 "at"
               ],
-              "meaning": "Mark your name onto the surface of the sheet."
+              "meaning": "El póster está fijado sobre la superficie de la pared.",
+              "translation": "El póster está en la pared."
             }
           ]
         },
         {
           "key": "at",
-          "title": "At",
-          "description": "Specific times and specific points",
-          "example": "The train arrives at 5 PM.",
-          "longDescription": "Use \"At\" for specific times and specific points. (Example: \"The train arrives at 5 PM.\") It is also used to refer to highly precise locations or landmarks.",
+          "title": "At (En / A las)",
+          "description": "Horas específicas y puntos precisos",
+          "example": "El tren llega a las 5 PM.",
+          "longDescription": "Usa \"At\" para horas específicas y puntos concretos. (Ejemplo: \"El tren llega a las 5 PM.\") También se usa para referirse a ubicaciones o puntos de referencia altamente precisos.",
           "sentences": [
             {
               "id": 1,
@@ -11693,7 +11968,8 @@
                 "on",
                 "in"
               ],
-              "meaning": "The arrival is at a specific time of the day."
+              "meaning": "La llegada es a una hora específica del día.",
+              "translation": "El tren llega a las 5 PM."
             },
             {
               "id": 2,
@@ -11704,7 +11980,8 @@
                 "in",
                 "for"
               ],
-              "meaning": "The class begins at that specific hour."
+              "meaning": "El almuerzo ocurre exactamente al mediodía.",
+              "translation": "Almorzamos al mediodía."
             },
             {
               "id": 3,
@@ -11715,7 +11992,8 @@
                 "on",
                 "during"
               ],
-              "meaning": "We eat at that precise point of the day."
+              "meaning": "Irse a dormir ocurre durante la noche.",
+              "translation": "Ella se va a dormir por la noche."
             },
             {
               "id": 4,
@@ -11726,7 +12004,8 @@
                 "in",
                 "on"
               ],
-              "meaning": "The sleeping occurs at night-time."
+              "meaning": "El inicio de la reunión es un momento del reloj preciso.",
+              "translation": "La reunión comienza a las 9:30 AM."
             },
             {
               "id": 5,
@@ -11737,7 +12016,8 @@
                 "in",
                 "on"
               ],
-              "meaning": "He is standing at a specific point near the door."
+              "meaning": "Él se encuentra en una ubicación o punto específico.",
+              "translation": "Él está de pie en la parada de autobús."
             },
             {
               "id": 6,
@@ -11748,7 +12028,8 @@
                 "on",
                 "over"
               ],
-              "meaning": "Our meeting location was the specific spot of the bus station."
+              "meaning": "Su puesto de trabajo es un punto de ubicación concreto.",
+              "translation": "Ella trabaja en el mostrador de recepción."
             },
             {
               "id": 7,
@@ -11759,7 +12040,8 @@
                 "in",
                 "above"
               ],
-              "meaning": "Her physical location is at the specific point of the reception."
+              "meaning": "El lugar de encuentro fue el punto específico de la recepción.",
+              "translation": "Ellos se reunieron en la entrada."
             },
             {
               "id": 8,
@@ -11770,16 +12052,17 @@
                 "in",
                 "on"
               ],
-              "meaning": "The train came to a halt at the specific location."
+              "meaning": "El tren se detuvo en esa ubicación específica.",
+              "translation": "El tren se detuvo en la estación."
             }
           ]
         },
         {
           "key": "for",
-          "title": "For",
-          "description": "Talk about durations of time",
-          "example": "I have lived here for 3 years.",
-          "longDescription": "Use \"For\" to talk about durations. (Example: \"I have lived here for 3 years.\") It explains how long a state or action has been going on.",
+          "title": "For (Durante / Por)",
+          "description": "Hablar sobre duraciones de tiempo",
+          "example": "He vivido aquí durante 3 años.",
+          "longDescription": "Usa \"For\" para hablar de duraciones de tiempo. (Ejemplo: \"He vivido aquí durante 3 años.\") Explica cuánto tiempo ha estado ocurriendo un estado o acción.",
           "sentences": [
             {
               "id": 1,
@@ -11790,7 +12073,8 @@
                 "since",
                 "in"
               ],
-              "meaning": "The duration of living here is 3 years."
+              "meaning": "La duración de vivir aquí es de 3 años.",
+              "translation": "He vivido aquí durante 3 años."
             },
             {
               "id": 2,
@@ -11801,7 +12085,8 @@
                 "during",
                 "at"
               ],
-              "meaning": "The walking lasted for a duration of two hours."
+              "meaning": "La caminata duró dos horas.",
+              "translation": "Caminamos durante dos horas en el parque."
             },
             {
               "id": 3,
@@ -11812,7 +12097,8 @@
                 "since",
                 "on"
               ],
-              "meaning": "The waiting time spanned thirty minutes."
+              "meaning": "El tiempo de espera duró treinta minutos.",
+              "translation": "Él esperó durante treinta minutos ayer."
             },
             {
               "id": 4,
@@ -11823,7 +12109,8 @@
                 "until",
                 "at"
               ],
-              "meaning": "The duration of their stay will be one week."
+              "meaning": "La duración de su estancia será de una semana.",
+              "translation": "Se quedarán en la ciudad durante una semana."
             },
             {
               "id": 5,
@@ -11834,7 +12121,8 @@
                 "since",
                 "over"
               ],
-              "meaning": "The sleep duration has reached ten hours."
+              "meaning": "La duración del sueño ha alcanzado las diez horas.",
+              "translation": "Ella ha estado durmiendo durante diez horas."
             },
             {
               "id": 6,
@@ -11845,7 +12133,8 @@
                 "during",
                 "in"
               ],
-              "meaning": "The duration of being away is a few days."
+              "meaning": "La duración de la ausencia es de unos pocos días.",
+              "translation": "Me voy fuera por unos días."
             },
             {
               "id": 7,
@@ -11856,7 +12145,8 @@
                 "since",
                 "before"
               ],
-              "meaning": "The ringing continued through a long duration."
+              "meaning": "El timbrado continuó durante un período prolongado.",
+              "translation": "El teléfono sonó durante mucho tiempo."
             },
             {
               "id": 8,
@@ -11867,16 +12157,17 @@
                 "until",
                 "inside"
               ],
-              "meaning": "The waiting time in line was one hour."
+              "meaning": "El tiempo de espera en la fila fue de una hora.",
+              "translation": "Estuvimos en la fila durante una hora."
             }
           ]
         },
         {
           "key": "since",
-          "title": "Since",
-          "description": "Starting point of an action",
-          "example": "I have been studying since morning.",
-          "longDescription": "Use \"Since\" to refer to the starting point of an action. (Example: \"I have been studying since morning.\") It links the beginning of a past activity directly to the present.",
+          "title": "Since (Desde)",
+          "description": "Punto de inicio de una acción",
+          "example": "He estado estudiando desde la mañana.",
+          "longDescription": "Usa \"Since\" para referirte al punto de inicio de una acción. (Ejemplo: \"He estado estudiando desde la mañana.\") Conecta el comienzo de una actividad pasada directamente con el presente.",
           "sentences": [
             {
               "id": 1,
@@ -11887,7 +12178,8 @@
                 "for",
                 "in"
               ],
-              "meaning": "The starting point of studying is the morning."
+              "meaning": "El punto de inicio del estudio es la mañana.",
+              "translation": "He estado estudiando desde la mañana."
             },
             {
               "id": 2,
@@ -11898,7 +12190,8 @@
                 "for",
                 "at"
               ],
-              "meaning": "The starting point of her employment is the year 2018."
+              "meaning": "El punto de inicio de su empleo es el año 2018.",
+              "translation": "Ella ha estado trabajando aquí desde 2018."
             },
             {
               "id": 3,
@@ -11909,7 +12202,8 @@
                 "for",
                 "on"
               ],
-              "meaning": "The wedding occurred in October, starting the marriage duration."
+              "meaning": "La boda ocurrió en octubre, iniciando la duración del matrimonio.",
+              "translation": "Han estado casados desde octubre."
             },
             {
               "id": 4,
@@ -11920,7 +12214,8 @@
                 "until",
                 "for"
               ],
-              "meaning": "The last point of contact was last week."
+              "meaning": "El último punto de contacto fue la semana pasada.",
+              "translation": "No los hemos visto desde la semana pasada."
             },
             {
               "id": 5,
@@ -11931,7 +12226,8 @@
                 "for",
                 "over"
               ],
-              "meaning": "The starting point of the clean state is the accident."
+              "meaning": "El punto de inicio del estado limpio es el accidente.",
+              "translation": "Él ha estado limpio desde el accidente."
             },
             {
               "id": 6,
@@ -11942,7 +12238,8 @@
                 "during",
                 "in"
               ],
-              "meaning": "The rain started yesterday and continues."
+              "meaning": "La lluvia comenzó ayer y continúa.",
+              "translation": "Ha estado lloviendo desde ayer."
             },
             {
               "id": 7,
@@ -11953,7 +12250,8 @@
                 "for",
                 "before"
               ],
-              "meaning": "The starting point of knowing him is childhood."
+              "meaning": "El punto de inicio de conocerlo es la infancia.",
+              "translation": "Lo conozco desde la infancia."
             },
             {
               "id": 8,
@@ -11964,16 +12262,17 @@
                 "until",
                 "at"
               ],
-              "meaning": "The practice starting time was 5 PM."
+              "meaning": "La hora de inicio de la práctica fueron las 5 PM.",
+              "translation": "Han estado practicando desde las 5 PM."
             }
           ]
         },
         {
           "key": "before",
-          "title": "Before",
-          "description": "Actions that occur earlier than another",
-          "example": "Brush your teeth before going to bed.",
-          "longDescription": "Before: Understand how to talk about actions that occur earlier than another. We use \"before\" when one event precedes another in sequence.",
+          "title": "Before (Antes de)",
+          "description": "Acciones que ocurren antes que otra",
+          "example": "Lávate los dientes antes de ir a la cama.",
+          "longDescription": "Before: Entiende cómo hablar sobre acciones que ocurren antes que otra. Usamos \"before\" cuando un evento precede a otro en secuencia.",
           "sentences": [
             {
               "id": 1,
@@ -11984,7 +12283,8 @@
                 "after",
                 "during"
               ],
-              "meaning": "Washing hands must precede eating."
+              "meaning": "Lavarse las manos debe preceder al comer.",
+              "translation": "Siempre lávate las manos antes de comer."
             },
             {
               "id": 2,
@@ -11995,7 +12295,8 @@
                 "at",
                 "inside"
               ],
-              "meaning": "The homework was completed earlier than dinner."
+              "meaning": "La tarea se completó antes de cenar.",
+              "translation": "Él terminó su tarea antes de la cena."
             },
             {
               "id": 3,
@@ -12006,7 +12307,8 @@
                 "during",
                 "until"
               ],
-              "meaning": "Checking emails should happen prior to leaving."
+              "meaning": "Revisar los correos debe ocurrir antes de salir.",
+              "translation": "Revisa tus correos antes de irte."
             },
             {
               "id": 4,
@@ -12017,7 +12319,8 @@
                 "after",
                 "on"
               ],
-              "meaning": "The singing occurs prior to sunrise."
+              "meaning": "El canto ocurre antes de la salida del sol.",
+              "translation": "Los pájaros cantan antes de que salga el sol."
             },
             {
               "id": 5,
@@ -12028,7 +12331,8 @@
                 "since",
                 "at"
               ],
-              "meaning": "Reading instructions precedes starting the activity."
+              "meaning": "Leer las instrucciones precede a iniciar la actividad.",
+              "translation": "Lee las instrucciones antes de comenzar."
             },
             {
               "id": 6,
@@ -12039,7 +12343,8 @@
                 "during",
                 "above"
               ],
-              "meaning": "Stretching occurs prior to running."
+              "meaning": "El estiramiento ocurre antes de correr.",
+              "translation": "Me gusta estirarme antes de correr."
             },
             {
               "id": 7,
@@ -12050,7 +12355,8 @@
                 "until",
                 "on"
               ],
-              "meaning": "Preparation must be finished earlier than the arrival."
+              "meaning": "La preparación debe terminar antes de la llegada.",
+              "translation": "Prepara todo antes de que lleguen los invitados."
             },
             {
               "id": 8,
@@ -12061,16 +12367,17 @@
                 "after",
                 "over"
               ],
-              "meaning": "The darkening of the sky precedes the rain."
+              "meaning": "El oscurecimiento del cielo precede a la lluvia.",
+              "translation": "El cielo se oscurece antes de que llueva."
             }
           ]
         },
         {
           "key": "after",
-          "title": "After",
-          "description": "Tell about what occurs later or thereafter",
-          "example": "We went for a walk after dinner.",
-          "longDescription": "After: Understand how to tell about what occurs later or thereafter. We use \"after\" when an action follows another event, time, or action.",
+          "title": "After (Después de)",
+          "description": "Indica lo que ocurre después o posteriormente",
+          "example": "Fuimos a dar un paseo después de la cena.",
+          "longDescription": "After: Entiende cómo indicar lo que ocurre más tarde o posteriormente. Usamos \"after\" cuando una acción sigue a otro evento, tiempo o acción.",
           "sentences": [
             {
               "id": 1,
@@ -12081,7 +12388,8 @@
                 "before",
                 "during"
               ],
-              "meaning": "The shower follows the exercise."
+              "meaning": "La ducha sigue al ejercicio.",
+              "translation": "Me ducho después de hacer ejercicio."
             },
             {
               "id": 2,
@@ -12092,7 +12400,8 @@
                 "at",
                 "in"
               ],
-              "meaning": "The call happened following her arrival."
+              "meaning": "La llamada ocurrió tras su llegada.",
+              "translation": "Ella me llamó después de llegar a la oficina."
             },
             {
               "id": 3,
@@ -12103,7 +12412,8 @@
                 "until",
                 "above"
               ],
-              "meaning": "Dessert follows the main course."
+              "meaning": "El postre sigue al plato principal.",
+              "translation": "Tomaremos el postre después del plato principal."
             },
             {
               "id": 4,
@@ -12114,7 +12424,8 @@
                 "before",
                 "over"
               ],
-              "meaning": "Growth happens following the rainfall."
+              "meaning": "El crecimiento ocurre tras la lluvia.",
+              "translation": "Los cultivos crecen después de que para la lluvia."
             },
             {
               "id": 5,
@@ -12125,7 +12436,8 @@
                 "since",
                 "on"
               ],
-              "meaning": "Cleaning occurred following cooking."
+              "meaning": "La limpieza ocurrió tras cocinar.",
+              "translation": "Él limpió la cocina después de cocinar."
             },
             {
               "id": 6,
@@ -12136,7 +12448,8 @@
                 "during",
                 "at"
               ],
-              "meaning": "Relaxation follows completion of the work."
+              "meaning": "La relajación sigue a la finalización del trabajo.",
+              "translation": "Se relajaron después de terminar el proyecto."
             },
             {
               "id": 7,
@@ -12147,7 +12460,8 @@
                 "before",
                 "in"
               ],
-              "meaning": "Brightness follows the storm."
+              "meaning": "El brillo sigue a la tormenta.",
+              "translation": "El sol brilla intensamente después de la tormenta."
             },
             {
               "id": 8,
@@ -12158,16 +12472,17 @@
                 "until",
                 "during"
               ],
-              "meaning": "Locking happens following entry."
+              "meaning": "El cierre con llave ocurre tras ingresar.",
+              "translation": "Cerramos las puertas con llave después de entrar."
             }
           ]
         },
         {
           "key": "during",
-          "title": "During",
-          "description": "Throughout the duration of an event",
-          "example": "He fell asleep during the movie.",
-          "longDescription": "During: State a duration or event when an action takes place inside it. We use \"during\" when something happens within the time span of an event.",
+          "title": "During (Durante)",
+          "description": "A lo largo de la duración de un evento",
+          "example": "Se quedó dormido durante la película.",
+          "longDescription": "During: Indica una duración o evento dentro del cual ocurre una acción. Usamos \"during\" cuando algo sucede dentro del lapso de tiempo de un evento.",
           "sentences": [
             {
               "id": 1,
@@ -12178,7 +12493,8 @@
                 "before",
                 "until"
               ],
-              "meaning": "Quietness is required within the presentation span."
+              "meaning": "Se requiere silencio dentro del lapso de la presentación.",
+              "translation": "Por favor mantente en silencio durante la presentación."
             },
             {
               "id": 2,
@@ -12189,7 +12505,8 @@
                 "in",
                 "on"
               ],
-              "meaning": "Rain occurred within the span of the night."
+              "meaning": "La lluvia ocurrió dentro del lapso de la noche.",
+              "translation": "Llovió fuertemente durante la noche."
             },
             {
               "id": 3,
@@ -12200,7 +12517,8 @@
                 "after",
                 "over"
               ],
-              "meaning": "Being indoors lasted throughout the storm."
+              "meaning": "Estar bajo techo duró toda la tormenta.",
+              "translation": "Nos quedamos bajo techo durante la tormenta."
             },
             {
               "id": 4,
@@ -12211,7 +12529,8 @@
                 "while",
                 "at"
               ],
-              "meaning": "Note-taking occurred within the lecture time."
+              "meaning": "Tomar notas ocurrió dentro del tiempo de la conferencia.",
+              "translation": "Ella tomó notas durante la conferencia."
             },
             {
               "id": 5,
@@ -12222,7 +12541,8 @@
                 "since",
                 "under"
               ],
-              "meaning": "Sleep occurred within the span of the flight."
+              "meaning": "El sueño ocurrió dentro del lapso del vuelo.",
+              "translation": "El bebé durmió profundamente durante el vuelo."
             },
             {
               "id": 6,
@@ -12233,7 +12553,8 @@
                 "before",
                 "above"
               ],
-              "meaning": "Using phones is forbidden within the exam duration."
+              "meaning": "Usar teléfonos está prohibido durante la duración del examen.",
+              "translation": "No uses tu teléfono durante el examen."
             },
             {
               "id": 7,
@@ -12244,7 +12565,8 @@
                 "while",
                 "on"
               ],
-              "meaning": "Meeting people occurred within their vacation span."
+              "meaning": "Conocer gente ocurrió dentro del lapso de sus vacaciones.",
+              "translation": "Conocieron a mucha gente durante sus vacaciones."
             },
             {
               "id": 8,
@@ -12255,16 +12577,17 @@
                 "after",
                 "at"
               ],
-              "meaning": "Migration happens within the autumn season."
+              "meaning": "La migración sucede dentro de la temporada de otoño.",
+              "translation": "La migración de las aves ocurre durante el otoño."
             }
           ]
         },
         {
           "key": "while",
-          "title": "While",
-          "description": "Express that two things are occurring together",
-          "example": "She listened to music while studying.",
-          "longDescription": "While: Find out how to express that two things are occurring together. We use \"while\" to show that two continuous actions are happening simultaneously.",
+          "title": "While (Mientras)",
+          "description": "Expresa que dos cosas están ocurriendo juntas",
+          "example": "Ella escuchaba música mientras estudiaba.",
+          "longDescription": "While: Descubre cómo expresar que dos cosas ocurren al mismo tiempo. Usamos \"while\" para mostrar que dos acciones continuas suceden simultáneamente.",
           "sentences": [
             {
               "id": 1,
@@ -12275,7 +12598,8 @@
                 "during",
                 "before"
               ],
-              "meaning": "Cooking and setting the table happen together."
+              "meaning": "Cocinar y poner la mesa ocurren juntos.",
+              "translation": "Preparo la cena mientras mi esposo pone la mesa."
             },
             {
               "id": 2,
@@ -12286,7 +12610,8 @@
                 "until",
                 "at"
               ],
-              "meaning": "Singing and walking home happened at the same time."
+              "meaning": "Cantar y caminar a casa sucedieron al mismo tiempo.",
+              "translation": "Cantaban mientras caminaban a casa."
             },
             {
               "id": 3,
@@ -12297,7 +12622,8 @@
                 "during",
                 "on"
               ],
-              "meaning": "Driving and looking at the map occur simultaneously."
+              "meaning": "Conducir y mirar el mapa ocurren simultáneamente.",
+              "translation": "Sigue conduciendo mientras miro el mapa."
             },
             {
               "id": 4,
@@ -12308,7 +12634,8 @@
                 "after",
                 "since"
               ],
-              "meaning": "The call happened at the same time I was asleep."
+              "meaning": "La llamada ocurrió al mismo tiempo que yo dormía.",
+              "translation": "Él me llamó mientras yo estaba durmiendo."
             },
             {
               "id": 5,
@@ -12319,7 +12646,8 @@
                 "during",
                 "under"
               ],
-              "meaning": "The barking occurred together with our eating."
+              "meaning": "Los ladridos ocurrieron junto con nuestra comida.",
+              "translation": "El perro ladró mientras estábamos comiendo."
             },
             {
               "id": 6,
@@ -12330,7 +12658,8 @@
                 "until",
                 "before"
               ],
-              "meaning": "Reading occurs during the simultaneous waiting time."
+              "meaning": "Leer ocurre durante el tiempo de espera simultáneo.",
+              "translation": "Leo un libro mientras espero el tren."
             },
             {
               "id": 7,
@@ -12341,7 +12670,8 @@
                 "during",
                 "above"
               ],
-              "meaning": "Smiling and telling the story occurred together."
+              "meaning": "Sonreír y contar la historia ocurrieron juntos.",
+              "translation": "Ella sonreía mientras contaba la historia."
             },
             {
               "id": 8,
@@ -12352,16 +12682,17 @@
                 "after",
                 "on"
               ],
-              "meaning": "The ringing occurred simultaneously with the bath."
+              "meaning": "El timbre ocurrió simultáneamente con el baño.",
+              "translation": "El teléfono sonó mientras él se estaba bañando."
             }
           ]
         },
         {
           "key": "until",
-          "title": "Until",
-          "description": "Report the end of a duration",
-          "example": "We waited until the rain stopped.",
-          "longDescription": "Until: Practice how to report the end of a duration. We use \"until\" to indicate the exact point in time when an action or state stops.",
+          "title": "Until (Hasta)",
+          "description": "Reporta el final de una duración",
+          "example": "Esperamos hasta que la lluvia paró.",
+          "longDescription": "Until: Practica cómo reportar el final de una duración. Usamos \"until\" para indicar el momento exacto en el que una acción o estado se detiene.",
           "sentences": [
             {
               "id": 1,
@@ -12372,7 +12703,8 @@
                 "during",
                 "since"
               ],
-              "meaning": "Her staying at home stops on Monday."
+              "meaning": "Su permanencia en casa se detiene el lunes.",
+              "translation": "Ella se quedará en casa hasta el lunes."
             },
             {
               "id": 2,
@@ -12383,7 +12715,8 @@
                 "while",
                 "before"
               ],
-              "meaning": "The reading ended at the moment of falling asleep."
+              "meaning": "La lectura terminó en el momento de quedarse dormido.",
+              "translation": "Leí el libro hasta que me quedé dormido."
             },
             {
               "id": 3,
@@ -12394,7 +12727,8 @@
                 "at",
                 "on"
               ],
-              "meaning": "The opening duration ends at 10 PM."
+              "meaning": "La duración de apertura termina a las 10 PM.",
+              "translation": "La tienda está abierta hasta las 10 PM."
             },
             {
               "id": 4,
@@ -12405,7 +12739,8 @@
                 "during",
                 "after"
               ],
-              "meaning": "Playing ended when the lights went out."
+              "meaning": "Jugar terminó cuando se apagaron las luces.",
+              "translation": "Jugamos juegos hasta que se apagaron las luces."
             },
             {
               "id": 5,
@@ -12416,7 +12751,8 @@
                 "while",
                 "since"
               ],
-              "meaning": "Stirring stops when the thickening happens."
+              "meaning": "Revolver se detiene cuando ocurre el espesamiento.",
+              "translation": "Sigue revolviendo hasta que la salsa espese."
             },
             {
               "id": 6,
@@ -12427,7 +12763,8 @@
                 "during",
                 "over"
               ],
-              "meaning": "His sleeping ended at sunrise."
+              "meaning": "Su sueño terminó al amanecer.",
+              "translation": "Él durmió hasta que salió el sol."
             },
             {
               "id": 7,
@@ -12438,7 +12775,8 @@
                 "before",
                 "at"
               ],
-              "meaning": "The closed state remains up to the command."
+              "meaning": "El estado cerrado se mantiene hasta la orden.",
+              "translation": "No abras la puerta hasta que yo te diga."
             },
             {
               "id": 8,
@@ -12449,16 +12787,17 @@
                 "during",
                 "inside"
               ],
-              "meaning": "Walking stopped when we reached the river."
+              "meaning": "Caminar se detuvo cuando llegamos al río.",
+              "translation": "Caminamos hasta que llegamos al río."
             }
           ]
         },
         {
           "key": "when",
-          "title": "When",
-          "description": "State a duration when something takes place",
-          "example": "Call me when you arrive.",
-          "longDescription": "When: Learn to state a duration or specific moment when something takes place. It links actions directly to their time frame or trigger moment.",
+          "title": "When (Cuando)",
+          "description": "Indica un momento en que algo tiene lugar",
+          "example": "Llámame cuando llegues.",
+          "longDescription": "When: Aprende a indicar un momento o instante específico en que ocurre algo. Conecta las acciones directamente con su marco temporal o desencadenante.",
           "sentences": [
             {
               "id": 1,
@@ -12469,7 +12808,8 @@
                 "until",
                 "during"
               ],
-              "meaning": "Happiness occurred at the moment of seeing the friend."
+              "meaning": "La felicidad ocurrió en el momento de ver al amigo.",
+              "translation": "Fui feliz cuando vi a mi amigo."
             },
             {
               "id": 2,
@@ -12480,7 +12820,8 @@
                 "while",
                 "since"
               ],
-              "meaning": "Turning off lights is triggered by leaving."
+              "meaning": "Apagar las luces es desencadenado por salir.",
+              "translation": "Él apaga las luces cuando se va."
             },
             {
               "id": 3,
@@ -12491,7 +12832,8 @@
                 "before",
                 "at"
               ],
-              "meaning": "Going indoors happens at the moment of cold temperature."
+              "meaning": "Entrar sucede en el momento en que baja la temperatura.",
+              "translation": "Nos metemos dentro cuando hace frío."
             },
             {
               "id": 4,
@@ -12502,7 +12844,8 @@
                 "during",
                 "above"
               ],
-              "meaning": "Smiling was triggered by hearing the news."
+              "meaning": "La sonrisa fue desencadenada por escuchar la noticia.",
+              "translation": "Ella sonrió cuando escuchó la noticia."
             },
             {
               "id": 5,
@@ -12513,7 +12856,8 @@
                 "until",
                 "over"
               ],
-              "meaning": "Flight is triggered by being scared."
+              "meaning": "El vuelo es desencadenado por el susto.",
+              "translation": "Los pájaros vuelan lejos cuando se asustan."
             },
             {
               "id": 6,
@@ -12524,7 +12868,8 @@
                 "since",
                 "on"
               ],
-              "meaning": "Explanation happens at the meeting moment."
+              "meaning": "La explicación sucede en el momento de la reunión.",
+              "translation": "Explicaré todo cuando nos reunamos."
             },
             {
               "id": 7,
@@ -12535,7 +12880,8 @@
                 "during",
                 "after"
               ],
-              "meaning": "Learning to swim occurred at the age of five."
+              "meaning": "Aprender a nadar ocurrió a los cinco años.",
+              "translation": "Tenía cinco años cuando aprendió a nadar."
             },
             {
               "id": 8,
@@ -12546,16 +12892,17 @@
                 "until",
                 "inside"
               ],
-              "meaning": "Start of game is triggered by the whistle blow."
+              "meaning": "El inicio del juego es desencadenado por el silbato.",
+              "translation": "El juego comienza cuando suena el silbato."
             }
           ]
         },
         {
           "key": "as",
-          "title": "As",
-          "description": "Express that two things are occurring together",
-          "example": "He smiled as he waved goodbye.",
-          "longDescription": "As: Find out how to express that two things are occurring together. We use \"as\" to highlight simultaneous actions, often shifting or progressing together.",
+          "title": "As (Mientras / A medida que)",
+          "description": "Expresa que dos cosas ocurren al mismo tiempo",
+          "example": "Sonrió mientras decía adiós con la mano.",
+          "longDescription": "As: Descubre cómo expresar que dos cosas están ocurriendo juntas. Usamos \"as\" para resaltar acciones simultáneas que progresan juntas.",
           "sentences": [
             {
               "id": 1,
@@ -12566,7 +12913,8 @@
                 "during",
                 "until"
               ],
-              "meaning": "Slipping and getting off the bus occurred together."
+              "meaning": "Resbalarse y bajar del autobús ocurrieron juntos.",
+              "translation": "Ella se resbaló cuando bajaba del autobús."
             },
             {
               "id": 2,
@@ -12577,7 +12925,8 @@
                 "when",
                 "since"
               ],
-              "meaning": "Seeing him occurred simultaneously with my departure."
+              "meaning": "Verlo ocurrió simultáneamente con mi salida.",
+              "translation": "Lo vi mientras me iba."
             },
             {
               "id": 3,
@@ -12588,7 +12937,8 @@
                 "while",
                 "before"
               ],
-              "meaning": "Star appearance occurred as the sun set."
+              "meaning": "La aparición de las estrellas ocurrió conforme se ponía el sol.",
+              "translation": "A medida que el sol se ponía, aparecieron las estrellas."
             },
             {
               "id": 4,
@@ -12599,7 +12949,8 @@
                 "during",
                 "at"
               ],
-              "meaning": "Singing and walking along happened together."
+              "meaning": "Cantar y caminar ocurrieron al mismo tiempo.",
+              "translation": "Cantaban mientras caminaban."
             },
             {
               "id": 5,
@@ -12610,7 +12961,8 @@
                 "until",
                 "over"
               ],
-              "meaning": "Growing wise and growing old progress together."
+              "meaning": "Volverse sabio y envejecer progresaron juntos.",
+              "translation": "Se volvió más sabio a medida que envejecía."
             },
             {
               "id": 6,
@@ -12621,7 +12973,8 @@
                 "since",
                 "on"
               ],
-              "meaning": "Her arrival occurred at the exact instant of our start."
+              "meaning": "Su llegada ocurrió en el instante exacto de nuestro inicio.",
+              "translation": "Ella llegó justo cuando estábamos empezando."
             },
             {
               "id": 7,
@@ -12632,7 +12985,8 @@
                 "during",
                 "after"
               ],
-              "meaning": "Heart racing occurred together with opening."
+              "meaning": "La aceleración del corazón ocurrió al abrir el sobre.",
+              "translation": "Mi corazón se aceleró mientras abría el sobre."
             },
             {
               "id": 8,
@@ -12643,16 +12997,17 @@
                 "until",
                 "inside"
               ],
-              "meaning": "Watching occurred together with the balloon soaring."
+              "meaning": "Observar ocurrió junto con el ascenso del globo.",
+              "translation": "Observamos mientras el globo se elevaba."
             }
           ]
         },
         {
           "key": "over",
-          "title": "Over",
-          "description": "Directly above and covering another object",
-          "example": "The plane is flying over the city.",
-          "longDescription": "Use \"over\" when an object is directly above another (often crossing from side to side) or covering the object beneath it completely.",
+          "title": "Over (Sobre / Por encima de)",
+          "description": "Directamente encima y cubriendo otro objeto",
+          "example": "El avión vuela sobre la ciudad.",
+          "longDescription": "Usa \"over\" cuando un objeto está directamente encima de otro (a menudo cruzando de un lado a otro) o cubriendo completamente el objeto de abajo.",
           "sentences": [
             {
               "id": 1,
@@ -12663,7 +13018,8 @@
                 "on",
                 "at"
               ],
-              "meaning": "The plane is flying directly above and moving across the city."
+              "meaning": "El avión vuela directamente encima y cruzando la ciudad.",
+              "translation": "El avión está volando sobre la ciudad."
             },
             {
               "id": 2,
@@ -12674,7 +13030,8 @@
                 "above",
                 "in"
               ],
-              "meaning": "The blanket is covering the child completely."
+              "meaning": "La manta cubre al niño completamente.",
+              "translation": "Ella colocó una manta cálida sobre el niño dormido."
             },
             {
               "id": 3,
@@ -12685,7 +13042,8 @@
                 "on",
                 "above"
               ],
-              "meaning": "The dog leaped across and above the fence from one side to the other."
+              "meaning": "El perro saltó por encima de la cerca de un lado al otro.",
+              "translation": "El perro saltó sobre la cerca de madera."
             },
             {
               "id": 4,
@@ -12696,7 +13054,8 @@
                 "on",
                 "at"
               ],
-              "meaning": "The umbrella is positioned above her head to cover/protect her."
+              "meaning": "El paraguas está colocado encima de su cabeza para cubrirla y protegerla.",
+              "translation": "Sostuvo un paraguas sobre su cabeza."
             },
             {
               "id": 5,
@@ -12707,7 +13066,8 @@
                 "above",
                 "on"
               ],
-              "meaning": "The bridge crosses above and covers the width of the river."
+              "meaning": "El puente cruza por encima de un lado a otro del río.",
+              "translation": "Un hermoso puente se extiende sobre el ancho río."
             },
             {
               "id": 6,
@@ -12718,7 +13078,8 @@
                 "at",
                 "in"
               ],
-              "meaning": "The clouds are directly above and partially covering the mountain peak."
+              "meaning": "Las nubes están directamente encima y cubriendo parcialmente el pico de la montaña.",
+              "translation": "Las nubes están flotando sobre la montaña."
             },
             {
               "id": 7,
@@ -12729,7 +13090,8 @@
                 "above",
                 "on"
               ],
-              "meaning": "He poured syrup so that it covered the surface of the pancakes."
+              "meaning": "Sirvió el jarabe de modo que cubrió la superficie de los panqueques.",
+              "translation": "Puso jarabe sobre sus panqueques."
             },
             {
               "id": 8,
@@ -12740,16 +13102,17 @@
                 "on",
                 "at"
               ],
-              "meaning": "The sign was placed directly above the door frame."
+              "meaning": "El cartel estaba colocado directamente encima del marco de la puerta.",
+              "translation": "El cartel colgaba sobre la puerta de la tienda."
             }
           ]
         },
         {
           "key": "above",
-          "title": "Above",
-          "description": "Situated higher than another object (not on top)",
-          "example": "The picture hangs above the fireplace.",
-          "longDescription": "Use \"above\" when an object is higher than another object but is not touching or covering it directly. It implies a gap between the two objects.",
+          "title": "Above (Por encima de / Encima de)",
+          "description": "Situado más alto que otro objeto (sin tocarlo)",
+          "example": "El cuadro cuelga encima de la chimenea.",
+          "longDescription": "Usa \"above\" cuando un objeto está más alto que otro objeto pero no lo toca ni lo cubre directamente. Implica un espacio libre entre ambos objetos.",
           "sentences": [
             {
               "id": 1,
@@ -12760,7 +13123,8 @@
                 "on",
                 "at"
               ],
-              "meaning": "The picture is situated higher than the fireplace, not touching it."
+              "meaning": "El cuadro está situado más alto que la chimenea, sin tocarla.",
+              "translation": "El cuadro cuelga por encima de la chimenea."
             },
             {
               "id": 2,
@@ -12771,7 +13135,8 @@
                 "over",
                 "on"
               ],
-              "meaning": "The sun is higher in position than the mountain tops."
+              "meaning": "El sol está en una posición más alta que las cumbres.",
+              "translation": "El sol se elevó por encima de las cumbres de las montañas."
             },
             {
               "id": 3,
@@ -12782,7 +13147,8 @@
                 "on",
                 "at"
               ],
-              "meaning": "The shelf is mounted higher than the desk, leaving a gap."
+              "meaning": "La repisa está montada más alta que el escritorio, dejando un espacio.",
+              "translation": "La repisa está colocada por encima del escritorio de estudio."
             },
             {
               "id": 4,
@@ -12793,7 +13159,8 @@
                 "over",
                 "on"
               ],
-              "meaning": "Her flat is located on a higher floor than mine."
+              "meaning": "Su piso está ubicado en una planta superior a la mía.",
+              "translation": "Su apartamento está directamente por encima del mío."
             },
             {
               "id": 5,
@@ -12804,7 +13171,8 @@
                 "over",
                 "at"
               ],
-              "meaning": "Maintain your head in a position higher than the water level."
+              "meaning": "Mantén tu cabeza en una posición más alta que el nivel del agua.",
+              "translation": "Mantén tu cabeza por encima del agua."
             },
             {
               "id": 6,
@@ -12815,7 +13183,8 @@
                 "on",
                 "over"
               ],
-              "meaning": "The stars are high up in the sky overhead."
+              "meaning": "Las estrellas están muy arriba en el cielo sobre nuestras cabezas.",
+              "translation": "Las estrellas brillaban intensamente por encima de nosotros."
             },
             {
               "id": 7,
@@ -12826,7 +13195,8 @@
                 "on",
                 "at"
               ],
-              "meaning": "The bird remained in the air higher than the tree's branches."
+              "meaning": "El pájaro se mantuvo en el aire más alto que las ramas del árbol.",
+              "translation": "El pájaro planeaba por encima del árbol."
             },
             {
               "id": 8,
@@ -12837,7 +13207,8 @@
                 "over",
                 "on"
               ],
-              "meaning": "Our position is higher than the clouds below."
+              "meaning": "Nuestra posición es más alta que las nubes de abajo.",
+              "translation": "Estamos volando muy por encima de las densas nubes."
             }
           ]
         }

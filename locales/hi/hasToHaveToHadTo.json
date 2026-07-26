@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "sentence": "He has to take care of his health.",
+    "translation": "उसे अपने स्वास्थ्य का ध्यान रखना पड़ता है।",
+    "meaning": "उसके लिए (एकवचन) अपने शारीरिक स्वास्थ्य पर ध्यान देना आवश्यक है।"
+  },
+  {
+    "id": 2,
+    "sentence": "They have to renew their passports.",
+    "translation": "उन्हें अपने पासपोर्ट का नवीनीकरण कराना पड़ता है।",
+    "meaning": "उनके लिए अपने यात्रा दस्तावेजों का नवीनीकरण कराना एक कानूनी आवश्यकता है।"
+  },
+  {
+    "id": 3,
+    "sentence": "I have to book train tickets in advance.",
+    "translation": "मुझे पहले से ट्रेन टिकट बुक करनी पड़ती हैं।",
+    "meaning": "सीट सुरक्षित करने के लिए मेरे लिए जल्दी टिकट खरीदना आवश्यक है।"
+  },
+  {
+    "id": 4,
+    "sentence": "You have to take an umbrella; it may rain.",
+    "translation": "आपको छाता लेना पड़ेगा; बारिश हो सकती है।",
+    "meaning": "आज छाता साथ लाना अत्यधिक आवश्यक है।"
+  },
+  {
+    "id": 5,
+    "sentence": "We have to be polite to everyone.",
+    "translation": "हमें सभी के साथ विनम्र रहना पड़ता है।",
+    "meaning": "हर किसी के साथ सम्मानपूर्वक व्यवहार करना हमारा सामाजिक कर्तव्य है।"
+  },
+  {
+    "id": 6,
+    "sentence": "She has to clean her room every weekend.",
+    "translation": "उसे हर सप्ताहांत अपना कमरा साफ करना पड़ता है।",
+    "meaning": "अपना कमरा व्यवस्थित रखना उसकी एक आवश्यकता या काम है।"
+  },
+  {
+    "id": 7,
+    "sentence": "He has to fix his bike.",
+    "translation": "उसे अपनी बाइक ठीक करनी पड़ेगी।",
+    "meaning": "अपनी साइकिल/बाइक की मरम्मत करना उसके लिए आवश्यक है।"
+  },
+  {
+    "id": 8,
+    "sentence": "They have to register for the competition.",
+    "translation": "उन्हें प्रतियोगिता के लिए पंजीकरण कराना होगा।",
+    "meaning": "प्रतियोगिता में भाग लेने से पहले पंजीकरण करना एक अनिवार्य नियम है।"
+  },
+  {
+    "id": 9,
+    "sentence": "I have to send an email to my boss.",
+    "translation": "मुझे अपने बॉस को एक ईमेल भेजना पड़ेगा।",
+    "meaning": "अपने नियोक्ता को ईमेल करना मेरे लिए कार्य की जिम्मेदारी है।"
+  },
+  {
+    "id": 10,
+    "sentence": "You have to be careful while driving.",
+    "translation": "गाड़ी चलाते समय आपको सावधान रहना होगा।",
+    "meaning": "सुरक्षा के लिए सावधानी से गाड़ी चलाना अत्यंत महत्वपूर्ण और अनिवार्य है।"
+  },
+  {
+    "id": 11,
+    "sentence": "We have to support our friends.",
+    "translation": "हमें अपने दोस्तों का समर्थन करना पड़ता है।",
+    "meaning": "हम अपने दोस्तों को मदद देने का एक नैतिक दायित्व महसूस करते हैं।"
+  },
+  {
+    "id": 12,
+    "sentence": "She has to attend her yoga class.",
+    "translation": "उसे अपनी योग कक्षा में शामिल होना पड़ता है।",
+    "meaning": "वह अपनी निर्धारित योग कक्षा में जाने के लिए प्रतिबद्ध है।"
+  },
+  {
+    "id": 13,
+    "sentence": "He has to call the plumber.",
+    "translation": "उसे प्लंबर को बुलाना पड़ेगा।",
+    "meaning": "लीकेज ठीक करने के लिए विशेषज्ञ से संपर्क करना उसके लिए आवश्यक है।"
+  },
+  {
+    "id": 14,
+    "sentence": "They have to pay the rent.",
+    "translation": "उन्हें किराया देना पड़ता है।",
+    "meaning": "अपने आवास के लिए भुगतान करना उनका वित्तीय और संविदात्मक दायित्व है।"
+  },
+  {
+    "id": 15,
+    "sentence": "I have to take notes during the lecture.",
+    "translation": "मुझे व्याख्यान के दौरान नोट्स बनाने पड़ते हैं।",
+    "meaning": "बाद में अध्ययन करने के लिए मुख्य बिंदुओं को लिखना मेरे लिए आवश्यक है।"
+  },
+  {
+    "id": 16,
+    "sentence": "We have to wake up early tomorrow.",
+    "translation": "हमें कल सुबह जल्दी उठना पड़ेगा।",
+    "meaning": "हमारे लिए सुबह जल्दी उठना आवश्यक है।"
+  },
+  {
+    "id": 17,
+    "sentence": "She doesn't have to wake up at 5 AM on weekends.",
+    "translation": "उसे सप्ताहांत में सुबह 5 बजे उठने की आवश्यकता नहीं है।",
+    "meaning": "शनिवार और रविवार को उसके लिए जल्दी उठने की कोई बाध्यता नहीं है।"
+  },
+  {
+    "id": 18,
+    "sentence": "He doesn't have to complete the project today.",
+    "translation": "उसे आज ही प्रोजेक्ट पूरा करने की आवश्यकता नहीं है।",
+    "meaning": "अंतिम तिथि आज नहीं है, इसलिए उसे इसे अभी पूरा करने की आवश्यकता नहीं है।"
+  },
+  {
+    "id": 19,
+    "sentence": "They don't have to attend the seminar if they don't want to.",
+    "translation": "यदि वे नहीं चाहते तो उन्हें सेमिनार में शामिल होने की आवश्यकता नहीं है।",
+    "meaning": "उनके लिए उपस्थिति स्वैच्छिक है, अनिवार्य नहीं।"
+  },
+  {
+    "id": 20,
+    "sentence": "I don't have to take a cab; I can walk.",
+    "translation": "मुझे कैब लेने की ज़रूरत नहीं है; मैं पैदल जा सकता हूँ।",
+    "meaning": "मेरे लिए टैक्सी लेना आवश्यक नहीं है क्योंकि पैदल चलना एक विकल्प है।"
+  },
+  {
+    "id": 21,
+    "sentence": "You don't have to bring food; we already have enough.",
+    "translation": "आपको खाना लाने की जरूरत नहीं है; हमारे पास पहले से ही पर्याप्त है।",
+    "meaning": "आपके लिए इस कार्यक्रम में खाना लाने की कोई आवश्यकता नहीं है।"
+  },
+  {
+    "id": 22,
+    "sentence": "We don't have to go shopping today.",
+    "translation": "हमें आज खरीदारी करने जाने की आवश्यकता नहीं है।",
+    "meaning": "आज दुकानों पर जाना हमारे लिए कोई आवश्यक काम नहीं है।"
+  },
+  {
+    "id": 23,
+    "sentence": "She doesn't have to participate in the competition.",
+    "translation": "उसे प्रतियोगिता में भाग लेने की आवश्यकता नहीं है।",
+    "meaning": "प्रतियोगिता में प्रवेश करना उसके लिए अनिवार्य नहीं है।"
+  },
+  {
+    "id": 24,
+    "sentence": "They don't have to wait in the queue; they have priority access.",
+    "translation": "उन्हें कतार में इंतजार करने की जरूरत नहीं है; उनके पास प्राथमिकता पहुंच है।",
+    "meaning": "विशेष पास होने के कारण वे लाइन में खड़े होने से मुक्त हैं।"
+  },
+  {
+    "id": 25,
+    "sentence": "I had to wake up early for work.",
+    "translation": "मुझे काम के लिए जल्दी उठना पड़ा था।",
+    "meaning": "अतीत में, काम पर जाने के लिए मेरे लिए जल्दी उठना आवश्यक था।"
+  },
+  {
+    "id": 26,
+    "sentence": "She had to cancel her trip due to illness.",
+    "translation": "बीमारी के कारण उसे अपनी यात्रा रद्द करनी पड़ी।",
+    "meaning": "अतीत में खराब स्वास्थ्य के कारण उसे अपनी यात्रा रद्द करने के लिए मजबूर होना पड़ा था।"
+  },
+  {
+    "id": 27,
+    "sentence": "We had to finish the project on time.",
+    "translation": "हमें समय पर प्रोजेक्ट पूरा करना पड़ा।",
+    "meaning": "हम दी गई समय सीमा के भीतर काम पूरा करने के लिए बाध्य थे।"
+  },
+  {
+    "id": 28,
+    "sentence": "He had to apologize for his mistake.",
+    "translation": "उसे अपनी गलती के लिए माफी मांगनी पड़ी।",
+    "meaning": "उसने जो गलत किया था उसके लिए माफी मांगना उसके लिए आवश्यक था।"
+  },
+  {
+    "id": 29,
+    "sentence": "They had to leave the party early.",
+    "translation": "उन्हें पार्टी से जल्दी निकलना पड़ा।",
+    "meaning": "उन्हें पार्टी समाप्त होने से पहले ही वहाँ से जाने के लिए मजबूर होना पड़ा था।"
+  },
+  {
+    "id": 30,
+    "sentence": "I had to study all night for the exam.",
+    "translation": "मुझे परीक्षा के लिए पूरी रात पढ़ाई करनी पड़ी।",
+    "meaning": "मेरे लिए अपनी परीक्षा की तैयारी में पूरी रात बिताना आवश्यक था।"
+  },
+  {
+    "id": 31,
+    "sentence": "We had to take a different route home.",
+    "translation": "हमें घर जाने के लिए दूसरा रास्ता लेना पड़ा।",
+    "meaning": "रुकावटों के कारण हमें दूसरे रास्ते से यात्रा करने के लिए मजबूर होना पड़ा।"
+  },
+  {
+    "id": 32,
+    "sentence": "She had to take care of her younger brother.",
+    "translation": "उसे अपने छोटे भाई की देखभाल करनी पड़ी।",
+    "meaning": "अतीत में उसे अपने भाई की देखभाल करने की जिम्मेदारी दी गई थी।"
+  }
+]

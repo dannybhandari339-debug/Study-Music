@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "sentence": "You should wake up early.",
+    "translation": "आपको सुबह जल्दी उठना चाहिए।",
+    "meaning": "आपके लिए सुबह जल्दी उठना उचित और लाभदायक है।"
+  },
+  {
+    "id": 2,
+    "sentence": "You should not skip breakfast.",
+    "translation": "आपको नाश्ता नहीं छोड़ना चाहिए।",
+    "meaning": "यह सलाह दी जाती है कि सुबह का खाना न छोड़ें क्योंकि यह स्वास्थ्य के लिए हानिकारक है।"
+  },
+  {
+    "id": 3,
+    "sentence": "She should study harder.",
+    "translation": "उसे और अधिक मेहनत से पढ़ाई करनी चाहिए।",
+    "meaning": "यह सलाह दी जाती है कि वह अपनी पढ़ाई में अधिक प्रयास करे।"
+  },
+  {
+    "id": 4,
+    "sentence": "He should not waste time.",
+    "translation": "उसे समय बर्बाद नहीं करना चाहिए।",
+    "meaning": "उसके लिए अनुत्पादक कार्यों में समय गंवाना अनुचित या नासमझी है।"
+  },
+  {
+    "id": 5,
+    "sentence": "We should help others.",
+    "translation": "हमें दूसरों की मदद करनी चाहिए।",
+    "meaning": "जरूरतमंद लोगों की सहायता करना हमारा नैतिक कर्तव्य और अच्छा कार्य है।"
+  },
+  {
+    "id": 6,
+    "sentence": "They should not lie.",
+    "translation": "उन्हें झूठ नहीं बोलना चाहिए।",
+    "meaning": "झूठ बोलना या दूसरों को धोखा देना गलत है।"
+  },
+  {
+    "id": 7,
+    "sentence": "I should call my parents.",
+    "translation": "मुझे अपने माता-पिता को फोन करना चाहिए।",
+    "meaning": "मेरे लिए अपने परिवार को फोन करना एक अच्छा और जिम्मेदार काम है।"
+  },
+  {
+    "id": 8,
+    "sentence": "You should not drive fast.",
+    "translation": "आपको तेज गाड़ी नहीं चलानी चाहिए।",
+    "meaning": "तेज गति से वाहन चलाना असुरक्षित है और ऐसा न करने की सलाह दी जाती है।"
+  },
+  {
+    "id": 9,
+    "sentence": "She should drink more water.",
+    "translation": "उसे अधिक पानी पीना चाहिए।",
+    "meaning": "उसके स्वास्थ्य के लिए अधिक मात्रा में पानी पीना लाभदायक है।"
+  },
+  {
+    "id": 10,
+    "sentence": "He should not shout at people.",
+    "translation": "उसे लोगों पर चिल्लाना नहीं चाहिए।",
+    "meaning": "दूसरों पर अपनी आवाज उठाना अशिष्टता है।"
+  },
+  {
+    "id": 11,
+    "sentence": "We should save money.",
+    "translation": "हमें पैसे बचाने चाहिए।",
+    "meaning": "भविष्य की जरूरतों के लिए धन बचाकर रखना समझदारी है।"
+  },
+  {
+    "id": 12,
+    "sentence": "They should not fight.",
+    "translation": "उन्हें झगड़ा नहीं करना चाहिए।",
+    "meaning": "आपसी लड़ाई या विवाद में शामिल होना नकारात्मक व्यवहार है।"
+  },
+  {
+    "id": 13,
+    "sentence": "I should exercise daily.",
+    "translation": "मुझे रोजाना व्यायाम करना चाहिए।",
+    "meaning": "मेरे लिए हर दिन कसरत करना बहुत लाभदायक और अनुशंसित है।"
+  },
+  {
+    "id": 14,
+    "sentence": "You should not eat junk food.",
+    "translation": "आपको जंक फूड नहीं खाना चाहिए।",
+    "meaning": "अस्वास्थ्यकर और फास्ट फूड खाने से बचने की सलाह दी जाती है।"
+  },
+  {
+    "id": 15,
+    "sentence": "She should finish her homework.",
+    "translation": "उसे अपना गृहकार्य (होमवर्क) पूरा करना चाहिए।",
+    "meaning": "यह अपेक्षा की जाती है कि वह अपने स्कूल का काम पूरा करे।"
+  },
+  {
+    "id": 16,
+    "sentence": "He should not be rude.",
+    "translation": "उन्हें अशिष्ट/बद्तमीज नहीं होना चाहिए।",
+    "meaning": "अशिष्ट व्यवहार दिखाना बुरी आदत है।"
+  },
+  {
+    "id": 17,
+    "sentence": "We should respect teachers.",
+    "translation": "हमें शिक्षकों का सम्मान करना चाहिए।",
+    "meaning": "शिक्षकों के प्रति सम्मान प्रकट करना एक अत्यंत सराहनीय दृष्टिकोण है।"
+  },
+  {
+    "id": 18,
+    "sentence": "They should not make noise.",
+    "translation": "उन्हें शोर नहीं मचाना चाहिए।",
+    "meaning": "उन्हें शांत रहने और तेज आवाज न करने की सलाह दी जाती है।"
+  },
+  {
+    "id": 19,
+    "sentence": "I should learn English.",
+    "translation": "मुझे अंग्रेजी सीखनी चाहिए।",
+    "meaning": "अंग्रेजी भाषा सीखना मेरे लिए अत्यंत लाभदायक है।"
+  },
+  {
+    "id": 20,
+    "sentence": "You should not be late.",
+    "translation": "आपको देर नहीं करनी चाहिए।",
+    "meaning": "यह अपेक्षा की जाती है कि आप देर से आने के बजाय समय पर पहुंचें।"
+  },
+  {
+    "id": 21,
+    "sentence": "She should wear warm clothes.",
+    "translation": "उसे गर्म कपड़े पहनने चाहिए।",
+    "meaning": "उसे ठंड से बचने के लिए गर्म कपड़े पहनने की सलाह दी जाती है।"
+  },
+  {
+    "id": 22,
+    "sentence": "He should not ignore advice.",
+    "translation": "उसे सलाह को नजरअंदाज नहीं करना चाहिए।",
+    "meaning": "दूसरों द्वारा दी गई उपयोगी सलाह की उपेक्षा करना नासमझी है।"
+  },
+  {
+    "id": 23,
+    "sentence": "We should keep the room clean.",
+    "translation": "हमें कमरा साफ रखना चाहिए।",
+    "meaning": "कमरे को साफ और व्यवस्थित रखना स्वास्थ्य और स्वच्छता के लिए अच्छा है।"
+  },
+  {
+    "id": 24,
+    "sentence": "They should not break rules.",
+    "translation": "उन्हें नियम नहीं तोड़ने चाहिए।",
+    "meaning": "स्थापित नियमों का पालन करना उनके लिए आवश्यक और अनिवार्य है।"
+  },
+  {
+    "id": 25,
+    "sentence": "I should read books.",
+    "translation": "मुझे किताबें पढ़नी चाहिए।",
+    "meaning": "मानसिक विकास के लिए किताबें पढ़ना एक बहुत अच्छी आदत है।"
+  },
+  {
+    "id": 26,
+    "sentence": "You should not use bad words.",
+    "translation": "आपको बुरे शब्दों का प्रयोग नहीं करना चाहिए।",
+    "meaning": "गंदे या नकारात्मक शब्दों का उपयोग करना अनुचित है।"
+  },
+  {
+    "id": 27,
+    "sentence": "She should visit the doctor.",
+    "translation": "उसे डॉक्टर के पास जाना चाहिए।",
+    "meaning": "उसके स्वास्थ्य के लिए डॉक्टर से परामर्श लेना उचित है।"
+  },
+  {
+    "id": 28,
+    "sentence": "He should not sleep late.",
+    "translation": "उसे देर से नहीं सोना चाहिए।",
+    "meaning": "देर रात तक जागना स्वास्थ्य के लिए हानिकारक है।"
+  }
+]

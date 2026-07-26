@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "sentence": "I had been studying for two hours when my friend arrived.",
+    "translation": "जब मेरा दोस्त आया, तब मैं दो घंटे से पढ़ाई कर रहा था।",
+    "meaning": "मेरे दोस्त के आने के समय से पहले मेरा अध्ययन सत्र दो घंटे से चल रहा था।"
+  },
+  {
+    "id": 2,
+    "sentence": "She had been cooking all morning when the guests came.",
+    "translation": "जब मेहमान आए, तब वह पूरी सुबह से खाना बना रही थी।",
+    "meaning": "मेहमानों के आने तक उसकी खाना बनाने की तैयारी पूरी सुबह चल रही थी।"
+  },
+  {
+    "id": 3,
+    "sentence": "They had been playing cricket when it started to rain.",
+    "translation": "जब बारिश शुरू हुई, तब वे क्रिकेट खेल रहे थे।",
+    "meaning": "जैसे ही बारिश शुरू हुई, उनका क्रिकेट मैच चल रहा था।"
+  },
+  {
+    "id": 4,
+    "sentence": "We had been walking for miles when we found a café.",
+    "translation": "जब हमें एक कैफे मिला, तब हम मीलों से चल रहे थे।",
+    "meaning": "कैफे मिलने से पहले हमारी पैदल यात्रा मीलों तक चलती रही।"
+  },
+  {
+    "id": 5,
+    "sentence": "He had been working late when his boss called him.",
+    "translation": "जब उसके बॉस ने फोन किया, तब वह देर तक काम कर रहा था।",
+    "meaning": "जब उसके बॉस ने फोन किया, तब उसका दफ्तर का काम देर शाम तक जारी था।"
+  },
+  {
+    "id": 6,
+    "sentence": "I had been reading a novel when the lights went out.",
+    "translation": "जब बिजली चली गई, तब मैं एक उपन्यास पढ़ रहा था।",
+    "meaning": "जिस पल बिजली गई, उस समय मैं अपनी किताब पढ़ने के बीच में था।"
+  },
+  {
+    "id": 7,
+    "sentence": "She had been practicing dance when her teacher entered.",
+    "translation": "जब उसकी शिक्षिका ने प्रवेश किया, तब वह नृत्य का अभ्यास कर रही थी।",
+    "meaning": "जिस वक्त शिक्षिका अंदर आई, ठीक उसी समय उसका डांस रिहर्सल चल रहा था।"
+  },
+  {
+    "id": 8,
+    "sentence": "They had been discussing the plan when the manager joined.",
+    "translation": "जब मैनेजर शामिल हुआ, तब वे योजना पर चर्चा कर रहे थे।",
+    "meaning": "जब मैनेजर शामिल हुआ, तब उनकी योजना पर चर्चा पहले से ही जारी थी।"
+  },
+  {
+    "id": 9,
+    "sentence": "We had been waiting for the bus when it finally came.",
+    "translation": "जब बस आखिरकार आई, तब हम बस का इंतजार कर रहे थे।",
+    "meaning": "जब तक बस नहीं आई, तब तक हमारा बस स्टॉप पर इंतजार जारी था।"
+  },
+  {
+    "id": 10,
+    "sentence": "He had been exercising regularly when he felt stronger.",
+    "translation": "जब उसने खुद को अधिक मजबूत महसूस किया, तब वह नियमित रूप से व्यायाम कर रहा था।",
+    "meaning": "बेहतर और स्वस्थ महसूस करने से पहले वह नियमित व्यायाम कर रहा था।"
+  },
+  {
+    "id": 11,
+    "sentence": "I had been writing emails when the internet stopped working.",
+    "translation": "जब इंटरनेट बंद हुआ, तब मैं ईमेल लिख रहा था।",
+    "meaning": "जैसे ही इंटरनेट कनेक्शन कटा, मैं ईमेल लिख रहा था।"
+  },
+  {
+    "id": 12,
+    "sentence": "She had been singing beautifully when the audience applauded.",
+    "translation": "जब दर्शकों ने तालियां बजाईं, तब वह बहुत सुंदरता से गा रही थी।",
+    "meaning": "जिस समय दर्शकों ने तालियां बजाईं, उस समय उसका गायन जारी था।"
+  },
+  {
+    "id": 13,
+    "sentence": "They had been traveling for days when they reached Delhi.",
+    "translation": "जब वे दिल्ली पहुंचे, तब वे दिनों से यात्रा कर रहे थे।",
+    "meaning": "दिल्ली पहुंचने से पहले उनकी यात्रा कई दिनों से जारी थी।"
+  },
+  {
+    "id": 14,
+    "sentence": "They had been building the house when the storm hit.",
+    "translation": "जब तूफान आया, तब वे घर बना रहे थे।",
+    "meaning": "जब तूफान आया, तब उनके घर का निर्माण कार्य चल रहा था।"
+  },
+  {
+    "id": 15,
+    "sentence": "We had been planning the trip when everything changed.",
+    "translation": "जब सब कुछ बदल गया, तब हम यात्रा की योजना बना रहे थे।",
+    "meaning": "अचानक घटनाओं के बदलने से पहले हमारी छुट्टियों की योजना चल रही थी।"
+  },
+  {
+    "id": 16,
+    "sentence": "He had been teaching for years when he retired.",
+    "translation": "जब वे सेवानिवृत्त (रिटायर) हुए, तब वे सालों से पढ़ा रहे थे।",
+    "meaning": "रिटायर होने के समय तक उनका अध्यापन कार्य कई सालों से चल रहा था।"
+  },
+  {
+    "id": 17,
+    "sentence": "I had been saving money before I bought a new phone.",
+    "translation": "नया फोन खरीदने से पहले मैं पैसे बचा रहा था।",
+    "meaning": "नया फोन खरीदने से पहले मैं लंबे समय से पैसे जमा कर रहा था।"
+  },
+  {
+    "id": 18,
+    "sentence": "She had been working hard before she got promoted.",
+    "translation": "पदोन्नति (प्रमोशन) मिलने से पहले वह कड़ी मेहनत कर रही थी।",
+    "meaning": "नौकरी में प्रमोशन मिलने से पहले उसका परिश्रम लगातार जारी था।"
+  },
+  {
+    "id": 19,
+    "sentence": "They had been practicing daily before the competition began.",
+    "translation": "प्रतियोगिता शुरू होने से पहले वे रोज अभ्यास कर रहे थे।",
+    "meaning": "आधिकारिक प्रतियोगिता शुरू होने तक उनका रोज का अभ्यास जारी था।"
+  },
+  {
+    "id": 20,
+    "sentence": "We had been preparing food before the guests arrived.",
+    "translation": "मेहमानों के आने से पहले हम खाना तैयार कर रहे थे।",
+    "meaning": "मेहमानों के हमारे घर पहुंचने से पहले हम भोजन बनाने में व्यस्त थे।"
+  },
+  {
+    "id": 21,
+    "sentence": "He had been training regularly before he won the race.",
+    "translation": "रेस जीतने से पहले वह नियमित रूप से प्रशिक्षण (ट्रेनिंग) ले रहा था।",
+    "meaning": "दौड़ जीतने तक उसका नियमित वर्कआउट और प्रशिक्षण जारी था।"
+  },
+  {
+    "id": 22,
+    "sentence": "I had been researching the topic before I wrote the report.",
+    "translation": "रिपोर्ट लिखने से पहले मैं इस विषय पर शोध कर रहा था।",
+    "meaning": "औपचारिक रिपोर्ट तैयार करने से पहले मैंने विषय का गहन अध्ययन किया।"
+  },
+  {
+    "id": 23,
+    "sentence": "She had been studying all night before the exam started.",
+    "translation": "परीक्षा शुरू होने से पहले वह पूरी रात पढ़ाई कर रही थी।",
+    "meaning": "परीक्षा शुरू होने तक वह पूरी रात जगकर पढ़ाई कर रही थी।"
+  },
+  {
+    "id": 24,
+    "sentence": "They had been rehearsing before the final performance.",
+    "translation": "अंतिम प्रस्तुति से पहले वे रिहर्सल (अभ्यास) कर रहे थे।",
+    "meaning": "मंच पर अंतिम प्रस्तुति से पहले उनका रिहर्सल जारी था।"
+  },
+  {
+    "id": 25,
+    "sentence": "We had been cleaning the house before the festival started.",
+    "translation": "त्योहार शुरू होने से पहले हम घर की सफाई कर रहे थे।",
+    "meaning": "त्योहार के आगमन तक हमारे घर की सफाई का काम जारी था।"
+  },
+  {
+    "id": 26,
+    "sentence": "He had been investing wisely before he became wealthy.",
+    "translation": "अमीर बनने से पहले वह समझदारी से निवेश कर रहा था।",
+    "meaning": "संपत्ति और धन बनाने से पहले वह समझदारी से पैसे का निवेश कर रहा था।"
+  },
+  {
+    "id": 27,
+    "sentence": "I had been learning coding before I got my first job.",
+    "translation": "अपनी पहली नौकरी मिलने से पहले मैं कोडिंग सीख रहा था।",
+    "meaning": "पहली नौकरी प्राप्त करने से पहले मैंने प्रोग्रामिंग सीखने में काफी समय दिया।"
+  }
+]

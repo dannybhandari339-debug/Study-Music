@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "sentence": "I will be studying tonight.",
+    "translation": "मैं आज रात पढ़ाई कर रहा हूँगा / कर रही हूँगी।",
+    "meaning": "मैं आज रात किसी समय पढ़ाई में व्यस्त रहने की उम्मीद करता हूँ / करती हूँ।"
+  },
+  {
+    "id": 2,
+    "sentence": "She will not be attending the meeting.",
+    "translation": "वह बैठक (मीटिंग) में शामिल नहीं हो रही होगी।",
+    "meaning": "उसकी बैठक में उपस्थित होने या भाग लेने की योजना नहीं है।"
+  },
+  {
+    "id": 3,
+    "sentence": "They will be playing football tomorrow.",
+    "translation": "वे कल फुटबॉल खेल रहे होंगे।",
+    "meaning": "उन्होंने कल फुटबॉल मैच की योजना बनाई है और वे खेल के बीच में होंगे।"
+  },
+  {
+    "id": 4,
+    "sentence": "He will not be working late.",
+    "translation": "वह देर तक काम नहीं कर रहा होगा।",
+    "meaning": "उसका आज रात देर तक अतिरिक्त घंटे काम करने का इरादा नहीं है।"
+  },
+  {
+    "id": 5,
+    "sentence": "We will be traveling next week.",
+    "translation": "हम अगले हफ्ते यात्रा कर रहे होंगे।",
+    "meaning": "हमारी अगले सप्ताह किसी यात्रा या सफर पर होने की योजना है।"
+  },
+  {
+    "id": 6,
+    "sentence": "I will not be sleeping early.",
+    "translation": "मैं जल्दी नहीं सो रहा हूँगा / सो रही हूँगी।",
+    "meaning": "मेरी देर तक जागने की योजना है और मैं जल्दी नहीं सोऊंगा/सोऊंगी।"
+  },
+  {
+    "id": 7,
+    "sentence": "She will be cooking dinner at 8 PM.",
+    "translation": "वह रात 8 बजे खाना बना रही होगी।",
+    "meaning": "ठीक रात 8 बजे, उसके डिनर पकाने के बीच में होने की उम्मीद है।"
+  },
+  {
+    "id": 8,
+    "sentence": "They will not be watching the movie.",
+    "translation": "वे फिल्म (सिनेमा) नहीं देख रहे होंगे।",
+    "meaning": "उनका निर्धारित फिल्म देखने का इरादा नहीं है।"
+  },
+  {
+    "id": 9,
+    "sentence": "He will be driving to Delhi tomorrow.",
+    "translation": "वह कल गाड़ी चलाकर दिल्ली जा रहा होगा।",
+    "meaning": "कल, उसकी सड़क पर गाड़ी चलाकर दिल्ली जाने की योजना है।"
+  },
+  {
+    "id": 10,
+    "sentence": "We will not be visiting the museum.",
+    "translation": "हम संग्रहालय (म्यूजियम) नहीं देख रहे होंगे।",
+    "meaning": "हम अपनी आगामी यात्रा कार्यक्रम में संग्रहालय को शामिल नहीं करेंगे।"
+  },
+  {
+    "id": 11,
+    "sentence": "I will be writing a letter.",
+    "translation": "मैं एक पत्र लिख रहा हूँगा / रही हूँगी।",
+    "meaning": "मेरी कागज़ पर पत्र लिखने में कुछ समय बिताने की योजना है।"
+  },
+  {
+    "id": 12,
+    "sentence": "She will not be practicing piano.",
+    "translation": "वह पियानो का अभ्यास नहीं कर रही होगी।",
+    "meaning": "उसकी आज पियानो बजाने का अभ्यास करने की योजना नहीं है।"
+  },
+  {
+    "id": 13,
+    "sentence": "They will be building a new house.",
+    "translation": "वे एक नया घर बना रहे होंगे।",
+    "meaning": "वे अपने नए घर का निर्माण करने की प्रक्रिया में होंगे।"
+  },
+  {
+    "id": 14,
+    "sentence": "He will not be calling you tonight.",
+    "translation": "वह आज रात आपको फोन नहीं कर रहा होगा।",
+    "meaning": "उसकी आज शाम आपको फोन करने की योजना नहीं है।"
+  },
+  {
+    "id": 15,
+    "sentence": "We will be celebrating the festival.",
+    "translation": "हम त्यौहार मना रहे होंगे।",
+    "meaning": "हम त्यौहार की गतिविधियों में भाग लेने और आनंद लेने की योजना बना रहे हैं।"
+  },
+  {
+    "id": 16,
+    "sentence": "I will not be using my phone.",
+    "translation": "मैं अपने फोन का इस्तेमाल नहीं कर रहा हूँगा / रही हूँगी।",
+    "meaning": "मेरी ऑफलाइन रहने की योजना है और मैं अपने फोन का उपयोग नहीं करूंगा/करूंगी।"
+  },
+  {
+    "id": 17,
+    "sentence": "She will be cleaning her room.",
+    "translation": "वह अपना कमरा साफ कर रही होगी।",
+    "meaning": "वह अपने बेडरूम की सफाई और व्यवस्थित करने में समय बिताने की उम्मीद करती है।"
+  },
+  {
+    "id": 18,
+    "sentence": "They will not be studying for the test.",
+    "translation": "वे परीक्षा के लिए पढ़ाई नहीं कर रहे होंगे।",
+    "meaning": "उनकी आगामी परीक्षा के लिए दोहराने या पढ़ने की योजना नहीं है।"
+  },
+  {
+    "id": 19,
+    "sentence": "He will be fixing the car.",
+    "translation": "वह कार ठीक कर रहा होगा।",
+    "meaning": "उसकी अपनी कार की मरम्मत करने में समय बिताने की योजना है।"
+  },
+  {
+    "id": 20,
+    "sentence": "She will not be dancing at the party.",
+    "translation": "वह पार्टी में डांस नहीं कर रही होगी।",
+    "meaning": "वह पार्टी में शामिल होगी लेकिन डांस फ्लोर पर डांस नहीं करेगी।"
+  },
+  {
+    "id": 21,
+    "sentence": "They will be discussing the plan.",
+    "translation": "वे योजना पर चर्चा कर रहे होंगे।",
+    "meaning": "वे योजनाओं को तैयार करने के लिए आपस में बातचीत कर रहे होंगे।"
+  },
+  {
+    "id": 22,
+    "sentence": "He will not be joining us.",
+    "translation": "वह हमारे साथ शामिल नहीं हो रहा होगा।",
+    "meaning": "वह हमारे साथ नहीं आएगा या हमारी समूह गतिविधि में भाग नहीं लेगा।"
+  },
+  {
+    "id": 23,
+    "sentence": "We will be preparing lunch.",
+    "translation": "हम दोपहर का खाना (लंच) तैयार कर रहे होंगे।",
+    "meaning": "हमारी दोपहर का भोजन बनाने में व्यस्त रहने की योजना है।"
+  },
+  {
+    "id": 24,
+    "sentence": "I will not be working tomorrow.",
+    "translation": "मैं कल काम नहीं कर रहा हूँगा / रही हूँगी।",
+    "meaning": "कल मेरी छुट्टी है, इसलिए मैं काम नहीं करूंगा/करूंगी।"
+  },
+  {
+    "id": 25,
+    "sentence": "She will be reading a novel.",
+    "translation": "वह एक उपन्यास (नोवेल) पढ़ रही होगी।",
+    "meaning": "उसकी अपनी किताब पढ़ने में शांत समय बिताने की योजना है।"
+  },
+  {
+    "id": 26,
+    "sentence": "They will not be playing games.",
+    "translation": "वे खेल नहीं खेल रहे होंगे।",
+    "meaning": "वे अपना खाली समय वीडियो या बोर्ड गेम खेलने में नहीं बिताएंगे।"
+  },
+  {
+    "id": 27,
+    "sentence": "He will be teaching the class.",
+    "translation": "वह कक्षा को पढ़ा रहा होगा।",
+    "meaning": "उसके कक्षा में छात्रों को अपना पाठ पढ़ाने में व्यस्त रहने की उम्मीद है।"
+  },
+  {
+    "id": 28,
+    "sentence": "We will not be attending the function.",
+    "translation": "हम समारोह में शामिल नहीं हो रहे होंगे।",
+    "meaning": "हम औपचारिक कार्यक्रम या समारोह में नहीं जा रहे होंगे।"
+  },
+  {
+    "id": 29,
+    "sentence": "I will be jogging in the morning.",
+    "translation": "मैं सुबह जॉगिंग (दौड़) कर रहा हूँगा / रही हूँगी।",
+    "meaning": "मेरी कल सुबह दौड़ने का व्यायाम करने की योजना है।"
+  },
+  {
+    "id": 30,
+    "sentence": "She will not be answering calls.",
+    "translation": "वह फोन कॉल का जवाब नहीं दे रही होगी।",
+    "meaning": "वह व्यस्त होगी और आने वाले फोन कॉल का जवाब नहीं देगी।"
+  },
+  {
+    "id": 31,
+    "sentence": "They will be organizing the event.",
+    "translation": "वे कार्यक्रम का आयोजन कर रहे होंगे।",
+    "meaning": "वे कार्यक्रम की तैयारियों का समन्वय और व्यवस्था करने की योजना बना रहे हैं।"
+  },
+  {
+    "id": 32,
+    "sentence": "He will not be traveling abroad.",
+    "translation": "वह विदेश यात्रा नहीं कर रहा होगा।",
+    "meaning": "वह अपनी छुट्टियां स्थानीय स्तर पर बिताएगा और विदेश नहीं जाएगा।"
+  },
+  {
+    "id": 33,
+    "sentence": "We will be enjoying the trip.",
+    "translation": "हम यात्रा का आनंद ले रहे होंगे।",
+    "meaning": "हमें अपनी यात्रा के दौरान बहुत शानदार समय बिताने की उम्मीद है।"
+  },
+  {
+    "id": 34,
+    "sentence": "I will not be buying anything.",
+    "translation": "मैं कुछ भी नहीं खरीद रहा हूँगा / रही हूँगी।",
+    "meaning": "मेरी पैसे बचाने की योजना है और मैं दुकान पर कोई सामान नहीं खरीदूंगा/खरीदूंगी।"
+  },
+  {
+    "id": 35,
+    "sentence": "She will be painting the wall.",
+    "translation": "वह दीवार को पेंट कर रही होगी।",
+    "meaning": "उसकी दोपहर का समय बेडरूम की दीवारों को पेंट करने में बिताने की योजना है।"
+  },
+  {
+    "id": 36,
+    "sentence": "They will not be listening to music.",
+    "translation": "वे संगीत नहीं सुन रहे होंगे।",
+    "meaning": "वे शांत जगह पर काम कर रहे होंगे और कोई गाना नहीं बजाएंगे।"
+  },
+  {
+    "id": 37,
+    "sentence": "He will be watching TV.",
+    "translation": "वह टीवी देख रहा होगा।",
+    "meaning": "उसकी शाम के कुछ घंटे टेलीविजन कार्यक्रम देखने में बिताने की योजना है।"
+  },
+  {
+    "id": 38,
+    "sentence": "We will not be staying here.",
+    "translation": "हम यहाँ नहीं ठहर रहे होंगे।",
+    "meaning": "हमारे ठहरने की अन्य योजनाएँ हैं और हम इस स्थान पर नहीं सोएंगे।"
+  },
+  {
+    "id": 39,
+    "sentence": "I will be meeting my friend.",
+    "translation": "मैं अपने दोस्त से मिल रहा हूँगा / रही हूँगी।",
+    "meaning": "मेरी अपने दोस्त से मिलने और समय बिताने की योजना है।"
+  },
+  {
+    "id": 40,
+    "sentence": "She will not be baking a cake.",
+    "translation": "वह केक नहीं बना रही होगी।",
+    "meaning": "वह आज कोई बेक किया हुआ व्यंजन नहीं बना रही होगी।"
+  }
+]

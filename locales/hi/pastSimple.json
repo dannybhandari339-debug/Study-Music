@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "sentence": "I finished my homework yesterday.",
+    "translation": "मैंने कल अपना गृहकार्य पूरा किया।",
+    "meaning": "अतीत में स्कूल के असाइनमेंट पूरे करना।"
+  },
+  {
+    "id": 2,
+    "sentence": "She did not like the movie.",
+    "translation": "उसे फिल्म पसंद नहीं आई।",
+    "meaning": "देखी गई फिल्म का पसंद न आना।"
+  },
+  {
+    "id": 3,
+    "sentence": "They visited their grandparents last weekend.",
+    "translation": "वे पिछले सप्ताहांत अपने दादा-दादी/नाना-नानी से मिलने गए।",
+    "meaning": "हाल ही में परिवार के सदस्यों से मिलने जाना।"
+  },
+  {
+    "id": 4,
+    "sentence": "He did not go to school yesterday.",
+    "translation": "वह कल स्कूल नहीं गया।",
+    "meaning": "कल स्कूल में अनुपस्थित रहना।"
+  },
+  {
+    "id": 5,
+    "sentence": "We watched a football match last night.",
+    "translation": "हमने कल रात एक फुटबॉल मैच देखा।",
+    "meaning": "टीवी या लाइव खेल आयोजन देखना।"
+  },
+  {
+    "id": 6,
+    "sentence": "I did not understand the question.",
+    "translation": "मुझे सवाल समझ में नहीं आया।",
+    "meaning": "प्रश्न का समझ में न आना।"
+  },
+  {
+    "id": 7,
+    "sentence": "She cooked dinner for her family.",
+    "translation": "उसने अपने परिवार के लिए रात का खाना बनाया।",
+    "meaning": "शाम का भोजन तैयार करना।"
+  },
+  {
+    "id": 8,
+    "sentence": "They did not arrive on time.",
+    "translation": "वे समय पर नहीं पहुंचे।",
+    "meaning": "किसी समय या मुलाकात के लिए देर होना।"
+  },
+  {
+    "id": 9,
+    "sentence": "He played the guitar beautifully.",
+    "translation": "उसने बहुत सुंदर गिटार बजाया।",
+    "meaning": "गिटार पर संगीत प्रस्तुत करना।"
+  },
+  {
+    "id": 10,
+    "sentence": "We did not see the accident.",
+    "translation": "हमने दुर्घटना नहीं देखी।",
+    "meaning": "घटना के गवाह न होना।"
+  },
+  {
+    "id": 11,
+    "sentence": "I bought a new phone last month.",
+    "translation": "मैंने पिछले महीने एक नया फोन खरीदा।",
+    "meaning": "हाल ही में स्मार्टफोन खरीदना।"
+  },
+  {
+    "id": 12,
+    "sentence": "She did not call me back.",
+    "translation": "उसने मुझे वापस फोन नहीं किया।",
+    "meaning": "फोन कॉल का जवाब न देना।"
+  },
+  {
+    "id": 13,
+    "sentence": "They traveled to Jaipur last year.",
+    "translation": "उन्होंने पिछले साल जयपुर की यात्रा की।",
+    "meaning": "जयपुर की यात्रा करना।"
+  },
+  {
+    "id": 14,
+    "sentence": "He did not finish his work.",
+    "translation": "उसने अपना काम पूरा नहीं किया।",
+    "meaning": "काम को अधूरा छोड़ देना।"
+  },
+  {
+    "id": 15,
+    "sentence": "We enjoyed the party.",
+    "translation": "हमने पार्टी का आनंद लिया।",
+    "meaning": "समारोह में बहुत अच्छा समय बिताना।"
+  },
+  {
+    "id": 16,
+    "sentence": "I did not eat breakfast today.",
+    "translation": "मैंने आज नाश्ता नहीं किया।",
+    "meaning": "आज सुबह का भोजन न करना।"
+  },
+  {
+    "id": 17,
+    "sentence": "She wrote a letter to her friend.",
+    "translation": "उसने अपनी सहेली को एक पत्र लिखा।",
+    "meaning": "लिखित संदेश या पत्र भेजना।"
+  },
+  {
+    "id": 18,
+    "sentence": "They did not win the match.",
+    "translation": "वे मैच नहीं जीते।",
+    "meaning": "खेल का मुकाबला हार जाना।"
+  },
+  {
+    "id": 19,
+    "sentence": "He cleaned his room yesterday.",
+    "translation": "उसने कल अपना कमरा साफ किया।",
+    "meaning": "अपने सोने के कमरे की सफाई करना।"
+  },
+  {
+    "id": 20,
+    "sentence": "We did not understand the instructions.",
+    "translation": "हमें निर्देश समझ में नहीं आए।",
+    "meaning": "दिशानिर्देश स्पष्ट न होना।"
+  },
+  {
+    "id": 21,
+    "sentence": "I met him at the market.",
+    "translation": "मैं उससे बाजार में मिला।",
+    "meaning": "बाजार में किसी व्यक्ति से मुलाकात होना।"
+  },
+  {
+    "id": 22,
+    "sentence": "She did not wear her new dress.",
+    "translation": "उसने अपनी नई पोशाक नहीं पहनी।",
+    "meaning": "नई ड्रेस की जगह दूसरी ड्रेस चुनना।"
+  },
+  {
+    "id": 23,
+    "sentence": "They built a new house.",
+    "translation": "उन्होंने एक नया घर बनाया।",
+    "meaning": "एक नए मकान का निर्माण करना।"
+  },
+  {
+    "id": 24,
+    "sentence": "He did not open the door.",
+    "translation": "उसने दरवाजा नहीं खोला।",
+    "meaning": "दरवाजे को बंद ही रखना।"
+  },
+  {
+    "id": 25,
+    "sentence": "We listened to music all evening.",
+    "translation": "हमने पूरी शाम संगीत सुना।",
+    "meaning": "घंटों गानों का आनंद लेना।"
+  },
+  {
+    "id": 26,
+    "sentence": "I did not bring my notebook.",
+    "translation": "मैं अपनी कॉपी (नोटबुक) नहीं लाया।",
+    "meaning": "अपनी नोटबुक घर पर भूल जाना।"
+  },
+  {
+    "id": 27,
+    "sentence": "She learned French last year.",
+    "translation": "उसने पिछले साल फ्रेंच सीखी।",
+    "meaning": "अतीत में फ्रेंच भाषा का अध्ययन करना।"
+  },
+  {
+    "id": 28,
+    "sentence": "They did not tell the truth.",
+    "translation": "उन्होंने सच नहीं बोला।",
+    "meaning": "स्थिति के बारे में झूठ बोलना।"
+  },
+  {
+    "id": 29,
+    "sentence": "He drove very fast.",
+    "translation": "उसने गाड़ी बहुत तेज चलाई।",
+    "meaning": "सड़क पर बहुत तेज गति से गाड़ी चलाना।"
+  },
+  {
+    "id": 30,
+    "sentence": "We did not take any pictures.",
+    "translation": "हमने कोई तस्वीरें नहीं लीं।",
+    "meaning": "यात्रा के दौरान फोटो न खींचना।"
+  },
+  {
+    "id": 31,
+    "sentence": "I found my lost keys.",
+    "translation": "मुझे मेरी खोई हुई चाभियां मिल गईं।",
+    "meaning": "खोई हुई चाबियां वापस पाना।"
+  },
+  {
+    "id": 32,
+    "sentence": "She did not join the meeting.",
+    "translation": "वह बैठक (मीटिंग) में शामिल नहीं हुई।",
+    "meaning": "मीटिंग में अनुपस्थित रहना।"
+  },
+  {
+    "id": 33,
+    "sentence": "They helped the poor.",
+    "translation": "उन्होंने गरीबों की मदद की।",
+    "meaning": "परोपकारी सहायता प्रदान करना।"
+  },
+  {
+    "id": 34,
+    "sentence": "He did not answer my call.",
+    "translation": "उसने मेरे कॉल का जवाब नहीं दिया।",
+    "meaning": "फोन कॉल न उठाना।"
+  },
+  {
+    "id": 35,
+    "sentence": "We visited the museum.",
+    "translation": "हम संग्रहालय (म्यूजियम) देखने गए।",
+    "meaning": "शैक्षणिक दौरे पर जाना।"
+  },
+  {
+    "id": 36,
+    "sentence": "I did not complete the task.",
+    "translation": "मैंने कार्य पूरा नहीं किया।",
+    "meaning": "काम अधूरा छोड़ देना।"
+  },
+  {
+    "id": 37,
+    "sentence": "She danced very well.",
+    "translation": "उसने बहुत अच्छा डांस किया।",
+    "meaning": "शानदार नृत्य प्रस्तुत करना।"
+  },
+  {
+    "id": 38,
+    "sentence": "They did not understand the lesson.",
+    "translation": "उन्हें पाठ समझ में नहीं आया।",
+    "meaning": "पाठ की अवधारणा स्पष्ट न होना।"
+  },
+  {
+    "id": 39,
+    "sentence": "He painted the wall blue.",
+    "translation": "उसने दीवार को नीले रंग से रंगा।",
+    "meaning": "दीवार पर नीला रंग लगाना।"
+  },
+  {
+    "id": 40,
+    "sentence": "We did not go out last night.",
+    "translation": "हम कल रात बाहर नहीं गए।",
+    "meaning": "पूरी रात घर पर ही रहना।"
+  },
+  {
+    "id": 41,
+    "sentence": "I read an interesting book.",
+    "translation": "मैंने एक दिलचस्प किताब पढ़ी।",
+    "meaning": "एक बेहतरीन किताब पढ़ने में समय बिताना।"
+  },
+  {
+    "id": 42,
+    "sentence": "She did not buy anything.",
+    "translation": "उसने कुछ भी नहीं खरीदा।",
+    "meaning": "खरीदारी से खाली हाथ वापस आना।"
+  },
+  {
+    "id": 43,
+    "sentence": "They played cricket in the park.",
+    "translation": "उन्होंने पार्क में क्रिकेट खेला।",
+    "meaning": "बाहर क्रिकेट का खेल खेलना।"
+  },
+  {
+    "id": 44,
+    "sentence": "He did not fix the car.",
+    "translation": "उसने कार ठीक नहीं की।",
+    "meaning": "कार का खराब ही रहना।"
+  },
+  {
+    "id": 45,
+    "sentence": "We saw a beautiful sunset.",
+    "translation": "हमने एक सुंदर सूर्यास्त देखा।",
+    "meaning": "शाम का अद्भुत नजारा देखना।"
+  },
+  {
+    "id": 46,
+    "sentence": "I did not sleep well.",
+    "translation": "मैं ठीक से सो नहीं पाया।",
+    "meaning": "रात भर ठीक से नींद न आना।"
+  }
+]

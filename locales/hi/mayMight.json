@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "sentence": "I may go to the market today.",
+    "translation": "मैं आज बाजार जा सकता हूँ।",
+    "meaning": "संभव है कि मैं आज बाजार जाऊँगा, लेकिन यह पक्का नहीं है।"
+  },
+  {
+    "id": 2,
+    "sentence": "She might come late.",
+    "translation": "वह शायद देर से आ सकती है।",
+    "meaning": "उसकी देर से आने की थोड़ी संभावना है।"
+  },
+  {
+    "id": 3,
+    "sentence": "We may win the match.",
+    "translation": "हम मैच जीत सकते हैं।",
+    "meaning": "हमारे खेल का मैच जीतने की अच्छी संभावना है।"
+  },
+  {
+    "id": 4,
+    "sentence": "He might not attend the meeting.",
+    "translation": "शायद वह बैठक (मीटिंग) में शामिल न हो।",
+    "meaning": "संभावना है कि वह निर्धारित बैठक में अनुपस्थित रहेगा।"
+  },
+  {
+    "id": 5,
+    "sentence": "They may visit us tomorrow.",
+    "translation": "वे कल हमसे मिलने आ सकते हैं।",
+    "meaning": "संभव है कि वे कल हमसे मिलने आएंगे।"
+  },
+  {
+    "id": 6,
+    "sentence": "I might forget your name.",
+    "translation": "शायद मैं आपका नाम भूल जाऊँ।",
+    "meaning": "इसकी थोड़ी संभावना है कि मुझे आपका नाम याद न रहे।"
+  },
+  {
+    "id": 7,
+    "sentence": "You may enter the room now.",
+    "translation": "अब आप कमरे में प्रवेश कर सकते हैं।",
+    "meaning": "आपको इस समय आधिकारिक रूप से कमरे के अंदर जाने की अनुमति है।"
+  },
+  {
+    "id": 8,
+    "sentence": "She might not like the food.",
+    "translation": "शायद उसे खाना पसंद न आए।",
+    "meaning": "यह संभव है, हालांकि अनिश्चित है, कि वह भोजन नापसंद करे।"
+  },
+  {
+    "id": 9,
+    "sentence": "It may rain tonight.",
+    "translation": "आज रात बारिश हो सकती है।",
+    "meaning": "मौसम की स्थिति आज रात बारिश की संभावना दर्शाती है।"
+  },
+  {
+    "id": 10,
+    "sentence": "He might call you later.",
+    "translation": "वह शायद आपको बाद में फोन कर सकता है।",
+    "meaning": "संभावना है कि वह बाद में आपसे फोन पर संपर्क करेगा।"
+  },
+  {
+    "id": 11,
+    "sentence": "We may not finish the work today.",
+    "translation": "शायद हम आज काम पूरा न कर पाएं।",
+    "meaning": "संभव है कि हम दिन खत्म होने से पहले अपना काम पूरा न कर सकें।"
+  },
+  {
+    "id": 12,
+    "sentence": "They might help us.",
+    "translation": "वे शायद हमारी मदद कर सकते हैं।",
+    "meaning": "उनकी हमें सहायता देने की संभावित संभावना है।"
+  },
+  {
+    "id": 13,
+    "sentence": "I may buy a new phone.",
+    "translation": "मैं एक नया फोन खरीद सकता हूँ।",
+    "meaning": "मैं एक नया मोबाइल उपकरण खरीदने की संभावना पर विचार कर रहा हूँ।"
+  },
+  {
+    "id": 14,
+    "sentence": "She might miss the bus.",
+    "translation": "शायद उसकी बस छूट सकती है।",
+    "meaning": "जोखिम या संभावना है कि वह बस न पकड़ पाए।"
+  },
+  {
+    "id": 15,
+    "sentence": "You may not understand this topic.",
+    "translation": "शायद आपको यह विषय समझ न आए।",
+    "meaning": "संभव है कि आपको इस विशिष्ट विषय को समझना कठिन लगे।"
+  },
+  {
+    "id": 16,
+    "sentence": "He might join us later.",
+    "translation": "वह शायद बाद में हमारे साथ शामिल हो सकता है।",
+    "meaning": "संभव है कि वह बाद में हमारे समूह से मिले।"
+  },
+  {
+    "id": 17,
+    "sentence": "We may travel next month.",
+    "translation": "हम अगले महीने यात्रा कर सकते हैं।",
+    "meaning": "हम अगले महीने यात्रा पर जाने का विचार कर रहे हैं।"
+  },
+  {
+    "id": 18,
+    "sentence": "They might not agree with us.",
+    "translation": "शायद वे हमसे सहमत न हों।",
+    "meaning": "संभावना है कि उनकी राय हमारी राय से भिन्न होगी।"
+  },
+  {
+    "id": 19,
+    "sentence": "I may watch a movie tonight.",
+    "translation": "मैं आज रात एक फिल्म देख सकता हूँ।",
+    "meaning": "हो सकता है कि मैं अपनी शाम फिल्म देखने में बिताऊं।"
+  },
+  {
+    "id": 20,
+    "sentence": "She might bring her friend.",
+    "translation": "वह शायद अपने दोस्त को साथ ला सकती है।",
+    "meaning": "संभव है कि वह अपने दोस्त को हमारे यहाँ साथ लेकर आए।"
+  },
+  {
+    "id": 21,
+    "sentence": "It may not be true.",
+    "translation": "शायद यह सच न हो।",
+    "meaning": "संभावना है कि यह कथन झूठा या गलत हो।"
+  },
+  {
+    "id": 22,
+    "sentence": "He might lose the game.",
+    "translation": "वह शायद खेल हार सकता है।",
+    "meaning": "प्रतियोगिता में उसके हारने की संभावना है।"
+  },
+  {
+    "id": 23,
+    "sentence": "We may need more time.",
+    "translation": "हमें और समय की आवश्यकता हो सकती है।",
+    "meaning": "संभव है कि दिया गया समय हमारे लिए अपर्याप्त हो।"
+  },
+  {
+    "id": 24,
+    "sentence": "They might not come here.",
+    "translation": "शायद वे यहाँ न आएँ।",
+    "meaning": "संभव है कि वे इस स्थान पर न आने का निर्णय लें।"
+  },
+  {
+    "id": 25,
+    "sentence": "I may learn English soon.",
+    "translation": "मैं जल्द ही अंग्रेजी सीख सकता हूँ।",
+    "meaning": "मैं जल्द ही अंग्रेजी भाषा सीखने की संभावना पर योजना बना रहा हूँ।"
+  },
+  {
+    "id": 26,
+    "sentence": "You may not find him at home.",
+    "translation": "शायद वह आपको घर पर न मिले।",
+    "meaning": "संभव है कि जब आप उसके घर जाएं तो वह बाहर हो।"
+  },
+  {
+    "id": 27,
+    "sentence": "He might pass the exam.",
+    "translation": "वह शायद परीक्षा में पास हो सकता है।",
+    "meaning": "परीक्षा में उसके सफल होने की संभावना है।"
+  },
+  {
+    "id": 28,
+    "sentence": "We may celebrate tomorrow.",
+    "translation": "हम कल जश्न मना सकते हैं।",
+    "meaning": "संभव है कि हम कल उत्सव का आयोजन करेंगे।"
+  },
+  {
+    "id": 29,
+    "sentence": "They might not support the plan.",
+    "translation": "शायद वे इस योजना का समर्थन न करें।",
+    "meaning": "संभव है कि वे इस प्रस्ताव पर असहमति जताएं या समर्थन न दें।"
+  },
+  {
+    "id": 30,
+    "sentence": "I may meet him today.",
+    "translation": "मैं आज उससे मिल सकता हूँ।",
+    "meaning": "हो सकता है कि आज मेरी उससे व्यक्तिगत या व्यावसायिक मुलाकात हो।"
+  },
+  {
+    "id": 31,
+    "sentence": "She might forget the keys.",
+    "translation": "शायद वह चाबियाँ भूल सकती है।",
+    "meaning": "संभावना है कि वह गलती से अपनी चाबियाँ पीछे छोड़ दे।"
+  },
+  {
+    "id": 32,
+    "sentence": "It may become expensive.",
+    "translation": "यह महंगा हो सकता है।",
+    "meaning": "समय के साथ इसकी कीमत बढ़ने की उच्च संभावना है।"
+  }
+]

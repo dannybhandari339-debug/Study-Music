@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "sentence": "The teacher said the class would be interesting.",
+    "translation": "शिक्षक ने कहा था कि कक्षा दिलचस्प होगी।",
+    "meaning": "शिक्षक ने अतीत में भविष्यवाणी या वादा किया था कि पाठ आकर्षक होंगे।"
+  },
+  {
+    "id": 2,
+    "sentence": "It would be great to complete the task on time.",
+    "translation": "काम समय पर पूरा होना बहुत अच्छा रहेगा।",
+    "meaning": "समय सीमा के भीतर काम पूरा करना एक वांछनीय काल्पनिक स्थिति है।"
+  },
+  {
+    "id": 3,
+    "sentence": "The team would practice every morning.",
+    "translation": "टीम हर सुबह अभ्यास किया करती थी।",
+    "meaning": "खेल समूह की अतीत में हर दिन जल्दी अभ्यास करने की आदत या दिनचर्या थी।"
+  },
+  {
+    "id": 4,
+    "sentence": "The report showed results would improve.",
+    "translation": "रिपोर्ट से पता चला कि परिणामों में सुधार होगा।",
+    "meaning": "अतीत के दस्तावेजों ने बेहतर परिणामों की भविष्य की संभावना का संकेत दिया।"
+  },
+  {
+    "id": 5,
+    "sentence": "It would be nice to see progress.",
+    "translation": "प्रगति देखना अच्छा रहेगा।",
+    "meaning": "उन्नति या सुधार देखना एक सुखद काल्पनिक विचार है।"
+  },
+  {
+    "id": 6,
+    "sentence": "The group would meet regularly.",
+    "translation": "समूह नियमित रूप से मिला करता था।",
+    "meaning": "लोगों का समूह अतीत में निश्चित अंतराल पर इकट्ठा होता था।"
+  },
+  {
+    "id": 7,
+    "sentence": "The coach believed the team would win.",
+    "translation": "कोच का मानना था कि टीम जीतेगी।",
+    "meaning": "प्रशिक्षक का अतीत में यह विश्वास था कि खिलाड़ी जीत हासिल करने वाले थे।"
+  },
+  {
+    "id": 8,
+    "sentence": "It would be helpful to learn new skills.",
+    "translation": "नए कौशल सीखना मददगार रहेगा।",
+    "meaning": "नया कौशल हासिल करना एक अत्यधिक लाभदायक काल्पनिक कार्य है।"
+  },
+  {
+    "id": 9,
+    "sentence": "The staff would follow a clear routine.",
+    "translation": "कर्मचारी एक स्पष्ट दिनचर्या का पालन किया करते थे।",
+    "meaning": "कर्मचारियों की एक संरचित दैनिक कार्यक्रम का पालन करने की अतीत की आदत थी।"
+  },
+  {
+    "id": 10,
+    "sentence": "The plan showed everything would work well.",
+    "translation": "योजना से पता चला कि सब कुछ ठीक से चलेगा।",
+    "meaning": "रणनीतिक प्रस्ताव ने संकेत दिया कि सभी कार्य सुचारू रूप से चलेंगे।"
+  },
+  {
+    "id": 11,
+    "sentence": "It would be wonderful to achieve success.",
+    "translation": "सफलता हासिल करना अद्भुत रहेगा।",
+    "meaning": "अपने लक्ष्य तक पहुँचना एक अद्भुत काल्पनिक या भविष्य की उपलब्धि है।"
+  },
+  {
+    "id": 12,
+    "sentence": "The students would revise lessons daily.",
+    "translation": "छात्र रोजाना पाठ दोहराया करते थे।",
+    "meaning": "शिक्षार्थियों की हर दिन अपनी अध्ययन सामग्री की समीक्षा करने की नियमित आदत थी।"
+  },
+  {
+    "id": 13,
+    "sentence": "The manager said the project would succeed.",
+    "translation": "मैनेजर ने कहा था कि प्रोजेक्ट सफल होगा।",
+    "meaning": "पर्यवेक्षक ने अतीत में यह आश्वासन दिया था कि कार्य सफल होगा।"
+  },
+  {
+    "id": 14,
+    "sentence": "It would be beneficial to stay focused.",
+    "translation": "ध्यान केंद्रित रखना फायदेमंद रहेगा।",
+    "meaning": "लक्ष्यों पर ध्यान बनाए रखना अत्यधिक लाभदायक व्यवहार है।"
+  },
+  {
+    "id": 15,
+    "sentence": "The team would work together efficiently.",
+    "translation": "टीम कुशलता से मिलकर काम किया करती थी।",
+    "meaning": "सहयोगी नियमित रूप से एक उत्पादक, पुरानी दिनचर्या में सहयोग करते थे।"
+  },
+  {
+    "id": 16,
+    "sentence": "The forecast said the weather would improve.",
+    "translation": "पूर्वामुमान में कहा गया था कि मौसम में सुधार होगा।",
+    "meaning": "मौसम संबंधी रिपोर्ट ने अतीत में भविष्यवाणी की थी कि मौसम की स्थिति बेहतर होगी।"
+  },
+  {
+    "id": 17,
+    "sentence": "The teacher said the test would be simple.",
+    "translation": "शिक्षक ने कहा था कि परीक्षा सरल होगी।",
+    "meaning": "शिक्षक ने अतीत में वादा किया था कि परीक्षा कठिन नहीं होगी।"
+  },
+  {
+    "id": 18,
+    "sentence": "It would be good to improve skills.",
+    "translation": "कौशल में सुधार करना अच्छा रहेगा।",
+    "meaning": "अपनी क्षमताओं को बढ़ाना एक सकारात्मक काल्पनिक कार्य है।"
+  },
+  {
+    "id": 19,
+    "sentence": "The group would share ideas openly.",
+    "translation": "समूह खुले तौर पर विचार साझा किया करता था।",
+    "meaning": "प्रतिभागियों की विचारों को स्वतंत्र रूप से संप्रेषित करने की पुरानी आदत थी।"
+  },
+  {
+    "id": 20,
+    "sentence": "The report suggested conditions would improve.",
+    "translation": "रिपोर्ट ने सुझाव दिया कि स्थितियों में सुधार होगा।",
+    "meaning": "अतीत के आकलन ने संकेत दिया कि समय के साथ परिस्थितियाँ बेहतर होंगी।"
+  },
+  {
+    "id": 21,
+    "sentence": "It would be nice to see growth.",
+    "translation": "विकास देखना अच्छा रहेगा।",
+    "meaning": "विकास देखना एक सुखद काल्पनिक परिदृश्य है।"
+  },
+  {
+    "id": 22,
+    "sentence": "The coach would encourage everyone.",
+    "translation": "कोच सभी का उत्साह बढ़ाया करते थे।",
+    "meaning": "प्रशिक्षक की टीम के सभी सदस्यों को प्रेरित करने की नियमित पुरानी आदत थी।"
+  },
+  {
+    "id": 23,
+    "sentence": "The system showed output would rise.",
+    "translation": "प्रणाली से पता चला कि उत्पादन बढ़ेगा।",
+    "meaning": "अतीत के आंकड़ों ने संकेत दिया कि उत्पादन दर बढ़ने वाली थी।"
+  },
+  {
+    "id": 24,
+    "sentence": "It would be helpful to stay organized.",
+    "translation": "व्यवस्थित रहना मददगार रहेगा।",
+    "meaning": "व्यवस्थित रहना एक बहुत ही उपयोगी काल्पनिक आदत है।"
+  },
+  {
+    "id": 25,
+    "sentence": "The team would solve problems quickly.",
+    "translation": "टीम समस्याओं को जल्दी सुलझा लिया करती थी।",
+    "meaning": "सदस्य नियमित रूप से तेजी से समस्याओं का समाधान करते थे।"
+  },
+  {
+    "id": 26,
+    "sentence": "The announcement said the event would happen.",
+    "translation": "घोषणा में कहा गया था कि कार्यक्रम होगा।",
+    "meaning": "आधिकारिक नोटिस ने अतीत में घोषित किया था कि कार्यक्रम आयोजित होने वाला था।"
+  },
+  {
+    "id": 27,
+    "sentence": "It would be great to achieve goals.",
+    "translation": "लक्ष्यों को हासिल करना बहुत अच्छा रहेगा।",
+    "meaning": "अपने उद्देश्यों को पूरा करना एक उत्कृष्ट काल्पनिक परिणाम है।"
+  },
+  {
+    "id": 28,
+    "sentence": "The staff would communicate clearly.",
+    "translation": "कर्मचारी स्पष्ट रूप से संवाद किया करते थे।",
+    "meaning": "कर्मचारियों की स्पष्ट और सीधे संचार की नियमित पुरानी दिनचर्या थी।"
+  },
+  {
+    "id": 29,
+    "sentence": "The chart showed progress would continue.",
+    "translation": "चार्ट से पता चला कि प्रगति जारी रहेगी।",
+    "meaning": "विजुअल ग्राफ ने संकेत दिया कि निरंतर सुधार जारी रहेगा।"
+  },
+  {
+    "id": 30,
+    "sentence": "It would be beneficial to practice daily.",
+    "translation": "रोजाना अभ्यास करना फायदेमंद रहेगा।",
+    "meaning": "दैनिक अभ्यास या दोहराव में शामिल होना एक अत्यधिक सहायक काल्पनिक परिदृश्य है।"
+  },
+  {
+    "id": 31,
+    "sentence": "The class would stay focused.",
+    "translation": "कक्षा ध्यान केंद्रित रखा करती थी।",
+    "meaning": "छात्रों की चौकस रहने की पुरानी आदत थी।"
+  }
+]

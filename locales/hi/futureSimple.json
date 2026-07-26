@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "sentence": "I will finish my homework tonight.",
+    "translation": "मैं आज रात अपना गृहकार्य (होमवर्क) पूरा करूंगा।",
+    "meaning": "मैं आज रात सोने से पहले अपने स्कूल का काम पूरा करने की योजना बना रहा हूँ।"
+  },
+  {
+    "id": 2,
+    "sentence": "She will not attend the meeting.",
+    "translation": "वह बैठक (मीटिंग) में शामिल नहीं होगी।",
+    "meaning": "उसने आगामी बैठक से अनुपस्थित रहने का फैसला किया है।"
+  },
+  {
+    "id": 3,
+    "sentence": "They will travel to Japan next year.",
+    "translation": "वे अगले साल जापान की यात्रा करेंगे।",
+    "meaning": "आने वाले वर्ष के दौरान जापान की यात्रा करने की उनकी योजना है।"
+  },
+  {
+    "id": 4,
+    "sentence": "He will not forget your birthday.",
+    "translation": "वह आपका जन्मदिन नहीं भूलेगा।",
+    "meaning": "वह आपके जन्मदिन की तारीख याद रखेगा।"
+  },
+  {
+    "id": 5,
+    "sentence": "We will watch a movie later.",
+    "translation": "हम बाद में एक फिल्म देखेंगे।",
+    "meaning": "हम आज बाद में कोई फिल्म देखने की योजना बना रहे हैं।"
+  },
+  {
+    "id": 6,
+    "sentence": "I will not eat junk food anymore.",
+    "translation": "मैं अब जंक फूड नहीं खाऊंगा।",
+    "meaning": "मैंने अब से अस्वास्थ्यकर (अनहेल्दी) भोजन खाना बंद करने का फैसला किया है।"
+  },
+  {
+    "id": 7,
+    "sentence": "She will become a doctor someday.",
+    "translation": "वह किसी दिन डॉक्टर बनेगी।",
+    "meaning": "उसका इरादा भविष्य में डॉक्टरी पढ़ने और चिकित्सक के रूप में काम करने का है।"
+  },
+  {
+    "id": 8,
+    "sentence": "They will not agree with the decision.",
+    "translation": "वे फैसले से सहमत नहीं होंगे।",
+    "meaning": "उनकी राय अलग है और वे फैसले को स्वीकार नहीं करेंगे।"
+  },
+  {
+    "id": 9,
+    "sentence": "He will call you in the evening.",
+    "translation": "वह आपको शाम को फोन करेगा।",
+    "meaning": "वह शाम के समय आपको फोन करने की योजना बना रहा है।"
+  },
+  {
+    "id": 10,
+    "sentence": "We will not miss the train.",
+    "translation": "हमारी ट्रेन नहीं छूटेगी।",
+    "meaning": "हम निर्धारित ट्रेन पकड़ने के लिए काफी पहले पहुंच जाएंगे।"
+  },
+  {
+    "id": 11,
+    "sentence": "I will learn a new language.",
+    "translation": "मैं एक नई भाषा सीखूंगा।",
+    "meaning": "मैं एक नई भाषा बोलने और पढ़ने का कौशल हासिल करने की योजना बना रहा हूँ।"
+  },
+  {
+    "id": 12,
+    "sentence": "She will not join the party.",
+    "translation": "वह पार्टी में शामिल नहीं होगी।",
+    "meaning": "उसने सामाजिक उत्सव में शामिल न होने का निर्णय लिया है।"
+  },
+  {
+    "id": 13,
+    "sentence": "They will build a new house.",
+    "translation": "वे एक नया घर बनाएंगे।",
+    "meaning": "वे एक नया आवासीय घर बनाने की योजना बना रहे हैं।"
+  },
+  {
+    "id": 14,
+    "sentence": "He will not apologize for this.",
+    "translation": "वह इसके लिए माफी नहीं मांगेगा।",
+    "meaning": "वह इस स्थिति के लिए खेद व्यक्त करने या माफी मांगने से इनकार करता है।"
+  },
+  {
+    "id": 15,
+    "sentence": "We will celebrate your success.",
+    "translation": "हम आपकी सफलता का जश्न मनाएंगे।",
+    "meaning": "हम आपकी उपलब्धियों का जश्न मनाने के लिए एक आनंदमय कार्यक्रम आयोजित करने की योजना बना रहे हैं।"
+  },
+  {
+    "id": 16,
+    "sentence": "I will not waste my time.",
+    "translation": "मैं अपना समय बर्बाद नहीं करूंगा।",
+    "meaning": "मैं अपने समय का उपयोग उत्पादक और समझदारी से करने के लिए दृढ़ संकल्पित हूँ।"
+  },
+  {
+    "id": 17,
+    "sentence": "She will help you with your work.",
+    "translation": "वह आपके काम में आपकी मदद करेगी।",
+    "meaning": "वह आपके कार्यों को पूरा करने में आपका समर्थन और सहायता करने की योजना बना रही है।"
+  },
+  {
+    "id": 18,
+    "sentence": "They will not accept the offer.",
+    "translation": "वे प्रस्ताव को स्वीकार नहीं करेंगे।",
+    "meaning": "वे प्रस्ताव को अस्वीकार करने या खारिज करने की योजना बना रहे हैं।"
+  },
+  {
+    "id": 19,
+    "sentence": "He will win the competition.",
+    "translation": "वह प्रतियोगिता जीतेगा।",
+    "meaning": "प्रतियोगिता में उसके जीतने की संभावना बहुत अधिक है।"
+  },
+  {
+    "id": 20,
+    "sentence": "We will not ignore the problem.",
+    "translation": "हम समस्या को नजरअंदाज नहीं करेंगे।",
+    "meaning": "हम समस्या का सीधा सामना करने और उसे हल करने जा रहे हैं।"
+  },
+  {
+    "id": 21,
+    "sentence": "I will write a letter tomorrow.",
+    "translation": "मैं कल एक पत्र लिखूंगा।",
+    "meaning": "मैं कल एक पत्र लिखने की योजना बना रहा हूँ।"
+  },
+  {
+    "id": 22,
+    "sentence": "She will not support your idea.",
+    "translation": "वह आपके विचार का समर्थन नहीं करेगी।",
+    "meaning": "वह आपके प्रस्ताव से असहमत है और इसका समर्थन नहीं करेगी।"
+  },
+  {
+    "id": 23,
+    "sentence": "They will organize an event.",
+    "translation": "वे एक कार्यक्रम आयोजित करेंगे।",
+    "meaning": "वे जल्द ही एक विशेष कार्यक्रम का आयोजन करने जा रहे हैं।"
+  },
+  {
+    "id": 24,
+    "sentence": "He will not lie again.",
+    "translation": "वह फिर कभी झूठ नहीं बोलेगा।",
+    "meaning": "वह अब से केवल सच बोलने का वादा करता है।"
+  },
+  {
+    "id": 25,
+    "sentence": "We will meet next week.",
+    "translation": "हम अगले हफ्ते मिलेंगे।",
+    "meaning": "हम अगले सप्ताह इकट्ठा होने और बात करने की योजना बना रहे हैं।"
+  },
+  {
+    "id": 26,
+    "sentence": "They will invite us to the wedding.",
+    "translation": "वे हमें शादी में आमंत्रित करेंगे।",
+    "meaning": "वे हमें अपने विवाह समारोह में निमंत्रण भेजने की योजना बना रहे हैं।"
+  },
+  {
+    "id": 27,
+    "sentence": "He will not break the promise.",
+    "translation": "वह वादा नहीं तोड़ेगा।",
+    "meaning": "वह अपनी बात पर कायम रहेगा और भरोसेमंद रहेगा।"
+  },
+  {
+    "id": 28,
+    "sentence": "We will enjoy the trip.",
+    "translation": "हम यात्रा का आनंद लेंगे।",
+    "meaning": "हम बहुत ही सुखद यात्रा की उम्मीद करते हैं।"
+  },
+  {
+    "id": 29,
+    "sentence": "I will not complain anymore.",
+    "translation": "मैं अब कोई शिकायत नहीं करूंगा।",
+    "meaning": "मैंने अब असंतोष व्यक्त न करने का निर्णय लिया है।"
+  },
+  {
+    "id": 30,
+    "sentence": "She will sing beautifully.",
+    "translation": "वह बहुत सुंदर गाएगी।",
+    "meaning": "वह एक सुंदर गाना गाने की योजना बना रही है।"
+  },
+  {
+    "id": 31,
+    "sentence": "They will not participate in the game.",
+    "translation": "वे खेल में भाग नहीं लेंगे।",
+    "meaning": "उन्होंने मैच से बाहर रहने का विकल्प चुना है।"
+  },
+  {
+    "id": 32,
+    "sentence": "He will achieve his goals.",
+    "translation": "वह अपने लक्ष्यों को प्राप्त करेगा।",
+    "meaning": "वह अपने तय किए गए उद्देश्यों को पूरा करने जा रहा है।"
+  },
+  {
+    "id": 33,
+    "sentence": "We will not forget your kindness.",
+    "translation": "हम आपकी दयालुता को नहीं भूलेंगे।",
+    "meaning": "हम हमेशा याद रखेंगे कि आप कितने उदार और दयालु थे।"
+  },
+  {
+    "id": 34,
+    "sentence": "I will visit my grandparents.",
+    "translation": "मैं अपने दादा-दादी से मिलने जाऊंगा।",
+    "meaning": "मैं अपने दादा-दादी के घर पर अच्छा समय बिताने की योजना बना रहा हूँ।"
+  },
+  {
+    "id": 35,
+    "sentence": "She will not trust him again.",
+    "translation": "वह फिर कभी उस पर भरोसा नहीं करेगी।",
+    "meaning": "वह अब उसकी ईमानदारी पर निर्भर नहीं रहेगी।"
+  },
+  {
+    "id": 36,
+    "sentence": "They will start a new business.",
+    "translation": "वे एक नया व्यवसाय शुरू करेंगे।",
+    "meaning": "वे एक नया व्यावसायिक उद्यम स्थापित करने की योजना बना रहे हैं।"
+  },
+  {
+    "id": 37,
+    "sentence": "He will not ignore your advice.",
+    "translation": "वह आपकी सलाह को नजरअंदाज नहीं करेगा।",
+    "meaning": "वह ध्यान से सुनेगा और आपकी सिफारिशों का पालन करेगा।"
+  },
+  {
+    "id": 38,
+    "sentence": "We will learn new skills.",
+    "translation": "हम नए कौशल सीखेंगे।",
+    "meaning": "हम उपयोगी ज्ञान और क्षमताएं हासिल करने की उम्मीद करते हैं।"
+  },
+  {
+    "id": 39,
+    "sentence": "I will not make the same mistake.",
+    "translation": "मैं वही गलती दोबारा नहीं दोहराऊंगा।",
+    "meaning": "मैं अपनी पिछली गलती को दोहराने से बचूंगा।"
+  },
+  {
+    "id": 40,
+    "sentence": "She will complete her project soon.",
+    "translation": "वह जल्द ही अपना प्रोजेक्ट पूरा कर लेगी।",
+    "meaning": "वह बहुत निकट भविष्य में अपना प्रोजेक्ट पूरा करने की योजना बना रही है।"
+  },
+  {
+    "id": 41,
+    "sentence": "They will not arrive on time.",
+    "translation": "वे समय पर नहीं पहुंचेंगे।",
+    "meaning": "उन्हें देर हो रही है और वे तय समय पर गंतव्य तक नहीं पहुंचेंगे।"
+  },
+  {
+    "id": 42,
+    "sentence": "He will help the poor.",
+    "translation": "वह गरीबों की मदद करेगा।",
+    "meaning": "वह जरूरतमंद लोगों को दान और सहायता प्रदान करने की योजना बना रहा है।"
+  },
+  {
+    "id": 43,
+    "sentence": "We will not argue anymore.",
+    "translation": "हम अब और बहस नहीं करेंगे।",
+    "meaning": "हमने अपने मतभेदों को सुलझाने और झगड़ा बंद करने का फैसला किया है।"
+  },
+  {
+    "id": 44,
+    "sentence": "I will go to the gym tomorrow.",
+    "translation": "मैं कल जिम जाऊंगा।",
+    "meaning": "मेरी कल फिटनेस सेंटर/जिम जाने की योजना है।"
+  },
+  {
+    "id": 45,
+    "sentence": "She will not accept the invitation.",
+    "translation": "वह निमंत्रण स्वीकार नहीं करेगी।",
+    "meaning": "वह शामिल होने के अनुरोध को विनम्रता से अस्वीकार करने की योजना बना रही है।"
+  },
+  {
+    "id": 46,
+    "sentence": "They will finish the work quickly.",
+    "translation": "वे जल्दी काम पूरा कर लेंगे।",
+    "meaning": "वे तेजी से अपने काम को पूरा करने जा रहे हैं।"
+  },
+  {
+    "id": 47,
+    "sentence": "He will not forget to call you.",
+    "translation": "वह आपको फोन करना नहीं भूलेगा।",
+    "meaning": "वह वादे के मुताबिक आपको फोन करना याद रखेगा।"
+  }
+]

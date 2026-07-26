@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "sentence": "I had finished my homework before he arrived.",
+    "translation": "उसके आने से पहले मैंने अपना गृहकार्य (होमवर्क) पूरा कर लिया था।",
+    "meaning": "उसके मेरे घर पहुँचने के क्षण से पहले ही मेरा होमवर्क पूरा हो चुका था।"
+  },
+  {
+    "id": 2,
+    "sentence": "She had not eaten breakfast when the bell rang.",
+    "translation": "जब घंटी बजी तब उसने नाश्ता नहीं किया था।",
+    "meaning": "घंटी बजने से पहले उसने सुबह का खाना नहीं खाया था।"
+  },
+  {
+    "id": 3,
+    "sentence": "They had already left when we called them.",
+    "translation": "जब हमने उन्हें फोन किया तब वे पहले ही निकल चुके थे।",
+    "meaning": "हमारे फोन करने के क्षण से पहले ही वे रवाना हो चुके थे।"
+  },
+  {
+    "id": 4,
+    "sentence": "He had not completed the project before the deadline.",
+    "translation": "उसने समय सीमा (डेडलाइन) से पहले प्रोजेक्ट पूरा नहीं किया था।",
+    "meaning": "समय सीमा के समय उसका प्रोजेक्ट का काम अधूरा रह गया था।"
+  },
+  {
+    "id": 5,
+    "sentence": "We had watched that movie before it was famous.",
+    "translation": "प्रसिद्ध होने से पहले ही हमने वह फिल्म देख ली थी।",
+    "meaning": "उस फिल्म को व्यापक लोकप्रियता मिलने से पहले ही हम उसे देख चुके थे।"
+  },
+  {
+    "id": 6,
+    "sentence": "I had not seen him for years until yesterday.",
+    "translation": "कल से पहले मैंने उसे सालों से नहीं देखा था।",
+    "meaning": "कल से पहले के वर्षों में मैं उससे नहीं मिला था और न ही उसे देखा था।"
+  },
+  {
+    "id": 7,
+    "sentence": "She had learned French before she moved to Paris.",
+    "translation": "पेरिस जाने से पहले उसने फ्रेंच सीख ली थी।",
+    "meaning": "पेरिस में बसने से पहले ही उसने फ्रेंच बोलने की क्षमता हासिल कर ली थी।"
+  },
+  {
+    "id": 8,
+    "sentence": "They had not arrived at the hall before the play started.",
+    "translation": "नाटक शुरू होने से पहले वे सभागार (हॉल) नहीं पहुंचे थे।",
+    "meaning": "नाटक की शुरुआत से पहले वे प्रेक्षागृह/हॉल तक नहीं पहुंचे थे।"
+  },
+  {
+    "id": 9,
+    "sentence": "He had written a letter but forgot to mail it.",
+    "translation": "उसने पत्र लिखा था लेकिन उसे डाक से भेजना (मेल करना) भूल गया।",
+    "meaning": "उसने पत्र लिखना तो पूरा कर लिया था लेकिन उसे पोस्ट करना भूल गया।"
+  },
+  {
+    "id": 10,
+    "sentence": "We had not cleaned the room before the guests came.",
+    "translation": "मेहमानों के आने से पहले हमने कमरा साफ नहीं किया था।",
+    "meaning": "मेहमानों के पहुँचने से पहले हमने कमरा व्यवस्थित/साफ नहीं किया था।"
+  },
+  {
+    "id": 11,
+    "sentence": "I had bought a new phone before the old one broke.",
+    "translation": "पुराना फोन टूटने से पहले ही मैंने नया फोन खरीद लिया था।",
+    "meaning": "पुराने मॉडल के खराब होने से पहले ही मैंने नया फोन खरीद लिया था।"
+  },
+  {
+    "id": 12,
+    "sentence": "She had not called me before she came over.",
+    "translation": "यहाँ आने से पहले उसने मुझे फोन नहीं किया था।",
+    "meaning": "वह बिना कोई पहले फोन किए सीधे मेरे यहाँ पहुँच गई थी।"
+  },
+  {
+    "id": 13,
+    "sentence": "They had played football before the heavy rain started.",
+    "translation": "भारी बारिश शुरू होने से पहले ही वे फुटबॉल खेल चुके थे।",
+    "meaning": "मूसलाधार बारिश होने से पहले ही उन्होंने फुटबॉल खेल खत्म कर लिया था।"
+  },
+  {
+    "id": 14,
+    "sentence": "He had not fixed the car before we went on the trip.",
+    "translation": "हमारे यात्रा पर जाने से पहले उसने कार ठीक नहीं की थी।",
+    "meaning": "हमारे ट्रिप के लिए निकलने से पहले उसने गाड़ी की मरम्मत नहीं की थी।"
+  },
+  {
+    "id": 15,
+    "sentence": "We had traveled abroad twice before last summer.",
+    "translation": "पिछली गर्मियों से पहले हम दो बार विदेश यात्रा कर चुके थे।",
+    "meaning": "पिछली गर्मियों की शुरुआत से पहले हमने दो बार दूसरे देशों की यात्राएँ की थीं।"
+  },
+  {
+    "id": 16,
+    "sentence": "I had not read that book before you recommended it.",
+    "translation": "तुम्हारे सुझाव देने से पहले मैंने वह किताब नहीं पढ़ी थी।",
+    "meaning": "तुम्हारे सिफारिश करने से पहले मैंने उस किताब को पढ़ने में समय नहीं बिताया था।"
+  },
+  {
+    "id": 17,
+    "sentence": "She had cooked dinner by the time we reached home.",
+    "translation": "हमारे घर पहुँचने तक वह रात का खाना (डिनर) पका चुकी थी।",
+    "meaning": "हमारे घर में कदम रखने से पहले ही उसने खाना तैयार कर लिया था।"
+  },
+  {
+    "id": 18,
+    "sentence": "They had not finished their work before the power cut.",
+    "translation": "बिजली जाने (पावर कट) से पहले उन्होंने अपना काम खत्म नहीं किया था।",
+    "meaning": "जब बिजली चली गई तब उनके काम अभी भी बाकी थे।"
+  },
+  {
+    "id": 19,
+    "sentence": "He had opened the door before I could find my key.",
+    "translation": "इससे पहले कि मुझे अपनी चाबी मिलती, उसने दरवाजा खोल दिया था।",
+    "meaning": "मेरे चाबी खोजने से पहले ही दरवाजा खुल चुका था।"
+  },
+  {
+    "id": 20,
+    "sentence": "We had not met before the conference began.",
+    "translation": "सम्मेलन (कॉन्फ्रेंस) शुरू होने से पहले हम नहीं मिले थे।",
+    "meaning": "कॉन्फ्रेंस शुरू होने से पहले हम एक-दूसरे को नहीं जानते थे या नहीं मिले थे।"
+  },
+  {
+    "id": 21,
+    "sentence": "I had completed the task before my boss asked.",
+    "translation": "मेरे बॉस के पूछने से पहले ही मैंने काम पूरा कर लिया था।",
+    "meaning": "मेरे सुपरवाइजर के अपडेट मांगने से पहले ही मैंने काम समाप्त कर लिया था।"
+  },
+  {
+    "id": 22,
+    "sentence": "She had not understood the warning until it was too late.",
+    "translation": "जब तक बहुत देर नहीं हो गई, तब तक उसने चेतावनी को नहीं समझा था।",
+    "meaning": "हादसा होने से पहले वह चेतावनी के संदेश को समझने में विफल रही थी।"
+  },
+  {
+    "id": 23,
+    "sentence": "They had built a house before they bought the land.",
+    "translation": "जमीन खरीदने से पहले ही उन्होंने घर बना लिया था।",
+    "meaning": "जमीन का कानूनी अधिकार हासिल करने से पहले ही उन्होंने निर्माण कार्य पूरा कर लिया था।"
+  },
+  {
+    "id": 24,
+    "sentence": "He had not taken the test before the class was dismissed.",
+    "translation": "कक्षा समाप्त होने से पहले उसने परीक्षा नहीं दी थी।",
+    "meaning": "कक्षा बंद होने से पहले उसने टेस्ट नहीं दिया था।"
+  },
+  {
+    "id": 25,
+    "sentence": "I had not finished my work when my laptop turned off.",
+    "translation": "जब मेरा लैपटॉप बंद हुआ, तब मैंने अपना काम पूरा नहीं किया था।",
+    "meaning": "जब कंप्यूटर की बैटरी/पावर अचानक बंद हुई, तब भी मेरा काम बचा हुआ था।"
+  },
+  {
+    "id": 26,
+    "sentence": "She had improved her English before she went to London.",
+    "translation": "लंदन जाने से पहले उसने अपनी अंग्रेजी में सुधार कर लिया था।",
+    "meaning": "लंदन जाने से पहले ही उसकी अंग्रेजी भाषा का ज्ञान काफी बेहतर हो चुका था।"
+  },
+  {
+    "id": 27,
+    "sentence": "They had not joined the meeting when the host started.",
+    "translation": "जब होस्ट ने बैठक शुरू की, तब वे शामिल नहीं हुए थे।",
+    "meaning": "जब मीटिंग आधिकारिक तौर पर शुरू हुई तब वे उपस्थित नहीं थे।"
+  },
+  {
+    "id": 28,
+    "sentence": "He had bought groceries before the storm hit the city.",
+    "translation": "शहर में तूफान आने से पहले ही उसने किराना का सामान खरीद लिया था।",
+    "meaning": "भारी तूफान के आगमन से पहले ही उसने खाद्य सामग्री खरीद ली थी।"
+  },
+  {
+    "id": 29,
+    "sentence": "We had not started the project before the new manager arrived.",
+    "translation": "नए मैनेजर के आने से पहले हमने प्रोजेक्ट शुरू नहीं किया था।",
+    "meaning": "नए मैनेजर के कार्यभार संभालने से पहले हमने प्रोजेक्ट पर काम शुरू नहीं किया था।"
+  },
+  {
+    "id": 30,
+    "sentence": "I had lost my keys before I even left the office.",
+    "translation": "कार्यालय (ऑफिस) से निकलने से पहले ही मैंने अपनी चाबियाँ खो दी थीं।",
+    "meaning": "कार्यस्थल छोड़ने से पहले ही मेरी चाबियाँ कहीं गुम हो गई थीं।"
+  },
+  {
+    "id": 31,
+    "sentence": "She had not checked her messages before she left.",
+    "translation": "निकलने से पहले उसने अपने संदेश (मैसेज) चेक नहीं किए थे।",
+    "meaning": "वह पहले अपने इनबॉक्स या नोटिफिकेशन पढ़े बिना ही निकल गई थी।"
+  },
+  {
+    "id": 32,
+    "sentence": "They had played the match before the field got muddy.",
+    "translation": "मैदान में कीचड़ होने से पहले ही वे मैच खेल चुके थे।",
+    "meaning": "मैदान के गीला और कीचड़युक्त होने से पहले ही उनका खेल खत्म हो चुका था।"
+  },
+  {
+    "id": 33,
+    "sentence": "He had not visited the doctor before his fever got worse.",
+    "translation": "बुखार बिगड़ने से पहले वह डॉक्टर के पास नहीं गया था।",
+    "meaning": "शरीर का तापमान बहुत अधिक बढ़ने से पहले उसने डॉक्टर को नहीं दिखाया था।"
+  },
+  {
+    "id": 34,
+    "sentence": "We had completed the setup before the guests arrived.",
+    "translation": "मेहमानों के आने से पहले ही हमने सारी तैयारी (सेटअप) पूरी कर ली थी।",
+    "meaning": "आगंतुकों के पहुँचने से पहले ही सभी तैयारियाँ पूरी हो चुकी थीं।"
+  },
+  {
+    "id": 35,
+    "sentence": "I had not found my wallet until I looked under the bed.",
+    "translation": "जब तक मैंने बिस्तर के नीचे नहीं देखा, मुझे अपना बटुआ नहीं मिला था।",
+    "meaning": "बिस्तर के नीचे खोजने से पहले मैं अपना खोया हुआ वॉलेट नहीं ढूँढ पाया था।"
+  },
+  {
+    "id": 36,
+    "sentence": "She had painted the room before she bought the furniture.",
+    "translation": "फर्नीचर खरीदने से पहले ही उसने कमरे को पेंट कर दिया था।",
+    "meaning": "नया फर्नीचर आने से पहले ही दीवारों पर पेंट का काम हो चुका था।"
+  },
+  {
+    "id": 37,
+    "sentence": "They had not submitted the document when the link expired.",
+    "translation": "जब लिंक एक्सपायर (अमान्य) हुआ तब उन्होंने दस्तावेज़ जमा नहीं किया था।",
+    "meaning": "वे लिंक का समय समाप्त होने से पहले दस्तावेज़ अपलोड करने में विफल रहे थे।"
+  },
+  {
+    "id": 38,
+    "sentence": "He had broken the cup before he could pour the tea.",
+    "translation": "इससे पहले कि वह चाय डाल पाता, उसने कप तोड़ दिया था।",
+    "meaning": "चाय डालने से पहले ही कप टूट चुका था।"
+  },
+  {
+    "id": 39,
+    "sentence": "We had not received the notice before the event took place.",
+    "translation": "कार्यक्रम आयोजित होने से पहले हमें नोटिस नहीं मिला था।",
+    "meaning": "कार्यक्रम के होने से पहले आधिकारिक संदेश हम तक नहीं पहुँचा था।"
+  },
+  {
+    "id": 40,
+    "sentence": "I had called my family before boarding the airplane.",
+    "translation": "हवाई जहाज में सवार होने से पहले मैंने अपने परिवार को फोन किया था।",
+    "meaning": "फ्लाइट में चढ़ने से पहले मैंने अपने रिश्तेदारों को फोन कर दिया था।"
+  }
+]

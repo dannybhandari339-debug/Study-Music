@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "sentence": "I have finished my homework.",
+    "translation": "मैंने अपना गृहकार्य (होमवर्क) पूरा कर लिया है।",
+    "meaning": "मैंने हाल ही में या अभी-अभी अपने स्कूल के सभी काम पूरे कर लिए हैं।"
+  },
+  {
+    "id": 2,
+    "sentence": "She has not eaten breakfast.",
+    "translation": "उसने नाश्ता नहीं किया है।",
+    "meaning": "उसने इस पल तक सुबह का खाना नहीं खाया है।"
+  },
+  {
+    "id": 3,
+    "sentence": "They have visited Delhi many times.",
+    "translation": "वे कई बार दिल्ली जा चुके हैं।",
+    "meaning": "वे अतीत में कई मौकों पर दिल्ली गए हैं।"
+  },
+  {
+    "id": 4,
+    "sentence": "He has not completed the project.",
+    "translation": "उसने प्रोजेक्ट पूरा नहीं किया है।",
+    "meaning": "उसने अभी तक सौंपा गया प्रोजेक्ट समाप्त नहीं किया है।"
+  },
+  {
+    "id": 5,
+    "sentence": "We have watched that movie already.",
+    "translation": "हम वह फिल्म पहले ही देख चुके हैं।",
+    "meaning": "हम वह सिनेमा पहले ही देख चुके हैं।"
+  },
+  {
+    "id": 6,
+    "sentence": "I have not seen him today.",
+    "translation": "मैंने आज उसे नहीं देखा है।",
+    "meaning": "आज मेरी उससे मुलाकात या बातचीत नहीं हुई है।"
+  },
+  {
+    "id": 7,
+    "sentence": "She has learned French.",
+    "translation": "उसने फ्रेंच सीख ली है।",
+    "meaning": "उसने फ्रेंच बोलने या समझने की क्षमता हासिल कर ली है।"
+  },
+  {
+    "id": 8,
+    "sentence": "They have not arrived yet.",
+    "translation": "वे अभी तक नहीं पहुंचे हैं।",
+    "meaning": "वे इस समय तक गंतव्य पर नहीं पहुंचे हैं।"
+  },
+  {
+    "id": 9,
+    "sentence": "He has written a letter.",
+    "translation": "उसने एक पत्र लिखा है।",
+    "meaning": "उसने पत्र लिखना पूरा कर लिया है।"
+  },
+  {
+    "id": 10,
+    "sentence": "We have not cleaned the room.",
+    "translation": "हमने कमरा साफ नहीं किया है।",
+    "meaning": "हमने अभी तक बेडरूम को साफ-सुथरा नहीं किया है।"
+  },
+  {
+    "id": 11,
+    "sentence": "I have bought a new phone.",
+    "translation": "मैंने एक नया फोन खरीदा है।",
+    "meaning": "मैंने हाल ही में एक नया मोबाइल फोन खरीदा है।"
+  },
+  {
+    "id": 12,
+    "sentence": "She has not called me.",
+    "translation": "उसने मुझे फोन नहीं किया है।",
+    "meaning": "उसने अभी तक मुझसे फोन पर संपर्क नहीं किया है।"
+  },
+  {
+    "id": 13,
+    "sentence": "They have played football.",
+    "translation": "वे फुटबॉल खेल चुके हैं।",
+    "meaning": "उन्होंने फुटबॉल मैच खेलने में समय बिताया है।"
+  },
+  {
+    "id": 14,
+    "sentence": "He has not fixed the car.",
+    "translation": "उसने कार ठीक नहीं की है।",
+    "meaning": "उसने अभी तक खराब गाड़ी की मरम्मत नहीं की है।"
+  },
+  {
+    "id": 15,
+    "sentence": "We have traveled abroad.",
+    "translation": "हम विदेश यात्रा कर चुके हैं।",
+    "meaning": "हम पहले भी दूसरे देशों की यात्राएं कर चुके हैं।"
+  },
+  {
+    "id": 16,
+    "sentence": "I have not read that book.",
+    "translation": "मैंने वह किताब नहीं पढ़ी है।",
+    "meaning": "मैंने उस विशेष किताब को पढ़ने में समय नहीं बिताया है।"
+  },
+  {
+    "id": 17,
+    "sentence": "She has cooked dinner.",
+    "translation": "उसने रात का खाना (डिनर) पका लिया है।",
+    "meaning": "उसने शाम का भोजन तैयार कर लिया है।"
+  },
+  {
+    "id": 18,
+    "sentence": "They have not finished their work.",
+    "translation": "उन्होंने अपना काम खत्म नहीं किया है।",
+    "meaning": "उनके पास अभी भी पूरा करने के लिए काम बाकी है।"
+  },
+  {
+    "id": 19,
+    "sentence": "He has opened the door.",
+    "translation": "उसने दरवाजा खोल दिया है।",
+    "meaning": "दरवाजा अब खुला है क्योंकि उसने इसे खोला है।"
+  },
+  {
+    "id": 20,
+    "sentence": "We have not met before.",
+    "translation": "हम पहले नहीं मिले हैं।",
+    "meaning": "यह पहली बार है जब हम एक-दूसरे से मिल रहे हैं।"
+  },
+  {
+    "id": 21,
+    "sentence": "I have completed the task.",
+    "translation": "मैंने कार्य (टास्क) पूरा कर लिया है।",
+    "meaning": "मैंने मुझे सौंपा गया काम समाप्त कर लिया है।"
+  },
+  {
+    "id": 22,
+    "sentence": "She has not understood the lesson.",
+    "translation": "वह पाठ नहीं समझ पाई है।",
+    "meaning": "वह कक्षा में पढ़ाए गए विषय को पूरी तरह नहीं समझ सकी।"
+  },
+  {
+    "id": 23,
+    "sentence": "They have built a house.",
+    "translation": "उन्होंने एक घर बना लिया है।",
+    "meaning": "उन्होंने अपने घर का निर्माण कार्य पूरा कर लिया है।"
+  },
+  {
+    "id": 24,
+    "sentence": "He has not taken the test.",
+    "translation": "उसने परीक्षा नहीं दी है।",
+    "meaning": "उसने अभी तक टेस्ट नहीं दिया है।"
+  },
+  {
+    "id": 25,
+    "sentence": "I have not finished my work.",
+    "translation": "मैंने अपना काम पूरा नहीं किया है।",
+    "meaning": "मेरे पास अभी भी पूरा करने के लिए कुछ काम बचा है।"
+  },
+  {
+    "id": 26,
+    "sentence": "She has improved her skills.",
+    "translation": "उसने अपने कौशल में सुधार किया है।",
+    "meaning": "उसकी क्षमताएं और कौशल समय के साथ बेहतर हो गए हैं।"
+  },
+  {
+    "id": 27,
+    "sentence": "They have not joined the meeting.",
+    "translation": "वे बैठक में शामिल नहीं हुए हैं।",
+    "meaning": "उन्होंने अभी तक मीटिंग में प्रवेश नहीं किया है।"
+  },
+  {
+    "id": 28,
+    "sentence": "He has bought groceries.",
+    "translation": "उसने किराना का सामान खरीदा है।",
+    "meaning": "उसने खाने की चीजें और घरेलू सामान खरीदा है।"
+  },
+  {
+    "id": 29,
+    "sentence": "We have not started the project.",
+    "translation": "हमने प्रोजेक्ट शुरू नहीं किया है।",
+    "meaning": "हमें अभी प्रोजेक्ट पर काम करना शुरू करना है।"
+  },
+  {
+    "id": 30,
+    "sentence": "I have lost my keys.",
+    "translation": "मैंने अपनी चाबियाँ खो दी हैं।",
+    "meaning": "मुझे अपनी चाबियाँ नहीं मिल रही हैं क्योंकि वे खो गई हैं।"
+  },
+  {
+    "id": 31,
+    "sentence": "She has not replied to my message.",
+    "translation": "उसने मेरे संदेश का जवाब नहीं दिया है।",
+    "meaning": "उसने अभी तक मेरे टेक्स्ट मैसेज का जवाब नहीं दिया है।"
+  },
+  {
+    "id": 32,
+    "sentence": "They have watched the show.",
+    "translation": "वे शो देख चुके हैं।",
+    "meaning": "उन्होंने कार्यक्रम देखना पूरा कर लिया है।"
+  },
+  {
+    "id": 33,
+    "sentence": "He has not visited the doctor.",
+    "translation": "वह डॉक्टर के पास नहीं गया है।",
+    "meaning": "वह अभी तक डॉक्टर को दिखाने नहीं गया है।"
+  },
+  {
+    "id": 34,
+    "sentence": "We have completed the assignment.",
+    "translation": "हमने असाइनमेंट पूरा कर लिया है।",
+    "meaning": "हमने अपना स्कूल का काम पूरा कर लिया है और जमा करने के लिए तैयार हैं।"
+  },
+  {
+    "id": 35,
+    "sentence": "I have not found my wallet.",
+    "translation": "मुझे अपना बटुआ (वॉलेट) नहीं मिला है।",
+    "meaning": "मैं अभी भी अपने खोए हुए वॉलेट की तलाश कर रहा/रही हूँ।"
+  },
+  {
+    "id": 36,
+    "sentence": "She has painted the wall.",
+    "translation": "उसने दीवार को पेंट कर दिया है।",
+    "meaning": "उसने दीवार की सतह को पेंट करने का काम पूरा कर लिया है।"
+  },
+  {
+    "id": 37,
+    "sentence": "They have not submitted the form.",
+    "translation": "उन्होंने फॉर्म जमा नहीं किया है।",
+    "meaning": "उन्होंने अभी तक अपना आवेदन पत्र जमा नहीं किया है।"
+  },
+  {
+    "id": 38,
+    "sentence": "He has broken the glass.",
+    "translation": "उसने कांच तोड़ दिया है।",
+    "meaning": "कांच टूट गया है क्योंकि उसने इसे तोड़ दिया।"
+  },
+  {
+    "id": 39,
+    "sentence": "We have not received the package.",
+    "translation": "हमें पार्सल/पैकेज नहीं मिला है।",
+    "meaning": "डिलीवरी अभी तक हमारे पास नहीं पहुंची है।"
+  },
+  {
+    "id": 40,
+    "sentence": "I have called my friend.",
+    "translation": "मैंने अपने दोस्त को फोन किया है।",
+    "meaning": "मैंने हाल ही में अपने दोस्त को फोन किया है।"
+  },
+  {
+    "id": 41,
+    "sentence": "She has not checked her email.",
+    "translation": "उसने अपना ईमेल चेक नहीं किया है।",
+    "meaning": "उसने संदेश पढ़ने के लिए अभी तक अपना इनबॉक्स नहीं खोला है।"
+  },
+  {
+    "id": 42,
+    "sentence": "They have played the game.",
+    "translation": "वे खेल खेल चुके हैं।",
+    "meaning": "उन्होंने खेल का राउंड या मैच पूरा कर लिया है।"
+  },
+  {
+    "id": 43,
+    "sentence": "He has not finished his meal.",
+    "translation": "उसने अपना खाना खत्म नहीं किया है।",
+    "meaning": "उसने अभी तक अपना सारा खाना नहीं खाया है।"
+  },
+  {
+    "id": 44,
+    "sentence": "We have taken many photos.",
+    "translation": "हमने कई तस्वीरें खींची हैं।",
+    "meaning": "हमने बड़ी संख्या में तस्वीरें खींची और सहेजी हैं।"
+  },
+  {
+    "id": 45,
+    "sentence": "I have not completed the course.",
+    "translation": "मैंने कोर्स पूरा नहीं किया है।",
+    "meaning": "मैं अभी भी पाठ्यक्रम का अध्ययन कर रहा हूँ और पास नहीं हुआ हूँ।"
+  },
+  {
+    "id": 46,
+    "sentence": "She has bought a new dress.",
+    "translation": "उसने एक नई पोशाक/ड्रेस खरीदी है।",
+    "meaning": "उसने अपने लिए एक नया कपड़ा खरीदा है।"
+  }
+]

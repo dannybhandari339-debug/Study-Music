@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "sentence": "I must believe in myself every day.",
+    "translation": "मुझे हर दिन खुद पर विश्वास करना ही चाहिए।",
+    "meaning": "मेरे लिए हर दिन आत्म-विश्वास रखना अत्यंत आवश्यक और महत्वपूर्ण है।"
+  },
+  {
+    "id": 2,
+    "sentence": "You must stay positive in tough times.",
+    "translation": "आपको कठिन समय में सकारात्मक रहना ही चाहिए।",
+    "meaning": "कठिन पलों के दौरान सकारात्मक दृष्टिकोण बनाए रखना आपके लिए बहुत आवश्यक है।"
+  },
+  {
+    "id": 3,
+    "sentence": "We must keep moving forward no matter what.",
+    "translation": "चाहे कुछ भी हो, हमें आगे बढ़ते रहना ही चाहिए।",
+    "meaning": "किसी भी चुनौती के बावजूद आगे बढ़ते रहने का हमारा मजबूत आंतरिक दायित्व है।"
+  },
+  {
+    "id": 4,
+    "sentence": "I must work hard to achieve my dreams.",
+    "translation": "अपने सपनों को हासिल करने के लिए मुझे कड़ी मेहनत करनी ही होगी।",
+    "meaning": "अपनी जीवन की आकांक्षाओं को पूरा करने के लिए प्रयास करना मेरे लिए अत्यंत आवश्यक है।"
+  },
+  {
+    "id": 5,
+    "sentence": "You must trust your journey.",
+    "translation": "आपको अपनी यात्रा पर भरोसा रखना ही चाहिए।",
+    "meaning": "अपने जीवन के अनूठे रास्ते पर विश्वास रखना अत्यधिक अनुशंसित और महत्वपूर्ण है।"
+  },
+  {
+    "id": 6,
+    "sentence": "We must help each other succeed.",
+    "translation": "हमें एक-दूसरे को सफल होने में मदद करनी ही चाहिए।",
+    "meaning": "अपने साझा लक्ष्यों तक पहुँचने में एक-दूसरे की सहायता करना हमारा कर्तव्य है।"
+  },
+  {
+    "id": 7,
+    "sentence": "I must stay focused on my goals.",
+    "translation": "मुझे अपने लक्ष्यों पर ध्यान केंद्रित रखना ही चाहिए।",
+    "meaning": "अपने उद्देश्यों पर पूरी तरह से ध्यान केंद्रित करना मेरे लिए अत्यधिक आवश्यक है।"
+  },
+  {
+    "id": 8,
+    "sentence": "You must never give up hope.",
+    "translation": "आपको कभी भी उम्मीद नहीं छोड़नी चाहिए।",
+    "meaning": "यह बहुत महत्वपूर्ण है कि आप अपनी उम्मीदों को कभी न छोड़ें।"
+  },
+  {
+    "id": 9,
+    "sentence": "We must respect one another.",
+    "translation": "हमें एक-दूसरे का सम्मान करना ही चाहिए।",
+    "meaning": "एक-दूसरे के प्रति सम्मान दिखाना हमारा एक महत्वपूर्ण नैतिक दायित्व है।"
+  },
+  {
+    "id": 10,
+    "sentence": "I must take care of my health.",
+    "translation": "मुझे अपने स्वास्थ्य का ध्यान रखना ही चाहिए।",
+    "meaning": "अपने शारीरिक स्वास्थ्य को बनाए रखना मेरा व्यक्तिगत कर्तव्य और आवश्यकता है।"
+  },
+  {
+    "id": 11,
+    "sentence": "You must follow your passion.",
+    "translation": "आपको अपने जुनून का पालन करना ही चाहिए।",
+    "meaning": "आप जिससे सच में प्यार करते हैं, उसका पीछा करना अत्यंत आवश्यक है।"
+  },
+  {
+    "id": 12,
+    "sentence": "We must learn from our mistakes.",
+    "translation": "हमें अपनी गलतियों से सीखना ही चाहिए।",
+    "meaning": "व्यक्तिगत विकास के लिए अपनी गलतियों से समझ प्राप्त करना आवश्यक है।"
+  },
+  {
+    "id": 13,
+    "sentence": "I must stay calm under pressure.",
+    "translation": "मुझे दबाव में शांत रहना ही चाहिए।",
+    "meaning": "तनावपूर्ण स्थितियों में अपना आपा बनाए रखना मेरे लिए आवश्यक है।"
+  },
+  {
+    "id": 14,
+    "sentence": "You must believe in your abilities.",
+    "translation": "आपको अपनी क्षमताओं पर विश्वास होना ही चाहिए।",
+    "meaning": "आपकी सफलता के लिए आपकी योग्यताओं पर गहरा विश्वास होना आवश्यक है।"
+  },
+  {
+    "id": 15,
+    "sentence": "We must spread kindness everywhere.",
+    "translation": "हमें हर जगह दयालुता फैलानी ही चाहिए।",
+    "meaning": "हर स्थान पर दयालुता का व्यवहार करना हमारी साझा नैतिक जिम्मेदारी है।"
+  },
+  {
+    "id": 16,
+    "sentence": "I must keep a positive mindset.",
+    "translation": "मुझे सकारात्मक मानसिकता बनाए रखनी ही चाहिए।",
+    "meaning": "सकारात्मक दृष्टिकोण बनाए रखना मेरे लिए अत्यंत आवश्यक है।"
+  },
+  {
+    "id": 17,
+    "sentence": "You must chase your dreams fearlessly.",
+    "translation": "आपको निडर होकर अपने सपनों का पीछा करना ही चाहिए।",
+    "meaning": "साहस के साथ अपने लक्ष्यों का पीछा करना आपके लिए आवश्यक है।"
+  },
+  {
+    "id": 18,
+    "sentence": "We must support our friends.",
+    "translation": "हमें अपने दोस्तों का समर्थन करना ही चाहिए।",
+    "meaning": "अपने करीबी साथियों के साथ खड़े रहने का हम गहरा सामाजिक दायित्व महसूस करते हैं।"
+  },
+  {
+    "id": 19,
+    "sentence": "I must stay strong in challenges.",
+    "translation": "मुझे चुनौतियों में मजबूत रहना ही चाहिए।",
+    "meaning": "कठिन परीक्षाओं के दौरान मजबूत और साहसी बने रहना मेरे लिए आवश्यक है।"
+  },
+  {
+    "id": 20,
+    "sentence": "You must choose happiness daily.",
+    "translation": "आपको हर दिन खुशी को चुनना ही चाहिए।",
+    "meaning": "हर दिन खुश रहने का सचेत निर्णय लेना अत्यंत आवश्यक है।"
+  },
+  {
+    "id": 21,
+    "sentence": "We must encourage one another.",
+    "translation": "हमें एक-दूसरे का उत्साह बढ़ाना ही चाहिए।",
+    "meaning": "अपने आसपास के लोगों को प्रेरित करना और उनका हौसला बढ़ाना हमारा कर्तव्य है।"
+  },
+  {
+    "id": 22,
+    "sentence": "I must stay honest in my actions.",
+    "translation": "मुझे अपने कर्मों में ईमानदार रहना ही चाहिए।",
+    "meaning": "मैं जो भी करता हूँ उसमें पूरी ईमानदारी बनाए रखना अत्यंत आवश्यक है।"
+  },
+  {
+    "id": 23,
+    "sentence": "You must believe in your potential.",
+    "translation": "आपको अपनी क्षमता पर विश्वास होना ही चाहिए।",
+    "meaning": "अपनी आंतरिक शक्ति और संभावनाओं पर भरोसा रखना आवश्यक है।"
+  },
+  {
+    "id": 24,
+    "sentence": "We must build a better future.",
+    "translation": "हमें एक बेहतर भविष्य का निर्माण करना ही होगा।",
+    "meaning": "एक बेहतर कल के निर्माण में योगदान देना हमारी जिम्मेदारी है।"
+  },
+  {
+    "id": 25,
+    "sentence": "I must stay motivated always.",
+    "translation": "मुझे हमेशा प्रेरित रहना ही चाहिए।",
+    "meaning": "अपनी निरंतर प्रगति के लिए हर समय अपनी प्रेरणा को जीवित रखना आवश्यक है।"
+  },
+  {
+    "id": 26,
+    "sentence": "You must take care of your dreams.",
+    "translation": "आपको अपने सपनों का ध्यान रखना ही चाहिए।",
+    "meaning": "अपनी व्यक्तिगत आकांक्षाओं का पोषण और संरक्षण करना आपकी जिम्मेदारी है।"
+  },
+  {
+    "id": 27,
+    "sentence": "We must grow through experiences.",
+    "translation": "हमें अनुभवों के माध्यम से सीखना और बढ़ना ही चाहिए।",
+    "meaning": "हम जो कुछ भी अनुभव करते हैं, उससे परिपक्व होना हमारे लिए आवश्यक है।"
+  },
+  {
+    "id": 28,
+    "sentence": "I must keep improving myself.",
+    "translation": "मुझे खुद में लगातार सुधार करते रहना ही चाहिए।",
+    "meaning": "अपने चरित्र और कौशलों को बेहतर बनाने की मेरी निरंतर व्यक्तिगत प्रतिबद्धता है।"
+  },
+  {
+    "id": 29,
+    "sentence": "You must stay hopeful always.",
+    "translation": "आपको हमेशा आशावादी रहना ही चाहिए।",
+    "meaning": "निरंतर सकारात्मकता के साथ भविष्य की ओर देखना अत्यंत आवश्यक है।"
+  },
+  {
+    "id": 30,
+    "sentence": "We must respect nature.",
+    "translation": "हमें प्रकृति का सम्मान करना ही चाहिए।",
+    "meaning": "प्राकृतिक दुनिया का मूल्य समझना और उसकी रक्षा करना हमारा महत्वपूर्ण नैतिक कर्तव्य है।"
+  },
+  {
+    "id": 31,
+    "sentence": "I must stay patient in difficulties.",
+    "translation": "मुझे कठिनाइयों में धैर्य बनाए रखना ही चाहिए।",
+    "meaning": "समस्याओं का सामना करते समय शांत और सहनशील रहना मेरे लिए आवश्यक है।"
+  },
+  {
+    "id": 32,
+    "sentence": "You must keep a kind heart.",
+    "translation": "आपको एक दयालु दिल बनाए रखना ही चाहिए।",
+    "meaning": "एक कोमल, सहानुभूतिपूर्ण और उदार स्वभाव को बनाए रखना महत्वपूर्ण है।"
+  },
+  {
+    "id": 33,
+    "sentence": "We must share positivity with others.",
+    "translation": "हमें दूसरों के साथ सकारात्मकता साझा करनी ही चाहिए।",
+    "meaning": "अपने आसपास के लोगों में सकारात्मक विचार फैलाना हमारा कर्तव्य है।"
+  },
+  {
+    "id": 34,
+    "sentence": "I must stay confident in decisions.",
+    "translation": "मुझे अपने निर्णयों में आत्मविश्वासी रहना ही चाहिए।",
+    "meaning": "अपने फैसलों में अटूट विश्वास बनाए रखना मेरे लिए आवश्यक है।"
+  },
+  {
+    "id": 35,
+    "sentence": "You must never lose faith.",
+    "translation": "आपको कभी भी विश्वास नहीं खोना चाहिए।",
+    "meaning": "स्थिति चाहे जो भी हो, विश्वास बनाए रखना अत्यंत महत्वपूर्ण है।"
+  },
+  {
+    "id": 36,
+    "sentence": "We must embrace change.",
+    "translation": "हमें बदलाव को अपनाना ही चाहिए।",
+    "meaning": "जीवन की नई परिस्थितियों का स्वागत करना और ढलना हमारे लिए आवश्यक है।"
+  }
+]

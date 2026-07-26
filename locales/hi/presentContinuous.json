@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "sentence": "I am eating dinner.",
+    "translation": "मैं रात का खाना खा रहा हूँ।",
+    "meaning": "मैं इस समय अपना शाम का भोजन कर रहा हूँ।"
+  },
+  {
+    "id": 2,
+    "sentence": "She is not reading the newspaper.",
+    "translation": "वह अखबार नहीं पढ़ रही है।",
+    "meaning": "वह अभी कोई समाचार नहीं पढ़ रही है।"
+  },
+  {
+    "id": 3,
+    "sentence": "They are playing football.",
+    "translation": "वे फुटबॉल खेल रहे हैं।",
+    "meaning": "वे इस समय फुटबॉल का खेल खेल रहे हैं।"
+  },
+  {
+    "id": 4,
+    "sentence": "We are not watching TV.",
+    "translation": "हम टीवी नहीं देख रहे हैं।",
+    "meaning": "हम इस समय स्क्रीन नहीं देख रहे हैं।"
+  },
+  {
+    "id": 5,
+    "sentence": "He is writing a letter.",
+    "translation": "वह एक पत्र लिख रहा है।",
+    "meaning": "वह अभी एक पत्र लिख रहा है।"
+  },
+  {
+    "id": 6,
+    "sentence": "The dog is not sleeping.",
+    "translation": "कुत्ता सो नहीं रहा है।",
+    "meaning": "कुत्ता पूरी तरह से जागा हुआ है।"
+  },
+  {
+    "id": 7,
+    "sentence": "I am learning English.",
+    "translation": "मैं अंग्रेजी सीख रहा हूँ।",
+    "meaning": "मैं इस समय अंग्रेजी का अध्ययन कर रहा हूँ।"
+  },
+  {
+    "id": 8,
+    "sentence": "She is cooking lunch.",
+    "translation": "वह दोपहर का खाना बना रही है।",
+    "meaning": "वह अभी दोपहर का भोजन तैयार कर रही है।"
+  },
+  {
+    "id": 9,
+    "sentence": "They are not building a bridge.",
+    "translation": "वे पुल नहीं बना रहे हैं।",
+    "meaning": "पुल का निर्माण नहीं हो रहा है।"
+  },
+  {
+    "id": 10,
+    "sentence": "We are studying for exams.",
+    "translation": "हम परीक्षाओं के लिए पढ़ाई कर रहे हैं।",
+    "meaning": "हम अभी अपनी परीक्षाओं की तैयारी कर रहे हैं।"
+  },
+  {
+    "id": 11,
+    "sentence": "He is not driving fast.",
+    "translation": "वह तेज गाड़ी नहीं चला रहा है।",
+    "meaning": "उसकी गति इस समय सुरक्षित है।"
+  },
+  {
+    "id": 12,
+    "sentence": "The baby is sleeping.",
+    "translation": "बच्चा सो रहा है।",
+    "meaning": "छोटा बच्चा सो रहा है।"
+  },
+  {
+    "id": 13,
+    "sentence": "I am not listening to you.",
+    "translation": "मैं तुम्हारी बात नहीं सुन रहा हूँ।",
+    "meaning": "मैं तुम्हारी बातों पर ध्यान नहीं दे रहा हूँ।"
+  },
+  {
+    "id": 14,
+    "sentence": "She is dancing beautifully.",
+    "translation": "वह बहुत सुंदर नृत्य कर रही है।",
+    "meaning": "वह अच्छी तरह से डांस कर रही है।"
+  },
+  {
+    "id": 15,
+    "sentence": "They are working together.",
+    "translation": "वे एक साथ काम कर रहे हैं।",
+    "meaning": "वे अभी एक काम में सहयोग कर रहे हैं।"
+  },
+  {
+    "id": 16,
+    "sentence": "We are not cleaning the house.",
+    "translation": "हम घर की सफाई नहीं कर रहे हैं।",
+    "meaning": "हम अभी घर के काम नहीं कर रहे हैं।"
+  },
+  {
+    "id": 17,
+    "sentence": "He is painting the wall.",
+    "translation": "वह दीवार पर पेंट कर रहा है।",
+    "meaning": "वह इस समय रंग लगा रहा है।"
+  },
+  {
+    "id": 18,
+    "sentence": "The teacher is not shouting.",
+    "translation": "शिक्षक चिल्ला नहीं रहे हैं।",
+    "meaning": "शिक्षक धीरे/शांति से बोल रहे हैं।"
+  },
+  {
+    "id": 19,
+    "sentence": "I am practicing yoga.",
+    "translation": "मैं योग का अभ्यास कर रहा हूँ।",
+    "meaning": "मैं अभी स्वस्थ व्यायाम/योग कर रहा हूँ।"
+  },
+  {
+    "id": 20,
+    "sentence": "She is not drawing anything.",
+    "translation": "वह कुछ भी चित्र नहीं बना रही है।",
+    "meaning": "उसके हाथ में खाली कैनवास/कागज है।"
+  },
+  {
+    "id": 21,
+    "sentence": "They are running in the park.",
+    "translation": "वे पार्क में दौड़ रहे हैं।",
+    "meaning": "वे इस समय बाहर जॉगिंग कर रहे हैं।"
+  },
+  {
+    "id": 22,
+    "sentence": "We are discussing the project.",
+    "translation": "हम प्रोजेक्ट पर चर्चा कर रहे हैं।",
+    "meaning": "हम अभी टीम चर्चा कर रहे हैं।"
+  },
+  {
+    "id": 23,
+    "sentence": "He is not fixing the fan.",
+    "translation": "वह पंखा ठीक नहीं कर रहा है।",
+    "meaning": "पंखा अभी भी खराब है।"
+  },
+  {
+    "id": 24,
+    "sentence": "The sun is shining brightly.",
+    "translation": "सूरज तेज चमक रहा है।",
+    "meaning": "आकाश में आज चमकदार धूप है।"
+  },
+  {
+    "id": 25,
+    "sentence": "I am writing an email.",
+    "translation": "मैं एक ईमेल लिख रहा हूँ।",
+    "meaning": "मैं एक इलेक्ट्रॉनिक संदेश तैयार कर रहा हूँ।"
+  },
+  {
+    "id": 26,
+    "sentence": "She is singing a song.",
+    "translation": "वह एक गाना गा रही है।",
+    "meaning": "वह अभी गाना गा रही है।"
+  },
+  {
+    "id": 27,
+    "sentence": "They are not traveling abroad.",
+    "translation": "वे विदेश यात्रा नहीं कर रहे हैं।",
+    "meaning": "वे अपने ही देश में रह रहे हैं।"
+  },
+  {
+    "id": 28,
+    "sentence": "We are planting trees.",
+    "translation": "हम पेड़ लगा रहे हैं।",
+    "meaning": "हम मिट्टी में छोटे पौधे लगा रहे हैं।"
+  },
+  {
+    "id": 29,
+    "sentence": "We are not enjoying the game.",
+    "translation": "हम खेल का आनंद नहीं ले रहे हैं।",
+    "meaning": "खेल इस समय उबाऊ लग रहा है।"
+  },
+  {
+    "id": 30,
+    "sentence": "He is talking on the phone.",
+    "translation": "वह फोन पर बात कर रहा है।",
+    "meaning": "उसका फोन कॉल चल रहा है।"
+  },
+  {
+    "id": 31,
+    "sentence": "The birds are not sitting quietly.",
+    "translation": "पक्षी चुपचाप नहीं बैठे हैं।",
+    "meaning": "पक्षी चहक रहे हैं और उड़ रहे हैं।"
+  },
+  {
+    "id": 32,
+    "sentence": "I am watching TV.",
+    "translation": "मैं टीवी देख रहा हूँ।",
+    "meaning": "मैं टीवी पर कार्यक्रम देख रहा हूँ।"
+  },
+  {
+    "id": 33,
+    "sentence": "She is making a cake.",
+    "translation": "वह केक बना रही है।",
+    "meaning": "वह रसोई में बेकिंग कर रही है।"
+  },
+  {
+    "id": 34,
+    "sentence": "They are not solving the puzzle.",
+    "translation": "वे पहेली हल नहीं कर रहे हैं।",
+    "meaning": "वे पहेली को सुलझाने में कठिनाई महसूस कर रहे हैं।"
+  },
+  {
+    "id": 35,
+    "sentence": "We are visiting relatives.",
+    "translation": "हम रिश्तेदारों के यहाँ जा रहे हैं।",
+    "meaning": "हम अभी रिश्तेदारों से मिल रहे हैं।"
+  },
+  {
+    "id": 36,
+    "sentence": "He is studying mathematics.",
+    "translation": "वह गणित पढ़ रहा है।",
+    "meaning": "वह अभी गणित के सवाल हल कर रहा है।"
+  },
+  {
+    "id": 37,
+    "sentence": "The wind is not blowing hard.",
+    "translation": "हवा तेज नहीं चल रही है।",
+    "meaning": "बाहर हल्की और धीमी हवा चल रही है।"
+  },
+  {
+    "id": 38,
+    "sentence": "I am exercising daily.",
+    "translation": "मैं रोजाना व्यायाम कर रहा हूँ।",
+    "meaning": "मैं अपने शरीर को स्वस्थ रखने के लिए कसरत कर रहा हूँ।"
+  },
+  {
+    "id": 39,
+    "sentence": "She is helping her friend.",
+    "translation": "वह अपनी सहेली की मदद कर रही है।",
+    "meaning": "वह अभी अपनी करीबी दोस्त की सहायता कर रही है।"
+  },
+  {
+    "id": 40,
+    "sentence": "I am not eating junk food.",
+    "translation": "मैं जंक फूड नहीं खा रहा हूँ।",
+    "meaning": "मैं इस समय पौष्टिक भोजन खा रहा हूँ।"
+  },
+  {
+    "id": 41,
+    "sentence": "She is reading a book.",
+    "translation": "वह एक किताब पढ़ रही है।",
+    "meaning": "वह एक उपन्यास/किताब पढ़ने में लीन है।"
+  },
+  {
+    "id": 42,
+    "sentence": "They are not playing cricket.",
+    "translation": "वे क्रिकेट नहीं खेल रहे हैं।",
+    "meaning": "क्रिकेट का मैदान खाली है।"
+  },
+  {
+    "id": 43,
+    "sentence": "We are watching a movie.",
+    "translation": "हम एक फिल्म देख रहे हैं।",
+    "meaning": "हम अभी एक फिल्म देख रहे हैं।"
+  },
+  {
+    "id": 44,
+    "sentence": "He is not writing a report.",
+    "translation": "वह रिपोर्ट नहीं लिख रहा है।",
+    "meaning": "वह अपने कंप्यूटर से दूर है।"
+  },
+  {
+    "id": 45,
+    "sentence": "The dog is barking loudly.",
+    "translation": "कुत्ता जोर से भौंक रहा है।",
+    "meaning": "कुत्ता इस समय तेज आवाज निकाल रहा है।"
+  },
+  {
+    "id": 46,
+    "sentence": "I am not learning French.",
+    "translation": "मैं फ्रेंच नहीं सीख रहा हूँ।",
+    "meaning": "मेरे मौजूदा पाठ फ्रेंच भाषा के नहीं हैं।"
+  },
+  {
+    "id": 47,
+    "sentence": "She is not cooking dinner.",
+    "translation": "वह रात का खाना नहीं बना रही है।",
+    "meaning": "रसोई का चूल्हा पूरी तरह बंद है।"
+  },
+  {
+    "id": 48,
+    "sentence": "They are building a house.",
+    "translation": "वे एक घर बना रहे हैं।",
+    "meaning": "एक नया घर तैयार किया जा रहा है।"
+  },
+  {
+    "id": 49,
+    "sentence": "We are not studying now.",
+    "translation": "हम अभी पढ़ाई नहीं कर रहे हैं।",
+    "meaning": "हम एक छोटा ब्रेक/विराम ले रहे हैं।"
+  },
+  {
+    "id": 50,
+    "sentence": "He is driving a car.",
+    "translation": "वह कार चला रहा है।",
+    "meaning": "वह इस समय सड़क पर गाड़ी चला रहा है।"
+  },
+  {
+    "id": 51,
+    "sentence": "The baby is not crying.",
+    "translation": "बच्चा रो नहीं रहा है।",
+    "meaning": "बच्चा शांत और मुस्कुरा रहा है।"
+  },
+  {
+    "id": 52,
+    "sentence": "I am listening to music.",
+    "translation": "मैं संगीत सुन रहा हूँ।",
+    "meaning": "मैं हेडफोन लगाकर गाने सुन रहा हूँ।"
+  },
+  {
+    "id": 53,
+    "sentence": "She is not dancing today.",
+    "translation": "वह आज डांस नहीं कर रही है।",
+    "meaning": "वह आज आराम कर रही है।"
+  },
+  {
+    "id": 54,
+    "sentence": "They are not working hard.",
+    "translation": "वे कड़ी मेहनत नहीं कर रहे हैं।",
+    "meaning": "वे सोफे पर आराम कर रहे हैं।"
+  },
+  {
+    "id": 55,
+    "sentence": "We are cleaning the room.",
+    "translation": "हम कमरे की सफाई कर रहे हैं।",
+    "meaning": "हम धूल पोंछ रहे हैं और झाड़ू लगा रहे हैं।"
+  },
+  {
+    "id": 56,
+    "sentence": "He is not painting the door.",
+    "translation": "वह दरवाजे को पेंट नहीं कर रहा है।",
+    "meaning": "दरवाजा अपने स्वाभाविक लकड़ी के रंग में ही है।"
+  },
+  {
+    "id": 57,
+    "sentence": "The birds are flying.",
+    "translation": "पक्षी उड़ रहे हैं।",
+    "meaning": "पक्षी आसमान में ऊँची उड़ान भर रहे हैं।"
+  }
+]

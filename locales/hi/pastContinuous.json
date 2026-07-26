@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "sentence": "I was reading a book.",
+    "translation": "मैं एक किताब पढ़ रहा था / रही थी।",
+    "meaning": "जब कुछ और हुआ, उस समय मैं एक किताब पढ़ने के बीच में था/थी।"
+  },
+  {
+    "id": 2,
+    "sentence": "She was not cooking dinner.",
+    "translation": "वह रात का खाना (डिनर) नहीं बना रही थी।",
+    "meaning": "वह शाम का खाना तैयार करने में नहीं लगी हुई थी।"
+  },
+  {
+    "id": 3,
+    "sentence": "They were playing football.",
+    "translation": "वे फुटबॉल खेल रहे थे।",
+    "meaning": "वे फुटबॉल का खेल खेलने के बीच में थे।"
+  },
+  {
+    "id": 4,
+    "sentence": "He was not watching TV.",
+    "translation": "वह टीवी नहीं देख रहा था।",
+    "meaning": "वह टेलीविजन कार्यक्रम देखने में शामिल नहीं था।"
+  },
+  {
+    "id": 5,
+    "sentence": "We were studying together.",
+    "translation": "हम एक साथ पढ़ाई कर रहे थे।",
+    "meaning": "हमने एक साथ सीखने और स्कूल का काम करने में समय बिताया।"
+  },
+  {
+    "id": 6,
+    "sentence": "The dog was not barking.",
+    "translation": "कुत्ता भौंक नहीं रहा था।",
+    "meaning": "कुत्ता शांत था और भौंकने की कोई तेज आवाज नहीं निकाल रहा था।"
+  },
+  {
+    "id": 7,
+    "sentence": "She was writing a letter.",
+    "translation": "वह एक पत्र लिख रही थी।",
+    "meaning": "वह कागज़ पर एक पत्र लिखने के बीच में थी।"
+  },
+  {
+    "id": 8,
+    "sentence": "I was not walking in the park.",
+    "translation": "मैं पार्क में नहीं टहल रहा था / रही थी।",
+    "meaning": "मैं सार्वजनिक पार्क में टहलने में समय नहीं बिता रहा था/थी।"
+  },
+  {
+    "id": 9,
+    "sentence": "They were dancing at the party.",
+    "translation": "वे पार्टी में नाच रहे थे।",
+    "meaning": "वे समारोह में संगीत की धुन पर नाचने की प्रक्रिया में थे।"
+  },
+  {
+    "id": 10,
+    "sentence": "He was driving to work.",
+    "translation": "वह गाड़ी चलाकर काम पर जा रहा था।",
+    "meaning": "वह अपनी कार से अपने कार्यस्थल की ओर यात्रा कर रहा था।"
+  },
+  {
+    "id": 11,
+    "sentence": "We were not laughing at the joke.",
+    "translation": "हम जोक (चुटकुले) पर नहीं हंस रहे थे।",
+    "meaning": "हमें चुटकुला मजेदार नहीं लगा और हम हंस नहीं रहे थे।"
+  },
+  {
+    "id": 12,
+    "sentence": "She was painting a picture.",
+    "translation": "वह एक चित्र बना रही थी।",
+    "meaning": "वह कैनवास पर पेंट से कलाकृति बनाने के बीच में थी।"
+  },
+  {
+    "id": 13,
+    "sentence": "I was listening to music.",
+    "translation": "मैं संगीत सुन रहा था / रही थी।",
+    "meaning": "मैं अपने डिवाइस पर बज रहे गानों पर ध्यान दे रहा था/थी।"
+  },
+  {
+    "id": 14,
+    "sentence": "They were not building a house.",
+    "translation": "वे घर नहीं बना रहे थे।",
+    "meaning": "वे एक रिहायशी घर का निर्माण करने की प्रक्रिया में नहीं थे।"
+  },
+  {
+    "id": 15,
+    "sentence": "He was fixing the car.",
+    "translation": "वह कार ठीक कर रहा था।",
+    "meaning": "वह सक्रिय रूप से वाहन की मरम्मत कर रहा था।"
+  },
+  {
+    "id": 16,
+    "sentence": "We were waiting for the bus.",
+    "translation": "हम बस का इंतजार कर रहे थे।",
+    "meaning": "हम बस स्टैंड पर अपने वाहन के आने की प्रतीक्षा में खड़े थे।"
+  },
+  {
+    "id": 17,
+    "sentence": "She was not talking on the phone.",
+    "translation": "वह फोन पर बात नहीं कर रही थी।",
+    "meaning": "वह फोन पर किसी बातचीत में शामिल नहीं थी।"
+  },
+  {
+    "id": 18,
+    "sentence": "I was cleaning my room.",
+    "translation": "मैं अपना कमरा साफ कर रहा था / रही थी।",
+    "meaning": "मैं अपने बेडरूम की सफाई और गंदगी हटाने में व्यस्त था/थी।"
+  },
+  {
+    "id": 19,
+    "sentence": "They were singing a song.",
+    "translation": "वे एक गाना गा रहे थे।",
+    "meaning": "वे एक संगीत गीत प्रस्तुत कर रहे थे।"
+  },
+  {
+    "id": 20,
+    "sentence": "He was not learning English.",
+    "translation": "वह अंग्रेजी नहीं सीख रहा था।",
+    "meaning": "वह उस समय अंग्रेजी भाषा का अध्ययन नहीं कर रहा था।"
+  },
+  {
+    "id": 21,
+    "sentence": "We were enjoying the movie.",
+    "translation": "हम फिल्म का आनंद ले रहे थे।",
+    "meaning": "फिल्म देखते समय हमें वह बहुत अच्छी लग रही थी।"
+  },
+  {
+    "id": 22,
+    "sentence": "She was watering the plants.",
+    "translation": "वह पौधों में पानी डाल रही थी।",
+    "meaning": "वह अपने बगीचे के पौधों में पानी दे रही थी।"
+  },
+  {
+    "id": 23,
+    "sentence": "I was not doing my homework.",
+    "translation": "मैं अपना गृहकार्य (होमवर्क) नहीं कर रहा था / रही थी।",
+    "meaning": "मैं अपने स्कूल का कोई भी काम नहीं कर रहा था/थी।"
+  },
+  {
+    "id": 24,
+    "sentence": "They were running in the field.",
+    "translation": "वे मैदान में दौड़ रहे थे।",
+    "meaning": "वे घास के मैदान में तेजी से दौड़ रहे थे।"
+  },
+  {
+    "id": 25,
+    "sentence": "He was playing the guitar.",
+    "translation": "वह गिटार बजा रहा था।",
+    "meaning": "वह गिटार पर संगीत बजाने में व्यस्त था।"
+  },
+  {
+    "id": 26,
+    "sentence": "We were not traveling to Delhi.",
+    "translation": "हम दिल्ली की यात्रा नहीं कर रहे थे।",
+    "meaning": "हम दिल्ली जाने के रास्ते में नहीं थे।"
+  },
+  {
+    "id": 27,
+    "sentence": "She was teaching the class.",
+    "translation": "वह कक्षा को पढ़ा रही थी।",
+    "meaning": "वह कक्षा में छात्रों को पाठ पढ़ा रही थी।"
+  },
+  {
+    "id": 28,
+    "sentence": "I was drawing a sketch.",
+    "translation": "मैं एक स्केच (चित्र) बना रहा था / रही थी।",
+    "meaning": "मैं पेंसिल से चित्र बनाने के बीच में था/थी।"
+  },
+  {
+    "id": 29,
+    "sentence": "They were discussing the plan.",
+    "translation": "वे योजना पर चर्चा कर रहे थे।",
+    "meaning": "वे भविष्य के कार्यों को व्यवस्थित करने के लिए बातचीत कर रहे थे।"
+  },
+  {
+    "id": 30,
+    "sentence": "He was not climbing a tree.",
+    "translation": "वह पेड़ पर नहीं चढ़ रहा था।",
+    "meaning": "वह पेड़ के तने या शाखाओं पर नहीं चढ़ रहा था।"
+  },
+  {
+    "id": 31,
+    "sentence": "We were preparing dinner.",
+    "translation": "हम रात का खाना (डिनर) तैयार कर रहे थे।",
+    "meaning": "हम मिलकर शाम का भोजन पका रहे थे।"
+  },
+  {
+    "id": 32,
+    "sentence": "She was organizing her desk.",
+    "translation": "वह अपनी मेज (डेस्क) व्यवस्थित कर रही थी।",
+    "meaning": "वह अपनी ऑफिस डेस्क पर फाइलों और सामान को साफ-सुथरा कर रही थी।"
+  },
+  {
+    "id": 33,
+    "sentence": "I was not riding my bike.",
+    "translation": "मैं अपनी साइकिल नहीं चला रहा था / रही थी।",
+    "meaning": "मैं अपनी साइकिल का उपयोग करके यात्रा नहीं कर रहा था/थी।"
+  },
+  {
+    "id": 34,
+    "sentence": "They were enjoying the rain.",
+    "translation": "वे बारिश का आनंद ले रहे थे।",
+    "meaning": "बाहर बारिश के दौरान वे सुखद समय बिता रहे थे।"
+  },
+  {
+    "id": 35,
+    "sentence": "He was reading the newspaper.",
+    "translation": "वह अखबार पढ़ रहा था।",
+    "meaning": "वह समाचार पत्र से दैनिक समाचार पढ़ रहा था।"
+  },
+  {
+    "id": 36,
+    "sentence": "We were not visiting our relatives.",
+    "translation": "हम अपने रिश्तेदारों से मिलने नहीं जा रहे थे।",
+    "meaning": "हम अपने परिवार के सदस्यों से मिलने की यात्रा पर नहीं थे।"
+  },
+  {
+    "id": 37,
+    "sentence": "She was baking a cake.",
+    "translation": "वह केक बेक कर रही थी (बना रही थी)।",
+    "meaning": "वह ओवन में मीठा केक तैयार करने के बीच में थी।"
+  },
+  {
+    "id": 38,
+    "sentence": "I was playing chess.",
+    "translation": "मैं शतरंज खेल रहा था / रही थी।",
+    "meaning": "मैं शतरंज के दिमागी खेल में लगा हुआ था/थी।"
+  },
+  {
+    "id": 39,
+    "sentence": "They were not practicing yoga.",
+    "translation": "वे योग का अभ्यास नहीं कर रहे थे।",
+    "meaning": "वे शारीरिक और मानसिक योग आसन नहीं कर रहे थे।"
+  },
+  {
+    "id": 40,
+    "sentence": "He was repairing the roof.",
+    "translation": "वह छत की मरम्मत कर रहा था।",
+    "meaning": "वह छत में लीकेज या टूट-फूट को सक्रिय रूप से ठीक कर रहा था।"
+  }
+]

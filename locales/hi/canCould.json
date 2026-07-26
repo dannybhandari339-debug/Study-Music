@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "sentence": "I can swim very well.",
+    "translation": "मैं बहुत अच्छी तरह से तैर सकता हूँ।",
+    "meaning": "मुझमें वर्तमान समय में कुशलतापूर्वक तैरने की क्षमता है।"
+  },
+  {
+    "id": 2,
+    "sentence": "I can't solve this problem.",
+    "translation": "मैं इस समस्या को हल नहीं कर सकता।",
+    "meaning": "मेरे पास अभी इस समस्या को हल करने की क्षमता या ज्ञान नहीं है।"
+  },
+  {
+    "id": 3,
+    "sentence": "She can sing beautifully.",
+    "translation": "वह बहुत सुंदरता से गा सकती है।",
+    "meaning": "उसकी आवाज बहुत अच्छी है और वह अभी बहुत अच्छा गा सकती है।"
+  },
+  {
+    "id": 4,
+    "sentence": "He can't drive a car.",
+    "translation": "वह कार नहीं चला सकता।",
+    "meaning": "उसे वर्तमान में गाड़ी चलाना नहीं आता है।"
+  },
+  {
+    "id": 5,
+    "sentence": "We can finish this today.",
+    "translation": "हम इसे आज पूरा कर सकते हैं।",
+    "meaning": "हमारे लिए दिन खत्म होने से पहले इस काम को पूरा करना संभव है।"
+  },
+  {
+    "id": 6,
+    "sentence": "They can't come to the party.",
+    "translation": "वे पार्टी में नहीं आ सकते।",
+    "meaning": "उनका इस सामाजिक समारोह में शामिल होना संभव नहीं है।"
+  },
+  {
+    "id": 7,
+    "sentence": "You can learn anything with practice.",
+    "translation": "आप अभ्यास से कुछ भी सीख सकते हैं।",
+    "meaning": "यदि आप लगातार अभ्यास करते हैं तो आपके लिए कोई भी कौशल सीखना संभव है।"
+  },
+  {
+    "id": 8,
+    "sentence": "I can't find my keys.",
+    "translation": "मुझे मेरी चाबियां नहीं मिल रही हैं।",
+    "meaning": "मैं इस समय अपनी चाबियां ढूंढने में असमर्थ हूँ।"
+  },
+  {
+    "id": 9,
+    "sentence": "She can speak three languages.",
+    "translation": "वह तीन भाषाएं बोल सकती है।",
+    "meaning": "वह वर्तमान में तीन अलग-अलग भाषाओं में धाराप्रवाह बात करने में सक्षम है।"
+  },
+  {
+    "id": 10,
+    "sentence": "He can't understand the lesson.",
+    "translation": "वह पाठ नहीं समझ सकता।",
+    "meaning": "वह वर्तमान में सिखाई जा रही अवधारणाओं को समझने में असमर्थ है।"
+  },
+  {
+    "id": 11,
+    "sentence": "I can help you with that.",
+    "translation": "मैं उसमें आपकी मदद कर सकता हूँ।",
+    "meaning": "मैं अभी उस काम में आपकी सहायता करने के लिए इच्छुक और सक्षम हूँ।"
+  },
+  {
+    "id": 12,
+    "sentence": "We can't ignore this issue.",
+    "translation": "हम इस मुद्दे को नजरअंदाज नहीं कर सकते।",
+    "meaning": "हमारे लिए इस समस्या को नजरअंदाज करना असंभव या अनुचित है।"
+  },
+  {
+    "id": 13,
+    "sentence": "They can win the match.",
+    "translation": "वे मैच जीत सकते हैं।",
+    "meaning": "उनके खेल में जीत हासिल करने की प्रबल संभावना है।"
+  },
+  {
+    "id": 14,
+    "sentence": "You can't enter this room.",
+    "translation": "आप इस कमरे में प्रवेश नहीं कर सकते।",
+    "meaning": "आपको इस कमरे के अंदर जाने की अनुमति या क्षमता नहीं है।"
+  },
+  {
+    "id": 15,
+    "sentence": "She can cook delicious meals.",
+    "translation": "वह स्वादिष्ट खाना बना सकती है।",
+    "meaning": "उसमें बहुत स्वादिष्ट भोजन तैयार करने का कौशल है।"
+  },
+  {
+    "id": 16,
+    "sentence": "He can't lift that heavy box.",
+    "translation": "वह उस भारी डिब्बे को नहीं उठा सकता।",
+    "meaning": "उसमें उस भारी पैकेज को उठाने की शारीरिक ताकत की कमी है।"
+  },
+  {
+    "id": 17,
+    "sentence": "I can see the mountains.",
+    "translation": "मुझे पहाड़ दिखाई दे रहे हैं।",
+    "meaning": "मेरी वर्तमान स्थिति से मुझे पहाड़ स्पष्ट दिखाई दे रहे हैं।"
+  },
+  {
+    "id": 18,
+    "sentence": "We can't trust him completely.",
+    "translation": "हम उस पर पूरी तरह भरोसा नहीं कर सकते।",
+    "meaning": "हमें उस पर पूरा विश्वास करना सुरक्षित या विश्वसनीय नहीं लगता।"
+  },
+  {
+    "id": 19,
+    "sentence": "They can solve the puzzle.",
+    "translation": "वे पहेली को हल कर सकते हैं।",
+    "meaning": "उनमें अब पहेली को पूरा करने की मानसिक क्षमता है।"
+  },
+  {
+    "id": 20,
+    "sentence": "You can't leave early today.",
+    "translation": "आप आज जल्दी नहीं जा सकते।",
+    "meaning": "आपको आज नियमित समय से पहले जाने की अनुमति नहीं है।"
+  },
+  {
+    "id": 21,
+    "sentence": "I could swim when I was young.",
+    "translation": "जब मैं छोटा था तब मैं तैर सकता था।",
+    "meaning": "बचपन में मुझमें तैरने की क्षमता थी।"
+  },
+  {
+    "id": 22,
+    "sentence": "I couldn't solve the puzzle.",
+    "translation": "मैं पहेली हल नहीं कर सका।",
+    "meaning": "मैं अतीत में पहेली का समाधान खोजने में असमर्थ था।"
+  },
+  {
+    "id": 23,
+    "sentence": "She could sing beautifully as a child.",
+    "translation": "वह बचपन में बहुत सुंदरता से गा सकती थी।",
+    "meaning": "जब वह छोटी बच्ची थी तब उसकी आवाज बहुत सुरीली थी।"
+  },
+  {
+    "id": 24,
+    "sentence": "He couldn't drive last year.",
+    "translation": "वह पिछले साल गाड़ी नहीं चला सकता था।",
+    "meaning": "पिछले साल उसके पास लाइसेंस नहीं था या उसे गाड़ी चलाना नहीं आता था।"
+  },
+  {
+    "id": 25,
+    "sentence": "We could finish the work on time.",
+    "translation": "हम समय पर काम पूरा कर सके।",
+    "meaning": "हम कल समय सीमा से पहले काम पूरा करने में सक्षम थे।"
+  },
+  {
+    "id": 26,
+    "sentence": "They couldn't attend the meeting.",
+    "translation": "वे बैठक (मीटिंग) में शामिल नहीं हो सके।",
+    "meaning": "वे निर्धारित बैठक में उपस्थित होने में सक्षम नहीं थे।"
+  },
+  {
+    "id": 27,
+    "sentence": "You could learn a lot from this book.",
+    "translation": "आप इस किताब से बहुत कुछ सीख सकते थे/हैं।",
+    "meaning": "इस किताब से आपके लिए बहुत ज्ञान प्राप्त करना संभव था।"
+  },
+  {
+    "id": 28,
+    "sentence": "I couldn't find my phone.",
+    "translation": "मुझे मेरा फोन नहीं मिल सका।",
+    "meaning": "मैं पहले अपना मोबाइल फोन ढूंढने में असमर्थ था।"
+  },
+  {
+    "id": 29,
+    "sentence": "She could speak French fluently.",
+    "translation": "वह धाराप्रवाह फ्रेंच बोल सकती थी।",
+    "meaning": "उस समय उसमें आसानी से फ्रेंच में बात करने की क्षमता थी।"
+  },
+  {
+    "id": 30,
+    "sentence": "He couldn't understand the instructions.",
+    "translation": "वह निर्देशों को समझ नहीं सका।",
+    "meaning": "वह दिए गए दिशा-निर्देशों का अर्थ समझने में असमर्थ था।"
+  },
+  {
+    "id": 31,
+    "sentence": "I could help you yesterday.",
+    "translation": "मैं कल आपकी मदद कर सकता था।",
+    "meaning": "मेरे पास कल आपकी सहायता करने का समय और क्षमता थी।"
+  },
+  {
+    "id": 32,
+    "sentence": "We couldn't ignore the warning.",
+    "translation": "हम चेतावनी को नजरअंदाज नहीं कर सके।",
+    "meaning": "हम सुरक्षा चेतावनी को नजरअंदाज करने में असमर्थ थे।"
+  },
+  {
+    "id": 33,
+    "sentence": "They could win the game.",
+    "translation": "वे खेल जीत सकते थे।",
+    "meaning": "उस समय उनके पास मैच जीतने की मजबूत संभावना थी।"
+  },
+  {
+    "id": 34,
+    "sentence": "You couldn't enter the building.",
+    "translation": "आप इमारत के अंदर प्रवेश नहीं कर सके।",
+    "meaning": "कल आपको इमारत के अंदर जाने की अनुमति या क्षमता नहीं थी।"
+  },
+  {
+    "id": 35,
+    "sentence": "She could cook very well.",
+    "translation": "वह बहुत अच्छा खाना बना सकती थी।",
+    "meaning": "उस अवधि के दौरान उसमें बहुत अच्छा खाना बनाने का कौशल था।"
+  },
+  {
+    "id": 36,
+    "sentence": "He couldn't lift the box.",
+    "translation": "वह डिब्बे को नहीं उठा सका।",
+    "meaning": "उस समय उसमें उस भारी डिब्बे को उठाने की ताकत नहीं थी।"
+  },
+  {
+    "id": 37,
+    "sentence": "I could see the stars clearly.",
+    "translation": "मुझे तारे साफ दिखाई दे रहे थे।",
+    "meaning": "कल रात साफ आसमान में तारे पूरी तरह दिखाई दे रहे थे।"
+  },
+  {
+    "id": 38,
+    "sentence": "We couldn't trust him.",
+    "translation": "हम उस पर भरोसा नहीं कर सके।",
+    "meaning": "हम अतीत में उस पर अपना विश्वास नहीं रख सके।"
+  },
+  {
+    "id": 39,
+    "sentence": "They could solve the problem.",
+    "translation": "वे समस्या को हल कर सकते थे/सके।",
+    "meaning": "जब समस्या आई, तब उनके पास उसे हल करने की क्षमता थी।"
+  },
+  {
+    "id": 40,
+    "sentence": "You couldn't leave early.",
+    "translation": "आप जल्दी नहीं निकल सके।",
+    "meaning": "कल आपके पास जल्दी निकलने की अनुमति या क्षमता नहीं थी।"
+  }
+]

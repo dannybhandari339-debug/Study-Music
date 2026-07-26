@@ -1,0 +1,800 @@
+[
+  {
+    "key": "in",
+    "title": "In (में / अंदर)",
+    "description": "महीनों, वर्षों और शताब्दियों जैसी लंबी समयावधियों तथा किसी बंद जगह के लिए",
+    "example": "मैं जुलाई में पैदा हुआ था।",
+    "longDescription": "महीनों, वर्षों और शताब्दियों जैसे लंबे समय के लिए \"In\" का उपयोग करें। (उदाहरण: \"I was born in July.\") इसका उपयोग किसी भौतिक स्थान के अंदर होने के लिए भी किया जाता है।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "I was born in July.",
+        "translation": "मैं जुलाई में पैदा हुआ था।",
+        "meaning": "जन्म का महीना जुलाई है (लंबी समयावधि)।"
+      },
+      {
+        "id": 2,
+        "sentence": "We will travel in the summer.",
+        "translation": "हम गर्मियों में यात्रा करेंगे।",
+        "meaning": "यात्रा गर्मियों के मौसम में होगी।"
+      },
+      {
+        "id": 3,
+        "sentence": "The company was founded in 2010.",
+        "translation": "कंपनी की स्थापना 2010 में हुई थी।",
+        "meaning": "कंपनी की स्थापना का वर्ष 2010 है।"
+      },
+      {
+        "id": 4,
+        "sentence": "Humans walked on the moon in the twentieth century.",
+        "translation": "मनुष्य बीसवीं सदी में चंद्रमा पर चला था।",
+        "meaning": "यह घटना उस विशिष्ट शताब्दी के दौरान हुई थी।"
+      },
+      {
+        "id": 5,
+        "sentence": "The keys are in the drawer.",
+        "translation": "चाबियां दराज में हैं।",
+        "meaning": "चाबियां दराज के अंदर रखी हुई हैं।"
+      },
+      {
+        "id": 6,
+        "sentence": "She is reading a book in her room.",
+        "translation": "वह अपने कमरे में किताब पढ़ रही है।",
+        "meaning": "वह अपने बेडरूम के अंदर किताब पढ़ रही है।"
+      },
+      {
+        "id": 7,
+        "sentence": "There is fresh milk in the bottle.",
+        "translation": "बोतल में ताजा दूध है।",
+        "meaning": "दूध बोतल के अंदर मौजूद है।"
+      },
+      {
+        "id": 8,
+        "sentence": "He found a coin in his pocket.",
+        "translation": "उसे अपनी जेब में एक सिक्का मिला।",
+        "meaning": "सिक्का उसकी जेब के अंदर था।"
+      }
+    ]
+  },
+  {
+    "key": "on",
+    "title": "On (पर / को)",
+    "description": "विशेष दिनों, तारीखों तथा किसी सतह पर स्थित होने के लिए",
+    "example": "हम सोमवार को मिले थे।",
+    "longDescription": "विशेष दिनों और तारीखों के लिए \"On\" का उपयोग करें। (उदाहरण: \"We met on Monday.\") इसका उपयोग किसी सतह पर रखी वस्तु के संदर्भ में भी होता है।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "We met on Monday.",
+        "translation": "हम सोमवार को मिले थे।",
+        "meaning": "मुलाकात उस विशेष दिन हुई थी।"
+      },
+      {
+        "id": 2,
+        "sentence": "The school starts on September 1st.",
+        "translation": "स्कूल 1 सितंबर को शुरू होता है।",
+        "meaning": "शुरुआत की तारीख साल की एक खास तारीख है।"
+      },
+      {
+        "id": 3,
+        "sentence": "I will visit you on Christmas Day.",
+        "translation": "मैं क्रिसमस के दिन आपसे मिलने आऊंगा।",
+        "meaning": "मुलाकात क्रिसमस के खास त्यौहार वाले दिन होगी।"
+      },
+      {
+        "id": 4,
+        "sentence": "The package will arrive on Tuesday.",
+        "translation": "पैकेज मंगलवार को पहुंचेगा।",
+        "meaning": "डिलीवरी मंगलवार के दिन निर्धारित है।"
+      },
+      {
+        "id": 5,
+        "sentence": "The book is on the table.",
+        "translation": "किताब मेज पर रखी है।",
+        "meaning": "किताब मेज की सतह पर टिकी हुई है।"
+      },
+      {
+        "id": 6,
+        "sentence": "There is a beautiful clock on the wall.",
+        "translation": "दीवार पर एक सुंदर घड़ी है।",
+        "meaning": "घड़ी दीवार की सतह पर लगी हुई है।"
+      },
+      {
+        "id": 7,
+        "sentence": "He left his phone on the bed.",
+        "translation": "उसने अपना फोन बिस्तर पर छोड़ दिया।",
+        "meaning": "फोन बिस्तर की सतह के ऊपर रखा है।"
+      },
+      {
+        "id": 8,
+        "sentence": "Please write your name on the paper.",
+        "translation": "कृपया कागज पर अपना नाम लिखें।",
+        "meaning": "कागज की सतह पर अपना नाम दर्ज करें।"
+      }
+    ]
+  },
+  {
+    "key": "at",
+    "title": "At (पर / बजे)",
+    "description": "सटीक समय और निश्चित बिंदुओं/स्थानों के लिए",
+    "example": "ट्रेन शाम 5 बजे आती है।",
+    "longDescription": "सटीक समय और निश्चित बिंदुओं के लिए \"At\" का उपयोग करें। (उदाहरण: \"The train arrives at 5 PM.\") इसका उपयोग किसी निश्चित स्थान या लैंडमार्क के लिए भी होता है।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "The train arrives at 5 PM.",
+        "translation": "ट्रेन शाम 5 बजे आती है।",
+        "meaning": "आगमन दिन के एक विशिष्ट समय पर है।"
+      },
+      {
+        "id": 2,
+        "sentence": "The class starts at nine o'clock.",
+        "translation": "कक्षा 9 बजे शुरू होती है।",
+        "meaning": "कक्षा ठीक उसी घंटे शुरू होती है।"
+      },
+      {
+        "id": 3,
+        "sentence": "We eat lunch at noon.",
+        "translation": "हम दोपहर में दोपहर का भोजन करते हैं।",
+        "meaning": "हम दिन के उसी सटीक बिंदु पर खाना खाते हैं।"
+      },
+      {
+        "id": 4,
+        "sentence": "He sleeps early at night.",
+        "translation": "वह रात में जल्दी सो जाता है।",
+        "meaning": "सोने का कार्य रात के समय होता है।"
+      },
+      {
+        "id": 5,
+        "sentence": "He is at the door.",
+        "translation": "वह दरवाजे पर खड़ा है।",
+        "meaning": "वह दरवाजे के पास एक निश्चित स्थान पर खड़ा है।"
+      },
+      {
+        "id": 6,
+        "sentence": "We met at the bus stop.",
+        "translation": "हम बस स्टॉप पर मिले थे।",
+        "meaning": "हमारी मुलाकात का स्थान बस स्टैंड का विशिष्ट बिंदु था।"
+      },
+      {
+        "id": 7,
+        "sentence": "She is standing at the reception desk.",
+        "translation": "वह रिसीप्शन डेस्क पर खड़ी है।",
+        "meaning": "वह रिसीप्शन के निश्चित स्थान पर मौजूद है।"
+      },
+      {
+        "id": 8,
+        "sentence": "The train stopped at the station.",
+        "translation": "ट्रेन स्टेशन पर रुकी।",
+        "meaning": "ट्रेन उस विशेष स्थान पर रुकी।"
+      }
+    ]
+  },
+  {
+    "key": "for",
+    "title": "For (से / अवधि के लिए)",
+    "description": "समय की अवधि या समयावधि की लंबाई बताने के लिए",
+    "example": "मैं यहाँ 3 साल से रह रहा हूँ।",
+    "longDescription": "समय की अवधि बताने के लिए \"For\" का उपयोग करें। (उदाहरण: \"I have lived here for 3 years.\") यह बताता है कि कोई क्रिया कितने समय से चल रही है।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "I have lived here for 3 years.",
+        "translation": "मैं यहाँ 3 साल से रह रहा हूँ।",
+        "meaning": "यहाँ रहने की कुल समयावधि 3 वर्ष है।"
+      },
+      {
+        "id": 2,
+        "sentence": "We walked for two hours in the park.",
+        "translation": "हम पार्क में दो घंटे तक टहले।",
+        "meaning": "टहलने की क्रिया दो घंटे की अवधि तक चली।"
+      },
+      {
+        "id": 3,
+        "sentence": "He waited for thirty minutes yesterday.",
+        "translation": "उसने कल तीस मिनट तक इंतजार किया।",
+        "meaning": "इंतजार करने की अवधि तीस मिनट थी।"
+      },
+      {
+        "id": 4,
+        "sentence": "They will stay in the city for a week.",
+        "translation": "वे एक सप्ताह के लिए शहर में रहेंगे।",
+        "meaning": "उनके रहने की समयावधि एक सप्ताह होगी।"
+      },
+      {
+        "id": 5,
+        "sentence": "She has been sleeping for ten hours.",
+        "translation": "वह दस घंटे से सो रही है।",
+        "meaning": "सोने की अवधि दस घंटे तक पहुँच गई है।"
+      },
+      {
+        "id": 6,
+        "sentence": "I am going away for a few days.",
+        "translation": "मैं कुछ दिनों के लिए बाहर जा रहा हूँ।",
+        "meaning": "बाहर रहने की अवधि कुछ दिनों की है।"
+      },
+      {
+        "id": 7,
+        "sentence": "The phone rang for a long time.",
+        "translation": "फोन काफी देर तक बजता रहा।",
+        "meaning": "घंटी लंबे समय तक बजती रही।"
+      },
+      {
+        "id": 8,
+        "sentence": "We stood in line for an hour.",
+        "translation": "हम एक घंटे तक कतार में खड़े रहे।",
+        "meaning": "लाइन में खड़े रहने की अवधि एक घंटा थी।"
+      }
+    ]
+  },
+  {
+    "key": "since",
+    "title": "Since (से / शुरुआती बिंदु)",
+    "description": "किसी कार्य के शुरू होने का निश्चित बिंदु/समय",
+    "example": "मैं सुबह से पढ़ाई कर रहा हूँ।",
+    "longDescription": "किसी कार्य के शुरुआती समय का संदर्भ देने के लिए \"Since\" का उपयोग करें। (उदाहरण: \"I have been studying since morning.\")",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "I have been studying since morning.",
+        "translation": "मैं सुबह से पढ़ाई कर रहा हूँ।",
+        "meaning": "पढ़ाई का शुरुआती समय सुबह है।"
+      },
+      {
+        "id": 2,
+        "sentence": "She has been working here since 2018.",
+        "translation": "वह 2018 से यहाँ काम कर रही है।",
+        "meaning": "उसके काम की शुरुआत का साल 2018 है।"
+      },
+      {
+        "id": 3,
+        "sentence": "They have been married since October.",
+        "translation": "उनकी शादी अक्टूबर से हुई है।",
+        "meaning": "शादी अक्टूबर में हुई थी, वही शुरुआती समय है।"
+      },
+      {
+        "id": 4,
+        "sentence": "We haven't seen them since last week.",
+        "translation": "हमने उन्हें पिछले हफ्ते से नहीं देखा है।",
+        "meaning": "संपर्क का आखिरी समय पिछला हफ्ता था।"
+      },
+      {
+        "id": 5,
+        "sentence": "He has been clean since the accident.",
+        "translation": "हादसे के बाद से वह ठीक है।",
+        "meaning": "इस अवस्था की शुरुआत हादसे के बाद से हुई।"
+      },
+      {
+        "id": 6,
+        "sentence": "It has been raining since yesterday.",
+        "translation": "कल से बारिश हो रही है।",
+        "meaning": "बारिश कल से शुरू हुई और जारी है।"
+      },
+      {
+        "id": 7,
+        "sentence": "I have known him since childhood.",
+        "translation": "मैं उसे बचपन से जानता हूँ।",
+        "meaning": "उसे जानने की शुरुआत बचपन से हुई थी।"
+      },
+      {
+        "id": 8,
+        "sentence": "They have been practicing since 5 PM.",
+        "translation": "वे शाम 5 बजे से अभ्यास कर रहे हैं।",
+        "meaning": "अभ्यास शुरू होने का समय शाम 5 बजे था।"
+      }
+    ]
+  },
+  {
+    "key": "before",
+    "title": "Before (से पहले)",
+    "description": "किसी घटना या समय से पहले होने वाली क्रियाएं",
+    "example": "सोने जाने से पहले अपने दांत साफ करें।",
+    "longDescription": "किसी अन्य घटना से पहले होने वाली क्रियाओं को बताने के लिए \"Before\" का उपयोग करें।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "Always wash your hands before eating.",
+        "translation": "खाने से पहले हमेशा हाथ धोएं।",
+        "meaning": "हाथ धोना खाने से पहले होना चाहिए।"
+      },
+      {
+        "id": 2,
+        "sentence": "He finished his homework before dinner.",
+        "translation": "उसने रात के खाने से पहले अपना गृहकार्य पूरा कर लिया।",
+        "meaning": "गृहकार्य रात के खाने से पहले पूरा हुआ था।"
+      },
+      {
+        "id": 3,
+        "sentence": "Check your emails before you leave.",
+        "translation": "जाने से पहले अपने ईमेल जांचें।",
+        "meaning": "ईमेल जांचना निकलने से पहले होना चाहिए।"
+      },
+      {
+        "id": 4,
+        "sentence": "The birds sing before the sun rises.",
+        "translation": "सूरज उगने से पहले पक्षी गाते हैं।",
+        "meaning": "पक्षियों का गाना सूर्योदय से पहले होता है।"
+      },
+      {
+        "id": 5,
+        "sentence": "Read the instructions before starting.",
+        "translation": "शुरू करने से पहले निर्देश पढ़ें।",
+        "meaning": "निर्देश पढ़ना काम शुरू करने से पहले होना चाहिए।"
+      },
+      {
+        "id": 6,
+        "sentence": "I like to stretch before running.",
+        "translation": "मुझे दौड़ने से पहले स्ट्रेचिंग करना पसंद है।",
+        "meaning": "स्ट्रेचिंग दौड़ने से पहले होती है।"
+      },
+      {
+        "id": 7,
+        "sentence": "Prepare everything before the guests arrive.",
+        "translation": "मेहमानों के आने से पहले सब कुछ तैयार कर लें।",
+        "meaning": "तैयारी मेहमानों के आने से पहले पूरी होनी चाहिए।"
+      },
+      {
+        "id": 8,
+        "sentence": "The sky gets dark before it rains.",
+        "translation": "बारिश होने से पहले आसमान में अंधेरा छा जाता है।",
+        "meaning": "आसमान का काला होना बारिश से पहले होता है।"
+      }
+    ]
+  },
+  {
+    "key": "after",
+    "title": "After (के बाद)",
+    "description": "किसी घटना के बाद में होने वाली क्रियाएं",
+    "example": "हम रात के खाने के बाद टहलने गए।",
+    "longDescription": "किसी अन्य घटना के बाद होने वाली क्रियाओं को बताने के लिए \"After\" का उपयोग करें।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "I take a shower after exercising.",
+        "translation": "मैं व्यायाम के बाद स्नान करता हूँ।",
+        "meaning": "स्नान व्यायाम के बाद होता है।"
+      },
+      {
+        "id": 2,
+        "sentence": "She called me after arriving at the office.",
+        "translation": "कार्यालय पहुँचने के बाद उसने मुझे फ़ोन किया।",
+        "meaning": "कॉल पहुँचने की क्रिया के बाद हुआ था।"
+      },
+      {
+        "id": 3,
+        "sentence": "We will have dessert after the main course.",
+        "translation": "हम मुख्य भोजन के बाद मिठाई खाएंगे।",
+        "meaning": "मिठाई मुख्य भोजन के बाद खाई जाएगी।"
+      },
+      {
+        "id": 4,
+        "sentence": "The crops grow after the rain stops.",
+        "translation": "बारिश रुकने के बाद फसलें बढ़ती हैं।",
+        "meaning": "फसलों का विकास बारिश रुकने के बाद होता है।"
+      },
+      {
+        "id": 5,
+        "sentence": "He cleaned the kitchen after cooking.",
+        "translation": "उसने खाना बनाने के बाद रसोई साफ की।",
+        "meaning": "सफाई खाना पकाने के बाद हुई थी।"
+      },
+      {
+        "id": 6,
+        "sentence": "They relaxed after finishing the project.",
+        "translation": "प्रोजेक्ट पूरा करने के बाद उन्होंने आराम किया।",
+        "meaning": "आराम प्रोजेक्ट के खत्म होने के बाद हुआ।"
+      },
+      {
+        "id": 7,
+        "sentence": "The sun shines bright after the storm.",
+        "translation": "तूफान के बाद सूरज तेज चमकता है।",
+        "meaning": "चमकना तूफान के शांत होने के बाद होता है।"
+      },
+      {
+        "id": 8,
+        "sentence": "We lock the doors after going inside.",
+        "translation": "हम अंदर जाने के बाद दरवाजे बंद कर देते हैं।",
+        "meaning": "ताला लगाना अंदर प्रवेश करने के बाद होता है।"
+      }
+    ]
+  },
+  {
+    "key": "during",
+    "title": "During (के दौरान)",
+    "description": "किसी घटना या समयावधि के बीच में",
+    "example": "वह फिल्म के दौरान सो गया।",
+    "longDescription": "किसी घटना या अवधि के दौरान होने वाले कार्यों के लिए \"During\" का उपयोग करें।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "Please keep quiet during the presentation.",
+        "translation": "कृपया प्रेजेंटेशन के दौरान शांत रहें।",
+        "meaning": "शांत रहना प्रेजेंटेशन के पूरे समय में आवश्यक है।"
+      },
+      {
+        "id": 2,
+        "sentence": "It rained heavily during the night.",
+        "translation": "रात के दौरान भारी बारिश हुई।",
+        "meaning": "बारिश रात की अवधि के बीच में हुई।"
+      },
+      {
+        "id": 3,
+        "sentence": "We stayed indoors during the storm.",
+        "translation": "हम तूफान के दौरान घर के अंदर ही रहे।",
+        "meaning": "घर में रहना तूफान के पूरे समय चला।"
+      },
+      {
+        "id": 4,
+        "sentence": "She took notes during the lecture.",
+        "translation": "उसने व्याख्यान के दौरान नोट्स बनाए।",
+        "meaning": "नोट्स बनाना लेक्चर के समय के बीच में हुआ।"
+      },
+      {
+        "id": 5,
+        "sentence": "The baby slept soundly during the flight.",
+        "translation": "उड़ान के दौरान बच्चा आराम से सोता रहा।",
+        "meaning": "सोना फ्लाइट के सफर के बीच में हुआ।"
+      },
+      {
+        "id": 6,
+        "sentence": "Do not use your phone during the exam.",
+        "translation": "परीक्षा के दौरान अपने फोन का उपयोग न करें।",
+        "meaning": "फोन का इस्तेमाल परीक्षा के समय में वर्जित है।"
+      },
+      {
+        "id": 7,
+        "sentence": "They met many people during their vacation.",
+        "translation": "वे अपनी छुट्टियों के दौरान कई लोगों से मिले।",
+        "meaning": "लोगों से मिलना छुट्टियों की अवधि के बीच हुआ।"
+      },
+      {
+        "id": 8,
+        "sentence": "Birds migration happens during autumn.",
+        "translation": "पक्षियों का प्रवास शरद ऋतु के दौरान होता है।",
+        "meaning": "प्रवास शरद ऋतु के मौसम के बीच में होता है।"
+      }
+    ]
+  },
+  {
+    "key": "while",
+    "title": "While (के दौरान / जब)",
+    "description": "दो क्रियाओं का एक साथ होना",
+    "example": "पढ़ाई करते समय उसने संगीत सुना।",
+    "longDescription": "दो लगातार होने वाले कार्यों के एक साथ घटने को दर्शाने के लिए \"While\" का उपयोग करें।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "I cook dinner while my husband sets the table.",
+        "translation": "मैं रात का खाना बनाती हूँ जबकि मेरे पति मेज लगाते हैं।",
+        "meaning": "खाना बनाना और मेज लगाना एक साथ होता है।"
+      },
+      {
+        "id": 2,
+        "sentence": "They sang while walking home.",
+        "translation": "घर पैदल जाते समय उन्होंने गाना गाया।",
+        "meaning": "गाना और घर चलना एक ही समय पर हुआ।"
+      },
+      {
+        "id": 3,
+        "sentence": "Keep driving while I look at the map.",
+        "translation": "गाड़ी चलाते रहें जब तक मैं नक्शा देखता हूँ।",
+        "meaning": "ड्राइविंग और नक्शा देखना साथ-साथ होता है।"
+      },
+      {
+        "id": 4,
+        "sentence": "He called me while I was sleeping.",
+        "translation": "जब मैं सो रहा था तब उसने मुझे फ़ोन किया।",
+        "meaning": "कॉल उसी समय आया जब मैं सो रहा था।"
+      },
+      {
+        "id": 5,
+        "sentence": "The dog barked while we were eating.",
+        "translation": "जब हम खाना खा रहे थे तब कुत्ता भौंका।",
+        "meaning": "भौंकना हमारे खाने के साथ-साथ हुआ।"
+      },
+      {
+        "id": 6,
+        "sentence": "I read a book while waiting for the train.",
+        "translation": "ट्रेन का इंतजार करते समय मैंने एक किताब पढ़ी।",
+        "meaning": "पढ़ना और इंतजार करना एक साथ हुआ।"
+      },
+      {
+        "id": 7,
+        "sentence": "She was smiling while telling the story.",
+        "translation": "कहानी सुनाते समय वह मुस्कुरा रही थी।",
+        "meaning": "मुस्कुराना और कहानी बताना साथ-साथ हुआ।"
+      },
+      {
+        "id": 8,
+        "sentence": "The phone rang while he was taking a bath.",
+        "translation": "जब वह नहा रहा था तब फोन की घंटी बजी।",
+        "meaning": "फोन बजना और नहाना एक ही समय में हुआ।"
+      }
+    ]
+  },
+  {
+    "key": "until",
+    "title": "Until (तक)",
+    "description": "किसी कार्य के समाप्त होने का समय",
+    "example": "हमने बारिश रुकने तक इंतजार किया।",
+    "longDescription": "उस सटीक समय को बताने के लिए \"Until\" का उपयोग करें जब कोई क्रिया रुक जाती है।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "She will stay at home until Monday.",
+        "translation": "वह सोमवार तक घर पर ही रहेगी।",
+        "meaning": "उसका घर पर रुकना सोमवार को समाप्त होगा।"
+      },
+      {
+        "id": 2,
+        "sentence": "I read the book until I fell asleep.",
+        "translation": "मैंने सो जाने तक किताब पढ़ी।",
+        "meaning": "पढ़ना सो जाने के पल पर समाप्त हुआ।"
+      },
+      {
+        "id": 3,
+        "sentence": "The shop is open until 10 PM.",
+        "translation": "दुकान रात 10 बजे तक खुली है।",
+        "meaning": "खुलने का समय रात 10 बजे खत्म होता है।"
+      },
+      {
+        "id": 4,
+        "sentence": "We played games until the lights went out.",
+        "translation": "हमने बत्ती गुल होने तक खेल खेले।",
+        "meaning": "खेलना बिजली जाने के पल रुक गया।"
+      },
+      {
+        "id": 5,
+        "sentence": "Keep stirring until the sauce thickens.",
+        "translation": "चटणी/सॉस गाढ़ा होने तक चलाते रहें।",
+        "meaning": "चलाना गाढ़ा होने के समय रुक जाएगा।"
+      },
+      {
+        "id": 6,
+        "sentence": "He slept until the sun came up.",
+        "translation": "वह सूरज उगने तक सोता रहा।",
+        "meaning": "सोना सूर्योदय के समय समाप्त हुआ।"
+      },
+      {
+        "id": 7,
+        "sentence": "Don't open the door until I tell you.",
+        "translation": "जब तक मैं न कहूं तब तक दरवाजा न खोलें।",
+        "meaning": "दरवाजा बंद रहना आदेश तक जारी रहेगा।"
+      },
+      {
+        "id": 8,
+        "sentence": "We walked until we reached the river.",
+        "translation": "हम तब तक चले जब तक हम नदी तक नहीं पहुँच गए।",
+        "meaning": "चलना नदी पर पहुँचने पर रुक गया।"
+      }
+    ]
+  },
+  {
+    "key": "when",
+    "title": "When (जब / जिस समय)",
+    "description": "किसी विशेष समय या पल का संदर्भ",
+    "example": "जब आप पहुंचें तो मुझे फोन करें।",
+    "longDescription": "घटनाओं को उनके समय या ट्रिगर पल से जोड़ने के लिए \"When\" का उपयोग करें।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "I was happy when I saw my friend.",
+        "translation": "जब मैंने अपने दोस्त को देखा तो मैं खुश था।",
+        "meaning": "खुशी दोस्त को देखने के क्षण हुई।"
+      },
+      {
+        "id": 2,
+        "sentence": "He turns off the lights when he leaves.",
+        "translation": "जब वह बाहर जाता है तो बत्तियाँ बंद कर देता है।",
+        "meaning": "लाइट बंद करना जाने के पल पर निर्भर है।"
+      },
+      {
+        "id": 3,
+        "sentence": "We go indoors when it gets cold.",
+        "translation": "जब ठंड होने लगती है तो हम अंदर चले जाते हैं।",
+        "meaning": "अंदर जाना ठंड होने के समय होता है।"
+      },
+      {
+        "id": 4,
+        "sentence": "She smiled when she heard the news.",
+        "translation": "जब उसने खबर सुनी तो वह मुस्कुराई।",
+        "meaning": "मुस्कुराहट खबर सुनने के समय आई।"
+      },
+      {
+        "id": 5,
+        "sentence": "The birds fly away when they are scared.",
+        "translation": "जब पक्षी डर जाते हैं तो वे उड़ जाते हैं।",
+        "meaning": "उड़ना डरने के समय होता है।"
+      },
+      {
+        "id": 6,
+        "sentence": "I will explain everything when we meet.",
+        "translation": "जब हम मिलेंगे तब मैं सब कुछ समझाऊंगा।",
+        "meaning": "समझाना मिलने के पल होगा।"
+      },
+      {
+        "id": 7,
+        "sentence": "He was five when he learned to swim.",
+        "translation": "जब वह तैरना सीखा तब वह पांच साल का था।",
+        "meaning": "तैरना सीखना पांच साल की उम्र में हुआ।"
+      },
+      {
+        "id": 8,
+        "sentence": "The game starts when the whistle blows.",
+        "translation": "जब सीटी बजती है तो खेल शुरू होता है।",
+        "meaning": "खेल शुरू होना सीटी बजने के क्षण होता है।"
+      }
+    ]
+  },
+  {
+    "key": "as",
+    "title": "As (जैसे / जब)",
+    "description": "दो घटनाओं का एक साथ घटित होना",
+    "example": "अलविदा कहते हुए वह मुस्कुराया।",
+    "longDescription": "एक साथ होने वाली समकालिक क्रियाओं को दर्शाने के लिए \"As\" का उपयोग करें।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "She slipped as she got off the bus.",
+        "translation": "जैसे ही वह बस से उतरी, उसका पैर फिसल गया।",
+        "meaning": "फिसलना और उतरना एक साथ हुआ।"
+      },
+      {
+        "id": 2,
+        "sentence": "I saw him as I was leaving.",
+        "translation": "जब मैं निकल रहा था तब मैंने उसे देखा।",
+        "meaning": "देखना और निकलना एक साथ हुआ।"
+      },
+      {
+        "id": 3,
+        "sentence": "As the sun set, the stars appeared.",
+        "translation": "जैसे ही सूरज ढला, तारे निकल आए।",
+        "meaning": "तारों का आना सूर्य अस्त होने के साथ हुआ।"
+      },
+      {
+        "id": 4,
+        "sentence": "They sang as they walked along.",
+        "translation": "वे चलते-चलते गाना गाते रहे।",
+        "meaning": "गाना और चलना साथ-साथ हुआ।"
+      },
+      {
+        "id": 5,
+        "sentence": "He grew wiser as he became older.",
+        "translation": "जैसे-जैसे वह बड़ा हुआ, वह और अधिक समझदार होता गया।",
+        "meaning": "समझदार होना और उम्र बढ़ना साथ-साथ चला।"
+      },
+      {
+        "id": 6,
+        "sentence": "She arrived just as we were starting.",
+        "translation": "वह ठीक उसी समय पहुँची जब हम शुरू कर रहे थे।",
+        "meaning": "पहुँचना और शुरू करना एक ही क्षण में हुआ।"
+      },
+      {
+        "id": 7,
+        "sentence": "My heart raced as I opened the envelope.",
+        "translation": "जैसे ही मैंने लिफाफा खोला, मेरा दिल तेजी से धड़कने लगा।",
+        "meaning": "दिल धड़कना और लिफाफा खोलना साथ हुआ।"
+      },
+      {
+        "id": 8,
+        "sentence": "We watched as the balloon soared up.",
+        "translation": "गुब्बारा ऊपर उड़ते ही हमने देखा।",
+        "meaning": "देखना और उड़ना एक साथ हुआ।"
+      }
+    ]
+  },
+  {
+    "key": "over",
+    "title": "Over (के ऊपर / ढके हुए)",
+    "description": "किसी वस्तु के ठीक ऊपर या उसे ढकते हुए",
+    "example": "विमान शहर के ऊपर उड़ रहा है।",
+    "longDescription": "जब कोई वस्तु किसी अन्य वस्तु के ठीक ऊपर (आर-पार) हो या उसे ढक रही हो तो \"Over\" का उपयोग करें।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "The plane is flying over the city.",
+        "translation": "विमान शहर के ऊपर उड़ रहा है।",
+        "meaning": "विमान शहर के ठीक ऊपर से गुजर रहा है।"
+      },
+      {
+        "id": 2,
+        "sentence": "She hung a warm blanket over the sleeping child.",
+        "translation": "उसने सोते हुए बच्चे पर गर्म कंबल उड़ा दिया।",
+        "meaning": "कंबल बच्चे को पूरी तरह ढक रहा है।"
+      },
+      {
+        "id": 3,
+        "sentence": "The dog jumped over the wooden fence.",
+        "translation": "कुत्ता लकड़ी की बाड़ के ऊपर से कूद गया।",
+        "meaning": "कुत्ता बाड़ के एक तरफ से दूसरी तरफ कूद गया।"
+      },
+      {
+        "id": 4,
+        "sentence": "He held an umbrella over her head.",
+        "translation": "उसने उसके सिर पर छाता पकड़ रखा था।",
+        "meaning": "छाता उसके सिर को ढकने के लिए ऊपर रखा गया है।"
+      },
+      {
+        "id": 5,
+        "sentence": "A beautiful bridge extends over the wide river.",
+        "translation": "चौड़ी नदी के ऊपर एक सुंदर पुल बना है।",
+        "meaning": "पुल नदी के आर-पार फैला है।"
+      },
+      {
+        "id": 6,
+        "sentence": "The clouds are hovering over the mountain.",
+        "translation": "पहाड़ के ऊपर बादल मंडरा रहे हैं।",
+        "meaning": "बादल पहाड़ की चोटी के ठीक ऊपर हैं।"
+      },
+      {
+        "id": 7,
+        "sentence": "He poured syrup over his pancakes.",
+        "translation": "उसने पैनकेक के ऊपर सीरप डाला।",
+        "meaning": "सीरप पैनकेक की सतह को ढक रहा है।"
+      },
+      {
+        "id": 8,
+        "sentence": "The sign hung over the shop door.",
+        "translation": "दुकान के दरवाजे के ऊपर साइनबोर्ड टंगा था।",
+        "meaning": "साइनबोर्ड दरवाजे के ठीक ऊपर लगा है।"
+      }
+    ]
+  },
+  {
+    "key": "above",
+    "title": "Above (के ऊपर - स्पर्श किए बिना)",
+    "description": "किसी वस्तु से ऊंची स्थिति में होना (बिना छुए)",
+    "example": "तस्वीर चूल्हे (अंगीठी) के ऊपर लटकी हुई है।",
+    "longDescription": "जब कोई वस्तु किसी दूसरी वस्तु से ऊपर हो लेकिन उसे छू या ढक न रही हो तो \"Above\" का उपयोग करें।",
+    "sentences": [
+      {
+        "id": 1,
+        "sentence": "The picture hangs above the fireplace.",
+        "translation": "तस्वीर अंगीठी के ऊपर लटकी हुई है।",
+        "meaning": "तस्वीर अंगीठी से ऊंची जगह पर है, बिना छुए।"
+      },
+      {
+        "id": 2,
+        "sentence": "The sun rose above the mountain tops.",
+        "translation": "सूरज पहाड़ों की चोटियों से ऊपर उठ गया।",
+        "meaning": "सूरज की स्थिति पहाड़ की चोटियों से ऊंची है।"
+      },
+      {
+        "id": 3,
+        "sentence": "The shelf is placed above the study desk.",
+        "translation": "शेल्फ स्टडी डेस्क के ऊपर लगा हुआ है।",
+        "meaning": "शेल्फ डेस्क से ऊंचा लगा है, बीच में जगह है।"
+      },
+      {
+        "id": 4,
+        "sentence": "Her apartment is directly above mine.",
+        "translation": "उसका अपार्टमेंट मेरे ठीक ऊपर है।",
+        "meaning": "उसका फ्लैट मेरे फ्लैट से ऊपर वाली मंजिल पर है।"
+      },
+      {
+        "id": 5,
+        "sentence": "Keep your head above the water.",
+        "translation": "अपना सिर पानी से ऊपर रखें।",
+        "meaning": "अपने सिर को पानी के स्तर से ऊपर रखें।"
+      },
+      {
+        "id": 6,
+        "sentence": "The stars shone brightly above us.",
+        "translation": "तारे हमारे ऊपर तेजी से चमक रहे थे।",
+        "meaning": "तारे हमारे सिर के ऊपर आकाश में बहुत ऊँचे हैं।"
+      },
+      {
+        "id": 7,
+        "sentence": "The bird hovered above the tree.",
+        "translation": "पक्षी पेड़ के ऊपर मँडरा रहा था।",
+        "meaning": "पक्षी पेड़ की टहनियों से ऊपर हवा में था।"
+      },
+      {
+        "id": 8,
+        "sentence": "We are flying high above the thick clouds.",
+        "translation": "हम घने बादलों से बहुत ऊपर उड़ रहे हैं।",
+        "meaning": "हमारी स्थिति नीचे मौजूद बादलों से ऊँची है।"
+      }
+    ]
+  }
+]

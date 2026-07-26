@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "sentence": "I wake up early.",
+    "translation": "मैं सुबह जल्दी उठता/उठती हूँ।",
+    "meaning": "सुबह बिस्तर से जल्दी उठना।"
+  },
+  {
+    "id": 2,
+    "sentence": "She does not like coffee.",
+    "translation": "उसे कॉफी पसंद नहीं है।",
+    "meaning": "वह कॉफी नापसंद करती है।"
+  },
+  {
+    "id": 3,
+    "sentence": "They play cricket every Sunday.",
+    "translation": "वे हर रविवार को क्रिकेट खेलते हैं।",
+    "meaning": "वे रविवार के दिन खेल खेलते हैं।"
+  },
+  {
+    "id": 4,
+    "sentence": "He does not watch TV daily.",
+    "translation": "वह रोज टीवी नहीं देखता है।",
+    "meaning": "वह हर दिन टेलीविजन नहीं देखता।"
+  },
+  {
+    "id": 5,
+    "sentence": "We study English.",
+    "translation": "हम अंग्रेजी सीखते हैं।",
+    "meaning": "हम अंग्रेजी भाषा सीखते हैं।"
+  },
+  {
+    "id": 6,
+    "sentence": "I do not eat junk food.",
+    "translation": "मैं जंक फूड नहीं खाता हूँ।",
+    "meaning": "मैं अस्वास्थ्यकर भोजन से परहेज करता हूँ।"
+  },
+  {
+    "id": 7,
+    "sentence": "She writes neatly.",
+    "translation": "वह साफ-सुथरा लिखती है।",
+    "meaning": "उसकी लिखावट बहुत साफ है।"
+  },
+  {
+    "id": 8,
+    "sentence": "He does not run fast.",
+    "translation": "वह तेज नहीं दौड़ता है।",
+    "meaning": "वह धीमी गति से चलता या दौड़ता है।"
+  },
+  {
+    "id": 9,
+    "sentence": "They live in Delhi.",
+    "translation": "वे दिल्ली में रहते हैं।",
+    "meaning": "उनका घर दिल्ली में है।"
+  },
+  {
+    "id": 10,
+    "sentence": "We do not go out at night.",
+    "translation": "हम रात को बाहर नहीं जाते हैं।",
+    "meaning": "हम अंधेरा होने के बाद घर के अंदर रहते हैं।"
+  },
+  {
+    "id": 11,
+    "sentence": "I like music.",
+    "translation": "मुझे संगीत पसंद है।",
+    "meaning": "मुझे गाने सुनना अच्छा लगता है।"
+  },
+  {
+    "id": 12,
+    "sentence": "She does not sing loudly.",
+    "translation": "वह जोर से नहीं गाती है।",
+    "meaning": "वह धीमी आवाज में गाती है।"
+  },
+  {
+    "id": 13,
+    "sentence": "He drinks milk every day.",
+    "translation": "वह हर दिन दूध पीता है।",
+    "meaning": "वह रोज दूध का सेवन करता है।"
+  },
+  {
+    "id": 14,
+    "sentence": "They do not waste time.",
+    "translation": "वे समय बर्बाद नहीं करते हैं।",
+    "meaning": "वे अपने समय का सही उपयोग करते हैं।"
+  },
+  {
+    "id": 15,
+    "sentence": "We learn new things.",
+    "translation": "हम नई चीजें सीखते हैं।",
+    "meaning": "हम नया ज्ञान प्राप्त करते हैं।"
+  },
+  {
+    "id": 16,
+    "sentence": "I do not forget my homework.",
+    "translation": "मैं अपना गृहकार्य नहीं भूलता हूँ।",
+    "meaning": "मुझे हमेशा स्कूल का काम याद रहता है।"
+  },
+  {
+    "id": 17,
+    "sentence": "She cooks food.",
+    "translation": "वह खाना बनाती है।",
+    "meaning": "वह भोजन तैयार करती है।"
+  },
+  {
+    "id": 18,
+    "sentence": "He does not play football.",
+    "translation": "वह फुटबॉल नहीं खेलता है।",
+    "meaning": "वह फुटबॉल खेल में भाग नहीं लेता।"
+  },
+  {
+    "id": 19,
+    "sentence": "They travel often.",
+    "translation": "वे अक्सर यात्रा करते हैं।",
+    "meaning": "वे बार-बार अलग-अलग जगहों पर जाते हैं।"
+  },
+  {
+    "id": 20,
+    "sentence": "We do not ignore rules.",
+    "translation": "हम नियमों की अनदेखी नहीं करते हैं।",
+    "meaning": "हम नियमों का पालन करते हैं।"
+  },
+  {
+    "id": 21,
+    "sentence": "I clean my room daily.",
+    "translation": "मैं रोज अपना कमरा साफ करता हूँ।",
+    "meaning": "मैं अपने कमरे को साफ-सुथरा रखता हूँ।"
+  },
+  {
+    "id": 22,
+    "sentence": "She does not write badly.",
+    "translation": "वह खराब नहीं लिखती है।",
+    "meaning": "उसका लेखन कौशल अच्छा है।"
+  },
+  {
+    "id": 23,
+    "sentence": "He studies at night.",
+    "translation": "वह रात में पढ़ाई करता है।",
+    "meaning": "वह देर रात अपना पढ़ाई का काम करता है।"
+  },
+  {
+    "id": 24,
+    "sentence": "They do not fight with friends.",
+    "translation": "वे दोस्तों के साथ झगड़ा नहीं करते हैं।",
+    "meaning": "वे मैत्रीपूर्ण संबंध बनाए रखते हैं।"
+  },
+  {
+    "id": 25,
+    "sentence": "We celebrate festivals.",
+    "translation": "हम त्योहार मनाते हैं।",
+    "meaning": "हम सांस्कृतिक आयोजनों का आनंद लेते हैं।"
+  },
+  {
+    "id": 26,
+    "sentence": "I do not drive fast.",
+    "translation": "मैं तेज गाड़ी नहीं चलाता हूँ।",
+    "meaning": "मैं सुरक्षित गति से गाड़ी चलाता हूँ।"
+  },
+  {
+    "id": 27,
+    "sentence": "She sings beautifully.",
+    "translation": "वह बहुत सुंदर गाती है।",
+    "meaning": "उसका गाना सुनना सुखद लगता है।"
+  },
+  {
+    "id": 28,
+    "sentence": "He does not drink tea.",
+    "translation": "वह चाय नहीं पीता है।",
+    "meaning": "वह गरम चाय से परहेज करता है।"
+  },
+  {
+    "id": 29,
+    "sentence": "They build houses.",
+    "translation": "वे मकान बनाते हैं।",
+    "meaning": "उनका काम घर निर्माण करना है।"
+  },
+  {
+    "id": 30,
+    "sentence": "We do not break promises.",
+    "translation": "हम वादे नहीं तोड़ते हैं।",
+    "meaning": "हम अपनी बात पर कायम रहते हैं।"
+  },
+  {
+    "id": 31,
+    "sentence": "I read books.",
+    "translation": "मैं किताबें पढ़ता हूँ।",
+    "meaning": "मैं पाठ्य सामग्री देखता और समझता हूँ।"
+  },
+  {
+    "id": 32,
+    "sentence": "She does not play tennis.",
+    "translation": "वह टेनिस नहीं खेलती है।",
+    "meaning": "वह टेनिस का खेल नहीं खेलती।"
+  },
+  {
+    "id": 33,
+    "sentence": "He drives carefully.",
+    "translation": "वह सावधानी से गाड़ी चलाता है।",
+    "meaning": "वह एक सुरक्षित चालक है।"
+  },
+  {
+    "id": 34,
+    "sentence": "They do not travel by train.",
+    "translation": "वे ट्रेन से यात्रा नहीं करते हैं।",
+    "meaning": "वे ट्रेन में सफर करने से बचते हैं।"
+  },
+  {
+    "id": 35,
+    "sentence": "We enjoy our time.",
+    "translation": "हम अपने समय का आनंद लेते हैं।",
+    "meaning": "हम मज़ा करते हैं।"
+  },
+  {
+    "id": 36,
+    "sentence": "I do not like noise.",
+    "translation": "मुझे शोर पसंद नहीं है।",
+    "meaning": "मुझे शांत वातावरण पसंद है।"
+  },
+  {
+    "id": 37,
+    "sentence": "She dances well.",
+    "translation": "वह अच्छा नृत्य करती है।",
+    "meaning": "वह नृत्य करने में माहिर है।"
+  },
+  {
+    "id": 38,
+    "sentence": "He does not study regularly.",
+    "translation": "वह नियमित रूप से पढ़ाई नहीं करता है।",
+    "meaning": "उसमें रोज पढ़ने की आदत की कमी है।"
+  },
+  {
+    "id": 39,
+    "sentence": "They help others.",
+    "translation": "वे दूसरों की मदद करते हैं।",
+    "meaning": "वे दयालु और सहयोगी हैं।"
+  },
+  {
+    "id": 40,
+    "sentence": "We do not argue much.",
+    "translation": "हम ज्यादा बहस नहीं करते हैं।",
+    "meaning": "हम शांतिपूर्ण बातचीत बनाए रखते हैं।"
+  },
+  {
+    "id": 41,
+    "sentence": "I drink water regularly.",
+    "translation": "मैं नियमित रूप से पानी पीता हूँ।",
+    "meaning": "मैं रोज शरीर को हाइड्रेटेड रखता हूँ।"
+  },
+  {
+    "id": 42,
+    "sentence": "She does not watch cartoons.",
+    "translation": "वह कार्टून नहीं देखती है।",
+    "meaning": "वह बच्चों के एनीमेशन शो नहीं देखती।"
+  },
+  {
+    "id": 43,
+    "sentence": "They play in the park.",
+    "translation": "वे पार्क में खेलते हैं।",
+    "meaning": "वे पार्क में मनोरंजन करते हैं।"
+  },
+  {
+    "id": 44,
+    "sentence": "He does not eat vegetables.",
+    "translation": "वह सब्जियां नहीं खाता है।",
+    "meaning": "उसे सब्जियां नापसंद हैं।"
+  },
+  {
+    "id": 45,
+    "sentence": "We visit our grandparents.",
+    "translation": "हम अपने दादा-दादी/नाना-नानी से मिलने जाते हैं।",
+    "meaning": "हम अपने बुजुर्ग परिजनों से मिलने जाते हैं।"
+  },
+  {
+    "id": 46,
+    "sentence": "I do not sleep late.",
+    "translation": "मैं देर से नहीं सोता हूँ।",
+    "meaning": "मैं जल्दी बिस्तर पर चला जाता हूँ।"
+  },
+  {
+    "id": 47,
+    "sentence": "She reads stories.",
+    "translation": "वह कहानियां पढ़ती है।",
+    "meaning": "वह कहानियों की किताबें पढ़ती है।"
+  },
+  {
+    "id": 48,
+    "sentence": "He does not help his brother.",
+    "translation": "वह अपने भाई की मदद नहीं करता है।",
+    "meaning": "वह अपने भाई की सहायता नहीं करता।"
+  },
+  {
+    "id": 49,
+    "sentence": "They enjoy music.",
+    "translation": "वे संगीत का आनंद लेते हैं।",
+    "meaning": "उन्हें गाने सुनना बहुत पसंद है।"
+  },
+  {
+    "id": 50,
+    "sentence": "We do not skip classes.",
+    "translation": "हम कक्षाएं नहीं छोड़ते हैं।",
+    "meaning": "हम नियमित रूप से स्कूल/कॉलेज जाते हैं।"
+  },
+  {
+    "id": 51,
+    "sentence": "I write letters.",
+    "translation": "मैं पत्र लिखता हूँ।",
+    "meaning": "मैं कागज पर संदेश लिखता हूँ।"
+  },
+  {
+    "id": 52,
+    "sentence": "She does not drive a car.",
+    "translation": "वह कार नहीं चलाती है।",
+    "meaning": "उसे कार चलाना नहीं आता है।"
+  },
+  {
+    "id": 53,
+    "sentence": "He teaches students.",
+    "translation": "वह छात्रों को पढ़ाता है।",
+    "meaning": "वह एक शिक्षक है।"
+  },
+  {
+    "id": 54,
+    "sentence": "They do not clean their room.",
+    "translation": "वे अपना कमरा साफ नहीं करते हैं।",
+    "meaning": "उनका कमरा गंदा रहता है।"
+  },
+  {
+    "id": 55,
+    "sentence": "We play games.",
+    "translation": "हम खेल खेलते हैं।",
+    "meaning": "हम मैदानी या घरेलू खेल खेलते हैं।"
+  },
+  {
+    "id": 56,
+    "sentence": "I do not tell lies.",
+    "translation": "मैं झूठ नहीं बोलता हूँ।",
+    "meaning": "मैं हमेशा सच बोलता हूँ।"
+  },
+  {
+    "id": 57,
+    "sentence": "She paints pictures.",
+    "translation": "वह चित्र बनाती है।",
+    "meaning": "वह रंगीन कलाकृतियां बनाती है।"
+  },
+  {
+    "id": 58,
+    "sentence": "He does not listen carefully.",
+    "translation": "वह ध्यान से नहीं सुनता है।",
+    "meaning": "वह बात पर पूरा ध्यान नहीं देता।"
+  }
+]

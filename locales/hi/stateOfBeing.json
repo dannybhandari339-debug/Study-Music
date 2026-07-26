@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "sentence": "She is happy.",
+    "translation": "वह खुश है।",
+    "meaning": "वह खुशी और संतोष महसूस करती है।"
+  },
+  {
+    "id": 2,
+    "sentence": "I am tired.",
+    "translation": "मैं थका हुआ हूँ।",
+    "meaning": "मुझे आराम या नींद की ज़रूरत है।"
+  },
+  {
+    "id": 3,
+    "sentence": "They were hungry.",
+    "translation": "वे भूखे थे।",
+    "meaning": "वे कुछ खाना चाहते थे।"
+  },
+  {
+    "id": 4,
+    "sentence": "The sky is blue.",
+    "translation": "आकाश नीला है।",
+    "meaning": "आकाश साफ और नीला दिखता है।"
+  },
+  {
+    "id": 5,
+    "sentence": "We are friends.",
+    "translation": "हम दोस्त हैं।",
+    "meaning": "हमारे बीच गहरा रिश्ता है।"
+  },
+  {
+    "id": 6,
+    "sentence": "He was tired.",
+    "translation": "वह थका हुआ था।",
+    "meaning": "अतीत में उसमें ऊर्जा की कमी थी।"
+  },
+  {
+    "id": 7,
+    "sentence": "You are kind.",
+    "translation": "आप दयालु हैं।",
+    "meaning": "आप एक मित्रवत और दयालु स्वभाव दिखाते हैं।"
+  },
+  {
+    "id": 8,
+    "sentence": "The dog was friendly.",
+    "translation": "कुत्ता दोस्ताना था।",
+    "meaning": "कुत्ते ने स्नेहपूर्ण व्यवहार दिखाया।"
+  },
+  {
+    "id": 9,
+    "sentence": "I am ready.",
+    "translation": "मैं तैयार हूँ।",
+    "meaning": "मैं अब पूरी तरह से तैयार हूँ।"
+  },
+  {
+    "id": 10,
+    "sentence": "The apples are fresh.",
+    "translation": "सेब ताज़े हैं।",
+    "meaning": "सेब नए तोड़े गए और ताज़े हैं।"
+  },
+  {
+    "id": 11,
+    "sentence": "It was cold yesterday.",
+    "translation": "कल ठंड थी।",
+    "meaning": "कल तापमान कम था।"
+  },
+  {
+    "id": 12,
+    "sentence": "The flowers are beautiful.",
+    "translation": "फूल सुंदर हैं।",
+    "meaning": "फूल बहुत प्यारे लगते हैं।"
+  },
+  {
+    "id": 13,
+    "sentence": "We were excited.",
+    "translation": "हम उत्साहित थे।",
+    "meaning": "हम बहुत उत्साहित महसूस कर रहे थे।"
+  },
+  {
+    "id": 14,
+    "sentence": "The baby is quiet.",
+    "translation": "बच्चा शांत है।",
+    "meaning": "शिशु शांत है और रो नहीं रहा है।"
+  },
+  {
+    "id": 15,
+    "sentence": "You were early.",
+    "translation": "आप समय से पहले आ गए थे।",
+    "meaning": "आप निर्धारित समय से पहले पहुँच गए।"
+  },
+  {
+    "id": 16,
+    "sentence": "The car is fast.",
+    "translation": "कार तेज़ है।",
+    "meaning": "वाहन तेज़ गति से चलता है।"
+  },
+  {
+    "id": 17,
+    "sentence": "They are helpful.",
+    "translation": "वे मददगार हैं।",
+    "meaning": "वे दूसरों की उदारता से मदद करते हैं।"
+  },
+  {
+    "id": 18,
+    "sentence": "The room was clean.",
+    "translation": "कमरा साफ था।",
+    "meaning": "कमरे में कोई गंदगी नहीं थी।"
+  },
+  {
+    "id": 19,
+    "sentence": "I am hungry.",
+    "translation": "मुझे भूख लगी है।",
+    "meaning": "मुझे भोजन करने की इच्छा महसूस हो रही है।"
+  },
+  {
+    "id": 20,
+    "sentence": "The boys were noisy.",
+    "translation": "लड़के शोर मचा रहे थे।",
+    "meaning": "लड़कों ने तेज़ आवाज़ें निकालीं।"
+  },
+  {
+    "id": 21,
+    "sentence": "The chair is broken.",
+    "translation": "कुर्सी टूटी हुई है।",
+    "meaning": "कुर्सी का उपयोग सुरक्षित रूप से नहीं किया जा सकता।"
+  },
+  {
+    "id": 22,
+    "sentence": "We are ready.",
+    "translation": "हम तैयार हैं।",
+    "meaning": "हम काम के लिए पूरी तरह से तैयार हैं।"
+  },
+  {
+    "id": 23,
+    "sentence": "She was happy.",
+    "translation": "वह खुश थी।",
+    "meaning": "वह अतीत में प्रसन्न महसूस करती थी।"
+  },
+  {
+    "id": 24,
+    "sentence": "The books are new.",
+    "translation": "किताबें नई हैं।",
+    "meaning": "किताबें नई खरीदी या छपी हुई हैं।"
+  },
+  {
+    "id": 25,
+    "sentence": "You are smart.",
+    "translation": "आप बुद्धिमान हैं।",
+    "meaning": "आप उच्च बुद्धिमत्ता प्रदर्शित करते हैं।"
+  },
+  {
+    "id": 26,
+    "sentence": "The cat was hungry.",
+    "translation": "बिल्ली भूखी थी।",
+    "meaning": "बिल्ली को पहले खाना चाहिए था।"
+  },
+  {
+    "id": 27,
+    "sentence": "I am a student.",
+    "translation": "मैं एक छात्र हूँ।",
+    "meaning": "मैं सीखने के लिए स्कूल जाता हूँ।"
+  },
+  {
+    "id": 28,
+    "sentence": "The apple is red.",
+    "translation": "सेब लाल है।",
+    "meaning": "फल का छिलका लाल रंग का है।"
+  },
+  {
+    "id": 29,
+    "sentence": "He is tall.",
+    "translation": "वह लंबा है।",
+    "meaning": "उसकी शारीरिक लंबाई अधिक है।"
+  },
+  {
+    "id": 30,
+    "sentence": "The bag was heavy.",
+    "translation": "बैग भारी था।",
+    "meaning": "बैग का वजन काफी अधिक था।"
+  },
+  {
+    "id": 31,
+    "sentence": "You are strong.",
+    "translation": "आप मजबूत हैं।",
+    "meaning": "आपके पास महान शारीरिक शक्ति है।"
+  },
+  {
+    "id": 32,
+    "sentence": "The children were playing.",
+    "translation": "बच्चे खेल रहे थे।",
+    "meaning": "बच्चे सक्रिय रूप से मज़ा कर रहे थे।"
+  },
+  {
+    "id": 33,
+    "sentence": "I am cold.",
+    "translation": "मुझे ठंड लग रही है।",
+    "meaning": "मुझे अपने शरीर पर ठंडक महसूस हो रही है।"
+  },
+  {
+    "id": 34,
+    "sentence": "The sky was dark.",
+    "translation": "आकाश में अंधेरा था।",
+    "meaning": "सूर्य का प्रकाश नहीं था या बादल छाए थे।"
+  },
+  {
+    "id": 35,
+    "sentence": "They were tired.",
+    "translation": "वे थके हुए थे।",
+    "meaning": "अतीत में उनमें ऊर्जा की कमी थी।"
+  },
+  {
+    "id": 36,
+    "sentence": "The dogs are loud.",
+    "translation": "कुत्ते बहुत शोर कर रहे हैं।",
+    "meaning": "कुत्ते ज़ोर-ज़ोर से भौंक रहे हैं।"
+  },
+  {
+    "id": 37,
+    "sentence": "We were late.",
+    "translation": "हमें देर हो गई थी।",
+    "meaning": "हम निर्धारित आगमन समय से चूक गए।"
+  },
+  {
+    "id": 38,
+    "sentence": "The book is interesting.",
+    "translation": "किताब दिलचस्प है।",
+    "meaning": "किताब ध्यान आकर्षित करती है।"
+  },
+  {
+    "id": 39,
+    "sentence": "She is kind.",
+    "translation": "वह दयालु है।",
+    "meaning": "वह विनम्रता और मदद से व्यवहार करती है।"
+  },
+  {
+    "id": 40,
+    "sentence": "You were happy.",
+    "translation": "आप खुश थे।",
+    "meaning": "आपके चेहरे पर खुशी के भाव थे।"
+  },
+  {
+    "id": 41,
+    "sentence": "The cars are fast.",
+    "translation": "कारें तेज़ हैं।",
+    "meaning": "गाड़ियाँ तेज़ गति से चलती हैं।"
+  },
+  {
+    "id": 42,
+    "sentence": "I am busy.",
+    "translation": "मैं व्यस्त हूँ।",
+    "meaning": "मेरे पास अभी पूरा करने के लिए कई काम हैं।"
+  },
+  {
+    "id": 43,
+    "sentence": "The apple was red.",
+    "translation": "सेब लाल था।",
+    "meaning": "फल पहले लाल रंग का था।"
+  },
+  {
+    "id": 44,
+    "sentence": "They are tall.",
+    "translation": "वे लंबे हैं।",
+    "meaning": "उनकी शारीरिक लंबाई अधिक है।"
+  },
+  {
+    "id": 45,
+    "sentence": "The story was interesting.",
+    "translation": "कहानी दिलचस्प थी।",
+    "meaning": "कहानी ने हमें बहुत बांधे रखा।"
+  },
+  {
+    "id": 46,
+    "sentence": "We are excited.",
+    "translation": "हम रोमांचित हैं।",
+    "meaning": "हम बहुत खुश और उत्साहित हैं।"
+  },
+  {
+    "id": 47,
+    "sentence": "The teacher was kind.",
+    "translation": "शिक्षक दयालु थे।",
+    "meaning": "शिक्षक ने हमारे साथ प्यार से व्यवहार किया।"
+  },
+  {
+    "id": 48,
+    "sentence": "You are early.",
+    "translation": "आप जल्दी आ गए हैं।",
+    "meaning": "आप तय समय से पहले यहाँ पहुँच गए हैं।"
+  },
+  {
+    "id": 49,
+    "sentence": "The boys are noisy.",
+    "translation": "लड़के शोर कर रहे हैं।",
+    "meaning": "लड़के तेज़ आवाज़ें बना रहे हैं।"
+  },
+  {
+    "id": 50,
+    "sentence": "I am polite.",
+    "translation": "मैं विनम्र हूँ।",
+    "meaning": "मैं अच्छे संस्कार और शिष्टाचार दिखाता हूँ।"
+  },
+  {
+    "id": 51,
+    "sentence": "The flowers are fresh.",
+    "translation": "फूल ताज़े हैं।",
+    "meaning": "फूल चमकदार और नए कटे हुए दिखते हैं।"
+  },
+  {
+    "id": 52,
+    "sentence": "They were helpful.",
+    "translation": "वे मददगार थे।",
+    "meaning": "उन्होंने पहले सक्रिय सहायता प्रदान की थी।"
+  },
+  {
+    "id": 53,
+    "sentence": "The sun is bright.",
+    "translation": "सूरज चमकदार है।",
+    "meaning": "सूरज तेज़ रोशनी बिखेरता है।"
+  },
+  {
+    "id": 54,
+    "sentence": "We were friends.",
+    "translation": "हम दोस्त थे।",
+    "meaning": "अतीत में हमारे बीच अच्छी दोस्ती थी।"
+  },
+  {
+    "id": 55,
+    "sentence": "The room is clean.",
+    "translation": "कमरा साफ है।",
+    "meaning": "कमरे में अब कोई धूल या गंदगी नहीं है।"
+  },
+  {
+    "id": 56,
+    "sentence": "You were kind.",
+    "translation": "आप दयालु थे।",
+    "meaning": "आपने पहले बहुत दयालुता दिखाई थी।"
+  },
+  {
+    "id": 57,
+    "sentence": "I am strong.",
+    "translation": "मैं मजबूत हूँ।",
+    "meaning": "मेरे पास उच्च शारीरिक ताकत है।"
+  },
+  {
+    "id": 58,
+    "sentence": "The baby was quiet.",
+    "translation": "बच्चा शांत था।",
+    "meaning": "शिशु पहले बहुत शांत था।"
+  }
+]

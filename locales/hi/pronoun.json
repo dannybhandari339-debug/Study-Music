@@ -1,0 +1,50 @@
+[
+  {
+    "subject": "मैं (Main)",
+    "object": "मुझे (Mujhe)",
+    "possessiveAdjective": "मेरा/मेरी",
+    "possessivePronoun": "मेरा (Mera)"
+  },
+  {
+    "subject": "तुम/आप",
+    "object": "तुम्हें/आपको",
+    "possessiveAdjective": "तुम्हारा/आपका",
+    "possessivePronoun": "तुम्हारा/आपका"
+  },
+  {
+    "subject": "वह (वह - पु.)",
+    "object": "उसे/उसको",
+    "possessiveAdjective": "उसका/उसकी",
+    "possessivePronoun": "उसका (Uska)"
+  },
+  {
+    "subject": "वह (स्त्रीलिंग)",
+    "object": "उसे/उसको",
+    "possessiveAdjective": "उसका/उसकी",
+    "possessivePronoun": "उसका (स्त्री.)"
+  },
+  {
+    "subject": "यह/वह",
+    "object": "इसे/उसे",
+    "possessiveAdjective": "इसका/उसका",
+    "possessivePronoun": "इसका/उसका"
+  },
+  {
+    "subject": "हम (Hum)",
+    "object": "हमें (Humein)",
+    "possessiveAdjective": "हमारा (Hamara)",
+    "possessivePronoun": "हमारा (Hamara)"
+  },
+  {
+    "subject": "तुम सब/आप लोग",
+    "object": "तुम्हें/आप लोगों को",
+    "possessiveAdjective": "तुम्हारा/आप लोगों का",
+    "possessivePronoun": "तुम्हारा/आप लोगों का"
+  },
+  {
+    "subject": "वे/वे लोग",
+    "object": "उन्हें/उनको",
+    "possessiveAdjective": "उनका/उनकी",
+    "possessivePronoun": "उनका (Unka)"
+  }
+]

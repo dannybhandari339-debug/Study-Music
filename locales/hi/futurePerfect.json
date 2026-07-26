@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "sentence": "I will have finished my homework by 8 PM.",
+    "translation": "मैं रात 8 बजे तक अपना गृहकार्य (होमवर्क) पूरा कर चुका हूँगा।",
+    "meaning": "मैं रात 8 बजे या उससे पहले अपना होमवर्क पूरा कर लूँगा।"
+  },
+  {
+    "id": 2,
+    "sentence": "She will not have completed the project on time.",
+    "translation": "वह समय पर प्रोजेक्ट पूरा नहीं कर चुकी होगी।",
+    "meaning": "जब समय सीमा आएगी तब तक उसका प्रोजेक्ट का काम पूरा नहीं हुआ होगा।"
+  },
+  {
+    "id": 3,
+    "sentence": "They will have arrived before the meeting starts.",
+    "translation": "बैठक (मीटिंग) शुरू होने से पहले वे पहुँच चुके होंगे।",
+    "meaning": "मीटिंग शुरू होने के समय से पहले ही उनका आगमन हो चुका होगा।"
+  },
+  {
+    "id": 4,
+    "sentence": "We won't have reached the station by then.",
+    "translation": "तब तक हम स्टेशन नहीं पहुँच चुके होंगे।",
+    "meaning": "उस विशिष्ट समय तक हम रेलवे स्टेशन पर नहीं पहुँचे होंगे।"
+  },
+  {
+    "id": 5,
+    "sentence": "He will have learned French by next year.",
+    "translation": "अगले साल तक वह फ्रेंच सीख चुका होगा।",
+    "meaning": "अगला साल शुरू होने से पहले उसके पास फ्रेंच बोलने का कौशल आ चुका होगा।"
+  },
+  {
+    "id": 6,
+    "sentence": "I will not have saved enough money by December.",
+    "translation": "दिसंबर तक मैंने पर्याप्त पैसे नहीं बचाए होंगे।",
+    "meaning": "जब दिसंबर आएगा तब भी मेरी बचत पर्याप्त नहीं होगी।"
+  },
+  {
+    "id": 7,
+    "sentence": "The train will have left before we get there.",
+    "translation": "हमारे वहाँ पहुँचने से पहले ट्रेन छूट चुकी होगी।",
+    "meaning": "प्लेटफॉर्म पर हमारे पहुँचने से पहले ही ट्रेन रवाना हो चुकी होगी।"
+  },
+  {
+    "id": 8,
+    "sentence": "She won't have understood the lesson fully.",
+    "translation": "तब तक वह पाठ को पूरी तरह से नहीं समझ चुकी होगी।",
+    "meaning": "उस समय तक वह पढ़ाई गई अवधारणाओं को पूरी तरह से नहीं समझ पाई होगी।"
+  },
+  {
+    "id": 9,
+    "sentence": "We will have built a new house by 2027.",
+    "translation": "2027 तक हम एक नया घर बना चुके होंगे।",
+    "meaning": "वर्ष 2027 तक हमारे नए घर का निर्माण कार्य पूरा हो जाएगा।"
+  },
+  {
+    "id": 10,
+    "sentence": "They will not have solved the problem yet.",
+    "translation": "उन्होंने अभी तक समस्या का समाधान नहीं किया होगा।",
+    "meaning": "उस बिंदु तक समस्या का समाधान नहीं हुआ होगा।"
+  },
+  {
+    "id": 11,
+    "sentence": "He will have written the report by tomorrow.",
+    "translation": "कल तक वह रिपोर्ट लिख चुका होगा।",
+    "meaning": "कल तक उसकी रिपोर्ट लिखने का काम पूरा हो जाएगा।"
+  },
+  {
+    "id": 12,
+    "sentence": "I won't have cleaned the room by evening.",
+    "translation": "शाम तक मैंने कमरा साफ नहीं किया होगा।",
+    "meaning": "शाम का समय आने तक मेरा कमरा व्यवस्थित करने का काम खत्म नहीं हुआ होगा।"
+  },
+  {
+    "id": 13,
+    "sentence": "She will have cooked dinner before they arrive.",
+    "translation": "उनके आने से पहले वह रात का खाना (डिनर) पका चुकी होगी।",
+    "meaning": "मेहमानों के पहुँचने से पहले ही वह खाना तैयार कर चुकी होगी।"
+  },
+  {
+    "id": 14,
+    "sentence": "We will not have finished the game by then.",
+    "translation": "तब तक हमने खेल समाप्त नहीं किया होगा।",
+    "meaning": "उस समय भी मैच या खेल जारी रहेगा।"
+  },
+  {
+    "id": 15,
+    "sentence": "They will have traveled to five countries by next year.",
+    "translation": "अगले साल तक वे पांच देशों की यात्रा कर चुके होंगे।",
+    "meaning": "अगला साल आने से पहले वे पांच अलग-अलग देशों की यात्राएं पूरी कर चुके होंगे।"
+  },
+  {
+    "id": 16,
+    "sentence": "He won't have completed his degree by June.",
+    "translation": "जून तक वह अपनी डिग्री पूरी नहीं कर चुका होगा।",
+    "meaning": "जब जून आएगा तब तक उसकी स्नातक की पढ़ाई या डिग्री पूरी नहीं हुई होगी।"
+  },
+  {
+    "id": 17,
+    "sentence": "I will have read the entire book tonight.",
+    "translation": "आज रात तक मैं पूरी किताब पढ़ चुका हूँगा।",
+    "meaning": "आज रात खत्म होने से पहले मैं किताब का हर पन्ना पढ़ लूँगा।"
+  },
+  {
+    "id": 18,
+    "sentence": "She will not have packed her bags in time.",
+    "translation": "वह समय पर अपने बैग पैक नहीं कर चुकी होगी।",
+    "meaning": "रवानगी से पहले उसका सामान पूरी तरह से तैयार नहीं हुआ होगा।"
+  },
+  {
+    "id": 19,
+    "sentence": "We will have started the project by Monday.",
+    "translation": "सोमवार तक हम प्रोजेक्ट शुरू कर चुके होंगे।",
+    "meaning": "सोमवार से पहले किसी समय हम प्रोजेक्ट पर काम शुरू कर देंगे।"
+  },
+  {
+    "id": 20,
+    "sentence": "They won't have repaired the car by noon.",
+    "translation": "दोपहर तक वे कार ठीक नहीं कर चुके होंगे।",
+    "meaning": "दोपहर तक मैकेनिक कार की मरम्मत का काम पूरा नहीं कर पाया होगा।"
+  },
+  {
+    "id": 21,
+    "sentence": "He will have earned a promotion soon.",
+    "translation": "वह जल्द ही पदोन्नति (प्रमोशन) हासिल कर चुका होगा।",
+    "meaning": "निकट भविष्य में वह अपने करियर में पदोन्नति प्राप्त कर लेगा।"
+  },
+  {
+    "id": 22,
+    "sentence": "I will not have memorized all the answers.",
+    "translation": "परीक्षा के समय तक मैंने सभी उत्तर याद नहीं किए होंगे।",
+    "meaning": "टेस्ट के समय तक मुझे हर उत्तर पूरी तरह से याद नहीं हुआ होगा।"
+  },
+  {
+    "id": 23,
+    "sentence": "She will have decorated the room beautifully.",
+    "translation": "उसने कमरे को खूबसूरती से सजा दिया होगा।",
+    "meaning": "कमरे की सजावट का काम पूरी तरह से समाप्त हो जाएगा और वह सुंदर दिखेगा।"
+  },
+  {
+    "id": 24,
+    "sentence": "We won't have planted the trees yet.",
+    "translation": "तब तक हमने पौधे नहीं लगाए होंगे।",
+    "meaning": "उस तारीख तक हमने मिट्टी में पौधे लगाने का काम खत्म नहीं किया होगा।"
+  },
+  {
+    "id": 25,
+    "sentence": "They will have achieved their goals by 2030.",
+    "translation": "2030 तक वे अपने लक्ष्यों को हासिल कर चुके होंगे।",
+    "meaning": "2030 तक वे अपनी आकांक्षाओं और लक्ष्यों को सफलतापूर्वक प्राप्त कर लेंगे।"
+  },
+  {
+    "id": 26,
+    "sentence": "He will not have finished his lunch.",
+    "translation": "जब हम मिलेंगे तब उसने अपना दोपहर का खाना खत्म नहीं किया होगा।",
+    "meaning": "हमारी मुलाकात के समय उसका दोपहर का खाना खत्म नहीं हुआ होगा।"
+  },
+  {
+    "id": 27,
+    "sentence": "I will have sent the email before lunch.",
+    "translation": "दोपहर के खाने से पहले मैं ईमेल भेज चुका हूँगा।",
+    "meaning": "लंच टाइम से पहले ही मेरा संदेश (ईमेल) भेजा जा चुका होगा।"
+  },
+  {
+    "id": 28,
+    "sentence": "She won't have completed the assignment.",
+    "translation": "वह समय पर असाइनमेंट पूरा नहीं कर चुकी होगी।",
+    "meaning": "वह समय पर अपना होमवर्क असाइनमेंट खत्म नहीं कर पाई होगी।"
+  },
+  {
+    "id": 29,
+    "sentence": "We will have organized the event successfully.",
+    "translation": "हम कार्यक्रम का सफलतापूर्वक आयोजन कर चुके होंगे।",
+    "meaning": "कार्यक्रम की योजना और क्रियान्वयन पूरी तरह से अंतिम रूप ले चुका होगा।"
+  }
+]

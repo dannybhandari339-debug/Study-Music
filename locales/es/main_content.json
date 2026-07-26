@@ -3,933 +3,933 @@
   "courseName": "Language Mastery Hub - English Course",
   "days": {
     "day1": {
-      "title": "Parts of Speech",
+      "title": "Partes de la Oración",
       "grammarPartsOfSpeech": {
         "noun": {
           "id": "noun",
-          "title": "Noun",
+          "title": "Sustantivo",
           "iconName": "FileText",
           "bgGradient": "from-blue-500 to-indigo-600",
-          "definition": "A noun is a word that names a person, place, thing, or idea. It acts as the subject or object of a sentence.",
-          "purpose": "Nouns are the building blocks of communication, allowing us to identify what or who we are discussing.",
+          "definition": "Un sustantivo es una palabra que nombra a una persona, lugar, cosa u idea. Actúa como el sujeto o complemento de una oración.",
+          "purpose": "Los sustantivos son los bloques fundamentales de la comunicación, permitiéndonos identificar de qué o de quién estamos hablando.",
           "examples": [
             {
               "text": "The talented teacher inspired the entire classroom.",
               "highlight": "teacher",
-              "type": "Person",
-              "description": "Refers to a specific individual or profession."
+              "type": "Persona",
+              "description": "Se refiere a un individuo o profesión específica."
             },
             {
               "text": "We spent our winter holidays exploring Paris.",
               "highlight": "Paris",
-              "type": "Place",
-              "description": "A proper noun naming a specific geographical location."
+              "type": "Lugar",
+              "description": "Un nombre propio que nombra una ubicación geográfica específica."
             },
             {
               "text": "She couldn't find her brass keys anywhere.",
               "highlight": "keys",
-              "type": "Thing",
-              "description": "A concrete noun representing a tangible physical item."
+              "type": "Objeto / Cosa",
+              "description": "Un sustantivo concreto tangible que se puede tocar y ver."
             },
             {
-              "text": "Honesty is valued above all other virtues.",
+              "text": "Honesty is essential for building strong relationships.",
               "highlight": "Honesty",
-              "type": "Idea / Concept",
-              "description": "An abstract noun representing a quality, state, or concept."
+              "type": "Idea / Concepto Abstracto",
+              "description": "Un sustantivo abstracto que representa un valor, estado o cualidad moral."
             },
             {
-              "text": "A proud flock of seagulls hovered over the dock.",
+              "text": "The playful puppy barked energetically at the mailman.",
+              "highlight": "puppy",
+              "type": "Animal / Ser Vivo",
+              "description": "Nombra un animal joven o ser vivo."
+            },
+            {
+              "text": "A large flock of birds flew over the tranquil lake.",
               "highlight": "flock",
-              "type": "Collective Noun",
-              "description": "Represents a group or collection of individuals."
+              "type": "Sustantivo Colectivo",
+              "description": "Un sustantivo de grupo que representa una colección de seres u objetos como una sola unidad."
             },
             {
-              "text": "The children played happily around the quiet neighborhood.",
-              "highlight": "neighborhood",
-              "type": "Place",
-              "description": "A concrete noun representing a local area or district."
+              "text": "Cold water is refreshing on a hot summer afternoon.",
+              "highlight": "water",
+              "type": "Sustantivo Incontable",
+              "description": "Representa una sustancia que no se puede contar individualmente."
             },
             {
-              "text": "Their shared laughter brought pure happiness to everyone.",
-              "highlight": "happiness",
-              "type": "Idea / Concept",
-              "description": "An abstract noun representing an emotional state."
+              "text": "Three wooden chairs were placed around the dining table.",
+              "highlight": "chairs",
+              "type": "Sustantivo Contable en Plural",
+              "description": "Representa múltiples artículos individuales contables."
             },
             {
-              "text": "An international delegation of scientists visited the research lab.",
-              "highlight": "delegation",
-              "type": "Collective Noun",
-              "description": "Represents a group of people delegated to act on behalf of others."
+              "text": "Her deep love for music inspired her to learn piano.",
+              "highlight": "love",
+              "type": "Emoción / Sentimiento",
+              "description": "Un sentimiento interno abstracto o estado de ánimo."
             },
             {
-              "text": "The artist spent months finishing the marble sculpture.",
-              "highlight": "sculpture",
-              "type": "Thing",
-              "description": "A concrete noun representing a physical artistic creation."
-            },
-            {
-              "text": "A polite officer helped us find the correct train terminal.",
-              "highlight": "officer",
-              "type": "Person",
-              "description": "A common noun representing a person in a position of authority."
+              "text": "The bustling city comes alive after midnight.",
+              "highlight": "city",
+              "type": "Lugar Común",
+              "description": "Un sustantivo común general para un entorno urbano."
             }
           ],
           "practice": [
             {
-              "id": "noun_q1",
-              "question": "Identify the abstract noun representing an idea in: 'Her boundless curiosity led to many discoveries.'",
+              "id": 1,
+              "question": "¿Cuál de las siguientes palabras funciona como un sustantivo que nombra un objeto físico?",
               "options": [
-                "boundless",
-                "curiosity",
-                "led",
-                "discoveries"
+                "quickly",
+                "marble",
+                "sing",
+                "happy"
               ],
-              "answer": "curiosity",
-              "explanation": "'Curiosity' is an abstract noun denoting a quality of mind, whereas 'discoveries' is a concrete/general noun, and 'boundless' is an adjective."
+              "answer": "marble",
+              "explanation": "'Marble' (canica) es un objeto físico tangible (sustantivo)."
             },
             {
-              "id": "noun_q2",
-              "question": "Which word is a collective noun in: 'The lively jury finally reached a unanimous decision'?",
+              "id": 2,
+              "question": "Identifica el sustantivo abstracto en la siguiente oración: 'Her courage inspired everyone.'",
               "options": [
-                "lively",
-                "jury",
-                "reached",
-                "decision"
+                "Her",
+                "courage",
+                "inspired",
+                "everyone"
               ],
-              "answer": "jury",
-              "explanation": "'Jury' is a collective noun because it refers to a single body or group consisting of multiple individuals acting together."
+              "answer": "courage",
+              "explanation": "'Courage' (valor/coraje) es una cualidad o idea abstracta que no se puede tocar físicamente."
             },
             {
-              "id": "noun_q3",
-              "question": "Fill in the blank with the correct proper noun: 'Last week, we went to visit Uncle _____.'",
+              "id": 3,
+              "question": "¿Qué tipo de sustantivo es 'London' en: 'We traveled to London last summer.'?",
               "options": [
-                "running",
-                "london",
-                "David",
-                "politely"
+                "Sustantivo común (Common Noun)",
+                "Sustantivo propio (Proper Noun)",
+                "Sustantivo colectivo (Collective Noun)",
+                "Sustantivo abstracto (Abstract Noun)"
               ],
-              "answer": "David",
-              "explanation": "'David' is a proper noun naming a specific person, so it is capitalized and fits grammatically as a name."
+              "answer": "Sustantivo propio (Proper Noun)",
+              "explanation": "'London' es el nombre específico de una ciudad, por lo que es un sustantivo propio (Proper Noun)."
             },
             {
-              "id": "noun_q4",
-              "question": "Find the noun in: 'The high-speed train flew past the quiet platform.'",
+              "id": 4,
+              "question": "Selecciona el sustantivo colectivo en: 'The committee voted unanimously on the proposed project.'",
               "options": [
-                "high-speed",
-                "flew",
-                "past",
-                "platform"
+                "committee",
+                "voted",
+                "proposed",
+                "project"
               ],
-              "answer": "platform",
-              "explanation": "'Platform' is a concrete noun representing a physical place/thing. 'Flew' is a verb, 'high-speed' is an adjective, and 'past' is a preposition here."
+              "answer": "committee",
+              "explanation": "'Committee' (comité) se refiere a un grupo de personas actuando como una unidad (sustantivo colectivo)."
             },
             {
-              "id": "noun_q5",
-              "question": "Which of the following is an abstract noun denoting a state or emotion?",
+              "id": 5,
+              "question": "¿Cuál de las siguientes opciones representa un sustantivo contable en plural?",
               "options": [
-                "stone",
-                "sorrow",
-                "singing",
-                "softly"
+                "water",
+                "furniture",
+                "batteries",
+                "information"
               ],
-              "answer": "sorrow",
-              "explanation": "'Sorrow' is an abstract noun denoting a feeling of deep distress, which is an intangible state/emotion."
+              "answer": "batteries",
+              "explanation": "'Batteries' (baterías/pilas) se pueden contar individualmente (una batería, dos baterías)."
             },
             {
-              "id": "noun_q6",
-              "question": "Identify the noun in the sentence: 'The heavy rain caused minor flooding on our street.'",
+              "id": 6,
+              "question": "Identifica el sustantivo incontable (Uncountable Noun) en: 'She requested more information before making a final decision.'",
               "options": [
-                "heavy",
-                "caused",
-                "flooding",
-                "on"
+                "information",
+                "decision",
+                "requested",
+                "making"
               ],
-              "answer": "flooding",
-              "explanation": "'Flooding' is a noun (gerund/process) denoting the state of being covered in water. 'Heavy' is an adjective, 'caused' is a verb, and 'on' is a preposition."
+              "answer": "information",
+              "explanation": "'Information' es un sustantivo incontable en inglés; no tiene forma plural."
             },
             {
-              "id": "noun_q7",
-              "question": "Choose the proper noun in: 'Many tourists visit the majestic Grand Canyon every summer.'",
+              "id": 7,
+              "question": "¿Qué palabra es un sustantivo compuesto (Compound Noun) en: 'The dentist advised using a soft toothbrush.'?",
               "options": [
-                "tourists",
-                "majestic",
-                "Grand Canyon",
-                "summer"
+                "dentist",
+                "advised",
+                "toothbrush",
+                "soft"
               ],
-              "answer": "Grand Canyon",
-              "explanation": "'Grand Canyon' is a proper noun because it names a specific, unique geographical wonder and is capitalized."
+              "answer": "toothbrush",
+              "explanation": "'Toothbrush' (cepillo de dientes) combina las palabras 'tooth' y 'brush' para formar un solo sustantivo."
             },
             {
-              "id": "noun_q8",
-              "question": "Which word is a collective noun? 'A large swarm of bees surrounded the sweet flowers.'",
+              "id": 8,
+              "question": "En la oración 'Patience is essential during difficult times', ¿cuál es el sustantivo abstracto que actúa como sujeto?",
               "options": [
-                "large",
-                "swarm",
-                "bees",
-                "surrounded"
+                "Patience",
+                "essential",
+                "difficult",
+                "times"
               ],
-              "answer": "swarm",
-              "explanation": "'Swarm' is a collective noun because it refers to a group or gathering of insects (bees) as a single unit."
+              "answer": "Patience",
+              "explanation": "'Patience' (paciencia) es un sustantivo abstracto que representa un estado o concepto conceptual."
             },
             {
-              "id": "noun_q9",
-              "question": "Find the concrete noun in: 'An amazing idea suddenly popped into his mind.'",
+              "id": 9,
+              "question": "Elige la oración donde la palabra 'park' se utiliza como un SUSTANTIVO:",
               "options": [
-                "amazing",
-                "idea",
-                "suddenly",
-                "mind"
+                "We decided to park the vehicle near the entrance.",
+                "The children played safely in the neighborhood park.",
+                "Please don't park in front of the gate.",
+                "He will park the car in the garage."
               ],
-              "answer": "mind",
-              "explanation": "While 'idea' is abstract, 'mind' can be understood as the physical/mental faculty or container, but is considered a more concrete entity here compared to 'idea' or 'suddenly' (adverb) and 'amazing' (adjective)."
+              "answer": "The children played safely in the neighborhood park.",
+              "explanation": "Aquí 'park' (parque) nombra un lugar físico (sustantivo)."
             },
             {
-              "id": "noun_q10",
-              "question": "Select the noun that acts as the subject of the sentence: 'The friendly dog barked at the mail carrier.'",
+              "id": 10,
+              "question": "En el sintagma nominal 'The brilliant architect', ¿cuál es el sustantivo principal?",
               "options": [
-                "friendly",
-                "dog",
-                "barked",
-                "mail carrier"
+                "The",
+                "brilliant",
+                "architect",
+                "None"
               ],
-              "answer": "dog",
-              "explanation": "'dog' is the main noun performing the action 'barked', which makes it the grammatical subject of the sentence."
+              "answer": "architect",
+              "explanation": "'Architect' (arquitecto) es la persona o sujeto principal del sintagma nominal."
             }
           ]
         },
         "pronoun": {
           "id": "pronoun",
-          "title": "Pronoun",
+          "title": "Pronombre",
           "iconName": "UserCheck",
-          "bgGradient": "from-teal-500 to-emerald-600",
-          "definition": "A pronoun is a substitute word used instead of a noun or noun phrase to avoid repetitive language patterns.",
-          "purpose": "Pronouns make sentences flow more naturally by keeping us from repeating names and objects endlessly.",
+          "bgGradient": "from-emerald-500 to-teal-600",
+          "definition": "Un pronombre es una palabra sustituta que se utiliza en lugar de un sustantivo o frase nominal para evitar la repetición.",
+          "purpose": "Los pronombres hacen que las oraciones fluyan con mayor naturalidad al evitar repetir nombres y objetos continuamente.",
           "examples": [
             {
-              "text": "He completed the assignment before the timer ran out.",
-              "highlight": "He",
-              "type": "Subject Pronoun",
-              "description": "Replaces the male subject who performs the action."
+              "text": "Sarah called her brother because she needed help.",
+              "highlight": "she",
+              "type": "Pronombre Sujeto (3ª pers. fem.)",
+              "description": "Sustituye al sustantivo femenino 'Sarah' como sujeto."
             },
             {
-              "text": "The manager called her into the office for feedback.",
-              "highlight": "her",
-              "type": "Object Pronoun",
-              "description": "Replaces the person receiving the action."
+              "text": "The manager praised them for completing the report on time.",
+              "highlight": "them",
+              "type": "Pronombre Objeto",
+              "description": "Sustituye al equipo u objeto como complemento directo."
             },
             {
-              "text": "That sparkling laptop on the desk is completely mine.",
+              "text": "This notebook is mine, but that one is yours.",
               "highlight": "mine",
-              "type": "Possessive Pronoun",
-              "description": "Shows absolute ownership and stands alone without a noun."
+              "type": "Pronombre Posesivo",
+              "description": "Muestra propiedad directa de un objeto."
             },
             {
-              "text": "They cooked a gourmet four-course dinner themselves.",
-              "highlight": "themselves",
-              "type": "Reflexive Pronoun",
-              "description": "Refers back to the plural subject 'They' to emphasize who did the action."
+              "text": "He hurt himself while repairing the bicycle chain.",
+              "highlight": "himself",
+              "type": "Pronombre Reflexivo",
+              "description": "Refleja la acción realizada de vuelta al sujeto."
             },
             {
-              "text": "These are the books that we ordered online last week.",
-              "highlight": "These",
-              "type": "Demonstrative Pronoun",
-              "description": "Points directly to specific plural items nearby."
+              "text": "That is the most impressive art gallery in town.",
+              "highlight": "That",
+              "type": "Pronombre Demostrativo",
+              "description": "Señala un objeto o lugar específico a distancia."
             },
             {
-              "text": "The musician who played the violin was exceptionally talented.",
+              "text": "Who is responsible for organizing the annual conference?",
+              "highlight": "Who",
+              "type": "Pronombre Interrogativo",
+              "description": "Inicia una pregunta sobre la identidad de una persona."
+            },
+            {
+              "text": "Someone left their umbrella near the entrance door.",
+              "highlight": "Someone",
+              "type": "Pronombre Indefinido",
+              "description": "Se refiere a una persona indeterminada o no especificada."
+            },
+            {
+              "text": "The scientist who discovered the element won an award.",
               "highlight": "who",
-              "type": "Relative Pronoun",
-              "description": "Connects a subordinate clause to the main noun 'musician'."
+              "type": "Pronombre Relativo",
+              "description": "Conecta una cláusula descriptiva con el sustantivo 'scientist'."
             },
             {
-              "text": "Can someone help me translate this English letter?",
-              "highlight": "someone",
-              "type": "Indefinite Pronoun",
-              "description": "Refers to an unspecified person in a general way."
-            },
-            {
-              "text": "The two close friends always support each other.",
+              "text": "The two competitors respected each other during the match.",
               "highlight": "each other",
-              "type": "Reciprocal Pronoun",
-              "description": "Expresses a mutual relationship or action between two subjects."
+              "type": "Pronombre Recíproco",
+              "description": "Muestra una acción mutua entre dos personas."
             },
             {
-              "text": "The local guide showed us the most beautiful viewpoints.",
-              "highlight": "us",
-              "type": "Object Pronoun",
-              "description": "Replaces the group of speakers receiving the action as an indirect object."
-            },
-            {
-              "text": "If this notebook is not mine, then it must be yours.",
-              "highlight": "yours",
-              "type": "Possessive Pronoun",
-              "description": "Expresses ownership belonging to the listener without repeating the noun 'notebook'."
+              "text": "I spoke to the director myself to confirm the date.",
+              "highlight": "myself",
+              "type": "Pronombre Enfático",
+              "description": "Añade énfasis al sujeto que realiza la acción."
             }
           ],
           "practice": [
             {
-              "id": "pron_q1",
-              "question": "Identify the reflexive pronoun in: 'The kittens washed themselves after eating dinner.'",
+              "id": 1,
+              "question": "¿Qué palabra es un pronombre sujeto (Subject Pronoun) en: 'They went to the market together.'?",
               "options": [
-                "kittens",
-                "themselves",
-                "after",
-                "eating"
+                "They",
+                "went",
+                "market",
+                "together"
               ],
-              "answer": "themselves",
-              "explanation": "'Themselves' is a reflexive pronoun referring back to the subject 'the kittens'."
+              "answer": "They",
+              "explanation": "'They' (ellos/ellas) es un pronombre sujeto de tercera persona del plural."
             },
             {
-              "id": "pron_q2",
-              "question": "Choose the correct possessive pronoun: 'We own that car; the blue sedan is _____.'",
+              "id": 2,
+              "question": "Identifica el pronombre objeto (Object Pronoun) en: 'The teacher gave him a helpful feedback note.'",
               "options": [
-                "our",
-                "ours",
-                "us",
-                "we"
+                "teacher",
+                "gave",
+                "him",
+                "helpful"
               ],
-              "answer": "ours",
-              "explanation": "'Ours' is a possessive pronoun that stands alone. 'Our' is a possessive adjective and requires a noun (e.g., 'our car')."
+              "answer": "him",
+              "explanation": "'Him' (a él / le) recibe la acción de dar, actuando como pronombre objeto."
             },
             {
-              "id": "pron_q3",
-              "question": "Which word is a demonstrative pronoun in: 'Those are the most delicious apples I have ever tasted.'",
+              "id": 3,
+              "question": "¿Cuál de los siguientes es un pronombre posesivo (Possessive Pronoun)?",
               "options": [
-                "Those",
-                "delicious",
-                "apples",
-                "tasted"
+                "My",
+                "Your",
+                "Ours",
+                "Their"
               ],
-              "answer": "Those",
-              "explanation": "'Those' is a demonstrative pronoun pointing out specific plural objects at a distance."
+              "answer": "Ours",
+              "explanation": "'Ours' (el nuestro / la nuestra) sustituye al sustantivo y muestra posesión directa."
             },
             {
-              "id": "pron_q4",
-              "question": "Fill in the blank: 'Alex and _____ are going to study English grammar together.'",
+              "id": 4,
+              "question": "Reemplaza las palabras subrayadas por el pronombre correcto: '[Sarah and Maria] finished the project on time.'",
+              "options": [
+                "Them",
+                "They",
+                "Hers",
+                "Their"
+              ],
+              "answer": "They",
+              "explanation": "'They' sustituye a un sujeto plural formado por dos personas ('Sarah and Maria')."
+            },
+            {
+              "id": 5,
+              "question": "En 'The dog wagged its tail when it saw the owner', ¿qué tipo de palabra es el primer 'its'?",
+              "options": [
+                "Pronombre sujeto (Subject Pronoun)",
+                "Pronombre objeto (Object Pronoun)",
+                "Adjetivo posesivo (Possessive Adjective)",
+                "Pronombre reflexivo (Reflexive Pronoun)"
+              ],
+              "answer": "Adjetivo posesivo (Possessive Adjective)",
+              "explanation": "'Its' modifica directamente al sustantivo 'tail', indicando posesión."
+            },
+            {
+              "id": 6,
+              "question": "Identifica el pronombre reflexivo (Reflexive Pronoun) en: 'He repaired the bicycle all by himself.'",
+              "options": [
+                "He",
+                "repaired",
+                "bicycle",
+                "himself"
+              ],
+              "answer": "himself",
+              "explanation": "'Himself' (él mismo) es un pronombre reflexivo que hace referencia al sujeto 'He'."
+            },
+            {
+              "id": 7,
+              "question": "¿Qué palabra es un pronombre demostrativo (Demonstrative Pronoun) en: 'This is the best book I have ever read.'?",
+              "options": [
+                "This",
+                "best",
+                "book",
+                "ever"
+              ],
+              "answer": "This",
+              "explanation": "'This' (este/esto) señala directamente el objeto sin acompañar inmediatamente a un sustantivo."
+            },
+            {
+              "id": 8,
+              "question": "Elige el pronombre indefinido (Indefinite Pronoun) en: 'Everybody enjoyed the live musical performance.'",
+              "options": [
+                "Everybody",
+                "enjoyed",
+                "live",
+                "performance"
+              ],
+              "answer": "Everybody",
+              "explanation": "'Everybody' (todos / todo el mundo) se refiere a personas de manera general o indefinida."
+            },
+            {
+              "id": 9,
+              "question": "Identifica el pronombre relativo (Relative Pronoun) en: 'The student who won the award received a gold medal.'",
+              "options": [
+                "student",
+                "who",
+                "won",
+                "received"
+              ],
+              "answer": "who",
+              "explanation": "'Who' (quien / que) conecta la cláusula descriptiva con el sustantivo 'student'."
+            },
+            {
+              "id": 10,
+              "question": "Completa el espacio con el pronombre correcto: 'My brother and _____ went fishing yesterday.'",
               "options": [
                 "me",
                 "I",
                 "myself",
-                "us"
+                "mine"
               ],
               "answer": "I",
-              "explanation": "Since the pronoun is part of the subject phrase performing the action, the subject pronoun 'I' is correct ('Alex and I' is the subject)."
-            },
-            {
-              "id": "pron_q5",
-              "question": "Identify the relative pronoun in: 'The book which you lent me was absolutely fascinating.'",
-              "options": [
-                "book",
-                "which",
-                "lent",
-                "absolutely"
-              ],
-              "answer": "which",
-              "explanation": "'Which' is a relative pronoun linking the descriptive clause 'you lent me' back to the noun 'book'."
-            },
-            {
-              "id": "pron_q6",
-              "question": "Choose the correct indefinite pronoun: 'The room was completely empty; _____ had arrived yet.'",
-              "options": [
-                "someone",
-                "nobody",
-                "everybody",
-                "anyone"
-              ],
-              "answer": "nobody",
-              "explanation": "The phrase 'completely empty' requires 'nobody' to logically make sense."
-            },
-            {
-              "id": "pron_q7",
-              "question": "Which word is a reciprocal pronoun in: 'The players congratulated one another after the fair game.'?",
-              "options": [
-                "congratulated",
-                "one another",
-                "after",
-                "game"
-              ],
-              "answer": "one another",
-              "explanation": "'One another' is a reciprocal pronoun showing mutual, shared action among the group of players."
-            },
-            {
-              "id": "pron_q8",
-              "question": "Select the subject pronoun in the sentence: 'Although they were tired, they completed the English quiz.'",
-              "options": [
-                "they",
-                "tired",
-                "completed",
-                "English"
-              ],
-              "answer": "they",
-              "explanation": "'they' is a subject pronoun representing the group performing the actions 'were' and 'completed'."
-            },
-            {
-              "id": "pron_q9",
-              "question": "Fill in the blank with the correct object pronoun: 'Our teacher asked _____ to help clean the board.'",
-              "options": [
-                "we",
-                "us",
-                "ours",
-                "ourselves"
-              ],
-              "answer": "us",
-              "explanation": "Here, the pronoun functions as the object receiving the verb 'asked', which requires the object form 'us'."
-            },
-            {
-              "id": "pron_q10",
-              "question": "Identify the possessive pronoun that stands alone: 'My keys are in my pocket, but where are yours?'",
-              "options": [
-                "My",
-                "pocket",
-                "where",
-                "yours"
-              ],
-              "answer": "yours",
-              "explanation": "'yours' is a possessive pronoun representing 'your keys' and standing alone without repeating 'keys'."
+              "explanation": "Se requiere el pronombre sujeto 'I' cuando forma parte del sujeto compuesto ('My brother and I')."
             }
           ]
         },
         "adverbs": {
           "id": "adverbs",
-          "title": "Adverbs",
+          "title": "Adverbios",
           "iconName": "Zap",
           "bgGradient": "from-amber-500 to-orange-600",
-          "definition": "An adverb is a word that describes, qualifies, or modifies a verb, an adjective, or another adverb. It tells how, when, where, why, or how much.",
-          "purpose": "Adverbs add precise details to actions, circumstances, and degrees, giving color and context to descriptions.",
+          "definition": "Un adverbio es una palabra que describe, califica o modifica un verbo, un adjetivo u otro adverbio. Indica cómo, cuándo, dónde, por qué o en qué medida.",
+          "purpose": "Los adverbios añaden detalles precisos a las acciones, circunstancias y grados, aportando color y contexto a las descripciones.",
           "examples": [
             {
-              "text": "She played the classical piano sonata beautifully.",
+              "text": "The musician played the violin beautifully.",
               "highlight": "beautifully",
-              "type": "Adverb of Manner",
-              "description": "Explains *how* the action of playing was executed."
+              "type": "Adverbio de Modo",
+              "description": "Describe CÓMO se realizó la acción de tocar."
             },
             {
-              "text": "We will leave for the global conference tomorrow.",
+              "text": "We will publish the official test results tomorrow.",
               "highlight": "tomorrow",
-              "type": "Adverb of Time",
-              "description": "Details *when* the action will happen."
+              "type": "Adverbio de Tiempo",
+              "description": "Especifica CUÁNDO ocurrirá la acción."
             },
             {
-              "text": "Please put the shipping packages outside.",
+              "text": "Please leave your wet shoes outside.",
               "highlight": "outside",
-              "type": "Adverb of Place",
-              "description": "Specifies *where* the objects should be placed."
+              "type": "Adverbio de Lugar",
+              "description": "Indica DÓNDE debe colocarse el objeto."
             },
             {
-              "text": "He always reviews his vocabulary cards before sleeping.",
-              "highlight": "always",
-              "type": "Adverb of Frequency",
-              "description": "Shows *how often* the habit occurs."
+              "text": "She frequently visits the community library on weekends.",
+              "highlight": "frequently",
+              "type": "Adverbio de Frecuencia",
+              "description": "Muestra CON QUÉ FRECUENCIA ocurre la acción."
             },
             {
-              "text": "It was an extremely challenging exams paper.",
+              "text": "The weather was extremely cold during the snowstorm.",
               "highlight": "extremely",
-              "type": "Adverb of Degree",
-              "description": "Indicates the *intensity* or *degree* of the adjective 'challenging'."
+              "type": "Adverbio de Grado/Intensidad",
+              "description": "Modifica al adjetivo 'cold' intensificando su grado."
             },
             {
-              "text": "She quietly closed the heavy wooden door so as not to wake the sleeping baby.",
-              "highlight": "quietly",
-              "type": "Adverb of Manner",
-              "description": "Describes the quiet and gentle manner in which the door was shut."
+              "text": "Certainly, we can arrange a meeting for next Monday.",
+              "highlight": "Certainly",
+              "type": "Adverbio de Certeza",
+              "description": "Expresa la seguridad o afirmación del hablante."
             },
             {
-              "text": "They recently relocated to a stunning coastal town.",
-              "highlight": "recently",
-              "type": "Adverb of Time",
-              "description": "Indicates that the move occurred in the near past."
+              "text": "Therefore, the committee decided to postpone the vote.",
+              "highlight": "Therefore",
+              "type": "Adverbio Conjuntivo",
+              "description": "Muestra una relación de causa y efecto entre ideas."
             },
             {
-              "text": "We searched everywhere for the lost set of brass keys.",
-              "highlight": "everywhere",
-              "type": "Adverb of Place",
-              "description": "Denotes that the physical scope of search covered all places."
+              "text": "He ran surprisingly fast for his age.",
+              "highlight": "surprisingly",
+              "type": "Adverbio que Modifica a un Adverbio",
+              "description": "Modifica a otro adverbio ('fast')."
             },
             {
-              "text": "He seldom watches television, preferring to read historic novels.",
-              "highlight": "seldom",
-              "type": "Adverb of Frequency",
-              "description": "Indicates a very low frequency of watching television."
+              "text": "The bus almost collided with the guardrail.",
+              "highlight": "almost",
+              "type": "Adverbio de Grado",
+              "description": "Indica qué tan cerca estuvo de ocurrir la acción."
             },
             {
-              "text": "The English exam was quite straightforward, and everyone did well.",
-              "highlight": "quite",
-              "type": "Adverb of Degree",
-              "description": "Modifies the adjective 'straightforward' to indicate a moderate to high degree."
+              "text": "Luckily, the train arrived right on schedule.",
+              "highlight": "Luckily",
+              "type": "Adverbio de Oración/Opinión",
+              "description": "Expresa el comentario o la perspectiva del hablante sobre toda la oración."
             }
           ],
           "practice": [
             {
-              "id": "adv_q1",
-              "question": "Identify the adverb of degree in: 'The weather was incredibly hot during our desert safari.'",
+              "id": 1,
+              "question": "¿Qué palabra es un adverbio de modo (Adverb of Manner) en: 'The choir sang melodiously.'?",
               "options": [
-                "weather",
-                "incredibly",
-                "hot",
-                "during"
+                "choir",
+                "sang",
+                "melodiously",
+                "None"
               ],
-              "answer": "incredibly",
-              "explanation": "'Incredibly' is an adverb of degree modifying the adjective 'hot', showing how intense the heat was."
+              "answer": "melodiously",
+              "explanation": "'Melodiously' (melodiosamente) responde a la pregunta '¿Cómo cantaron?'."
             },
             {
-              "id": "adv_q2",
-              "question": "Choose the correct adverb of frequency to fill the gap: 'She _____ forgets her keys, almost never!'",
+              "id": 2,
+              "question": "Identifica el adverbio de tiempo (Adverb of Time) en: 'We will launch the new feature tomorrow.'",
               "options": [
-                "always",
-                "rarely",
-                "usually",
-                "frequently"
-              ],
-              "answer": "rarely",
-              "explanation": "The clue 'almost never' matches 'rarely', which means very infrequently."
-            },
-            {
-              "id": "adv_q3",
-              "question": "In the sentence 'The runner sprinted fast to catch the train', what is 'fast'?",
-              "options": [
-                "A noun",
-                "An adjective",
-                "An adverb",
-                "A conjunction"
-              ],
-              "answer": "An adverb",
-              "explanation": "Here, 'fast' is an adverb because it modifies the verb 'sprinted', describing how the runner ran."
-            },
-            {
-              "id": "adv_q4",
-              "question": "Identify the adverb of place in: 'He walked downstairs to greet the early guests.'",
-              "options": [
-                "walked",
-                "downstairs",
-                "greet",
-                "early"
-              ],
-              "answer": "downstairs",
-              "explanation": "'Downstairs' describes *where* he walked, which makes it an adverb of place."
-            },
-            {
-              "id": "adv_q5",
-              "question": "Identify the adverb of manner in: 'The children played happily in the garden all afternoon.'",
-              "options": [
-                "played",
-                "happily",
-                "garden",
-                "afternoon"
-              ],
-              "answer": "happily",
-              "explanation": "'Happily' describes the cheerful manner in which the children played."
-            },
-            {
-              "id": "adv_q6",
-              "question": "Choose the adverb of time in: 'We will soon start our next grammar lesson.'",
-              "options": [
-                "soon",
-                "start",
-                "next",
-                "lesson"
-              ],
-              "answer": "soon",
-              "explanation": "'Soon' is an adverb of time because it answers the question of *when* the action will start."
-            },
-            {
-              "id": "adv_q7",
-              "question": "Which word is an adverb of place? 'The puppy ran indoors when the rain started.'",
-              "options": [
-                "puppy",
-                "indoors",
-                "when",
-                "started"
-              ],
-              "answer": "indoors",
-              "explanation": "'Indoors' is an adverb of place because it describes where the puppy ran."
-            },
-            {
-              "id": "adv_q8",
-              "question": "Find the adverb of frequency in: 'They rarely go out for dinner during weekdays.'",
-              "options": [
-                "rarely",
-                "go",
-                "dinner",
-                "weekdays"
-              ],
-              "answer": "rarely",
-              "explanation": "'Rarely' is an adverb of frequency because it shows how often they go out."
-            },
-            {
-              "id": "adv_q9",
-              "question": "Identify the adverb of degree modifying the adjective 'expensive' in: 'The new laptop was rather expensive.'",
-              "options": [
+                "launch",
                 "new",
-                "laptop",
-                "was",
-                "rather"
+                "feature",
+                "tomorrow"
               ],
-              "answer": "rather",
-              "explanation": "'Rather' modifies the adjective 'expensive', indicating the degree or level of cost."
+              "answer": "tomorrow",
+              "explanation": "'Tomorrow' (mañana) indica cuándo ocurrirá la acción."
             },
             {
-              "id": "adv_q10",
-              "question": "Select the adverb in: 'The students listened attentively to the instructions.'",
+              "id": 3,
+              "question": "¿Qué palabra es un adverbio de frecuencia (Adverb of Frequency) en: 'She seldom misses a morning workout.'?",
               "options": [
-                "students",
-                "listened",
-                "attentively",
-                "instructions"
+                "seldom",
+                "misses",
+                "morning",
+                "workout"
               ],
-              "answer": "attentively",
-              "explanation": "'Attentively' is an adverb of manner because it describes how the students listened."
+              "answer": "seldom",
+              "explanation": "'Seldom' (rara vez) indica con qué frecuencia realiza la acción."
+            },
+            {
+              "id": 4,
+              "question": "En la oración 'The water was extremely cold', ¿qué modifica el adverbio 'extremely'?",
+              "options": [
+                "Un verbo (water)",
+                "Un adjetivo (cold)",
+                "Otro adverbio",
+                "Un sustantivo"
+              ],
+              "answer": "Un adjetivo (cold)",
+              "explanation": "'Extremely' es un adverbio de grado que intensifica al adjetivo 'cold' (frío)."
+            },
+            {
+              "id": 5,
+              "question": "¿Cuál de las siguientes palabras funciona como un adverbio de lugar (Adverb of Place)?",
+              "options": [
+                "everywhere",
+                "gracefully",
+                "frequently",
+                "almost"
+              ],
+              "answer": "everywhere",
+              "explanation": "'Everywhere' (en todas partes / por todos lados) indica ubicación o lugar."
+            },
+            {
+              "id": 6,
+              "question": "Identifica el adverbio de grado (Adverb of Degree) en: 'The explanation was completely clear.'",
+              "options": [
+                "explanation",
+                "was",
+                "completely",
+                "clear"
+              ],
+              "answer": "completely",
+              "explanation": "'Completely' (completamente) muestra la intensidad o grado de claridad."
+            },
+            {
+              "id": 7,
+              "question": "En 'He runs very fast', ¿cuál es la función de la palabra 'very'?",
+              "options": [
+                "Modificar al sustantivo 'He'",
+                "Modificar al verbo 'runs'",
+                "Modificar al adverbio 'fast'",
+                "Actuar como un adjetivo"
+              ],
+              "answer": "Modificar al adverbio 'fast'",
+              "explanation": "'Very' (muy) es un adverbio de grado que modifica a otro adverbio ('fast')."
+            },
+            {
+              "id": 8,
+              "question": "Elige el adverbio formado correctamente a partir del adjetivo 'heavy':",
+              "options": [
+                "heavily",
+                "heaviful",
+                "heaviness",
+                "heavyly"
+              ],
+              "answer": "heavily",
+              "explanation": "Los adjetivos terminados en 'y' cambian la 'y' por 'i' y añaden 'ly' ('heavily')."
+            },
+            {
+              "id": 9,
+              "question": "¿Qué posición ocupa el adverbio de frecuencia en: 'He always arrives early for meetings.'?",
+              "options": [
+                "Al final de la oración",
+                "Antes del verbo principal",
+                "Después del complemento",
+                "Al inicio de la oración"
+              ],
+              "answer": "Antes del verbo principal",
+              "explanation": "Los adverbios de frecuencia en inglés normalmente se colocan justo antes del verbo principal ('arrives')."
+            },
+            {
+              "id": 10,
+              "question": "En la oración 'Surprisingly, the test was quite easy', ¿qué función cumple 'Surprisingly'?",
+              "options": [
+                "Adverbio de oración (Sentence Adverb)",
+                "Adverbio de lugar",
+                "Adjetivo comparativo",
+                "Sustantivo sujeto"
+              ],
+              "answer": "Adverbio de oración (Sentence Adverb)",
+              "explanation": "'Surprisingly' (sorprendentemente) modifica a toda la oración, expresando la actitud del hablante."
             }
           ]
         },
         "adjectives": {
           "id": "adjectives",
-          "title": "Adjectives",
+          "title": "Adjetivos",
           "iconName": "Palette",
-          "bgGradient": "from-purple-500 to-pink-600",
-          "definition": "An adjective is a describing word that modifies or qualifies a noun or pronoun by explaining its traits, size, quantity, or properties.",
-          "purpose": "Adjectives enrich our descriptions, enabling us to differentiate and paint vivid mental pictures for listeners.",
+          "bgGradient": "from-rose-500 to-pink-600",
+          "definition": "Un adjetivo es una palabra descriptiva que modifica o califica a un sustantivo o pronombre explicando sus rasgos, tamaño, cantidad o propiedades.",
+          "purpose": "Los adjetivos enriquecen nuestras descripciones, permitiéndonos diferenciar y crear imágenes mentales vívidas para quien escucha.",
           "examples": [
             {
-              "text": "They live in a gorgeous, modern house down the avenue.",
-              "highlight": "gorgeous",
-              "type": "Descriptive Adjective",
-              "description": "Expresses a subjective opinion and descriptive quality."
+              "text": "A majestic white swan glided across the calm water.",
+              "highlight": "majestic",
+              "type": "Adjetivo Calificativo / Descriptivo",
+              "description": "Describe las cualidades estéticas o el aspecto del cisne."
             },
             {
-              "text": "We bought several sweet apples for the pastry.",
-              "highlight": "several",
-              "type": "Quantitative Adjective",
-              "description": "Shows an indefinite quantity of items."
+              "text": "The chef used fresh Italian basil in the pasta sauce.",
+              "highlight": "Italian",
+              "type": "Adjetivo Propio de Origen",
+              "description": "Denota el origen o la nacionalidad del ingrediente."
             },
             {
-              "text": "That vintage motorcycle belongs to my grandfather.",
-              "highlight": "That",
-              "type": "Demonstrative Adjective",
-              "description": "Points directly to a specific singular noun 'motorcycle' further away."
+              "text": "Several students achieved top grades in the science test.",
+              "highlight": "Several",
+              "type": "Adjetivo Cuantitativo / Indefinido",
+              "description": "Indica una cantidad aproximada de estudiantes."
             },
             {
-              "text": "Our team celebrated the victory with a grand banquet.",
-              "highlight": "Our",
-              "type": "Possessive Adjective",
-              "description": "Attaches to the noun 'team' to demonstrate ownership."
+              "text": "The second applicant delivered a flawless interview.",
+              "highlight": "second",
+              "type": "Adjetivo Numeral Ordinal",
+              "description": "Especifica la posición exacta en una secuencia."
             },
             {
-              "text": "The library contains three ancient leather scrolls.",
+              "text": "My older brother is studying civil engineering.",
+              "highlight": "older",
+              "type": "Adjetivo Comparativo",
+              "description": "Compara la edad con respecto al sujeto."
+            },
+            {
+              "text": "Mount Everest is the highest mountain peak above sea level.",
+              "highlight": "highest",
+              "type": "Adjetivo Superlativo",
+              "description": "Indica el grado máximo o supremo de elevación."
+            },
+            {
+              "text": "These ancient coins were discovered in a wooden chest.",
               "highlight": "ancient",
-              "type": "Age / Quality Adjective",
-              "description": "Describes the age and majestic quality of the scrolls."
+              "type": "Adjetivo de Edad / Tiempo",
+              "description": "Describe la antigüedad o período histórico del objeto."
             },
             {
-              "text": "The chef prepared a delicious meal of fresh seafood.",
-              "highlight": "delicious",
-              "type": "Descriptive Adjective",
-              "description": "Expresses an opinion of taste and quality modifying 'meal'."
+              "text": "A small round table was placed in the corner.",
+              "highlight": "round",
+              "type": "Adjetivo de Forma",
+              "description": "Describe la forma geométrica de la mesa."
             },
             {
-              "text": "There are only a few cookies left in the cookie jar.",
-              "highlight": "few",
-              "type": "Quantitative Adjective",
-              "description": "Denotes a small, indefinite quantity of cookies."
+              "text": "Her vibrant red dress stood out at the evening gala.",
+              "highlight": "vibrant red",
+              "type": "Adjetivo de Color",
+              "description": "Especifica la tonalidad cromática del vestido."
             },
             {
-              "text": "Those mountains in the distance are covered in snow.",
-              "highlight": "Those",
-              "type": "Demonstrative Adjective",
-              "description": "Points directly to remote plural nouns ('mountains')."
-            },
-            {
-              "text": "My older brother is studying computer engineering in Seattle.",
-              "highlight": "My",
-              "type": "Possessive Adjective",
-              "description": "Sits in front of the noun 'brother' to indicate who owns the connection."
-            },
-            {
-              "text": "A golden ray of light shone through the glass window.",
-              "highlight": "golden",
-              "type": "Color / Quality Adjective",
-              "description": "Describes the color and beautiful quality of the light ray."
+              "text": "The exhausted team rested under a shady oak tree.",
+              "highlight": "exhausted",
+              "type": "Adjetivo de Estado / Condición",
+              "description": "Describe la condición física o mental del equipo."
             }
           ],
           "practice": [
             {
-              "id": "adj_q1",
-              "question": "Identify the descriptive adjective in: 'We walked across the sandy beach under the warm sun.'",
+              "id": 1,
+              "question": "¿Qué palabra es un adjetivo en: 'The tall building cast a long shadow.'?",
               "options": [
-                "walked",
-                "across",
-                "sandy",
-                "beach"
+                "building",
+                "tall",
+                "cast",
+                "shadow"
               ],
-              "answer": "sandy",
-              "explanation": "'Sandy' is a descriptive adjective modifying the noun 'beach' to describe its texture. 'Warm' is also one, but sandy is the option provided."
+              "answer": "tall",
+              "explanation": "'Tall' (alto) describe la altura del sustantivo 'building'."
             },
             {
-              "id": "adj_q2",
-              "question": "What is the role of 'your' in: 'Please wash your hands before dinner.'?",
+              "id": 2,
+              "question": "Identifica la forma comparativa (Comparative Form) del adjetivo 'good':",
               "options": [
-                "Possessive pronoun",
-                "Possessive adjective",
-                "Subject pronoun",
-                "Noun"
+                "gooder",
+                "better",
+                "best",
+                "more good"
               ],
-              "answer": "Possessive adjective",
-              "explanation": "'Your' sits directly before the noun 'hands' and describes whose hands they are, making it a possessive adjective."
+              "answer": "better",
+              "explanation": "'Good' es un adjetivo irregular cuya forma comparativa es 'better'."
             },
             {
-              "id": "adj_q3",
-              "question": "Identify the demonstrative adjective: 'This old grandfather clock still works perfectly.'",
+              "id": 3,
+              "question": "¿Cuál es el adjetivo superlativo (Superlative Adjective) en: 'Everest is the highest mountain in the world.'?",
+              "options": [
+                "Everest",
+                "highest",
+                "mountain",
+                "world"
+              ],
+              "answer": "highest",
+              "explanation": "'Highest' (la más alta) es la forma superlativa del adjetivo 'high'."
+            },
+            {
+              "id": 4,
+              "question": "En 'The ancient wooden box held gold coins', ¿cuáles palabras son adjetivos?",
+              "options": [
+                "ancient, wooden, gold",
+                "ancient, box, coins",
+                "wooden, held, gold",
+                "ancient, wooden, coins"
+              ],
+              "answer": "ancient, wooden, gold",
+              "explanation": "'Ancient' (antigua), 'wooden' (de madera) y 'gold' (de oro) modifican a los sustantivos."
+            },
+            {
+              "id": 5,
+              "question": "¿Qué palabra funciona como adjetivo demostrativo en: 'This puppy is very energetic.'?",
               "options": [
                 "This",
-                "old",
-                "grandfather",
-                "perfectly"
+                "puppy",
+                "very",
+                "energetic"
               ],
               "answer": "This",
-              "explanation": "'This' is a demonstrative adjective modifying 'grandfather clock' and pointing to its close proximity. ('Perfectly' is an adverb)."
+              "explanation": "'This' (este) acompaña directamente al sustantivo 'puppy' para señalarlo."
             },
             {
-              "id": "adj_q4",
-              "question": "Fill in the blank with a descriptive adjective: 'The _____ puppy kept barking at the mirror.'",
+              "id": 6,
+              "question": "Identifica el orden correcto de adjetivos en: 'A _____ leather jacket.'",
               "options": [
-                "playfully",
-                "tiny",
-                "dog",
-                "sleep"
+                "beautiful black Italian",
+                "black beautiful Italian",
+                "Italian beautiful black",
+                "beautiful Italian black"
               ],
-              "answer": "tiny",
-              "explanation": "'Tiny' is an adjective that beautifully describes the size of the puppy."
+              "answer": "beautiful black Italian",
+              "explanation": "El orden correcto de adjetivos en inglés es: Opinión (beautiful) -> Color (black) -> Origen (Italian)."
             },
             {
-              "id": "adj_q5",
-              "question": "Identify the quantitative adjective in: 'We need some fresh ingredients to bake the strawberry cake.'",
+              "id": 7,
+              "question": "Encuentra el adjetivo de cantidad en: 'There is sufficient flour to bake the cake.'",
               "options": [
-                "some",
-                "fresh",
-                "ingredients",
-                "strawberry"
+                "sufficient",
+                "flour",
+                "bake",
+                "cake"
               ],
-              "answer": "some",
-              "explanation": "'Some' is a quantitative adjective indicating an indefinite amount of ingredients."
+              "answer": "sufficient",
+              "explanation": "'Sufficient' (suficiente) indica la cantidad de harina disponible."
             },
             {
-              "id": "adj_q6",
-              "question": "Choose the possessive adjective in the sentence: 'His dedication to learning English grammar is inspiring.'",
+              "id": 8,
+              "question": "En 'The wounded soldier received medical care', ¿qué es la palabra 'wounded'?",
               "options": [
-                "His",
-                "dedication",
-                "learning",
-                "inspiring"
+                "Verbo en pasado",
+                "Participio pasado usado como adjetivo",
+                "Adverbio de modo",
+                "Sustantivo común"
               ],
-              "answer": "His",
-              "explanation": "'His' is a possessive adjective because it immediately precedes and modifies the noun 'dedication'."
+              "answer": "Participio pasado usado como adjetivo",
+              "explanation": "'Wounded' (herido) es un participio pasado que funciona como adjetivo para describir al soldado."
             },
             {
-              "id": "adj_q7",
-              "question": "Which word is a descriptive adjective? 'The heavy rain soaked the thirsty ground.'",
+              "id": 9,
+              "question": "¿Qué palabra es un adjetivo posesivo en: 'Our family moved to a new neighborhood.'?",
               "options": [
-                "heavy",
-                "soaked",
-                "thirsty",
-                "ground"
+                "Our",
+                "family",
+                "moved",
+                "neighborhood"
               ],
-              "answer": "thirsty",
-              "explanation": "'Thirsty' is a descriptive adjective that describes the dry, eager state of the ground."
+              "answer": "Our",
+              "explanation": "'Our' (nuestra) es un adjetivo posesivo que modifica al sustantivo 'family'."
             },
             {
-              "id": "adj_q8",
-              "question": "Find the demonstrative adjective in: 'Those vintage cameras are worth a fortune.'",
+              "id": 10,
+              "question": "Elige la oración donde la palabra 'glass' se utiliza como un ADJETIVO:",
               "options": [
-                "Those",
-                "vintage",
-                "cameras",
-                "worth"
+                "She poured water into a clean glass.",
+                "He fixed the broken glass door.",
+                "Glass is made from sand.",
+                "The glass fell and broke."
               ],
-              "answer": "Those",
-              "explanation": "'Those' functions as a demonstrative adjective because it directly points to and modifies the noun 'cameras'."
-            },
-            {
-              "id": "adj_q9",
-              "question": "Fill in the blank with an adjective: 'The library is a _____ place to study.'",
-              "options": [
-                "quietly",
-                "quiet",
-                "quietness",
-                "quite"
-              ],
-              "answer": "quiet",
-              "explanation": "'Quiet' is the adjective form that correctly describes the noun 'place'."
-            },
-            {
-              "id": "adj_q10",
-              "question": "Which word is an adjective modifying 'sculpture' in: 'They admired the massive marble sculpture.'?",
-              "options": [
-                "admired",
-                "massive",
-                "marble",
-                "sculpture"
-              ],
-              "answer": "massive",
-              "explanation": "'Massive' (and 'marble') are adjectives modifying 'sculpture'. 'Massive' is the selected option here describing the scale."
+              "answer": "He fixed the broken glass door.",
+              "explanation": "Aquí 'glass' (de vidrio) modifica al sustantivo 'door', funcionando como adjetivo."
             }
           ]
         },
         "conjunctions": {
           "id": "conjunctions",
-          "title": "Conjunctions",
+          "title": "Conjunciones",
           "iconName": "Link2",
-          "bgGradient": "from-rose-500 to-red-600",
-          "definition": "A conjunction is a connector word used to link individual words, phrases, independent clauses, or sentences together.",
-          "purpose": "Conjunctions establish logical relationships (contrast, cause/effect, addition) and bind separate ideas into cohesive thoughts.",
+          "bgGradient": "from-purple-500 to-violet-600",
+          "definition": "Una conjunción es una palabra de enlace utilizada para conectar palabras individuales, frases, oraciones independientes o proposiciones.",
+          "purpose": "Las conjunciones establecen relaciones lógicas (contraste, causa/efecto, adición) y unen ideas separadas en pensamientos coherentes.",
           "examples": [
             {
-              "text": "I bought a fresh sandwich and an organic juice bottle.",
-              "highlight": "and",
-              "type": "Coordinating Conjunction (FANBOYS)",
-              "description": "Connects two items of equal importance (addition)."
-            },
-            {
-              "text": "She stayed indoors because it was pouring with rain.",
-              "highlight": "because",
-              "type": "Subordinating Conjunction",
-              "description": "Introduces a dependent clause showing the cause or reason."
-            },
-            {
-              "text": "He is extremely talented, yet he remains incredibly humble.",
-              "highlight": "yet",
-              "type": "Coordinating Conjunction (FANBOYS)",
-              "description": "Connects two contrasting statements of equal weight."
-            },
-            {
-              "text": "Either you must study hard or you will fail the test.",
-              "highlight": "or",
-              "type": "Correlative Conjunction (Either...or)",
-              "description": "Works in pairs to join alternatives or choices."
-            },
-            {
-              "text": "Although she felt exhausted, she completed the half marathon.",
-              "highlight": "Although",
-              "type": "Subordinating Conjunction (Contrast)",
-              "description": "Introduces a concession or contrast at the beginning of the sentence."
-            },
-            {
-              "text": "It was getting extremely dark, so we decided to head back home.",
-              "highlight": "so",
-              "type": "Coordinating Conjunction (FANBOYS)",
-              "description": "Connects an action to its logical result/consequence."
-            },
-            {
-              "text": "I listened to study music while completing my chemistry assignments.",
-              "highlight": "while",
-              "type": "Subordinating Conjunction (Time)",
-              "description": "Denotes that two actions are happening simultaneously."
-            },
-            {
-              "text": "Since you are already here, you can help me prepare the classroom.",
-              "highlight": "since",
-              "type": "Subordinating Conjunction (Reason)",
-              "description": "Introduces a logical reason or premise for the main action."
-            },
-            {
-              "text": "He is quiet but extremely intelligent and helpful.",
+              "text": "I wanted to attend the seminar, but all seats were booked.",
               "highlight": "but",
-              "type": "Coordinating Conjunction (FANBOYS)",
-              "description": "Connects two descriptive qualities with a contrasting relationship."
+              "type": "Conjunción Coordinante (FANBOYS)",
+              "description": "Muestra un contraste directo entre querer asistir y la falta de asientos."
             },
             {
-              "text": "She is not only a brilliant coder but also a talented pianist.",
-              "highlight": "not only",
-              "type": "Correlative Conjunction",
-              "description": "Dual connectors working in tandem to link two parallel positive points."
+              "text": "We canceled the outdoor picnic because it started raining heavily.",
+              "highlight": "because",
+              "type": "Conjunción Subordinante",
+              "description": "Conecta la consecuencia con su razón o causa."
+            },
+            {
+              "text": "Neither the director nor his assistants were available for comment.",
+              "highlight": "Neither...nor",
+              "type": "Conjunciones Correlativas",
+              "description": "Un par de palabras enlazadas que excluyen dos opciones."
+            },
+            {
+              "text": "She studied diligently, so she passed the final examination easily.",
+              "highlight": "so",
+              "type": "Conjunción Coordinante de Resultado",
+              "description": "Indica la consecuencia directa de una acción previa."
+            },
+            {
+              "text": "Although he was tired, he finished reading the manuscript.",
+              "highlight": "Although",
+              "type": "Conjunción Subordinante de Concesión",
+              "description": "Introduce un contraste o concesión."
+            },
+            {
+              "text": "You can choose tea or freshly brewed coffee with breakfast.",
+              "highlight": "or",
+              "type": "Conjunción Coordinante de Elección",
+              "description": "Ofrece una alternativa entre dos cosas."
+            },
+            {
+              "text": "As soon as the bell rang, the students exited the classroom.",
+              "highlight": "As soon as",
+              "type": "Conjunción Subordinante Temporal",
+              "description": "Establece la relación temporal inmediata entre dos eventos."
+            },
+            {
+              "text": "Both the red coat and the black jacket are on sale.",
+              "highlight": "Both...and",
+              "type": "Conjunciones Correlativas",
+              "description": "Muestra que ambas opciones están incluidas."
+            },
+            {
+              "text": "Unless you practice daily, your guitar skills will not improve.",
+              "highlight": "Unless",
+              "type": "Conjunción Subordinante de Condición",
+              "description": "Establece una condición negativa indispensable."
+            },
+            {
+              "text": "He loves reading books and writing short stories.",
+              "highlight": "and",
+              "type": "Conjunción Coordinante de Adición",
+              "description": "Añade un elemento a otro."
             }
           ],
           "practice": [
             {
-              "id": "conj_q1",
-              "question": "Identify the subordinating conjunction in: 'We will go hiking tomorrow unless it rains.'",
+              "id": 1,
+              "question": "¿Qué palabra es una conjunción coordinante en: 'He wanted to go, yet he stayed home.'?",
               "options": [
-                "hiking",
-                "tomorrow",
-                "unless",
-                "it"
+                "wanted",
+                "yet",
+                "stayed",
+                "home"
               ],
-              "answer": "unless",
-              "explanation": "'Unless' is a subordinating conjunction introducing the conditional condition that would stop them from going."
+              "answer": "yet",
+              "explanation": "'Yet' (sin embargo / aun así) es una conjunción coordinante que muestra contraste."
             },
             {
-              "id": "conj_q2",
-              "question": "Choose the correct coordinating conjunction (contrast): 'He wanted to go to the beach, _____ it was too cold.'",
+              "id": 2,
+              "question": "Identifica la conjunción subordinante en: 'We will leave after the movie ends.'",
               "options": [
-                "so",
-                "but",
-                "and",
-                "or"
+                "will",
+                "leave",
+                "after",
+                "movie"
               ],
-              "answer": "but",
-              "explanation": "'But' is a coordinating conjunction used to show contrast or opposition between two independent ideas."
+              "answer": "after",
+              "explanation": "'After' (después de que) introduce una cláusula subordinada de tiempo."
             },
             {
-              "id": "conj_q3",
-              "question": "Which conjunction fits perfectly to express cause/effect: 'She took a taxi _____ she was running late.'",
+              "id": 3,
+              "question": "¿Qué opción enumera las conjunciones coordinantes del acrónimo FANBOYS?",
               "options": [
-                "although",
+                "for, and, nor, but, or, yet, so",
+                "from, and, not, but, or, yes, so",
+                "for, as, nor, by, or, yet, so",
+                "first, and, next, but, or, yet, so"
+              ],
+              "answer": "for, and, nor, but, or, yet, so",
+              "explanation": "El acrónimo FANBOYS representa las 7 conjunciones coordinantes principales en inglés."
+            },
+            {
+              "id": 4,
+              "question": "Elige el par de conjunciones correlativas en: 'Either you apologize now, or you leave the room.'",
+              "options": [
+                "Either...or",
+                "apologize...leave",
+                "now...room",
+                "you...you"
+              ],
+              "answer": "Either...or",
+              "explanation": "'Either...or' (o... o) es un par correlativo que presenta dos opciones exclusivas."
+            },
+            {
+              "id": 5,
+              "question": "Selecciona la mejor conjunción para indicar causa: 'She wore a coat _____ it was freezing outside.'",
+              "options": [
                 "because",
                 "but",
-                "yet"
+                "or",
+                "so"
               ],
               "answer": "because",
-              "explanation": "'Because' is the subordinating conjunction used to introduce the reason why she took a taxi."
+              "explanation": "'Because' (porque) expresa adecuadamente la razón o causa del frío."
             },
             {
-              "id": "conj_q4",
-              "question": "Fill in the blank: 'Neither Sarah _____ Michael attended the meeting.'",
+              "id": 6,
+              "question": "¿Qué conjunción indica una condición?",
               "options": [
-                "or",
-                "nor",
-                "and",
-                "but"
+                "Unless",
+                "And",
+                "Or",
+                "So"
               ],
-              "answer": "nor",
-              "explanation": "The correlative pair is 'Neither...nor'. Therefore, 'nor' is the correct conjunction to pair with 'Neither'."
+              "answer": "Unless",
+              "explanation": "'Unless' (a menos que) introduce una condición."
             },
             {
-              "id": "conj_q5",
-              "question": "Identify the coordinating conjunction expressing result/consequence in: 'The weather forecast predicted a heavy storm, so we cancelled our picnic.'",
+              "id": 7,
+              "question": "Identifica la conjunción en: 'Although it was raining, they went hiking.'",
               "options": [
-                "forecast",
-                "predicted",
-                "so",
-                "our"
+                "Although",
+                "raining",
+                "they",
+                "hiking"
               ],
-              "answer": "so",
-              "explanation": "'So' is the coordinating conjunction used to connect a cause to a consequence or result."
+              "answer": "Although",
+              "explanation": "'Although' (aunque) es una conjunción subordinante de concesión."
             },
             {
-              "id": "conj_q6",
-              "question": "Choose the correct subordinating conjunction (time): 'I will call you _____ I arrive at the train station.'",
-              "options": [
-                "as soon as",
-                "unless",
-                "although",
-                "but"
-              ],
-              "answer": "as soon as",
-              "explanation": "'As soon as' is a subordinating conjunction of time expressing immediate sequence."
-            },
-            {
-              "id": "conj_q7",
-              "question": "Which word is a subordinating conjunction in: 'He didn't eat lunch although he was very hungry.'?",
-              "options": [
-                "didn't",
-                "eat",
-                "although",
-                "very"
-              ],
-              "answer": "although",
-              "explanation": "'Although' is a subordinating conjunction indicating contrast or concession."
-            },
-            {
-              "id": "conj_q8",
-              "question": "Select the correlative conjunction pair component: 'Both my sister _____ my mother love reading classic literature.'",
+              "id": 8,
+              "question": "Completa el par correlativo: 'Both my sister _____ my mother love reading classic literature.'",
               "options": [
                 "or",
                 "and",
@@ -937,167 +937,167 @@
                 "but"
               ],
               "answer": "and",
-              "explanation": "The correlative conjunction pair is 'Both...and'."
+              "explanation": "El par correlativo correcto en inglés es 'Both...and' (tanto... como)."
             },
             {
-              "id": "conj_q9",
-              "question": "Find the conjunction in: 'Since we have extra time, let's review the grammar rules once more.'",
+              "id": 9,
+              "question": "Encuentra la conjunción en: 'Since we have extra time, let's review the grammar rules once more.'",
               "options": [
                 "Since",
                 "extra",
-                "let's",
+                "review",
                 "once"
               ],
               "answer": "Since",
-              "explanation": "'Since' functions here as a subordinating conjunction introducing the reason why they should review."
+              "explanation": "'Since' (dado que / ya que) funciona aquí como conjunción subordinante de causa."
             },
             {
-              "id": "conj_q10",
-              "question": "Fill in the blank: 'We can go to the library now, _____ we can wait until tomorrow morning.'",
+              "id": 10,
+              "question": "Completa el espacio vacante: 'We can go to the library now, _____ we can wait until tomorrow morning.'",
               "options": [
-                "but",
                 "or",
                 "because",
-                "since"
+                "so",
+                "for"
               ],
               "answer": "or",
-              "explanation": "'Or' is a coordinating conjunction offering two alternate, equivalent choices."
+              "explanation": "'Or' (o) es una conjunción coordinante que ofrece una alternativa entre dos opciones."
             }
           ]
         },
         "interjections": {
           "id": "interjections",
-          "title": "Interjections",
+          "title": "Interjecciones",
           "iconName": "AlertCircle",
           "bgGradient": "from-indigo-500 to-violet-600",
-          "definition": "An interjection is a word or short exclamation phrase that expresses sudden, strong human emotion, feeling, or surprise. It has no grammatical link to the rest of the sentence.",
-          "purpose": "Interjections add emotional color, urgency, and expressiveness to spoken conversational English.",
+          "definition": "Una interjección es una palabra o frase corta de exclamación que expresa una emoción, sentimiento o sorpresa repentina e intensa. No tiene enlace gramatical con el resto de la oración.",
+          "purpose": "Las interjecciones añaden color emocional, urgencia y expresividad al inglés hablado e informal.",
           "examples": [
             {
               "text": "Wow! That sunset over the ocean is breathtaking.",
               "highlight": "Wow",
-              "type": "Expressing Surprise/Admiration",
-              "description": "Used to show amazement or sudden wonder."
+              "type": "Expresando Asombro / Admiración",
+              "description": "Se usa para mostrar sorpresa o maravilla repentina."
             },
             {
               "text": "Ouch! I accidentally hit my toe against the table leg.",
               "highlight": "Ouch",
-              "type": "Expressing Pain",
-              "description": "A sudden phonetic exclamation for physical pain."
+              "type": "Expresando Dolor",
+              "description": "Exclamación repentina ante un dolor físico."
             },
             {
               "text": "Oops! I accidentally deleted the entire spreadsheet column.",
               "highlight": "Oops",
-              "type": "Expressing Mistake/Accident",
-              "description": "Used when making a minor error or spill."
+              "type": "Expresando un Error / Accidente",
+              "description": "Se usa cuando se comete un pequeño descuido o error."
             },
             {
               "text": "Hooray! Our team won the regional championship trophy.",
               "highlight": "Hooray",
-              "type": "Expressing Celebration/Joy",
-              "description": "Used to shout out and share absolute happiness."
+              "type": "Expresando Celebración / Alegría",
+              "description": "Se usa para vitorear y compartir una alegría colectiva."
             },
             {
               "text": "Alas! The beautiful historical cathedral was burned down.",
               "highlight": "Alas",
-              "type": "Expressing Grief/Sorrow",
-              "description": "A formal or literary expression of deep regret or sorrow."
+              "type": "Expresando Pena / Lamento",
+              "description": "Expresión formal o literaria de profundo pesar."
             },
             {
               "text": "Oh! I understand the entire grammar rule now.",
               "highlight": "Oh",
-              "type": "Expressing Understanding / Realization",
-              "description": "Used when suddenly grasping a concept or receiving news."
+              "type": "Expresando Comprensión / Darse Cuenta",
+              "description": "Se usa cuando repentinamente se capta un concepto o noticia."
             },
             {
               "text": "Shh! The librarian asked us to study quietly.",
               "highlight": "Shh",
-              "type": "Requesting Silence",
-              "description": "Used to demand quietness or reduce ambient volume."
+              "type": "Pidiendo Silencio",
+              "description": "Se usa para pedir guardar silencio."
             },
             {
               "text": "Bravo! You gave a perfect presentation on public speaking.",
               "highlight": "Bravo",
-              "type": "Expressing Praise / Applause",
-              "description": "Used to applaud great accomplishments or performances."
+              "type": "Expresando Elogio / Aplauso",
+              "description": "Se usa para felicitar un gran logro o actuación."
             },
             {
               "text": "Aha! I finally found where the lost keys were hidden.",
               "highlight": "Aha",
-              "type": "Expressing Discovery / Triumph",
-              "description": "An exclamation uttered when finding something or solving a problem."
+              "type": "Expresando Descubrimiento / Triunfo",
+              "description": "Exclamación emitida al resolver un problema o encontrar algo."
             },
             {
               "text": "Eww! The milk has gone sour and smells awful.",
               "highlight": "Eww",
-              "type": "Expressing Disgust",
-              "description": "Used to show strong dislike, distaste, or disgust."
+              "type": "Expresando Repulsión / Asco",
+              "description": "Se usa para mostrar un fuerte rechazo o disgusto."
             }
           ],
           "practice": [
             {
-              "id": "int_q1",
-              "question": "Which interjection is typically used to express sudden pain?",
+              "id": 1,
+              "question": "¿Qué interjección se utiliza típicamente para expresar un dolor físico repentino?",
               "options": [
-                "Wow!",
-                "Hooray!",
                 "Ouch!",
-                "Oops!"
+                "Hooray!",
+                "Oops!",
+                "Shh!"
               ],
               "answer": "Ouch!",
-              "explanation": "'Ouch!' is the standard, universal English exclamation for sudden physical pain."
+              "explanation": "'Ouch!' (¡Ay!) es la exclamación estándar en inglés para el dolor físico."
             },
             {
-              "id": "int_q2",
-              "question": "Identify the interjection in: 'Whew, that was a very close call! We almost got in an accident.'",
+              "id": 2,
+              "question": "Identifica la interjección en: 'Whew, that was a very close call! We almost got in an accident.'",
               "options": [
                 "Whew",
-                "very",
+                "close",
                 "almost",
                 "accident"
               ],
               "answer": "Whew",
-              "explanation": "'Whew' is an interjection representing a vocal sigh of absolute relief or exhaustion."
+              "explanation": "'Whew' (¡Uf!) es una interjección que representa un suspiro de alivio."
             },
             {
-              "id": "int_q3",
-              "question": "Choose the interjection expressing excitement/joy to complete the sentence: '_____! We have a week of school holidays!'",
+              "id": 3,
+              "question": "Elige la interjección que expresa emoción/alegría: '_____! We have a week of school holidays!'",
               "options": [
-                "Alas",
                 "Yay",
-                "Oops",
-                "Ugh"
+                "Alas",
+                "Ugh",
+                "Oops"
               ],
               "answer": "Yay",
-              "explanation": "'Yay' is an interjection used to express immediate excitement, delight, or celebration."
+              "explanation": "'Yay' (¡Siii! / ¡Genial!) se usa para expresar alegría o entusiasmo inmediato."
             },
             {
-              "id": "int_q4",
-              "question": "What emotion does the interjection 'Ugh' typically express?",
+              "id": 4,
+              "question": "¿Qué emoción expresa típicamente la interjección 'Ugh'?",
               "options": [
-                "Delight",
-                "Grief",
-                "Disgust or frustration",
-                "Pain"
+                "Molestia o desagrado",
+                "Alegría extrema",
+                "Miedo",
+                "Sorpresa agradable"
               ],
-              "answer": "Disgust or frustration",
-              "explanation": "'Ugh' is commonly uttered to show annoyance, frustration, dislike, or mild disgust."
+              "answer": "Molestia o desagrado",
+              "explanation": "'Ugh' se pronuncia para expresar molestia, frustración o desagrado."
             },
             {
-              "id": "int_q5",
-              "question": "Which interjection is commonly used to request silence?",
+              "id": 5,
+              "question": "¿Qué interjección se usa comúnmente para solicitar silencio?",
               "options": [
                 "Shh!",
                 "Wow!",
-                "Alas!",
-                "Ouch!"
+                "Aha!",
+                "Bravo!"
               ],
               "answer": "Shh!",
-              "explanation": "'Shh!' is the standard exclamation used to tell someone to be quiet."
+              "explanation": "'Shh!' (¡Chist! / ¡Silencio!) es la exclamación estándar para pedir silencio."
             },
             {
-              "id": "int_q6",
-              "question": "Identify the interjection in: 'Aha, I knew I would solve this English crossword puzzle!'",
+              "id": 6,
+              "question": "Identifica la interjección en: 'Aha, I knew I would solve this English crossword puzzle!'",
               "options": [
                 "Aha",
                 "knew",
@@ -1105,110 +1105,110 @@
                 "puzzle"
               ],
               "answer": "Aha",
-              "explanation": "'Aha' is an interjection expressing triumph, discovery, or sudden understanding."
+              "explanation": "'Aha' (¡Ajá!) expresa triunfo o descubrimiento repentino."
             },
             {
-              "id": "int_q7",
-              "question": "Choose the interjection expressing praise/approval: '_____! That was an absolutely brilliant performance on stage!'",
+              "id": 7,
+              "question": "Elige la interjección que expresa elogio o aprobación: '_____! That was an absolutely brilliant performance on stage!'",
               "options": [
                 "Bravo",
+                "Eww",
                 "Oops",
-                "Ugh",
-                "Ouch"
+                "Alas"
               ],
               "answer": "Bravo",
-              "explanation": "'Bravo' is a loan word used as an interjection to celebrate high excellence or success."
+              "explanation": "'Bravo' (¡Bravo!) se utiliza para aplaudir y felicitar una gran actuación."
             },
             {
-              "id": "int_q8",
-              "question": "What does the interjection 'Oops' typically represent?",
+              "id": 8,
+              "question": "¿Qué representa típicamente la interjección 'Oops'?",
               "options": [
-                "A celebration",
-                "A minor mistake or accident",
-                "Sudden pain",
-                "Deep sadness"
+                "Un pequeño error o descuido",
+                "Gran dolor físico",
+                "Miedo intenso",
+                "Lamento profundo"
               ],
-              "answer": "A minor mistake or accident",
-              "explanation": "'Oops' is used to acknowledge small, harmless accidents or slips."
+              "answer": "Un pequeño error o descuido",
+              "explanation": "'Oops' (¡Uy!) se usa al cometer un pequeño error o despiste involuntario."
             },
             {
-              "id": "int_q9",
-              "question": "Find the interjection in: 'Oh, I didn't realize you were waiting for me here.'",
+              "id": 9,
+              "question": "Encuentra la interjección en: 'Oh, I didn't realize you were waiting for me here.'",
               "options": [
                 "Oh",
-                "didn't",
                 "realize",
-                "waiting"
+                "waiting",
+                "here"
               ],
               "answer": "Oh",
-              "explanation": "'Oh' is an interjection representing sudden realization or minor surprise."
+              "explanation": "'Oh' (¡Ah! / ¡Oh!) representa una leve sorpresa o darse cuenta de algo."
             },
             {
-              "id": "int_q10",
-              "question": "Which interjection best expresses mild annoyance or disgust?",
+              "id": 10,
+              "question": "¿Qué interjección expresa mejor asco o repulsión?",
               "options": [
-                "Yippee",
                 "Eww",
-                "Wow",
-                "Bravo"
+                "Yay",
+                "Bravo",
+                "Aha"
               ],
               "answer": "Eww",
-              "explanation": "'Eww' is used specifically to express aversion or disgust towards something unpleasant."
+              "explanation": "'Eww' (¡Guácala! / ¡Qué asco!) se utiliza para expresar asco o repulsión."
             }
           ]
         }
       }
     },
     "day2": {
-      "title": "Pronouns",
+      "title": "Pronombres",
       "pronounReferenceChart": [
         {
-          "subject": "I",
-          "object": "Me",
-          "possessiveAdjective": "My",
-          "possessivePronoun": "Mine"
+          "subject": "I (Yo)",
+          "object": "Me (Mí/Me)",
+          "possessiveAdjective": "My (Mi/Mis)",
+          "possessivePronoun": "Mine (Mío/Mía)"
         },
         {
-          "subject": "You",
-          "object": "You",
-          "possessiveAdjective": "Your",
-          "possessivePronoun": "Yours"
+          "subject": "You (Tú/Usted)",
+          "object": "You (Te/A ti)",
+          "possessiveAdjective": "Your (Tu/Sus)",
+          "possessivePronoun": "Yours (Tuyo/Suyo)"
         },
         {
-          "subject": "He",
-          "object": "Him",
-          "possessiveAdjective": "His",
-          "possessivePronoun": "His"
+          "subject": "He (Él)",
+          "object": "Him (Lo/Le/Él)",
+          "possessiveAdjective": "His (Su/Sus)",
+          "possessivePronoun": "His (Suyo/De él)"
         },
         {
-          "subject": "She",
-          "object": "Her",
-          "possessiveAdjective": "Her",
-          "possessivePronoun": "Hers"
+          "subject": "She (Ella)",
+          "object": "Her (La/Le/Ella)",
+          "possessiveAdjective": "Her (Su/Sus)",
+          "possessivePronoun": "Hers (Suyo/De ella)"
         },
         {
-          "subject": "It",
-          "object": "It",
-          "possessiveAdjective": "Its",
-          "possessivePronoun": "Its"
+          "subject": "It (Ello/Eso)",
+          "object": "It (Lo/La/Ello)",
+          "possessiveAdjective": "Its (Su/Sus)",
+          "possessivePronoun": "Its (Suyo/De ello)"
         },
         {
-          "subject": "We",
-          "object": "Us",
-          "possessiveAdjective": "Our",
-          "possessivePronoun": "Ours"
+          "subject": "We (Nosotros)",
+          "object": "Us (Nos/Nosotros)",
+          "possessiveAdjective": "Our (Nuestro/a)",
+          "possessivePronoun": "Ours (Nuestro/a)"
         },
         {
-          "subject": "You",
-          "object": "You",
-          "possessiveAdjective": "Your",
-          "possessivePronoun": "Yours"
+          "subject": "You (Ustedes/Vosotros)",
+          "object": "You (Les/Os)",
+          "possessiveAdjective": "Your (Vuestro/Sus)",
+          "possessivePronoun": "Yours (Vuestro/Suyo)"
         },
         {
-          "subject": "They",
-          "object": "Them",
-          "possessiveAdjective": "Their",
-          "possessivePronoun": "Theirs"
+          "subject": "They (Ellos/Ellas)",
+          "object": "Them (Los/Las/Les)",
+          "possessiveAdjective": "Their (Su/Sus)",
+          "possessivePronoun": "Theirs (Suyo/De ellos)"
         }
       ],
       "underlineExercises": [
@@ -1237,67 +1237,13 @@
           ],
           "translation": {
             "hi": "वह अपनी बिल्ली से प्यार करती है।",
-            "mr": "ती तिच्या मांजरीवर प्रेम करते."
+            "mr": "ती तिच्या मांजरीवर प्रेम करते.",
+            "es": "Ella ama a su gato."
           }
         },
         {
           "id": 2,
-          "sentence": "This is my book.",
-          "words": [
-            {
-              "word": "This",
-              "isPronoun": false
-            },
-            {
-              "word": "is",
-              "isPronoun": false
-            },
-            {
-              "word": "my",
-              "isPronoun": true,
-              "correctType": "Possessive Adjective"
-            },
-            {
-              "word": "book.",
-              "isPronoun": false
-            }
-          ],
-          "translation": {
-            "hi": "यह मेरी किताब है।",
-            "mr": "हे माझे पुस्तक आहे."
-          }
-        },
-        {
-          "id": 3,
-          "sentence": "Can you help us?",
-          "words": [
-            {
-              "word": "Can",
-              "isPronoun": false
-            },
-            {
-              "word": "you",
-              "isPronoun": true,
-              "correctType": "Subject Pronoun"
-            },
-            {
-              "word": "help",
-              "isPronoun": false
-            },
-            {
-              "word": "us?",
-              "isPronoun": true,
-              "correctType": "Object Pronoun"
-            }
-          ],
-          "translation": {
-            "hi": "क्या आप हमारी मदद कर सकते हैं?",
-            "mr": "तुम्ही आम्हाला मदत करू शकता का?"
-          }
-        },
-        {
-          "id": 4,
-          "sentence": "They went to their house.",
+          "sentence": "They gave us the keys.",
           "words": [
             {
               "word": "They",
@@ -1305,11 +1251,110 @@
               "correctType": "Subject Pronoun"
             },
             {
-              "word": "went",
+              "word": "gave",
               "isPronoun": false
             },
             {
-              "word": "to",
+              "word": "us",
+              "isPronoun": true,
+              "correctType": "Object Pronoun"
+            },
+            {
+              "word": "the",
+              "isPronoun": false
+            },
+            {
+              "word": "keys.",
+              "isPronoun": false
+            }
+          ],
+          "translation": {
+            "hi": "उन्होंने हमें चाबियाँ दीं।",
+            "mr": "त्यांनी आम्हाला चाब्या दिल्या.",
+            "es": "Ellos nos dieron las llaves."
+          }
+        },
+        {
+          "id": 3,
+          "sentence": "Is this book yours or mine?",
+          "words": [
+            {
+              "word": "Is",
+              "isPronoun": false
+            },
+            {
+              "word": "this",
+              "isPronoun": false
+            },
+            {
+              "word": "book",
+              "isPronoun": false
+            },
+            {
+              "word": "yours",
+              "isPronoun": true,
+              "correctType": "Possessive Pronoun"
+            },
+            {
+              "word": "or",
+              "isPronoun": false
+            },
+            {
+              "word": "mine?",
+              "isPronoun": true,
+              "correctType": "Possessive Pronoun"
+            }
+          ],
+          "translation": {
+            "hi": "क्या यह किताब आपकी है या मेरी?",
+            "mr": "हे पुस्तक तुमचे आहे की माझे?",
+            "es": "¿Este libro es tuyo o mío?"
+          }
+        },
+        {
+          "id": 4,
+          "sentence": "He solved the problem himself.",
+          "words": [
+            {
+              "word": "He",
+              "isPronoun": true,
+              "correctType": "Subject Pronoun"
+            },
+            {
+              "word": "solved",
+              "isPronoun": false
+            },
+            {
+              "word": "the",
+              "isPronoun": false
+            },
+            {
+              "word": "problem",
+              "isPronoun": false
+            },
+            {
+              "word": "himself.",
+              "isPronoun": true,
+              "correctType": "Reflexive Pronoun"
+            }
+          ],
+          "translation": {
+            "hi": "उसने खुद ही समस्या का समाधान किया।",
+            "mr": "त्याने स्वतःच समस्या सोडवली.",
+            "es": "Él mismo resolvió el problema."
+          }
+        },
+        {
+          "id": 5,
+          "sentence": "Everyone enjoyed their dinner.",
+          "words": [
+            {
+              "word": "Everyone",
+              "isPronoun": true,
+              "correctType": "Indefinite Pronoun"
+            },
+            {
+              "word": "enjoyed",
               "isPronoun": false
             },
             {
@@ -1318,40 +1363,14 @@
               "correctType": "Possessive Adjective"
             },
             {
-              "word": "house.",
+              "word": "dinner.",
               "isPronoun": false
             }
           ],
           "translation": {
-            "hi": "वे अपने घर गए।",
-            "mr": "ते त्यांच्या घरी गेले."
-          }
-        },
-        {
-          "id": 5,
-          "sentence": "That bike is mine.",
-          "words": [
-            {
-              "word": "That",
-              "isPronoun": false
-            },
-            {
-              "word": "bike",
-              "isPronoun": false
-            },
-            {
-              "word": "is",
-              "isPronoun": false
-            },
-            {
-              "word": "mine.",
-              "isPronoun": true,
-              "correctType": "Possessive Pronoun"
-            }
-          ],
-          "translation": {
-            "hi": "वह बाइक मेरी है।",
-            "mr": "ती बाईक माझी आहे."
+            "hi": "सभी ने अपने रात के खाने का आनंद लिया।",
+            "mr": "सर्वानी त्यांच्या रात्रीच्या जेवणाचा आनंद घेतला.",
+            "es": "Todos disfrutaron de su cena."
           }
         }
       ],
@@ -1368,52 +1387,56 @@
           "fullSentence": "He likes to play soccer.",
           "translation": {
             "hi": "उसे सॉकर खेलना पसंद है।",
-            "mr": "त्याला सॉकर खेळायला आवडते."
+            "mr": "त्याला सॉकर खेळायला आवडते.",
+            "es": "A él le gusta jugar al fútbol."
           }
         },
         {
           "id": 2,
-          "textBefore": "The teacher gave ",
-          "textAfter": " a task.",
+          "textBefore": "The teacher called ",
+          "textAfter": " after class.",
           "options": [
             "they",
             "them"
           ],
           "correctAnswer": "them",
-          "fullSentence": "The teacher gave them a task.",
+          "fullSentence": "The teacher called them after class.",
           "translation": {
-            "hi": "शिक्षक ने उन्हें एक काम दिया।",
-            "mr": "शिक्षकांनी त्यांना एक काम दिले."
+            "hi": "शिक्षक ने कक्षा के बाद उन्हें बुलाया।",
+            "mr": "शिक्षकांनी वर्गानंतर त्यांना बोलावले.",
+            "es": "El profesor los llamó después de clase."
           }
         },
         {
           "id": 3,
-          "textBefore": "Is this ",
-          "textAfter": " backpack?",
+          "textBefore": "This coat is ",
+          "textAfter": ".",
           "options": [
-            "your",
-            "yours"
+            "her",
+            "hers"
           ],
-          "correctAnswer": "your",
-          "fullSentence": "Is this your backpack?",
+          "correctAnswer": "hers",
+          "fullSentence": "This coat is hers.",
           "translation": {
-            "hi": "क्या यह आपका बैकपैक है?",
-            "mr": "हे तुझे दप्तर आहे का?"
+            "hi": "यह कोट उसका है।",
+            "mr": "हा कोट तिचा आहे.",
+            "es": "Este abrigo es de ella."
           }
         },
         {
           "id": 4,
-          "textBefore": "",
-          "textAfter": " are going to the park.",
+          "textBefore": "Mark and ",
+          "textAfter": " went to the library.",
           "options": [
-            "We",
-            "Us"
+            "I",
+            "me"
           ],
-          "correctAnswer": "We",
-          "fullSentence": "We are going to the park.",
+          "correctAnswer": "I",
+          "fullSentence": "Mark and I went to the library.",
           "translation": {
-            "hi": "हम पार्क जा रहे हैं।",
-            "mr": "आम्ही बागेत जात आहोत."
+            "hi": "मार्क और मैं लाइब्रेरी गए।",
+            "mr": "मार्क आणि मी वाचनालयात गेलो.",
+            "es": "Mark y yo fuimos a la biblioteca."
           }
         }
       ],
@@ -1431,8 +1454,10 @@
           "translation": {
             "hi": "जॉन और मैं स्टोर गए।",
             "mr": "जॉन आणि मी दुकानात गेलो.",
-            "instr_hi": "जॉन और मुझे ('John and I') कर्ता सर्वनाम (Subject Pronoun) से बदलें:",
-            "instr_mr": "'John and I' च्या ऐवजी योग्य कर्ता सर्वनाम (Subject Pronoun) वापरा:"
+            "es": "John y yo fuimos a la tienda.",
+            "instr_hi": "'John and I' को कर्ता सर्वनाम (Subject Pronoun) से बदलें:",
+            "instr_mr": "'John and I' च्या ऐवजी योग्य कर्ता सर्वनाम (Subject Pronoun) वापरा:",
+            "instr_es": "Reemplaza 'John and I' con un pronombre sujeto (Subject Pronoun):"
           }
         },
         {
@@ -1450,8 +1475,10 @@
           "translation": {
             "hi": "कुत्ते ने गेंद का पीछा किया।",
             "mr": "कुत्र्याने चेंडूचा पाठलाग केला.",
+            "es": "El perro persiguió la pelota.",
             "instr_hi": "'The dog' को 'It' से बदलें:",
-            "instr_mr": "'The dog' च्या ऐवजी 'It' वापरा:"
+            "instr_mr": "'The dog' च्या ऐवजी 'It' वापरा:",
+            "instr_es": "Reemplaza 'The dog' con 'It':"
           }
         },
         {
@@ -1467,8 +1494,10 @@
           "translation": {
             "hi": "यह सारा का पेन है।",
             "mr": "हा साराचा पेन आहे.",
+            "es": "Este es el bolígrafo de Sara.",
             "instr_hi": "'Sara's' को संबंधवाचक विशेषण (Possessive Adjective) से बदलें:",
-            "instr_mr": "'Sara's' च्या ऐवजी योग्य मालकी दर्शक विशेषण (Possessive Adjective) वापरा:"
+            "instr_mr": "'Sara's' च्या ऐवजी योग्य मालकी दर्शक विशेषण (Possessive Adjective) वापरा:",
+            "instr_es": "Reemplaza 'Sara's' con un adjetivo posesivo (Possessive Adjective):"
           }
         },
         {
@@ -1484,8 +1513,10 @@
           "translation": {
             "hi": "शिक्षक ने जैक और मुझसे बात की।",
             "mr": "शिक्षकांनी जॅक आणि माझ्याशी संवाद साधला.",
+            "es": "El profesor habló con Jack y conmigo.",
             "instr_hi": "'Jack and me' को कर्म सर्वनाम (Object Pronoun) से बदलें:",
-            "instr_mr": "'Jack and me' च्या ऐवजी योग्य कर्म सर्वनाम (Object Pronoun) वापरा:"
+            "instr_mr": "'Jack and me' च्या ऐवजी योग्य कर्म सर्वनाम (Object Pronoun) वापरा:",
+            "instr_es": "Reemplaza 'Jack and me' con un pronombre complemento (Object Pronoun):"
           }
         }
       ],
@@ -1501,8 +1532,10 @@
           "translation": {
             "hi": "वह पार्क जा रही है।",
             "mr": "ती बागेत जात आहे.",
+            "es": "Ella va al parque.",
             "expl_hi": "कर्ता (Subject) के रूप में कर्म सर्वनाम 'Her' के बजाय कर्ता सर्वनाम 'She' का उपयोग करें।",
-            "expl_mr": "कर्ता म्हणून कर्म सर्वनाम 'Her' ऐवजी कर्ता सर्वनाम 'She' चा वापर करा."
+            "expl_mr": "कर्ता म्हणून कर्म सर्वनाम 'Her' ऐवजी कर्ता सर्वनाम 'She' चा वापर करा.",
+            "expl_es": "Usa el pronombre sujeto 'She' en lugar del pronombre complemento 'Her' como sujeto."
           }
         },
         {
@@ -1516,8 +1549,10 @@
           "translation": {
             "hi": "यह खिलौना उसका है।",
             "mr": "हे खेळणे तिचे आहे.",
-            "expl_hi": "सही संबंधवाचक सर्वनाम 'hers' है। किसी एपोस्ट्रोफी (') या अतिरिक्त 's' की आवश्यकता नहीं है।",
-            "expl_mr": "योग्य मालकी दर्शक सर्वनाम 'hers' आहे. अपॉस्ट्रॉफी (') किंवा जास्तीच्या 's' ची आवश्यकता नाही."
+            "es": "Este juguete es de ella.",
+            "expl_hi": "सही संबंधवाचक सर्वनाम 'hers' है। किसी एपोस्ट्रॉफी (') या अतिरिक्त 's' की आवश्यकता नहीं है।",
+            "expl_mr": "योग्य मालकी दर्शक सर्वनाम 'hers' आहे. अपॉस्ट्रॉफी (') किंवा जास्तीच्या 's' ची आवश्यकता नाही.",
+            "expl_es": "El pronombre posesivo correcto es 'hers'. No se necesita apóstrofe ni una 's' adicional."
           }
         },
         {
@@ -1531,8 +1566,10 @@
           "translation": {
             "hi": "मैं आपसे मिलकर खुश हूँ।",
             "mr": "मला तुला भेटून आनंद झाला.",
+            "es": "Me alegra verte.",
             "expl_hi": "वाक्य के कर्ता (Subject) के रूप में 'Me' के बजाय कर्ता सर्वनाम 'I' का उपयोग करें।",
-            "expl_mr": "वाक्याचा कर्ता म्हणून 'Me' ऐवजी कर्ता सर्वनाम 'I' चा वापर करा."
+            "expl_mr": "वाक्याचा कर्ता म्हणून 'Me' ऐवजी कर्ता सर्वनाम 'I' चा वापर करा.",
+            "expl_es": "Usa el pronombre sujeto 'I' en lugar de 'Me' como sujeto de la oración."
           }
         },
         {
@@ -1546,8 +1583,10 @@
           "translation": {
             "hi": "उन्हें किताबें पढ़ना पसंद है।",
             "mr": "त्यांना पुस्तके वाचायला आवडते.",
+            "es": "A ellos les encanta leer libros.",
             "expl_hi": "कर्ता (Subject) के रूप में कर्म सर्वनाम 'Them' के बजाय कर्ता सर्वनाम 'They' का उपयोग करें।",
-            "expl_mr": "कर्ता म्हणून कर्म सर्वनाम 'Them' ऐवजी कर्ता सर्वनाम 'They' चा वापर करा."
+            "expl_mr": "कर्ता म्हणून कर्म सर्वनाम 'Them' ऐवजी कर्ता सर्वनाम 'They' चा वापर करा.",
+            "expl_es": "Usa el pronombre sujeto 'They' en lugar del pronombre complemento 'Them' como sujeto."
           }
         }
       ]
@@ -3003,7 +3042,7 @@
       ]
     },
     "day5": {
-      "title": "Present Simple Tense",
+      "title": "Presente Simple (Present Simple Tense)",
       "sentences": [
         {
           "id": 1,
@@ -3013,7 +3052,8 @@
             "wake",
             "wakes"
           ],
-          "meaning": "To get out of bed in the morning."
+          "translation": "Me levanto temprano.",
+          "meaning": "Levantarse de la cama por la mañana."
         },
         {
           "id": 2,
@@ -3023,7 +3063,8 @@
             "does",
             "do"
           ],
-          "meaning": "She dislikes coffee."
+          "translation": "A ella no le gusta el café.",
+          "meaning": "Expresa que no le agrada el café."
         },
         {
           "id": 3,
@@ -3033,7 +3074,8 @@
             "play",
             "plays"
           ],
-          "meaning": "They play a game on Sundays."
+          "translation": "Ellos juegan al juego los domingos.",
+          "meaning": "Juegan a un deporte todos los domingos."
         },
         {
           "id": 4,
@@ -3043,7 +3085,8 @@
             "watch",
             "watches"
           ],
-          "meaning": "He doesn't view television everyday."
+          "translation": "Él no ve la televisión a diario.",
+          "meaning": "No mira televisión todos los días."
         },
         {
           "id": 5,
@@ -3053,7 +3096,8 @@
             "study",
             "studies"
           ],
-          "meaning": "We learn the English language."
+          "translation": "Nosotros estudiamos inglés.",
+          "meaning": "Aprendemos el idioma inglés."
         },
         {
           "id": 6,
@@ -3063,7 +3107,8 @@
             "do",
             "does"
           ],
-          "meaning": "I avoid unhealthy food."
+          "translation": "Yo no como comida chatarra.",
+          "meaning": "Evito la comida poco saludable."
         },
         {
           "id": 7,
@@ -3073,7 +3118,8 @@
             "writes",
             "write"
           ],
-          "meaning": "Her handwriting is clean."
+          "translation": "Ella escribe con letra limpia.",
+          "meaning": "Su caligrafía es limpia y ordenada."
         },
         {
           "id": 8,
@@ -3083,7 +3129,8 @@
             "run",
             "runs"
           ],
-          "meaning": "He moves at a slower pace."
+          "translation": "Él no corre rápido.",
+          "meaning": "Se mueve a un ritmo más lento."
         },
         {
           "id": 9,
@@ -3093,7 +3140,8 @@
             "live",
             "lives"
           ],
-          "meaning": "Their home is in Delhi."
+          "translation": "Ellos viven en Delhi.",
+          "meaning": "Su hogar está ubicado en Delhi."
         },
         {
           "id": 10,
@@ -3103,7 +3151,8 @@
             "go",
             "goes"
           ],
-          "meaning": "We stay indoors after dark."
+          "translation": "Nosotros no salimos de noche.",
+          "meaning": "Nos quedamos en casa después de anochecer."
         },
         {
           "id": 11,
@@ -3113,7 +3162,8 @@
             "like",
             "likes"
           ],
-          "meaning": "I enjoy listening to songs."
+          "translation": "Me gusta la música.",
+          "meaning": "Disfruto escuchar canciones."
         },
         {
           "id": 12,
@@ -3123,7 +3173,8 @@
             "sing",
             "sings"
           ],
-          "meaning": "She sings softly."
+          "translation": "Ella no canta fuerte.",
+          "meaning": "Canta de manera suave o baja."
         },
         {
           "id": 13,
@@ -3133,7 +3184,8 @@
             "drinks",
             "drink"
           ],
-          "meaning": "He consumes milk daily."
+          "translation": "Él toma leche todos los días.",
+          "meaning": "Consume leche a diario."
         },
         {
           "id": 14,
@@ -3143,7 +3195,8 @@
             "waste",
             "wastes"
           ],
-          "meaning": "They use their time productively."
+          "translation": "Ellos no desperdician el tiempo.",
+          "meaning": "Aprovechan su tiempo de manera productiva."
         },
         {
           "id": 15,
@@ -3153,7 +3206,8 @@
             "learn",
             "learns"
           ],
-          "meaning": "We acquire new knowledge."
+          "translation": "Nosotros aprendemos cosas nuevas.",
+          "meaning": "Adquirimos nuevos conocimientos."
         },
         {
           "id": 16,
@@ -3163,7 +3217,8 @@
             "forget",
             "forgets"
           ],
-          "meaning": "I always remember school tasks."
+          "translation": "No olvido mis deberes.",
+          "meaning": "Siempre recuerdo hacer las tareas escolares."
         },
         {
           "id": 17,
@@ -3173,7 +3228,8 @@
             "cooks",
             "cook"
           ],
-          "meaning": "She prepares meals."
+          "translation": "Ella cocina la comida.",
+          "meaning": "Prepara los alimentos."
         },
         {
           "id": 18,
@@ -3183,7 +3239,8 @@
             "play",
             "plays"
           ],
-          "meaning": "He doesn't participate in football."
+          "translation": "Él no juega al fútbol.",
+          "meaning": "No practica ni juega al fútbol."
         },
         {
           "id": 19,
@@ -3193,7 +3250,8 @@
             "travel",
             "travels"
           ],
-          "meaning": "They visit different places frequently."
+          "translation": "Ellos viajan a menudo.",
+          "meaning": "Visitantes de distintos lugares con frecuencia."
         },
         {
           "id": 20,
@@ -3203,7 +3261,8 @@
             "ignore",
             "ignores"
           ],
-          "meaning": "We follow the regulations."
+          "translation": "Nosotros no ignoramos las reglas.",
+          "meaning": "Cumplimos las normas establecidas."
         },
         {
           "id": 21,
@@ -3213,7 +3272,8 @@
             "clean",
             "cleans"
           ],
-          "meaning": "I keep my room tidy."
+          "translation": "Limpio mi habitación a diario.",
+          "meaning": "Mantengo mi cuarto ordenado todos los días."
         },
         {
           "id": 22,
@@ -3223,7 +3283,8 @@
             "write",
             "writes"
           ],
-          "meaning": "She has good writing skills."
+          "translation": "Ella no escribe mal.",
+          "meaning": "Tiene buenas habilidades de redacción."
         },
         {
           "id": 23,
@@ -3233,7 +3294,8 @@
             "studies",
             "study"
           ],
-          "meaning": "He does his coursework late."
+          "translation": "Él estudia de noche.",
+          "meaning": "Realiza sus tareas académicas tarde."
         },
         {
           "id": 24,
@@ -3243,7 +3305,8 @@
             "fight",
             "fights"
           ],
-          "meaning": "They keep friendly relationships."
+          "translation": "Ellos no pelean con sus amigos.",
+          "meaning": "Mantienen relaciones amistosas."
         },
         {
           "id": 25,
@@ -3253,7 +3316,8 @@
             "celebrate",
             "celebrates"
           ],
-          "meaning": "We enjoy cultural events."
+          "translation": "Celebramos fiestas y festividades.",
+          "meaning": "Disfrutamos los eventos culturales."
         },
         {
           "id": 26,
@@ -3263,7 +3327,8 @@
             "drive",
             "drives"
           ],
-          "meaning": "I drive at a safe speed."
+          "translation": "Yo no conduzco rápido.",
+          "meaning": "Manejo a una velocidad segura."
         },
         {
           "id": 27,
@@ -3273,7 +3338,8 @@
             "sings",
             "sing"
           ],
-          "meaning": "Her singing is pleasant."
+          "translation": "Ella canta hermosamente.",
+          "meaning": "Su canto es muy agradable."
         },
         {
           "id": 28,
@@ -3283,7 +3349,8 @@
             "drink",
             "drinks"
           ],
-          "meaning": "He avoids hot tea."
+          "translation": "Él no toma té.",
+          "meaning": "Evita el té caliente."
         },
         {
           "id": 29,
@@ -3293,7 +3360,8 @@
             "build",
             "builds"
           ],
-          "meaning": "Their job is house construction."
+          "translation": "Ellos construyen casas.",
+          "meaning": "Su trabajo es la construcción de viviendas."
         },
         {
           "id": 30,
@@ -3303,7 +3371,8 @@
             "break",
             "breaks"
           ],
-          "meaning": "We keep our word."
+          "translation": "Nosotros no rompemos promesas.",
+          "meaning": "Mantenemos nuestra palabra."
         },
         {
           "id": 31,
@@ -3313,7 +3382,8 @@
             "read",
             "reads"
           ],
-          "meaning": "I look at and understand text."
+          "translation": "Yo leo libros.",
+          "meaning": "Disfruto leer y comprender textos."
         },
         {
           "id": 32,
@@ -3323,7 +3393,8 @@
             "play",
             "plays"
           ],
-          "meaning": "She doesn't play the game of tennis."
+          "translation": "Ella no juega al tenis.",
+          "meaning": "No practica el deporte del tenis."
         },
         {
           "id": 33,
@@ -3333,7 +3404,8 @@
             "drives",
             "drive"
           ],
-          "meaning": "He is a safe driver."
+          "translation": "Él conduce con cuidado.",
+          "meaning": "Es un conductor prudente y seguro."
         },
         {
           "id": 34,
@@ -3343,7 +3415,8 @@
             "travel",
             "travels"
           ],
-          "meaning": "They avoid taking trains."
+          "translation": "Ellos no viajan en tren.",
+          "meaning": "Evitan tomar trenes para viajar."
         },
         {
           "id": 35,
@@ -3353,7 +3426,8 @@
             "enjoy",
             "enjoys"
           ],
-          "meaning": "We have fun."
+          "translation": "Disfrutamos nuestro tiempo.",
+          "meaning": "Nos divertimos juntos."
         },
         {
           "id": 36,
@@ -3363,7 +3437,8 @@
             "like",
             "likes"
           ],
-          "meaning": "I prefer peaceful settings."
+          "translation": "No me gusta el ruido.",
+          "meaning": "Prefiero los entornos pacíficos y tranquilos."
         },
         {
           "id": 37,
@@ -3373,7 +3448,8 @@
             "dances",
             "dance"
           ],
-          "meaning": "She is good at dancing."
+          "translation": "Ella baila muy bien.",
+          "meaning": "Tiene talento para la danza."
         },
         {
           "id": 38,
@@ -3383,7 +3459,8 @@
             "study",
             "studies"
           ],
-          "meaning": "He lacks daily study habits."
+          "translation": "Él no estudia con regularidad.",
+          "meaning": "Carece de hábitos diarios de estudio."
         },
         {
           "id": 39,
@@ -3393,7 +3470,8 @@
             "help",
             "helps"
           ],
-          "meaning": "They are kind and cooperative."
+          "translation": "Ellos ayudan a los demás.",
+          "meaning": "Son personas amables y colaboradoras."
         },
         {
           "id": 40,
@@ -3403,7 +3481,8 @@
             "argue",
             "argues"
           ],
-          "meaning": "We maintain peaceful talk."
+          "translation": "Nosotros no discutimos mucho.",
+          "meaning": "Mantenemos conversaciones pacíficas."
         },
         {
           "id": 41,
@@ -3413,7 +3492,8 @@
             "drink",
             "drinks"
           ],
-          "meaning": "I stay hydrated daily."
+          "translation": "Tomo agua regularmente.",
+          "meaning": "Me mantengo hidratado a diario."
         },
         {
           "id": 42,
@@ -3423,7 +3503,8 @@
             "watch",
             "watches"
           ],
-          "meaning": "She doesn't watch animated shows."
+          "translation": "Ella no ve dibujos animados.",
+          "meaning": "No mira programas animados."
         },
         {
           "id": 43,
@@ -3433,7 +3514,8 @@
             "play",
             "plays"
           ],
-          "meaning": "They have recreation in the park."
+          "translation": "Ellos juegan en el parque.",
+          "meaning": "Se recrean y divierten en el parque."
         },
         {
           "id": 44,
@@ -3443,7 +3525,8 @@
             "eat",
             "eats"
           ],
-          "meaning": "He dislikes vegetables."
+          "translation": "Él no come verduras.",
+          "meaning": "No le agradan los vegetales."
         },
         {
           "id": 45,
@@ -3453,7 +3536,8 @@
             "visit",
             "visits"
           ],
-          "meaning": "We go see our elderly family."
+          "translation": "Visitamos a nuestros abuelos.",
+          "meaning": "Vamos a ver a nuestros abuelos."
         },
         {
           "id": 46,
@@ -3463,7 +3547,8 @@
             "sleep",
             "sleeps"
           ],
-          "meaning": "I go to bed early."
+          "translation": "Yo no me duermo tarde.",
+          "meaning": "Me voy a la cama temprano."
         },
         {
           "id": 47,
@@ -3473,7 +3558,8 @@
             "reads",
             "read"
           ],
-          "meaning": "She reads fiction tales."
+          "translation": "Ella lee cuentos.",
+          "meaning": "Lee historias de ficción."
         },
         {
           "id": 48,
@@ -3483,7 +3569,8 @@
             "help",
             "helps"
           ],
-          "meaning": "He doesn't assist his brother."
+          "translation": "Él no ayuda a su hermano.",
+          "meaning": "No le brinda asistencia a su hermano."
         },
         {
           "id": 49,
@@ -3493,7 +3580,8 @@
             "enjoy",
             "enjoys"
           ],
-          "meaning": "They love hearing songs."
+          "translation": "Ellos disfrutan la música.",
+          "meaning": "Les encanta escuchar canciones."
         },
         {
           "id": 50,
@@ -3503,7 +3591,8 @@
             "skip",
             "skips"
           ],
-          "meaning": "We attend school regularly."
+          "translation": "Nosotros no faltamos a clase.",
+          "meaning": "Asistimos a la escuela con regularidad."
         },
         {
           "id": 51,
@@ -3513,7 +3602,8 @@
             "write",
             "writes"
           ],
-          "meaning": "I write messages on paper."
+          "translation": "Yo escribo cartas.",
+          "meaning": "Escribo mensajes en papel."
         },
         {
           "id": 52,
@@ -3523,7 +3613,8 @@
             "drive",
             "drives"
           ],
-          "meaning": "She doesn't know how to drive."
+          "translation": "Ella no conduce un automóvil.",
+          "meaning": "No sabe manejar automóviles."
         },
         {
           "id": 53,
@@ -3533,7 +3624,8 @@
             "teaches",
             "teach"
           ],
-          "meaning": "He is a school instructor."
+          "translation": "Él enseña a los estudiantes.",
+          "meaning": "Trabaja como profesor o instructor."
         },
         {
           "id": 54,
@@ -3543,7 +3635,8 @@
             "clean",
             "cleans"
           ],
-          "meaning": "Their room stays messy."
+          "translation": "Ellos no limpian su habitación.",
+          "meaning": "Su cuarto permanece desordenado."
         },
         {
           "id": 55,
@@ -3553,7 +3646,8 @@
             "play",
             "plays"
           ],
-          "meaning": "We play indoor or outdoor games."
+          "translation": "Nosotros jugamos juegos.",
+          "meaning": "Participamos en juegos de mesa o deportes."
         },
         {
           "id": 56,
@@ -3563,7 +3657,8 @@
             "tell",
             "tells"
           ],
-          "meaning": "I always speak the truth."
+          "translation": "Yo no digo mentiras.",
+          "meaning": "Siempre digo la verdad."
         },
         {
           "id": 57,
@@ -3573,7 +3668,8 @@
             "paints",
             "paint"
           ],
-          "meaning": "She makes colorful art."
+          "translation": "Ella pinta cuadros.",
+          "meaning": "Crea obras de arte llenas de color."
         },
         {
           "id": 58,
@@ -3583,53 +3679,54 @@
             "listen",
             "listens"
           ],
-          "meaning": "He doesn't pay close attention."
+          "translation": "Él no escucha atentamente.",
+          "meaning": "No presta mucha atención."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "The Busy Creative Workshop",
-          "description": "A lively collaborative workspace where creators, designers, and programmers work on multiple tasks together.",
+          "title": "El Taller Creativo Animado",
+          "description": "Un espacio de trabajo colaborativo y lleno de vida donde creadores, diseñadores y programadores realizan múltiples tareas juntos.",
           "imageUrl": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "People work together in a bright office.",
-            "A designer draws a new layout on the board.",
-            "They discuss creative ideas and share coffee.",
-            "A programmer writes clean code on the screen.",
-            "She presents her project confidently."
+            "La gente trabaja junta en una oficina luminosa.",
+            "Un diseñador dibuja un nuevo boceto en la pizarra.",
+            "Ellos discuten ideas creativas y comparten café.",
+            "Un programador escribe código limpio en la pantalla.",
+            "Ella presenta su proyecto con mucha confianza."
           ]
         },
         {
           "id": 2,
-          "title": "An Active Town Street",
-          "description": "A colorful, vibrant illustration of a busy city neighborhood with cars, trees, people, and buildings.",
+          "title": "Una Calle Animada en la Ciudad",
+          "description": "Una ilustración colorida y vibrante de un vecindario urbano lleno de vida con autos, árboles, personas y edificios.",
           "imageUrl": "https://images.unsplash.com/photo-1569336415962-a4bd9f69cd83?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "People walk down the vibrant sunny street.",
-            "Cars drive slowly past the beautiful buildings.",
-            "A child plays happily on the pathway.",
-            "The green trees grow tall and strong.",
-            "A local vendor sells fresh snacks."
+            "Las personas caminan por la vibrante calle soleada.",
+            "Los autos avanzan despacio junto a los hermosos edificios.",
+            "Un niño juega alegremente en la acera.",
+            "Los árboles verdes crecen altos y fuertes.",
+            "Un vendedor local vende bocadillos frescos."
           ]
         },
         {
           "id": 3,
-          "title": "The Kids' Playroom & Classroom",
-          "description": "A highly active, colorful play and study room filled with toys, games, arts, and crafts.",
+          "title": "La Sala de Juegos y Aula de los Niños",
+          "description": "Un salón de estudio y juegos muy activo y colorido repleto de juguetes, juegos, arte y manualidades.",
           "imageUrl": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "Children play with colorful building blocks.",
-            "The classroom looks very bright and cheerful.",
-            "They paint creative pictures on the table.",
-            "A teacher helps the students read stories.",
-            "We clean up the toys after we finish."
+            "Los niños juegan con bloques de construcción coloridos.",
+            "El aula se ve muy luminosa y alegre.",
+            "Ellos pintan dibujos creativos sobre la mesa.",
+            "Una maestra ayuda a los estudiantes a leer cuentos.",
+            "Nosotros recogemos los juguetes cuando terminamos."
           ]
         }
       ]
     },
     "day6": {
-      "title": "Past Simple Tense",
+      "title": "Pasado Simple (Past Simple Tense)",
       "sentences": [
         {
           "id": 1,
@@ -3639,7 +3736,8 @@
             "finished",
             "finish"
           ],
-          "meaning": "To complete school assignments in the past."
+          "translation": "Terminé mis deberes ayer.",
+          "meaning": "Completar tareas escolares en el pasado."
         },
         {
           "id": 2,
@@ -3649,7 +3747,8 @@
             "did",
             "does"
           ],
-          "meaning": "She disliked a film she watched."
+          "translation": "A ella no le gustó la película.",
+          "meaning": "No le agradó una película que vio."
         },
         {
           "id": 3,
@@ -3659,7 +3758,8 @@
             "visited",
             "visit"
           ],
-          "meaning": "They went to see family members recently."
+          "translation": "Ellos visitaron a sus abuelos el fin de semana pasado.",
+          "meaning": "Fueron a ver a sus familiares recientemente."
         },
         {
           "id": 4,
@@ -3669,7 +3769,8 @@
             "go",
             "went"
           ],
-          "meaning": "He was absent from school."
+          "translation": "Él no fue a la escuela ayer.",
+          "meaning": "Estuvo ausente en la escuela."
         },
         {
           "id": 5,
@@ -3679,7 +3780,8 @@
             "watched",
             "watch"
           ],
-          "meaning": "We observed a sports event on television or live."
+          "translation": "Vimos un partido de fútbol anoche.",
+          "meaning": "Observamos un evento deportivo en televisión o en vivo."
         },
         {
           "id": 6,
@@ -3689,7 +3791,8 @@
             "understand",
             "understood"
           ],
-          "meaning": "A question was confusing to me."
+          "translation": "No entendí la pregunta.",
+          "meaning": "La pregunta me resultó confusa."
         },
         {
           "id": 7,
@@ -3699,7 +3802,8 @@
             "cooked",
             "cook"
           ],
-          "meaning": "She prepared the evening meal."
+          "translation": "Ella cocinó la cena para su familia.",
+          "meaning": "Preparó la comida de la noche."
         },
         {
           "id": 8,
@@ -3709,7 +3813,8 @@
             "arrive",
             "arrived"
           ],
-          "meaning": "They were late for an appointment."
+          "translation": "Ellos no llegaron a tiempo.",
+          "meaning": "Llegaron tarde a una cita."
         },
         {
           "id": 9,
@@ -3719,7 +3824,8 @@
             "played",
             "plays"
           ],
-          "meaning": "He performed music on a guitar."
+          "translation": "Él tocó la guitarra hermosamente.",
+          "meaning": "Interpretó música en la guitarra."
         },
         {
           "id": 10,
@@ -3729,7 +3835,8 @@
             "see",
             "saw"
           ],
-          "meaning": "We were not witnesses to the event."
+          "translation": "Nosotros no vimos el accidente.",
+          "meaning": "No fuimos testigos del suceso."
         },
         {
           "id": 11,
@@ -3739,7 +3846,8 @@
             "bought",
             "buy"
           ],
-          "meaning": "I purchased a smartphone recently."
+          "translation": "Compré un teléfono nuevo el mes pasado.",
+          "meaning": "Adquirí un teléfono inteligente recientemente."
         },
         {
           "id": 12,
@@ -3749,7 +3857,8 @@
             "call",
             "called"
           ],
-          "meaning": "She failed to return my phone call."
+          "translation": "Ella no me devuelvió la llamada.",
+          "meaning": "No respondió a mi llamada telefónica."
         },
         {
           "id": 13,
@@ -3759,7 +3868,8 @@
             "traveled",
             "travel"
           ],
-          "meaning": "They made a trip to Jaipur."
+          "translation": "Ellos viajaron a Jaipur el año pasado.",
+          "meaning": "Hicieron un viaje a Jaipur."
         },
         {
           "id": 14,
@@ -3769,7 +3879,8 @@
             "finish",
             "finished"
           ],
-          "meaning": "He left his work incomplete."
+          "translation": "Él no terminó su trabajo.",
+          "meaning": "Dejó sus tareas incompletas."
         },
         {
           "id": 15,
@@ -3779,7 +3890,8 @@
             "enjoyed",
             "enjoy"
           ],
-          "meaning": "We had a wonderful time at the social event."
+          "translation": "Disfrutamos mucho de la fiesta.",
+          "meaning": "La pasamos excelente en la reunión social."
         },
         {
           "id": 16,
@@ -3789,7 +3901,8 @@
             "eat",
             "ate"
           ],
-          "meaning": "I skipped the morning meal today."
+          "translation": "Hoy no desayuné.",
+          "meaning": "Me salté la primera comida del día."
         },
         {
           "id": 17,
@@ -3799,7 +3912,8 @@
             "wrote",
             "write"
           ],
-          "meaning": "She sent written correspondence."
+          "translation": "Ella le escribió una carta a su amiga.",
+          "meaning": "Envió una correspondencia escrita."
         },
         {
           "id": 18,
@@ -3809,7 +3923,8 @@
             "win",
             "won"
           ],
-          "meaning": "They lost the sports game."
+          "translation": "Ellos no ganaron el partido.",
+          "meaning": "Perdieron el juego deportivo."
         },
         {
           "id": 19,
@@ -3819,7 +3934,8 @@
             "cleaned",
             "clean"
           ],
-          "meaning": "He tidied up his bedroom."
+          "translation": "Él limpió su habitación ayer.",
+          "meaning": "Ordenó y limpió su cuarto."
         },
         {
           "id": 20,
@@ -3829,7 +3945,8 @@
             "understand",
             "understood"
           ],
-          "meaning": "The guides were not clear to us."
+          "translation": "No entendimos las instrucciones.",
+          "meaning": "Las indicaciones no nos quedaron claras."
         },
         {
           "id": 21,
@@ -3839,7 +3956,8 @@
             "met",
             "meet"
           ],
-          "meaning": "I encountered a person at a shopping place."
+          "translation": "Lo encontré en el mercado.",
+          "meaning": "Me crucé con una persona en un centro comercial."
         },
         {
           "id": 22,
@@ -3849,7 +3967,8 @@
             "wear",
             "wore"
           ],
-          "meaning": "She chose another dress instead."
+          "translation": "Ella no usó su vestido nuevo.",
+          "meaning": "Eligió otra prenda en su lugar."
         },
         {
           "id": 23,
@@ -3859,7 +3978,8 @@
             "built",
             "build"
           ],
-          "meaning": "They constructed a brand new home."
+          "translation": "Ellos construyeron una casa nueva.",
+          "meaning": "Edificaron un hogar completamente nuevo."
         },
         {
           "id": 24,
@@ -3869,7 +3989,8 @@
             "open",
             "opened"
           ],
-          "meaning": "He kept the door closed."
+          "translation": "Él no abrió la puerta.",
+          "meaning": "Mantuvo la puerta cerrada."
         },
         {
           "id": 25,
@@ -3879,7 +4000,8 @@
             "listened",
             "listen"
           ],
-          "meaning": "We enjoyed songs for hours."
+          "translation": "Escuchamos música durante toda la tarde.",
+          "meaning": "Disfrutamos de canciones durante horas."
         },
         {
           "id": 26,
@@ -3889,7 +4011,8 @@
             "bring",
             "brought"
           ],
-          "meaning": "I left my notepad at home."
+          "translation": "No traje mi cuaderno.",
+          "meaning": "Olvidé mi libreta de notas en casa."
         },
         {
           "id": 27,
@@ -3899,7 +4022,8 @@
             "learned",
             "learn"
           ],
-          "meaning": "She studied French language in the past."
+          "translation": "Ella aprendió francés el año pasado.",
+          "meaning": "Estudió el idioma francés en el pasado."
         },
         {
           "id": 28,
@@ -3909,7 +4033,8 @@
             "tell",
             "told"
           ],
-          "meaning": "They lied about the situation."
+          "translation": "Ellos no dijeron la verdad.",
+          "meaning": "Mintieron sobre la situación."
         },
         {
           "id": 29,
@@ -3919,7 +4044,8 @@
             "drove",
             "drive"
           ],
-          "meaning": "He was speeding on the road."
+          "translation": "Él condujo muy rápido.",
+          "meaning": "Manejaba a gran velocidad por la carretera."
         },
         {
           "id": 30,
@@ -3929,7 +4055,8 @@
             "take",
             "took"
           ],
-          "meaning": "We took no photos during our trip."
+          "translation": "No tomamos ninguna fotografía.",
+          "meaning": "No sacamos fotos durante el viaje."
         },
         {
           "id": 31,
@@ -3939,7 +4066,8 @@
             "found",
             "find"
           ],
-          "meaning": "I recovered my missing keys."
+          "translation": "Encontré mis llaves perdidas.",
+          "meaning": "Recuperé las llaves que se me habían extraviado."
         },
         {
           "id": 32,
@@ -3949,7 +4077,8 @@
             "join",
             "joined"
           ],
-          "meaning": "She was absent from the meeting."
+          "translation": "Ella no se unió a la reunión.",
+          "meaning": "Estuvo ausente en la reunión."
         },
         {
           "id": 33,
@@ -3959,7 +4088,8 @@
             "helped",
             "help"
           ],
-          "meaning": "They gave charitable assistance."
+          "translation": "Ellos ayudaron a los necesitados.",
+          "meaning": "Brindaron asistencia caritativa."
         },
         {
           "id": 34,
@@ -3969,7 +4099,8 @@
             "answer",
             "answered"
           ],
-          "meaning": "He missed my phone call."
+          "translation": "Él no respondió a mi llamada.",
+          "meaning": "Pasó por alto mi llamada telefónica."
         },
         {
           "id": 35,
@@ -3979,7 +4110,8 @@
             "visited",
             "visit"
           ],
-          "meaning": "We went on an educational tour."
+          "translation": "Visitamos el museo.",
+          "meaning": "Realizamos un recorrido educativo."
         },
         {
           "id": 36,
@@ -3989,7 +4121,8 @@
             "complete",
             "completed"
           ],
-          "meaning": "I left the task unfinished."
+          "translation": "No completé la tarea.",
+          "meaning": "Dejé la tarea inconclusa."
         },
         {
           "id": 37,
@@ -3999,7 +4132,8 @@
             "danced",
             "dance"
           ],
-          "meaning": "Her dance performance was outstanding."
+          "translation": "Ella bailó extremadamente bien.",
+          "meaning": "Su presentación de baile fue sobresaliente."
         },
         {
           "id": 38,
@@ -4009,7 +4143,8 @@
             "understand",
             "understood"
           ],
-          "meaning": "The lesson concept was not clear to them."
+          "translation": "Ellos no entendieron la lección.",
+          "meaning": "El concepto de la lección no les quedó claro."
         },
         {
           "id": 39,
@@ -4019,7 +4154,8 @@
             "painted",
             "paint"
           ],
-          "meaning": "He applied blue color to the wall."
+          "translation": "Él pintó la pared de azul.",
+          "meaning": "Aplicó pintura azul sobre la pared."
         },
         {
           "id": 40,
@@ -4029,7 +4165,8 @@
             "go",
             "went"
           ],
-          "meaning": "We stayed home all night."
+          "translation": "No salimos anoche.",
+          "meaning": "Nos quedamos en casa toda la noche."
         },
         {
           "id": 41,
@@ -4039,7 +4176,8 @@
             "read",
             "reads"
           ],
-          "meaning": "I spent time reading a great book."
+          "translation": "Leí un libro muy interesante.",
+          "meaning": "Pasé tiempo leyendo un gran libro."
         },
         {
           "id": 42,
@@ -4049,7 +4187,8 @@
             "buy",
             "bought"
           ],
-          "meaning": "She returned from shopping empty-handed."
+          "translation": "Ella no compró nada.",
+          "meaning": "Regresó de las compras con las manos vacías."
         },
         {
           "id": 43,
@@ -4059,7 +4198,8 @@
             "played",
             "play"
           ],
-          "meaning": "They engaged in a cricket game outside."
+          "translation": "Ellos jugaron al críquet en el parque.",
+          "meaning": "Practicaron un partido de críquet al aire libre."
         },
         {
           "id": 44,
@@ -4069,7 +4209,8 @@
             "fix",
             "fixed"
           ],
-          "meaning": "The car remained broken."
+          "translation": "Él no reparó el automóvil.",
+          "meaning": "El automóvil continuó averiado."
         },
         {
           "id": 45,
@@ -4079,7 +4220,8 @@
             "saw",
             "see"
           ],
-          "meaning": "We witnessed an amazing twilight."
+          "translation": "Vimos una hermosa puesta de sol.",
+          "meaning": "Presenciamos un atardecer asombroso."
         },
         {
           "id": 46,
@@ -4089,47 +4231,48 @@
             "sleep",
             "slept"
           ],
-          "meaning": "I had a restless night."
+          "translation": "No dormí bien.",
+          "meaning": "Tuve una noche inquieta o de mal descanso."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "An Unforgettable Birthday Party",
-          "description": "A lively, colorful celebration where friends gathered, danced, blew balloons, and ate a huge chocolate cake.",
+          "title": "Una Fiesta de Cumpleaños Inolvidable",
+          "description": "Una celebración animada y llena de color donde los amigos se reunieron, bailaron, inflaron globos y comieron un gran pastel de chocolate.",
           "imageUrl": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "We celebrated my friend's birthday party.",
-            "The children danced happily in the living room.",
-            "She blew out the candles on her huge cake.",
-            "They laughed and sang beautiful songs.",
-            "I gave her a nice handmade present."
+            "Celebramos la fiesta de cumpleaños de mi amigo.",
+            "Los niños bailaron alegremente en la sala.",
+            "Ella sopló las velas de su pastel gigante.",
+            "Ellos rieron y cantaron hermosas canciones.",
+            "Yo le entregué un bonito regalo hecho a mano."
           ]
         },
         {
           "id": 2,
-          "title": "A Sunny Weekend Beach Trip",
-          "description": "A gorgeous memory of building tall sandcastles, playing with waves, and watching boats on a warm coast.",
+          "title": "Un Viaje Soleado a la Playa el Fin de Semana",
+          "description": "Un hermoso recuerdo de construir altos castillos de arena, jugar con las olas y contemplar los barcos en la cálida costa.",
           "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "We traveled to the beautiful beach last Sunday.",
-            "They built a grand sandcastle near the water.",
-            "We saw a small wooden boat on the horizon.",
-            "He swam across the cool waves easily.",
-            "They collected shiny seashells along the coast."
+            "Viajamos a la hermosa playa el domingo pasado.",
+            "Ellos construyeron un gran castillo de arena cerca del agua.",
+            "Vimos un pequeño barco de madera en el horizonte.",
+            "Él nadó a través de las olas frescas con facilidad.",
+            "Ellos recolectaron conchas marinas brillantes a lo largo de la costa."
           ]
         },
         {
           "id": 3,
-          "title": "A Quiet Night Camping",
-          "description": "Friends sitting around a cozy bonfire under twinkling stars, sharing stories and roasting marshmallows.",
+          "title": "Una Noche Tranquila de Campamento",
+          "description": "Amigos sentados alrededor de una fogata acogedora bajo las estrellas centelleantes, compartiendo historias y asando malvaviscos.",
           "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "We camped in the quiet forest last weekend.",
-            "They built a warm bonfire under the stars.",
-            "She roasted delicious sweet marshmallows.",
-            "He told an exciting story to his friends.",
-            "We saw a bright shooting star in the sky."
+            "Acampamos en el bosque tranquilo el fin de semana pasado.",
+            "Ellos encendieron una cálida fogata bajo las estrellas.",
+            "Ella asó deliciosos malvaviscos dulces.",
+            "Él le contó una historia emocionante a sus amigos.",
+            "Vimos una estrella fugaz muy brillante en el cielo."
           ]
         }
       ]

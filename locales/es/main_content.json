@@ -4278,7 +4278,7 @@
       ]
     },
     "day7": {
-      "title": "Present Continuous Tense",
+      "title": "Presente Continuo (Present Continuous Tense)",
       "sentences": [
         {
           "id": 1,
@@ -4288,7 +4288,8 @@
             "am",
             "is"
           ],
-          "meaning": "I am currently having my evening meal."
+          "translation": "Estoy cenando.",
+          "meaning": "Estoy comiendo mi cena en este momento."
         },
         {
           "id": 2,
@@ -4298,7 +4299,8 @@
             "reading",
             "reads"
           ],
-          "meaning": "She is not reading any news right now."
+          "translation": "Ella no está leyendo el periódico.",
+          "meaning": "No está leyendo noticias en este momento."
         },
         {
           "id": 3,
@@ -4308,7 +4310,8 @@
             "are",
             "is"
           ],
-          "meaning": "They are currently playing a football game."
+          "translation": "Ellos están jugando al fútbol.",
+          "meaning": "Están jugando un partido de fútbol en este momento."
         },
         {
           "id": 4,
@@ -4318,7 +4321,8 @@
             "watching",
             "watch"
           ],
-          "meaning": "We aren't looking at the screen currently."
+          "translation": "Nosotros no estamos viendo la televisión.",
+          "meaning": "No estamos mirando la pantalla en este momento."
         },
         {
           "id": 5,
@@ -4328,7 +4332,8 @@
             "is",
             "am"
           ],
-          "meaning": "He is drafting a letter right now."
+          "translation": "Él está escribiendo una carta.",
+          "meaning": "Está redactando una carta justo ahora."
         },
         {
           "id": 6,
@@ -4338,7 +4343,8 @@
             "sleeping",
             "sleeps"
           ],
-          "meaning": "The dog is fully awake."
+          "translation": "El perro no está durmiendo.",
+          "meaning": "El perro está completamente despierto."
         },
         {
           "id": 7,
@@ -4348,7 +4354,8 @@
             "learning",
             "learn"
           ],
-          "meaning": "I am studying English at this moment."
+          "translation": "Estoy aprendiendo inglés.",
+          "meaning": "Estoy estudiando inglés en este instante."
         },
         {
           "id": 8,
@@ -4358,7 +4365,8 @@
             "cooking",
             "cooks"
           ],
-          "meaning": "She is preparing the afternoon meal now."
+          "translation": "Ella está cocinando el almuerzo.",
+          "meaning": "Está preparando la comida del mediodía ahora."
         },
         {
           "id": 9,
@@ -4368,7 +4376,8 @@
             "are",
             "am"
           ],
-          "meaning": "No bridge construction is happening."
+          "translation": "Ellos no están construyendo un puente.",
+          "meaning": "No hay ninguna construcción de puente en curso."
         },
         {
           "id": 10,
@@ -4378,7 +4387,8 @@
             "studying",
             "study"
           ],
-          "meaning": "We are preparing for our tests right now."
+          "translation": "Estamos estudiando para los exámenes.",
+          "meaning": "Nos estamos preparando para las pruebas en este momento."
         },
         {
           "id": 11,
@@ -4388,7 +4398,8 @@
             "driving",
             "drives"
           ],
-          "meaning": "His speed is safe currently."
+          "translation": "Él no está conduciendo rápido.",
+          "meaning": "Mantiene una velocidad segura actualmente."
         },
         {
           "id": 12,
@@ -4398,7 +4409,8 @@
             "is",
             "are"
           ],
-          "meaning": "The infant is asleep."
+          "translation": "El bebé está durmiendo.",
+          "meaning": "El lactante está dormido."
         },
         {
           "id": 13,
@@ -4408,7 +4420,8 @@
             "listening",
             "listen"
           ],
-          "meaning": "I am ignoring your words."
+          "translation": "No te estoy escuchando.",
+          "meaning": "No estoy prestando atención a tus palabras."
         },
         {
           "id": 14,
@@ -4418,7 +4431,8 @@
             "dancing",
             "dances"
           ],
-          "meaning": "She is performing a dance nicely."
+          "translation": "Ella está bailando hermosamente.",
+          "meaning": "Está realizando un baile genial en este momento."
         },
         {
           "id": 15,
@@ -4428,7 +4442,8 @@
             "working",
             "works"
           ],
-          "meaning": "They are cooperating on a task now."
+          "translation": "Ellos están trabajando juntos.",
+          "meaning": "Están colaborando en una tarea en este momento."
         },
         {
           "id": 16,
@@ -4438,7 +4453,8 @@
             "are",
             "is"
           ],
-          "meaning": "We aren't doing chores right now."
+          "translation": "Nosotros no estamos limpiando la casa.",
+          "meaning": "No estamos haciendo tareas del hogar ahora."
         },
         {
           "id": 17,
@@ -4448,7 +4464,8 @@
             "painting",
             "paints"
           ],
-          "meaning": "He is currently applying paint."
+          "translation": "Él está pintando la pared.",
+          "meaning": "Está aplicando pintura en este momento."
         },
         {
           "id": 18,
@@ -4458,7 +4475,8 @@
             "is",
             "are"
           ],
-          "meaning": "The teacher is speaking softly."
+          "translation": "El profesor no está gritando.",
+          "meaning": "El profesor está hablando suavemente."
         },
         {
           "id": 19,
@@ -4468,7 +4486,8 @@
             "practicing",
             "practice"
           ],
-          "meaning": "I am doing healthy stretches now."
+          "translation": "Estoy practicando yoga.",
+          "meaning": "Estoy haciendo estiramientos saludables ahora."
         },
         {
           "id": 20,
@@ -4478,7 +4497,8 @@
             "drawing",
             "draw"
           ],
-          "meaning": "She is holding an empty canvas."
+          "translation": "Ella no está dibujando nada.",
+          "meaning": "Tiene un lienzo o papel en blanco."
         },
         {
           "id": 21,
@@ -4488,7 +4508,8 @@
             "running",
             "run"
           ],
-          "meaning": "They are jogging outside currently."
+          "translation": "Ellos están corriendo en el parque.",
+          "meaning": "Están trotando al aire libre actualmente."
         },
         {
           "id": 22,
@@ -4498,7 +4519,8 @@
             "discussing",
             "discuss"
           ],
-          "meaning": "We are having a team talk now."
+          "translation": "Estamos discutiendo el proyecto.",
+          "meaning": "Estamos teniendo una charla de equipo en este momento."
         },
         {
           "id": 23,
@@ -4508,7 +4530,8 @@
             "fixing",
             "fix"
           ],
-          "meaning": "The fan remains unrepaired."
+          "translation": "Él no está arreglando el ventilador.",
+          "meaning": "El ventilador sigue sin reparar."
         },
         {
           "id": 24,
@@ -4518,7 +4541,8 @@
             "shining",
             "shines"
           ],
-          "meaning": "The sky has clean bright light today."
+          "translation": "El sol está brillando intensamente.",
+          "meaning": "El cielo tiene una luz clara y brillante hoy."
         },
         {
           "id": 25,
@@ -4528,7 +4552,8 @@
             "writing",
             "write"
           ],
-          "meaning": "I am drafting an electronic message."
+          "translation": "Estoy escribiendo un correo electrónico.",
+          "meaning": "Estoy redactando un mensaje electrónico."
         },
         {
           "id": 26,
@@ -4538,7 +4563,8 @@
             "singing",
             "sings"
           ],
-          "meaning": "She is vocalizing music right now."
+          "translation": "Ella está cantando una canción.",
+          "meaning": "Está entonando música en este momento."
         },
         {
           "id": 27,
@@ -4548,7 +4574,8 @@
             "are",
             "is"
           ],
-          "meaning": "They stay in their home country."
+          "translation": "Ellos no están viajando al extranjero.",
+          "meaning": "Permanecen en su país de origen."
         },
         {
           "id": 28,
@@ -4558,7 +4585,8 @@
             "planting",
             "plant"
           ],
-          "meaning": "We are adding green saplings to soil."
+          "translation": "Estamos plantando árboles.",
+          "meaning": "Estamos sembrando pequeños árboles en la tierra."
         },
         {
           "id": 29,
@@ -4568,7 +4596,8 @@
             "enjoying",
             "enjoy"
           ],
-          "meaning": "The game feels boring currently."
+          "translation": "No estamos disfrutando el juego.",
+          "meaning": "El juego resulta aburrido en este momento."
         },
         {
           "id": 30,
@@ -4578,7 +4607,8 @@
             "talking",
             "talks"
           ],
-          "meaning": "He is holding an active phone call."
+          "translation": "Él está hablando por teléfono.",
+          "meaning": "Está manteniendo una llamada telefónica activa."
         },
         {
           "id": 31,
@@ -4588,7 +4618,8 @@
             "are",
             "is"
           ],
-          "meaning": "The birds are chirping and moving."
+          "translation": "Los pájaros no están quietos.",
+          "meaning": "Los pájaros están gorjeando y moviéndose."
         },
         {
           "id": 32,
@@ -4598,7 +4629,8 @@
             "am",
             "is"
           ],
-          "meaning": "I am watching standard broadcast shows."
+          "translation": "Estoy viendo la televisión.",
+          "meaning": "Estoy viendo programas de televisión."
         },
         {
           "id": 33,
@@ -4608,7 +4640,8 @@
             "making",
             "make"
           ],
-          "meaning": "She is baking in the kitchen right now."
+          "translation": "Ella está haciendo un pastel.",
+          "meaning": "Está horneando en la cocina justo ahora."
         },
         {
           "id": 34,
@@ -4618,7 +4651,8 @@
             "solving",
             "solve"
           ],
-          "meaning": "They struggle with the puzzle currently."
+          "translation": "Ellos no están resolviendo el rompecabezas.",
+          "meaning": "Tienen dificultades con el rompecabezas en este momento."
         },
         {
           "id": 35,
@@ -4628,7 +4662,8 @@
             "visiting",
             "visit"
           ],
-          "meaning": "We are visiting family right now."
+          "translation": "Estamos visitando a nuestros parientes.",
+          "meaning": "Estamos de visita con la familia en este momento."
         },
         {
           "id": 36,
@@ -4638,7 +4673,8 @@
             "studying",
             "studies"
           ],
-          "meaning": "He is practicing math problems now."
+          "translation": "Él está estudiando matemáticas.",
+          "meaning": "Está practicando problemas matemáticos ahora."
         },
         {
           "id": 37,
@@ -4648,7 +4684,8 @@
             "blowing",
             "blows"
           ],
-          "meaning": "The outdoor breeze is light and gentle."
+          "translation": "El viento no está soplando fuerte.",
+          "meaning": "La brisa exterior es suave y ligera."
         },
         {
           "id": 38,
@@ -4658,7 +4695,8 @@
             "exercising",
             "exercise"
           ],
-          "meaning": "I am training my body currently."
+          "translation": "Estoy haciendo ejercicio a diario.",
+          "meaning": "Estoy ejercitando mi cuerpo actualmente."
         },
         {
           "id": 39,
@@ -4668,7 +4706,8 @@
             "helping",
             "helps"
           ],
-          "meaning": "She is assisting a close friend now."
+          "translation": "Ella está ayudando a su amiga.",
+          "meaning": "Está asistiendo a una amiga cercana ahora."
         },
         {
           "id": 40,
@@ -4678,7 +4717,8 @@
             "eating",
             "eat"
           ],
-          "meaning": "I am having healthy foods currently."
+          "translation": "No estoy comiendo comida chatarra.",
+          "meaning": "Estoy consumiendo alimentos saludables en este momento."
         },
         {
           "id": 41,
@@ -4688,7 +4728,8 @@
             "reading",
             "reads"
           ],
-          "meaning": "She is deeply involved in a novel now."
+          "translation": "Ella está leyendo un libro.",
+          "meaning": "Está concentrada en una novela ahora."
         },
         {
           "id": 42,
@@ -4698,7 +4739,8 @@
             "playing",
             "play"
           ],
-          "meaning": "The cricket field is empty."
+          "translation": "Ellos no están jugando al críquet.",
+          "meaning": "El campo de juego está vacío."
         },
         {
           "id": 43,
@@ -4708,7 +4750,8 @@
             "watching",
             "watch"
           ],
-          "meaning": "We are viewing a theater film now."
+          "translation": "Estamos viendo una película.",
+          "meaning": "Estamos viendo una película en el cine o televisión."
         },
         {
           "id": 44,
@@ -4718,7 +4761,8 @@
             "writing",
             "write"
           ],
-          "meaning": "He is away from his computer."
+          "translation": "Él no está escribiendo un informe.",
+          "meaning": "Está alejado de su computadora."
         },
         {
           "id": 45,
@@ -4728,7 +4772,8 @@
             "barking",
             "barks"
           ],
-          "meaning": "The dog is making high sounds right now."
+          "translation": "El perro está ladrando fuerte.",
+          "meaning": "El perro está haciendo sonidos fuertes en este momento."
         },
         {
           "id": 46,
@@ -4738,7 +4783,8 @@
             "learning",
             "learn"
           ],
-          "meaning": "My active lessons are not in French."
+          "translation": "No estoy aprendiendo francés.",
+          "meaning": "Mis clases actuales no son de francés."
         },
         {
           "id": 47,
@@ -4748,7 +4794,8 @@
             "cooking",
             "cooks"
           ],
-          "meaning": "The stove is completely off."
+          "translation": "Ella no está cocinando la cena.",
+          "meaning": "La estufa está completamente apagada."
         },
         {
           "id": 48,
@@ -4758,7 +4805,8 @@
             "building",
             "build"
           ],
-          "meaning": "A new house is being set up."
+          "translation": "Ellos están construyendo una casa.",
+          "meaning": "Se está levantando una casa nueva."
         },
         {
           "id": 49,
@@ -4768,7 +4816,8 @@
             "studying",
             "study"
           ],
-          "meaning": "We are taking a short break."
+          "translation": "No estamos estudiando ahora.",
+          "meaning": "Estamos tomando un pequeño descanso."
         },
         {
           "id": 50,
@@ -4778,7 +4827,8 @@
             "driving",
             "drives"
           ],
-          "meaning": "He is navigating the road currently."
+          "translation": "Él está conduciendo un automóvil.",
+          "meaning": "Está manejando por la carretera actualmente."
         },
         {
           "id": 51,
@@ -4788,7 +4838,8 @@
             "crying",
             "cries"
           ],
-          "meaning": "The baby is peaceful and smiling."
+          "translation": "El bebé no está llorando.",
+          "meaning": "El bebé está tranquilo y sonriendo."
         },
         {
           "id": 52,
@@ -4798,7 +4849,8 @@
             "listening",
             "listen"
           ],
-          "meaning": "I have headphones on with music."
+          "translation": "Estoy escuchando música.",
+          "meaning": "Tengo puestos los auriculares escuchando música."
         },
         {
           "id": 53,
@@ -4808,7 +4860,8 @@
             "dancing",
             "dances"
           ],
-          "meaning": "She is resting her feet currently."
+          "translation": "Ella no está bailando hoy.",
+          "meaning": "Está descansando en este momento."
         },
         {
           "id": 54,
@@ -4818,7 +4871,8 @@
             "working",
             "work"
           ],
-          "meaning": "They are relaxing on the couch."
+          "translation": "Ellos no están trabajando duro.",
+          "meaning": "Están relajándose en el sofá."
         },
         {
           "id": 55,
@@ -4828,7 +4882,8 @@
             "cleaning",
             "clean"
           ],
-          "meaning": "We are wiping dust and sweeping."
+          "translation": "Estamos limpiando la habitación.",
+          "meaning": "Estamos limpiando el polvo y barriendo."
         },
         {
           "id": 56,
@@ -4838,7 +4893,8 @@
             "painting",
             "paint"
           ],
-          "meaning": "The door remains a natural wood color."
+          "translation": "Él no está pintando la puerta.",
+          "meaning": "La puerta conserva su color de madera natural."
         },
         {
           "id": 57,
@@ -4848,53 +4904,54 @@
             "flying",
             "fly"
           ],
-          "meaning": "Birds are soaring up in the sky."
+          "translation": "Los pájaros están volando.",
+          "meaning": "Las aves están volando por el cielo."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "A Busy City Kitchen",
-          "description": "An animated, active kitchen where cooks are boiling soup, slicing bread, washing dishes, and preparing delicious food.",
+          "title": "Una Cocina Urbana Muy Animada",
+          "description": "Una cocina animada y activa donde los cocineros hierven sopa, cortan pan, lavan platos y preparan comida deliciosa.",
           "imageUrl": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "The chef is slicing fresh colorful vegetables.",
-            "They are boiling delicious soup on the stove.",
-            "She is washing the dirty plates carefully.",
-            "The helpers are preparing desserts together.",
-            "He is tasting the spicy tomato sauce."
+            "El chef está cortando verduras frescas y coloridas.",
+            "Ellos están hirviendo una sopa deliciosa en la estufa.",
+            "Ella está lavando los platos sucios cuidadosamente.",
+            "Los ayudantes están preparando postres juntos.",
+            "Él está probando la salsa de tomate picante."
           ]
         },
         {
           "id": 2,
-          "title": "Vibrant Park Playground",
-          "description": "An animated illustration of a sunny park where children are playing slides, swinging, running, and dogs are chasing balls.",
+          "title": "Un Parque Infantil Lleno de Vida",
+          "description": "Una ilustración animada de un parque soleado donde los niños juegan en los toboganes, se columpian, corren y los perros persiguen pelotas.",
           "imageUrl": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "Children are running around the green grass.",
-            "A young boy is sliding down the high slide.",
-            "The dogs are chasing a colorful yellow ball.",
-            "Two friends are eating delicious ice cream.",
-            "The parents are sitting on the bench and chatting."
+            "Los niños están corriendo por el césped verde.",
+            "Un niño pequeño se está deslizando por el tobogán alto.",
+            "Los perros están persiguiendo una pelota amarilla colorida.",
+            "Dos amigos están comiendo un helado delicioso.",
+            "Los padres están sentados en el banco conversando."
           ]
         },
         {
           "id": 3,
-          "title": "Lively Concert Stage",
-          "description": "A gorgeous animated crowd cheering, musicians playing electric guitars, a drummer hitting beats, and colorful lights flashing.",
+          "title": "Un Escenario de Concierto Vibrante",
+          "description": "Una multitud entusiasmada animando, músicos tocando guitarras eléctricas, un baterista marcando el ritmo y luces coloridas parpadeando.",
           "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "The singer is performing a wonderful rock song.",
-            "The crowd is cheering and waving hands.",
-            "The drummer is playing fast energetic beats.",
-            "Bright colorful laser lights are flashing.",
-            "People are dancing happily to the music."
+            "El cantante está interpretando una maravillosa canción de rock.",
+            "La multitud está animando y moviendo las manos.",
+            "El baterista está tocando ritmos rápidos y enérgicos.",
+            "Las luces láser coloridas y brillantes están parpadeando.",
+            "La gente está bailando alegremente al ritmo de la música."
           ]
         }
       ]
     },
     "day8": {
-      "title": "Future Tense (Will / Going to)",
+      "title": "Tiempo Futuro (Will / Going to)",
       "sentences": [
         {
           "id": 1,
@@ -4904,327 +4961,360 @@
             "will",
             "is"
           ],
-          "meaning": "He plans to wash and tidy his car this Saturday."
+          "translation": "Él limpiará su automóvil el sábado.",
+          "meaning": "Planea lavar y ordenar su automóvil este sábado."
         },
         {
           "id": 2,
-          "sentence": "They will plant trees in the garden.",
-          "blankWord": "plant",
+          "sentence": "I am going to buy a new computer next month.",
+          "blankWord": "going",
           "options": [
-            "plant",
-            "planted"
+            "going",
+            "will"
           ],
-          "meaning": "They are going to place young trees in the garden soil."
+          "translation": "Voy a comprar una computadora nueva el próximo mes.",
+          "meaning": "Tengo la intención de adquirir una computadora nueva pronto."
         },
         {
           "id": 3,
-          "sentence": "We will call the electrician to fix the lights.",
-          "blankWord": "call",
+          "sentence": "They will arrive early at the station.",
+          "blankWord": "will",
           "options": [
-            "call",
-            "calling"
+            "will",
+            "are"
           ],
-          "meaning": "We plan to contact a technician to repair the lighting."
+          "translation": "Ellos llegarán temprano a la estación.",
+          "meaning": "Se espera que estén en la estación antes de la hora programada."
         },
         {
           "id": 4,
-          "sentence": "I will prepare for the interview.",
-          "blankWord": "prepare",
+          "sentence": "We are going to visit our aunt tomorrow.",
+          "blankWord": "going",
           "options": [
-            "prepare",
-            "preparing"
+            "going",
+            "will"
           ],
-          "meaning": "I am going to study and practice for my upcoming job interview."
+          "translation": "Vamos a visitar a nuestra tía mañana.",
+          "meaning": "Tenemos un plan confirmado para ir a ver a nuestra tía mañana."
         },
         {
           "id": 5,
-          "sentence": "She will wear a red dress to the party.",
-          "blankWord": "wear",
-          "options": [
-            "wear",
-            "wore"
-          ],
-          "meaning": "She has chosen a red dress to put on for the event."
-        },
-        {
-          "id": 6,
-          "sentence": "He will drive us to the airport.",
-          "blankWord": "will",
-          "options": [
-            "will",
-            "would"
-          ],
-          "meaning": "He is going to navigate the vehicle to take us to the airport."
-        },
-        {
-          "id": 7,
-          "sentence": "They will perform on stage at the event.",
-          "blankWord": "perform",
-          "options": [
-            "perform",
-            "performed"
-          ],
-          "meaning": "They plan to show their artistic talents on stage."
-        },
-        {
-          "id": 8,
-          "sentence": "We will enjoy the festival next week.",
-          "blankWord": "will",
-          "options": [
-            "will",
-            "did"
-          ],
-          "meaning": "We expect to have a wonderful time at the upcoming festival."
-        },
-        {
-          "id": 9,
-          "sentence": "I will save money for the trip.",
-          "blankWord": "save",
-          "options": [
-            "save",
-            "saving"
-          ],
-          "meaning": "I plan to accumulate savings specifically for my travels."
-        },
-        {
-          "id": 10,
-          "sentence": "She will get up early tomorrow morning.",
-          "blankWord": "get",
-          "options": [
-            "get",
-            "got"
-          ],
-          "meaning": "She plans to wake up early tomorrow."
-        },
-        {
-          "id": 11,
-          "sentence": "He will give her a surprise gift.",
-          "blankWord": "give",
-          "options": [
-            "give",
-            "given"
-          ],
-          "meaning": "He plans to hand her an unexpected present."
-        },
-        {
-          "id": 12,
-          "sentence": "They will organize a charity event.",
-          "blankWord": "organize",
-          "options": [
-            "organize",
-            "organized"
-          ],
-          "meaning": "They plan to host an event to raise money for charity."
-        },
-        {
-          "id": 13,
-          "sentence": "We will have dinner at a restaurant.",
-          "blankWord": "have",
-          "options": [
-            "have",
-            "had"
-          ],
-          "meaning": "We plan to eat our evening meal at an eatery."
-        },
-        {
-          "id": 14,
-          "sentence": "I will complete this project on time.",
-          "blankWord": "complete",
-          "options": [
-            "complete",
-            "completed"
-          ],
-          "meaning": "I plan to finish my assigned tasks before the deadline."
-        },
-        {
-          "id": 15,
-          "sentence": "She will play the guitar at the concert.",
-          "blankWord": "play",
-          "options": [
-            "play",
-            "played"
-          ],
-          "meaning": "She is going to perform guitar music at the music event."
-        },
-        {
-          "id": 16,
-          "sentence": "He will call the doctor if needed.",
-          "blankWord": "will",
-          "options": [
-            "will",
-            "does"
-          ],
-          "meaning": "He plans to contact a medical professional if required."
-        },
-        {
-          "id": 17,
-          "sentence": "They will return home by 8 PM.",
-          "blankWord": "return",
-          "options": [
-            "return",
-            "returned"
-          ],
-          "meaning": "They expect to arrive back at their house before 8 PM."
-        },
-        {
-          "id": 18,
-          "sentence": "We will join, tomorrow.",
-          "blankWord": "join",
-          "options": [
-            "join",
-            "joined"
-          ],
-          "meaning": "We plan to participate in the activity tomorrow."
-        },
-        {
-          "id": 19,
-          "sentence": "I will teach my brother how to read.",
-          "blankWord": "teach",
-          "options": [
-            "teach",
-            "taught"
-          ],
-          "meaning": "I am going to assist my brother in learning reading skills."
-        },
-        {
-          "id": 20,
-          "sentence": "She will finish her assignment soon.",
+          "sentence": "She will call you as soon as she lands.",
           "blankWord": "will",
           "options": [
             "will",
             "is"
           ],
-          "meaning": "She is going to complete her schoolwork in a short time."
+          "translation": "Ella te llamará tan pronto como aterrice.",
+          "meaning": "Se comunicará por teléfono inmediatamente después del vuelo."
         },
         {
-          "id": 21,
-          "sentence": "He will book tickets for the movie.",
-          "blankWord": "book",
-          "options": [
-            "book",
-            "booked"
-          ],
-          "meaning": "He plans to purchase seats for the film screening."
-        },
-        {
-          "id": 22,
-          "sentence": "They will bring fruits from the market.",
-          "blankWord": "bring",
-          "options": [
-            "bring",
-            "brought"
-          ],
-          "meaning": "They plan to carry fresh fruits back from the marketplace."
-        },
-        {
-          "id": 23,
-          "sentence": "We will plan a trip to the mountains.",
-          "blankWord": "plan",
-          "options": [
-            "plan",
-            "planning"
-          ],
-          "meaning": "We are going to organize an excursion to mountain peaks."
-        },
-        {
-          "id": 24,
-          "sentence": "I will paint a picture for my room.",
-          "blankWord": "paint",
-          "options": [
-            "paint",
-            "painted"
-          ],
-          "meaning": "I plan to create an artwork to decorate my bedroom."
-        },
-        {
-          "id": 25,
-          "sentence": "She will speak confidently at the seminar.",
-          "blankWord": "speak",
-          "options": [
-            "speak",
-            "spoke"
-          ],
-          "meaning": "She plans to deliver her speech with strong confidence."
-        },
-        {
-          "id": 26,
-          "sentence": "He will join a dance class next week.",
-          "blankWord": "join",
-          "options": [
-            "join",
-            "joined"
-          ],
-          "meaning": "He plans to enroll in a dance program starting next week."
-        },
-        {
-          "id": 27,
-          "sentence": "They will clean the house before the guests arrive.",
-          "blankWord": "clean",
-          "options": [
-            "clean",
-            "cleaned"
-          ],
-          "meaning": "They are going to tidy up the living space before visitors come."
-        },
-        {
-          "id": 28,
-          "sentence": "We will attend the workshop tomorrow.",
+          "id": 6,
+          "sentence": "I will help you with your math project.",
           "blankWord": "will",
           "options": [
             "will",
-            "did"
+            "am"
           ],
-          "meaning": "We plan to participate in tomorrow's training workshop."
+          "translation": "Te ayudaré con tu proyecto de matemáticas.",
+          "meaning": "Ofrezco mi asistencia para ayudarte a resolver los ejercicios."
+        },
+        {
+          "id": 7,
+          "sentence": "They are going to build a library in this village.",
+          "blankWord": "going",
+          "options": [
+            "going",
+            "will"
+          ],
+          "translation": "Van a construir una biblioteca en esta aldea.",
+          "meaning": "Tienen el proyecto de edificar una biblioteca comunitaria."
+        },
+        {
+          "id": 8,
+          "sentence": "He will send the email before noon.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "is"
+          ],
+          "translation": "Él enviará el correo electrónico antes del mediodía.",
+          "meaning": "Promete mandar el mensaje digital durante la mañana."
+        },
+        {
+          "id": 9,
+          "sentence": "We will watch the sunset from the hilltop.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "are"
+          ],
+          "translation": "Veremos el atardecer desde la cima de la colina.",
+          "meaning": "Planeamos subir a la colina para observar el anochecer."
+        },
+        {
+          "id": 10,
+          "sentence": "She is going to start her own company.",
+          "blankWord": "going",
+          "options": [
+            "going",
+            "will"
+          ],
+          "translation": "Ella va a fundar su propia empresa.",
+          "meaning": "Tiene la meta decidida de iniciar su propio negocio."
+        },
+        {
+          "id": 11,
+          "sentence": "I will meet you outside the theater.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "am"
+          ],
+          "translation": "Te encontraré fuera del teatro.",
+          "meaning": "Pactamos reunirnos en la entrada del teatro."
+        },
+        {
+          "id": 12,
+          "sentence": "They will complete the road construction soon.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "are"
+          ],
+          "translation": "Ellos completarán la construcción de la carretera pronto.",
+          "meaning": "La obra vial finalizará en poco tiempo."
+        },
+        {
+          "id": 13,
+          "sentence": "We are going to plant sunflowers in the garden.",
+          "blankWord": "going",
+          "options": [
+            "going",
+            "will"
+          ],
+          "translation": "Vamos a plantar girasoles en el jardín.",
+          "meaning": "Tenemos la intención de cultivar girasoles en nuestro patio."
+        },
+        {
+          "id": 14,
+          "sentence": "He will bring his guitar to the picnic.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "is"
+          ],
+          "translation": "Él traerá su guitarra al picnic.",
+          "meaning": "Traerá su instrumento para tocar música durante el picnic."
+        },
+        {
+          "id": 15,
+          "sentence": "She will finish reading the novel tonight.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "is"
+          ],
+          "translation": "Ella terminará de leer la novela esta noche.",
+          "meaning": "Completará las últimas páginas antes de dormir."
+        },
+        {
+          "id": 16,
+          "sentence": "I am going to practice piano every evening.",
+          "blankWord": "going",
+          "options": [
+            "going",
+            "will"
+          ],
+          "translation": "Voy a practicar piano todas las tardes.",
+          "meaning": "Estableceré el hábito de ensayar piano diariamente."
+        },
+        {
+          "id": 17,
+          "sentence": "They will organize a clean-up drive this weekend.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "are"
+          ],
+          "translation": "Ellos organizarán una jornada de limpieza este fin de semana.",
+          "meaning": "Planean coordinar un evento comunitario de limpieza."
+        },
+        {
+          "id": 18,
+          "sentence": "We will support your decision completely.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "are"
+          ],
+          "translation": "Apoyaremos tu decisión por completo.",
+          "meaning": "Te brindaremos todo nuestro respaldo."
+        },
+        {
+          "id": 19,
+          "sentence": "He is going to adopt a puppy from the shelter.",
+          "blankWord": "going",
+          "options": [
+            "going",
+            "will"
+          ],
+          "translation": "Él va a adoptar un cachorro del refugio.",
+          "meaning": "Ha tomado la decisión de acoger a un perro en su hogar."
+        },
+        {
+          "id": 20,
+          "sentence": "She will design a poster for the event.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "is"
+          ],
+          "translation": "Ella diseñará un cartel para el evento.",
+          "meaning": "Creará la imagen promocional del evento."
+        },
+        {
+          "id": 21,
+          "sentence": "I will learn how to swim this summer.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "am"
+          ],
+          "translation": "Aprenderé a nadar este verano.",
+          "meaning": "Tengo el objetivo de tomar clases de natación en vacaciones."
+        },
+        {
+          "id": 22,
+          "sentence": "They are going to paint the kitchen walls yellow.",
+          "blankWord": "going",
+          "options": [
+            "going",
+            "will"
+          ],
+          "translation": "Van a pintar las paredes de la cocina de amarillo.",
+          "meaning": "Tienen decidido aplicar color amarillo en la cocina."
+        },
+        {
+          "id": 23,
+          "sentence": "We will order pizza for the party.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "are"
+          ],
+          "translation": "Pediremos pizza para la fiesta.",
+          "meaning": "Encargaremos comida rápida para compartir en la reunión."
+        },
+        {
+          "id": 24,
+          "sentence": "He will explain the steps clearly.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "is"
+          ],
+          "translation": "Él explicará los pasos con claridad.",
+          "meaning": "Dará instrucciones comprensibles sobre el proceso."
+        },
+        {
+          "id": 25,
+          "sentence": "She is going to participate in the marathon.",
+          "blankWord": "going",
+          "options": [
+            "going",
+            "will"
+          ],
+          "translation": "Ella va a participar en el maratón.",
+          "meaning": "Se ha inscrito para correr la carrera atlética."
+        },
+        {
+          "id": 26,
+          "sentence": "I will return the borrowed book tomorrow.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "am"
+          ],
+          "translation": "Devolveré el libro prestado mañana.",
+          "meaning": "Entregaré de vuelta el libro en la biblioteca."
+        },
+        {
+          "id": 27,
+          "sentence": "They will discover a solution to the problem.",
+          "blankWord": "will",
+          "options": [
+            "will",
+            "are"
+          ],
+          "translation": "Ellos descubrirán una solución al problema.",
+          "meaning": "Encontrarán la respuesta adecuada para resolver la situación."
+        },
+        {
+          "id": 28,
+          "sentence": "We are going to travel by train across the country.",
+          "blankWord": "going",
+          "options": [
+            "going",
+            "will"
+          ],
+          "translation": "Vamos a viajar en tren por todo el país.",
+          "meaning": "Tenemos el itinerario listo para recorrer el país en ferrocarril."
         },
         {
           "id": 29,
-          "sentence": "I will listen to music after work.",
-          "blankWord": "listen",
+          "sentence": "He will record a new video for his channel.",
+          "blankWord": "will",
           "options": [
-            "listen",
-            "listened"
+            "will",
+            "is"
           ],
-          "meaning": "I plan to play some relaxing tunes after finishing my job."
+          "translation": "Él grabará un nuevo video para su canal.",
+          "meaning": "Creará contenido audiovisual para su audiencia."
         },
         {
           "id": 30,
-          "sentence": "She will pack her bag for the journey.",
-          "blankWord": "pack",
+          "sentence": "She will make hot tea for the guests.",
+          "blankWord": "will",
           "options": [
-            "pack",
-            "packed"
+            "will",
+            "is"
           ],
-          "meaning": "She is going to organize her travel bag for the trip."
+          "translation": "Ella preparará té caliente para los invitados.",
+          "meaning": "Servirá té caliente a las personas de la casa."
         },
         {
           "id": 31,
-          "sentence": "He will carry the luggage for her.",
-          "blankWord": "carry",
+          "sentence": "I am going to repair the broken bicycle frame.",
+          "blankWord": "going",
           "options": [
-            "carry",
-            "carried"
+            "going",
+            "will"
           ],
-          "meaning": "He plans to hold and transport the heavy bags for her."
+          "translation": "Voy a reparar el marco roto de la bicicleta.",
+          "meaning": "Arreglaré la estructura de la bicicleta."
         },
         {
           "id": 32,
-          "sentence": "They will design a new website for the company.",
-          "blankWord": "design",
+          "sentence": "They will invite all their neighbors to the feast.",
+          "blankWord": "will",
           "options": [
-            "design",
-            "designed"
+            "will",
+            "are"
           ],
-          "meaning": "They plan to construct a fresh website design for their business."
+          "translation": "Ellos invitarán a todos sus vecinos al banquete.",
+          "meaning": "Planean convocar a la comunidad para la celebración."
         },
         {
           "id": 33,
-          "sentence": "We will decorate the room for the party.",
+          "sentence": "We are going to decorate the hall with flowers.",
           "blankWord": "decorate",
           "options": [
             "decorate",
             "decorated"
           ],
-          "meaning": "We are going to place festive decorations around the room."
+          "translation": "Vamos a decorar el salón con flores.",
+          "meaning": "Pondremos adornos florales en todo el lugar."
         },
         {
           "id": 34,
@@ -5234,7 +5324,8 @@
             "try",
             "tried"
           ],
-          "meaning": "I plan to make an effort to wake up early each morning."
+          "translation": "Intentaré levantarme temprano todos los días.",
+          "meaning": "Haré el esfuerzo de madrugar cada mañana."
         },
         {
           "id": 35,
@@ -5244,53 +5335,54 @@
             "share",
             "shared"
           ],
-          "meaning": "She plans to distribute her study notes to help other students."
+          "translation": "Ella compartirá sus apuntes con sus compañeros.",
+          "meaning": "Distribuirá sus notas de estudio para colaborar con los demás."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "My Future Dream Career",
-          "description": "Write about what you will do in your future career. Think about your goals, tasks, and achievements.",
+          "title": "La Carrera Profesional de Mis Sueños",
+          "description": "Escribe sobre lo que harás en tu futura carrera profesional. Piensa en tus metas, tareas y logros.",
           "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I will design amazing structures as an architect.",
-            "I will help my team complete projects successfully.",
-            "I will learn new professional skills every day.",
-            "I will work hard to achieve all my career goals.",
-            "I will collaborate with creative minds in the office."
+            "Diseñaré estructuras increíbles como arquitecto.",
+            "Ayudaré a mi equipo a completar proyectos con éxito.",
+            "Aprenderé nuevas habilidades profesionales cada día.",
+            "Trabajaré duro para alcanzar todas mis metas profesionales.",
+            "Colaboraré con mentes creativas en la oficina."
           ]
         },
         {
           "id": 2,
-          "title": "A Trip to the Mountains",
-          "description": "Describe what you will do during a future vacation in the peaceful mountains with your friends.",
+          "title": "Un Viaje a las Montañas",
+          "description": "Describe lo que harás durante unas futuras vacaciones en las tranquilas montañas con tus amigos.",
           "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "We will climb the highest peaks to see the sunset.",
-            "I will paint a picture of the beautiful snowy valley.",
-            "They will set up a warm campfire under the stars.",
-            "She will carry the essential supplies in her bag.",
-            "We will enjoy the refreshing breeze next week."
+            "Escalaremos los picos más altos para ver el atardecer.",
+            "Pintaré un cuadro del hermoso valle nevado.",
+            "Ellos encenderán una cálida fogata bajo las estrellas.",
+            "Ella llevará los suministros esenciales en su mochila.",
+            "Disfrutaremos de la brisa refrescante la próxima semana."
           ]
         },
         {
           "id": 3,
-          "title": "A Weekend Celebration with Family",
-          "description": "Describe plans for an upcoming weekend gathering where family members will cook, play games, and share memories.",
+          "title": "Una Celebración de Fin de Semana en Familia",
+          "description": "Describe los planes para una próxima reunión de fin de semana donde los miembros de la familia cocinarán, jugarán y compartirán recuerdos.",
           "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "We will gather at my grandparents' house on Saturday.",
-            "My uncle will cook delicious traditional food.",
-            "Children will play board games in the garden.",
-            "She will bake a fresh fruit cake for everyone.",
-            "We will take many memorable family photos together."
+            "Nos reuniremos en casa de mis abuelos el sábado.",
+            "Mi tío cocinará deliciosa comida tradicional.",
+            "Los niños jugarán juegos de mesa en el jardín.",
+            "Ella horneará un pastel de frutas frescas para todos.",
+            "Tomaremos muchas fotos familiares memorables juntos."
           ]
         }
       ]
     },
     "day9": {
-      "title": "Future Simple Tense",
+      "title": "Futuro Simple (Future Simple Tense)",
       "sentences": [
         {
           "id": 1,
@@ -5300,7 +5392,8 @@
             "will",
             "did"
           ],
-          "meaning": "I plan to complete my school assignments before going to sleep tonight."
+          "translation": "Terminaré mis deberes esta noche.",
+          "meaning": "Tengo planeado completar mis tareas escolares antes de ir a dormir."
         },
         {
           "id": 2,
@@ -5310,7 +5403,8 @@
             "not",
             "no"
           ],
-          "meaning": "She has decided to be absent from the upcoming meeting."
+          "translation": "Ella no asistirá a la reunión.",
+          "meaning": "Ha decidido no estar presente en la próxima reunión."
         },
         {
           "id": 3,
@@ -5320,7 +5414,8 @@
             "travel",
             "traveled"
           ],
-          "meaning": "They have plans to make a trip to Japan during the coming year."
+          "translation": "Ellos viajarán a Japón el próximo año.",
+          "meaning": "Tienen planes de hacer un viaje a Japón en el transcurso del año."
         },
         {
           "id": 4,
@@ -5330,7 +5425,8 @@
             "forget",
             "forgot"
           ],
-          "meaning": "He will remember the date of your birthday."
+          "translation": "Él no olvidará tu cumpleaños.",
+          "meaning": "Recordará la fecha de tu cumpleaños."
         },
         {
           "id": 5,
@@ -5340,7 +5436,8 @@
             "watch",
             "watching"
           ],
-          "meaning": "We plan to view a film sometime later today."
+          "translation": "Veremos una película más tarde.",
+          "meaning": "Planeamos mirar una película en un rato."
         },
         {
           "id": 6,
@@ -5350,7 +5447,8 @@
             "eat",
             "ate"
           ],
-          "meaning": "I have decided to stop eating unhealthy foods from now on."
+          "translation": "Ya no comeré comida chatarra.",
+          "meaning": "He decidido dejar de consumir alimentos no saludables."
         },
         {
           "id": 7,
@@ -5360,7 +5458,8 @@
             "become",
             "became"
           ],
-          "meaning": "She intends to study medicine and work as a physician in the future."
+          "translation": "Ella se convertirá en médica algún día.",
+          "meaning": "Tiene la intención de estudiar medicina y ejercer como médica en el futuro."
         },
         {
           "id": 8,
@@ -5370,7 +5469,8 @@
             "agree",
             "agreed"
           ],
-          "meaning": "They hold a different opinion and won't accept the decision."
+          "translation": "Ellos no estarán de acuerdo con la decisión.",
+          "meaning": "Tienen una opinión distinta y no aceptarán la decisión."
         },
         {
           "id": 9,
@@ -5380,7 +5480,8 @@
             "will",
             "is"
           ],
-          "meaning": "He plans to telephone you during the evening hours."
+          "translation": "Él te llamará por la tarde.",
+          "meaning": "Planea llamarte por teléfono durante la tarde o noche."
         },
         {
           "id": 10,
@@ -5390,7 +5491,8 @@
             "miss",
             "missed"
           ],
-          "meaning": "We will arrive early enough to catch our scheduled train."
+          "translation": "No perderemos el tren.",
+          "meaning": "Llegaremos con tiempo suficiente para tomar el tren programado."
         },
         {
           "id": 11,
@@ -5400,7 +5502,8 @@
             "learn",
             "learned"
           ],
-          "meaning": "I plan to acquire speaking and reading skills in a foreign language."
+          "translation": "Aprenderé un nuevo idioma.",
+          "meaning": "Planeo adquirir habilidades para hablar y leer en una lengua extranjera."
         },
         {
           "id": 12,
@@ -5410,7 +5513,8 @@
             "not",
             "never"
           ],
-          "meaning": "She has decided not to attend the social celebration."
+          "translation": "Ella no se unirá a la fiesta.",
+          "meaning": "Ha decidido no asistir a la celebración social."
         },
         {
           "id": 13,
@@ -5420,7 +5524,8 @@
             "build",
             "building"
           ],
-          "meaning": "They plan to construct a new residential home."
+          "translation": "Ellos construirán una casa nueva.",
+          "meaning": "Tienen el plan de edificar una nueva vivienda."
         },
         {
           "id": 14,
@@ -5430,7 +5535,8 @@
             "apologize",
             "apologized"
           ],
-          "meaning": "He refuses to express regret or say sorry for this situation."
+          "translation": "Él no se disculpará por esto.",
+          "meaning": "Se niega a pedir perdón por esta situación."
         },
         {
           "id": 15,
@@ -5440,7 +5546,8 @@
             "celebrate",
             "celebrated"
           ],
-          "meaning": "We plan to hold a joyful gathering to mark your accomplishments."
+          "translation": "Celebraremos tu éxito.",
+          "meaning": "Planeamos hacer una fiesta alegre para festejar tus logros."
         },
         {
           "id": 16,
@@ -5450,7 +5557,8 @@
             "waste",
             "wasted"
           ],
-          "meaning": "I am determined to use my hours productively and wisely."
+          "translation": "No desperdiciaré mi tiempo.",
+          "meaning": "Tengo la determinación de usar mis horas de forma productiva."
         },
         {
           "id": 17,
@@ -5460,7 +5568,8 @@
             "help",
             "helped"
           ],
-          "meaning": "She plans to support and assist you in completing your tasks."
+          "translation": "Ella te ayudará con tu trabajo.",
+          "meaning": "Tiene la intención de apoyarte para completar tus tareas."
         },
         {
           "id": 18,
@@ -5470,7 +5579,8 @@
             "accept",
             "accepted"
           ],
-          "meaning": "They plan to decline or turn down the proposal."
+          "translation": "Ellos no aceptarán la oferta.",
+          "meaning": "Planean rechazar la propuesta."
         },
         {
           "id": 19,
@@ -5480,7 +5590,8 @@
             "win",
             "won"
           ],
-          "meaning": "He has a high chance of gaining victory in the contest."
+          "translation": "Él ganará la competición.",
+          "meaning": "Tiene altas probabilidades de obtener la victoria en el concurso."
         },
         {
           "id": 20,
@@ -5490,7 +5601,8 @@
             "ignore",
             "ignored"
           ],
-          "meaning": "We are going to face and address the issue directly."
+          "translation": "No ignoraremos el problema.",
+          "meaning": "Afrontaremos y resolveremos el problema directamente."
         },
         {
           "id": 21,
@@ -5500,7 +5612,8 @@
             "write",
             "wrote"
           ],
-          "meaning": "I plan to compose a physical letter tomorrow."
+          "translation": "Escribiré una carta mañana.",
+          "meaning": "Tengo el plan de redactar una carta física mañana."
         },
         {
           "id": 22,
@@ -5510,7 +5623,8 @@
             "support",
             "supported"
           ],
-          "meaning": "She disagrees with your proposal and won't back it."
+          "translation": "Ella no apoyará tu idea.",
+          "meaning": "No está de acuerdo con tu propuesta y no la respaldará."
         },
         {
           "id": 23,
@@ -5520,7 +5634,8 @@
             "will",
             "are"
           ],
-          "meaning": "They are going to coordinate a special gathering soon."
+          "translation": "Ellos organizarán un evento.",
+          "meaning": "Van a coordinar una reunión especial pronto."
         },
         {
           "id": 24,
@@ -5530,7 +5645,8 @@
             "lie",
             "lied"
           ],
-          "meaning": "He promises to speak only the truth from now on."
+          "translation": "Él no volverá a mentir.",
+          "meaning": "Promete decir únicamente la verdad de ahora en adelante."
         },
         {
           "id": 25,
@@ -5540,7 +5656,8 @@
             "meet",
             "met"
           ],
-          "meaning": "We plan to assemble and talk next week."
+          "translation": "Nos reuniremos la próxima semana.",
+          "meaning": "Planeamos juntarnos y conversar la semana que viene."
         },
         {
           "id": 26,
@@ -5550,7 +5667,8 @@
             "invite",
             "invited"
           ],
-          "meaning": "They plan to send us an invitation to their wedding ceremony."
+          "translation": "Ellos nos invitarán a la boda.",
+          "meaning": "Planean enviarnos una invitación para su ceremonia de boda."
         },
         {
           "id": 27,
@@ -5560,7 +5678,8 @@
             "break",
             "broke"
           ],
-          "meaning": "He will keep his word and remain trustworthy."
+          "translation": "Él no romperá la promesa.",
+          "meaning": "Mantendrá su palabra y seguirá siendo de confianza."
         },
         {
           "id": 28,
@@ -5570,7 +5689,8 @@
             "enjoy",
             "enjoyed"
           ],
-          "meaning": "We expect to have an extremely pleasant journey."
+          "translation": "Disfrutaremos del viaje.",
+          "meaning": "Esperamos tener un viaje sumamente agradable."
         },
         {
           "id": 29,
@@ -5580,7 +5700,8 @@
             "complain",
             "complained"
           ],
-          "meaning": "I have decided to stop expressing dissatisfaction."
+          "translation": "Ya no me quejaré más.",
+          "meaning": "He decidido dejar de expresar insatisfacción."
         },
         {
           "id": 30,
@@ -5590,7 +5711,8 @@
             "sing",
             "sang"
           ],
-          "meaning": "She plans to perform beautiful vocals."
+          "translation": "Ella cantará hermosamente.",
+          "meaning": "Planea realizar una excelente presentación de canto."
         },
         {
           "id": 31,
@@ -5600,7 +5722,8 @@
             "participate",
             "participated"
           ],
-          "meaning": "They have chosen to stay out of the match."
+          "translation": "Ellos no participarán en el juego.",
+          "meaning": "Han decidido quedarse al margen del partido."
         },
         {
           "id": 32,
@@ -5610,7 +5733,8 @@
             "achieve",
             "achieved"
           ],
-          "meaning": "He is going to accomplish the objectives he set for himself."
+          "translation": "Él alcanzará sus metas.",
+          "meaning": "Va a lograr los objetivos que se propuso."
         },
         {
           "id": 33,
@@ -5620,7 +5744,8 @@
             "forget",
             "forgot"
           ],
-          "meaning": "We will always remember how generous and kind you were."
+          "translation": "No olvidaremos tu amabilidad.",
+          "meaning": "Recordaremos siempre lo generoso y amable que fuiste."
         },
         {
           "id": 34,
@@ -5630,7 +5755,8 @@
             "will",
             "did"
           ],
-          "meaning": "I plan to spend some quality time at my grandparents' home."
+          "translation": "Visitaré a mis abuelos.",
+          "meaning": "Planeo pasar un tiempo valioso en casa de mis abuelos."
         },
         {
           "id": 35,
@@ -5640,7 +5766,8 @@
             "trust",
             "trusted"
           ],
-          "meaning": "She will no longer rely on his honesty."
+          "translation": "Ella no volverá a confiar en él.",
+          "meaning": "Ya no volverá a confiar en su honestidad."
         },
         {
           "id": 36,
@@ -5650,7 +5777,8 @@
             "start",
             "started"
           ],
-          "meaning": "They plan to establish a fresh commercial enterprise."
+          "translation": "Ellos iniciarán un nuevo negocio.",
+          "meaning": "Planean fundar una nueva empresa comercial."
         },
         {
           "id": 37,
@@ -5660,7 +5788,8 @@
             "ignore",
             "ignored"
           ],
-          "meaning": "He will listen carefully and follow your recommendations."
+          "translation": "Él no ignorará tu consejo.",
+          "meaning": "Escuchará atentamente y seguirá tus recomendaciones."
         },
         {
           "id": 38,
@@ -5670,7 +5799,8 @@
             "learn",
             "learned"
           ],
-          "meaning": "We expect to gain useful knowledge and capabilities."
+          "translation": "Aprenderemos nuevas habilidades.",
+          "meaning": "Esperamos adquirir conocimientos y capacidades útiles."
         },
         {
           "id": 39,
@@ -5680,7 +5810,8 @@
             "make",
             "made"
           ],
-          "meaning": "I will avoid repeating my previous error."
+          "translation": "No cometeré el mismo error.",
+          "meaning": "Evitaré repetir mi equivocación anterior."
         },
         {
           "id": 40,
@@ -5690,7 +5821,8 @@
             "complete",
             "completed"
           ],
-          "meaning": "She plans to finish her project in the very near future."
+          "translation": "Ella completará su proyecto pronto.",
+          "meaning": "Planea finalizar su proyecto en un futuro muy cercano."
         },
         {
           "id": 41,
@@ -5700,7 +5832,8 @@
             "arrive",
             "arrived"
           ],
-          "meaning": "They are running late and won't reach the destination on schedule."
+          "translation": "Ellos no llegarán a tiempo.",
+          "meaning": "Vienen retrasados y no llegarán a la hora prevista."
         },
         {
           "id": 42,
@@ -5710,7 +5843,8 @@
             "help",
             "helped"
           ],
-          "meaning": "He plans to provide charity and support to needy individuals."
+          "translation": "Él ayudará a los necesitados.",
+          "meaning": "Planea brindar ayuda caritativa y apoyo a quienes lo necesitan."
         },
         {
           "id": 43,
@@ -5720,7 +5854,8 @@
             "argue",
             "argued"
           ],
-          "meaning": "We have decided to resolve our differences and stop fighting."
+          "translation": "Ya no discutiremos más.",
+          "meaning": "Hemos decidido resolver nuestras diferencias y dejar de pelear."
         },
         {
           "id": 44,
@@ -5730,7 +5865,8 @@
             "go",
             "went"
           ],
-          "meaning": "I have plans to visit the fitness facility tomorrow."
+          "translation": "Iré al gimnasio mañana.",
+          "meaning": "Tengo el plan de ir a las instalaciones deportivas mañana."
         },
         {
           "id": 45,
@@ -5740,7 +5876,8 @@
             "accept",
             "accepted"
           ],
-          "meaning": "She plans to politely decline the request to attend."
+          "translation": "Ella no aceptará la invitación.",
+          "meaning": "Planea rechazar amablemente la invitación para asistir."
         },
         {
           "id": 46,
@@ -5750,7 +5887,8 @@
             "finish",
             "finished"
           ],
-          "meaning": "They are going to complete their tasks with high speed."
+          "translation": "Ellos terminarán el trabajo rápidamente.",
+          "meaning": "Van a completar sus tareas a gran velocidad."
         },
         {
           "id": 47,
@@ -5760,40 +5898,41 @@
             "not",
             "no"
           ],
-          "meaning": "He will make sure to telephone you as promised."
+          "translation": "Él no olvidará llamarte.",
+          "meaning": "Se asegurará de llamarte por teléfono tal como lo prometió."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Planning a Big Celebration",
-          "description": "Write about what your friends will and will not do to plan a surprise party for a classmate.",
+          "title": "Planificando una Gran Celebración",
+          "description": "Escribe sobre lo que tus amigos harán y no harán para planificar una fiesta sorpresa para un compañero de clase.",
           "imageUrl": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "They will invite us to the wedding.",
-            "They will organize an event in the grand hall.",
-            "I will write a letter tomorrow with invitation details.",
-            "She will not accept the invitation if she is busy.",
-            "We will decorate the rooms beautifully."
+            "Nos invitarán a la boda.",
+            "Organizarán un evento en el gran salón.",
+            "Escribiré una carta mañana con detalles de la invitación.",
+            "Ella no aceptará la invitación si está ocupada.",
+            "Decoraremos las habitaciones hermosamente."
           ]
         },
         {
           "id": 2,
-          "title": "New Year's Life Goals",
-          "description": "Think about your promises to yourself for the coming year. What will you achieve and what habits will you stop?",
+          "title": "Metas de Vida para el Nuevo Año",
+          "description": "Piensa en tus promesas personales para el próximo año. ¿Qué alcanzarás y qué hábitos dejarás?",
           "imageUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I will learn a new language next semester.",
-            "I will not waste my time scrolling social media.",
-            "He will achieve his goals by practicing every day.",
-            "I will go to the gym tomorrow to stay healthy.",
-            "We will learn new skills in coding and speaking."
+            "Aprenderé un nuevo idioma el próximo semestre.",
+            "No desperdiciaré mi tiempo en redes sociales.",
+            "Él alcanzará sus metas practicando todos los días.",
+            "Iré al gimnasio mañana para mantenerme saludable.",
+            "Aprenderemos nuevas habilidades en programación y oratoria."
           ]
         }
       ]
     },
     "day10": {
-      "title": "Past Continuous Tense",
+      "title": "Pasado Continuo (Past Continuous Tense)",
       "sentences": [
         {
           "id": 1,
@@ -5803,7 +5942,8 @@
             "was",
             "were"
           ],
-          "meaning": "I was in the middle of reading a book when something else happened."
+          "translation": "Estaba leyendo un libro.",
+          "meaning": "Estaba en medio de la lectura de un libro cuando ocurrió otra cosa."
         },
         {
           "id": 2,
@@ -5813,7 +5953,8 @@
             "cooking",
             "cooks"
           ],
-          "meaning": "She wasn't in the middle of preparing the evening meal."
+          "translation": "Ella no estaba cocinando la cena.",
+          "meaning": "Ella no estaba en medio de la preparación de la cena."
         },
         {
           "id": 3,
@@ -5823,7 +5964,8 @@
             "were",
             "was"
           ],
-          "meaning": "They were in the middle of playing a game of football."
+          "translation": "Ellos estaban jugando al fútbol.",
+          "meaning": "Estaban en medio de un partido de fútbol."
         },
         {
           "id": 4,
@@ -5833,7 +5975,8 @@
             "watching",
             "watches"
           ],
-          "meaning": "He was not engaged in looking at television programs."
+          "translation": "Él no estaba viendo la televisión.",
+          "meaning": "No estaba mirando programas de televisión."
         },
         {
           "id": 5,
@@ -5843,7 +5986,8 @@
             "were",
             "was"
           ],
-          "meaning": "We spent time together learning and doing schoolwork."
+          "translation": "Estábamos estudiando juntos.",
+          "meaning": "Pasamos tiempo juntos aprendiendo y haciendo tareas escolares."
         },
         {
           "id": 6,
@@ -5853,7 +5997,8 @@
             "barking",
             "barked"
           ],
-          "meaning": "The dog was quiet and was not making any loud barking sounds."
+          "translation": "El perro no estaba ladrando.",
+          "meaning": "El perro estaba tranquilo y no emitía ladridos fuertes."
         },
         {
           "id": 7,
@@ -5863,7 +6008,8 @@
             "was",
             "were"
           ],
-          "meaning": "She was in the middle of composing a physical letter on paper."
+          "translation": "Ella estaba escribiendo una carta.",
+          "meaning": "Estaba en medio de redactar una carta física en papel."
         },
         {
           "id": 8,
@@ -5873,7 +6019,8 @@
             "walking",
             "walked"
           ],
-          "meaning": "I was not spending time taking a stroll in the public park."
+          "translation": "No estaba caminando por el parque.",
+          "meaning": "No estaba dando un paseo por el parque público."
         },
         {
           "id": 9,
@@ -5883,7 +6030,8 @@
             "dancing",
             "danced"
           ],
-          "meaning": "They were in the process of moving rhythmically to music at the celebration."
+          "translation": "Ellos estaban bailando en la fiesta.",
+          "meaning": "Estaban bailando al ritmo de la música en la celebración."
         },
         {
           "id": 10,
@@ -5893,7 +6041,8 @@
             "driving",
             "drove"
           ],
-          "meaning": "He was in his car traveling towards his workplace."
+          "translation": "Él estaba conduciendo al trabajo.",
+          "meaning": "Estaba en su automóvil viajando hacia su lugar de trabajo."
         },
         {
           "id": 11,
@@ -5903,7 +6052,8 @@
             "laughing",
             "laughed"
           ],
-          "meaning": "We did not find the joke amusing and were not chuckling."
+          "translation": "No nos estábamos riendo del chiste.",
+          "meaning": "No encontramos divertido el chiste y no nos reímos."
         },
         {
           "id": 12,
@@ -5913,7 +6063,8 @@
             "was",
             "were"
           ],
-          "meaning": "She was in the middle of creating artwork with paint on a canvas."
+          "translation": "Ella estaba pintando un cuadro.",
+          "meaning": "Estaba en medio de crear una obra de arte con pintura sobre lienzo."
         },
         {
           "id": 13,
@@ -5923,7 +6074,8 @@
             "listening",
             "listened"
           ],
-          "meaning": "I was paying attention to songs or tunes playing on my device."
+          "translation": "Estaba escuchando música.",
+          "meaning": "Estaba prestando atención a canciones en mi dispositivo."
         },
         {
           "id": 14,
@@ -5933,7 +6085,8 @@
             "building",
             "builded"
           ],
-          "meaning": "They were not in the process of constructing a residential home."
+          "translation": "Ellos no estaban construyendo una casa.",
+          "meaning": "No estaban en proceso de edificar una vivienda."
         },
         {
           "id": 15,
@@ -5943,7 +6096,8 @@
             "fixing",
             "fixed"
           ],
-          "meaning": "He was actively repairing the vehicle."
+          "translation": "Él estaba arreglando el automóvil.",
+          "meaning": "Estaba reparando activamente el vehículo."
         },
         {
           "id": 16,
@@ -5953,7 +6107,8 @@
             "waiting",
             "waited"
           ],
-          "meaning": "We stood at the bus stop anticipating the arrival of our transport."
+          "translation": "Estábamos esperando el autobús.",
+          "meaning": "Estábamos en la parada esperando la llegada del autobús."
         },
         {
           "id": 17,
@@ -5963,7 +6118,8 @@
             "talking",
             "talked"
           ],
-          "meaning": "She was not engaged in a telephone conversation."
+          "translation": "Ella no estaba hablando por teléfono.",
+          "meaning": "No estaba manteniendo una conversación telefónica."
         },
         {
           "id": 18,
@@ -5973,7 +6129,8 @@
             "was",
             "were"
           ],
-          "meaning": "I was busy tidying up and removing dirt from my bedroom."
+          "translation": "Estaba limpiando mi habitación.",
+          "meaning": "Estaba ocupado ordenando y limpiando mi dormitorio."
         },
         {
           "id": 19,
@@ -5983,7 +6140,8 @@
             "singing",
             "sang"
           ],
-          "meaning": "They were performing a piece of vocal music."
+          "translation": "Ellos estaban cantando una canción.",
+          "meaning": "Estaban interpretando una pieza musical."
         },
         {
           "id": 20,
@@ -5993,7 +6151,8 @@
             "learning",
             "learn"
           ],
-          "meaning": "He wasn't studying the English language at that time."
+          "translation": "Él no estaba aprendiendo inglés.",
+          "meaning": "No estaba estudiando el idioma inglés en ese momento."
         },
         {
           "id": 21,
@@ -6003,7 +6162,8 @@
             "enjoying",
             "enjoyed"
           ],
-          "meaning": "We found the motion picture highly pleasant while watching it."
+          "translation": "Estábamos disfrutando de la película.",
+          "meaning": "Nos pareció muy agradable la película mientras la veíamos."
         },
         {
           "id": 22,
@@ -6013,7 +6173,8 @@
             "watering",
             "watered"
           ],
-          "meaning": "She was pouring water over her garden vegetation."
+          "translation": "Ella estaba regando las plantas.",
+          "meaning": "Estaba echando agua a las plantas del jardín."
         },
         {
           "id": 23,
@@ -6023,7 +6184,8 @@
             "doing",
             "did"
           ],
-          "meaning": "I was not doing any of my homework tasks."
+          "translation": "No estaba haciendo mis deberes.",
+          "meaning": "No estaba realizando ninguna de mis tareas escolares."
         },
         {
           "id": 24,
@@ -6033,7 +6195,8 @@
             "running",
             "runned"
           ],
-          "meaning": "They were sprinting or jogging on the grassy field."
+          "translation": "Ellos estaban corriendo en el campo.",
+          "meaning": "Estaban corriendo o trotando en el campo de césped."
         },
         {
           "id": 25,
@@ -6043,7 +6206,8 @@
             "playing",
             "played"
           ],
-          "meaning": "He was actively producing music on a stringed guitar."
+          "translation": "Él estaba tocando la guitarra.",
+          "meaning": "Estaba haciendo música con una guitarra de cuerdas."
         },
         {
           "id": 26,
@@ -6053,7 +6217,8 @@
             "traveling",
             "traveled"
           ],
-          "meaning": "We were not in transit heading towards Delhi."
+          "translation": "No estábamos viajando a Delhi.",
+          "meaning": "No estábamos en tránsito hacia Delhi."
         },
         {
           "id": 27,
@@ -6063,7 +6228,8 @@
             "teaching",
             "taught"
           ],
-          "meaning": "She was delivering a lesson to the students in the classroom."
+          "translation": "Ella estaba impartiendo la clase.",
+          "meaning": "Estaba dando una lección a los estudiantes en el aula."
         },
         {
           "id": 28,
@@ -6073,7 +6239,8 @@
             "drawing",
             "drew"
           ],
-          "meaning": "I was in the middle of creating a pencil drawing."
+          "translation": "Estaba haciendo un boceto.",
+          "meaning": "Estaba en medio de crear un dibujo a lápiz."
         },
         {
           "id": 29,
@@ -6083,7 +6250,8 @@
             "discussing",
             "discussed"
           ],
-          "meaning": "They were having a conversation to organize future actions."
+          "translation": "Ellos estaban discutiendo el plan.",
+          "meaning": "Estaban conversando para organizar acciones futuras."
         },
         {
           "id": 30,
@@ -6093,7 +6261,8 @@
             "climbing",
             "climbed"
           ],
-          "meaning": "He was not scaling the trunk or branches of a tree."
+          "translation": "Él no estaba trepando a un árbol.",
+          "meaning": "No estaba escalando el tronco ni las ramas de un árbol."
         },
         {
           "id": 31,
@@ -6103,7 +6272,8 @@
             "were",
             "was"
           ],
-          "meaning": "We were cooking the evening meal together."
+          "translation": "Estábamos preparando la cena.",
+          "meaning": "Estábamos cocinando la cena juntos."
         },
         {
           "id": 32,
@@ -6113,7 +6283,8 @@
             "organizing",
             "organized"
           ],
-          "meaning": "She was tidying up files and tools on her office desk."
+          "translation": "Ella estaba organizando su escritorio.",
+          "meaning": "Estaba ordenando archivos y útiles en su escritorio de oficina."
         },
         {
           "id": 33,
@@ -6123,7 +6294,8 @@
             "riding",
             "rode"
           ],
-          "meaning": "I was not traveling using my bicycle."
+          "translation": "No estaba montando en mi bicicleta.",
+          "meaning": "No estaba desplazándome en mi bicicleta."
         },
         {
           "id": 34,
@@ -6133,7 +6305,8 @@
             "enjoying",
             "enjoyed"
           ],
-          "meaning": "They were having a pleasant time while it rained outside."
+          "translation": "Ellos estaban disfrutando de la lluvia.",
+          "meaning": "Pasaban un momento agradable mientras llovía afuera."
         },
         {
           "id": 35,
@@ -6143,7 +6316,8 @@
             "reading",
             "read"
           ],
-          "meaning": "He was reading daily news articles from a printed paper."
+          "translation": "Él estaba leyendo el periódico.",
+          "meaning": "Estaba leyendo noticias diarias en un periódico impreso."
         },
         {
           "id": 36,
@@ -6153,7 +6327,8 @@
             "visiting",
             "visited"
           ],
-          "meaning": "We were not traveling to see our family members."
+          "translation": "No estábamos visitando a nuestros parientes.",
+          "meaning": "No viajamos para ver a los miembros de nuestra familia."
         },
         {
           "id": 37,
@@ -6163,7 +6338,8 @@
             "baking",
             "baked"
           ],
-          "meaning": "She was in the middle of preparing a sweet baked cake in the oven."
+          "translation": "Ella estaba horneando un pastel.",
+          "meaning": "Estaba en medio de preparar un dulce pastel en el horno."
         },
         {
           "id": 38,
@@ -6173,7 +6349,8 @@
             "was",
             "were"
           ],
-          "meaning": "I was engaged in a strategic board game of chess."
+          "translation": "Estaba jugando al ajedrez.",
+          "meaning": "Estaba participando en un juego estratégico de ajedrez."
         },
         {
           "id": 39,
@@ -6183,7 +6360,8 @@
             "practicing",
             "practiced"
           ],
-          "meaning": "They were not performing physical and mental yoga stretches."
+          "translation": "Ellos no estaban practicando yoga.",
+          "meaning": "No estaban realizando ejercicios físicos ni mentales de yoga."
         },
         {
           "id": 40,
@@ -6193,40 +6371,41 @@
             "repairing",
             "repaired"
           ],
-          "meaning": "He was actively fixing the broken shingles or leaks in the ceiling."
+          "translation": "Él estaba reparando el tejado.",
+          "meaning": "Estaba arreglando activamente las tejas o goteras del techo."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "A Busy Afternoon in the Park",
-          "description": "Describe what was happening in a lively town park yesterday afternoon. Use past continuous sentences to describe people, pets, and activities.",
+          "title": "Una Tarde Animada en el Parque",
+          "description": "Describe lo que estaba sucediendo en un parque concurrido ayer por la tarde. Utiliza oraciones en pasado continuo para describir personas, mascotas y actividades.",
           "imageUrl": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "They were playing football on the green grass.",
-            "He was driving to work past the park gate.",
-            "I was listening to music while sitting on the bench.",
-            "We were not laughing at the joke when we saw them.",
-            "The dog was not barking loudly at the squirrels."
+            "Ellos estaban jugando al fútbol en el césped verde.",
+            "Él estaba conduciendo al trabajo pasando por la puerta del parque.",
+            "Yo estaba escuchando música mientras me sentaba en el banco.",
+            "Nosotros no nos estábamos riendo del chiste cuando los vimos.",
+            "El perro no estaba ladrando fuerte a las ardillas."
           ]
         },
         {
           "id": 2,
-          "title": "Preparing for a Storm",
-          "description": "Write about what everyone in your house was doing yesterday evening as a heavy storm was approaching.",
+          "title": "Preparándose para una Tormenta",
+          "description": "Escribe sobre lo que todos en tu casa estaban haciendo ayer por la tarde cuando se acercaba una fuerte tormenta.",
           "imageUrl": "https://images.unsplash.com/photo-1461511663015-1a74a198719c?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "We were preparing dinner in a hurry.",
-            "She was watering the plants before the rain started.",
-            "He was repairing the roof leaks quickly.",
-            "They were discussing the safety plan together.",
-            "I was cleaning my room when the power went out."
+            "Estábamos preparando la cena a toda prisa.",
+            "Ella estaba regando las plantas antes de que empezara a llover.",
+            "Él estaba reparando las goteras del tejado rápidamente.",
+            "Ellos estaban discutiendo el plan de seguridad juntos.",
+            "Yo estaba limpiando mi habitación cuando se fue la luz."
           ]
         }
       ]
     },
     "day11": {
-      "title": "Future Continuous Tense",
+      "title": "Futuro Continuo (Future Continuous Tense)",
       "sentences": [
         {
           "id": 1,
@@ -6236,7 +6415,8 @@
             "be",
             "been"
           ],
-          "meaning": "I expect to be engaged in studying at some point during tonight."
+          "translation": "Estaré estudiando esta noche.",
+          "meaning": "Preveo estar estudiando en algún momento de esta noche."
         },
         {
           "id": 2,
@@ -6246,7 +6426,8 @@
             "not",
             "no"
           ],
-          "meaning": "She doesn't plan to attend or participate in the meeting."
+          "translation": "Ella no estará asistiendo a la reunión.",
+          "meaning": "No planea asistir ni participar en la reunión."
         },
         {
           "id": 3,
@@ -6256,7 +6437,8 @@
             "playing",
             "played"
           ],
-          "meaning": "They have planned a football game tomorrow and will be in the middle of it."
+          "translation": "Ellos estarán jugando al fútbol mañana.",
+          "meaning": "Tienen planeado un partido de fútbol mañana y estarán jugando."
         },
         {
           "id": 4,
@@ -6266,7 +6448,8 @@
             "working",
             "worked"
           ],
-          "meaning": "He does not intend to spend extra hours working late tonight."
+          "translation": "Él no estará trabajando hasta tarde.",
+          "meaning": "No tiene intenciones de quedarse trabajando horas extra esta noche."
         },
         {
           "id": 5,
@@ -6276,7 +6459,8 @@
             "traveling",
             "traveled"
           ],
-          "meaning": "We plan to be on a trip or journey during next week."
+          "translation": "Estaremos viajando la próxima semana.",
+          "meaning": "Planeamos estar de viaje durante la semana que viene."
         },
         {
           "id": 6,
@@ -6286,7 +6470,8 @@
             "sleeping",
             "slept"
           ],
-          "meaning": "I plan to stay up late and won't go to sleep early."
+          "translation": "No estaré durmiendo temprano.",
+          "meaning": "Planeo quedarme despierto hasta tarde y no me dormiré temprano."
         },
         {
           "id": 7,
@@ -6296,7 +6481,8 @@
             "cooking",
             "cooks"
           ],
-          "meaning": "At exactly 8 PM, she expects to be in the middle of preparing dinner."
+          "translation": "Ella estará cocinando la cena a las 8 PM.",
+          "meaning": "A las 8 PM en punto, espera estar preparando la cena."
         },
         {
           "id": 8,
@@ -6306,7 +6492,8 @@
             "watching",
             "watched"
           ],
-          "meaning": "They do not intend to watch the scheduled film."
+          "translation": "Ellos no estarán viendo la película.",
+          "meaning": "No tienen intenciones de mirar la película programada."
         },
         {
           "id": 9,
@@ -6316,7 +6503,8 @@
             "driving",
             "drove"
           ],
-          "meaning": "Tomorrow, he plans to be on the road driving towards Delhi."
+          "translation": "Él estará conduciendo a Delhi mañana.",
+          "meaning": "Mañana planea estar en la carretera conduciendo hacia Delhi."
         },
         {
           "id": 10,
@@ -6326,7 +6514,8 @@
             "visiting",
             "visited"
           ],
-          "meaning": "We will not include the museum in our upcoming trip itinerary."
+          "translation": "No estaremos visitando el museo.",
+          "meaning": "No incluiremos el museo en nuestro itinerario de viaje."
         },
         {
           "id": 11,
@@ -6336,7 +6525,8 @@
             "writing",
             "written"
           ],
-          "meaning": "I plan to spend some time writing a physical letter."
+          "translation": "Estaré escribiendo una carta.",
+          "meaning": "Planeo dedicar tiempo a redactar una carta física."
         },
         {
           "id": 12,
@@ -6346,7 +6536,8 @@
             "practicing",
             "practiced"
           ],
-          "meaning": "She does not plan to practice her piano scales today."
+          "translation": "Ella no estará practicando piano.",
+          "meaning": "No tiene planeado practicar sus escalas de piano hoy."
         },
         {
           "id": 13,
@@ -6356,7 +6547,8 @@
             "building",
             "built"
           ],
-          "meaning": "They will be in the process of constructing their new home."
+          "translation": "Ellos estarán construyendo una casa nueva.",
+          "meaning": "Estarán en proceso de edificar su nuevo hogar."
         },
         {
           "id": 14,
@@ -6366,7 +6558,8 @@
             "calling",
             "called"
           ],
-          "meaning": "He does not plan to telephone you during this evening."
+          "translation": "Él no te estará llamando esta noche.",
+          "meaning": "No planea llamarte por teléfono durante esta noche."
         },
         {
           "id": 15,
@@ -6376,7 +6569,8 @@
             "celebrating",
             "celebrated"
           ],
-          "meaning": "We plan to participate in and enjoy the festival activities."
+          "translation": "Estaremos celebrando el festival.",
+          "meaning": "Planeamos participar y disfrutar de las actividades del festival."
         },
         {
           "id": 16,
@@ -6386,7 +6580,8 @@
             "using",
             "used"
           ],
-          "meaning": "I plan to stay offline and won't be using my phone."
+          "translation": "No estaré usando mi teléfono.",
+          "meaning": "Planeo estar desconectado y no usaré mi teléfono."
         },
         {
           "id": 17,
@@ -6396,7 +6591,8 @@
             "cleaning",
             "cleaned"
           ],
-          "meaning": "She expects to spend time tidying and dusting her bedroom."
+          "translation": "Ella estará limpiando su habitación.",
+          "meaning": "Espera dedicar tiempo a ordenar y desempolvar su dormitorio."
         },
         {
           "id": 18,
@@ -6406,7 +6602,8 @@
             "studying",
             "studied"
           ],
-          "meaning": "They do not plan to revise or study for the upcoming test."
+          "translation": "Ellos no estarán estudiando para el examen.",
+          "meaning": "No planean repasar ni estudiar para la prueba venidera."
         },
         {
           "id": 19,
@@ -6416,7 +6613,8 @@
             "fixing",
             "fixed"
           ],
-          "meaning": "He plans to spend time repairing his car."
+          "translation": "Él estará arreglando el automóvil.",
+          "meaning": "Planea dedicar tiempo a reparar su coche."
         },
         {
           "id": 20,
@@ -6426,7 +6624,8 @@
             "dancing",
             "danced"
           ],
-          "meaning": "She will attend the party but won't be dancing on the dance floor."
+          "translation": "Ella no estará bailando en la fiesta.",
+          "meaning": "Asistirá a la fiesta pero no bailará en la pista."
         },
         {
           "id": 21,
@@ -6436,7 +6635,8 @@
             "discussing",
             "discussed"
           ],
-          "meaning": "They will be having a collaborative talk to lay out plans."
+          "translation": "Ellos estarán discutiendo el plan.",
+          "meaning": "Tendrán una charla colaborativa para trazar planes."
         },
         {
           "id": 22,
@@ -6446,7 +6646,8 @@
             "joining",
             "joined"
           ],
-          "meaning": "He won't accompany us or participate in our group activity."
+          "translation": "Él no se estará uniendo a nosotros.",
+          "meaning": "No nos acompañará ni participará en nuestra actividad."
         },
         {
           "id": 23,
@@ -6456,7 +6657,8 @@
             "preparing",
             "prepared"
           ],
-          "meaning": "We plan to be busy making our midday meal."
+          "translation": "Estaremos preparando el almuerzo.",
+          "meaning": "Planeamos estar ocupados haciendo nuestra comida del mediodía."
         },
         {
           "id": 24,
@@ -6466,7 +6668,8 @@
             "working",
             "worked"
           ],
-          "meaning": "Tomorrow is my day off, so I won't be working."
+          "translation": "No estaré trabajando mañana.",
+          "meaning": "Mañana es mi día libre, así que no trabajaré."
         },
         {
           "id": 25,
@@ -6476,7 +6679,8 @@
             "reading",
             "read"
           ],
-          "meaning": "She plans to spend some quiet time reading her book."
+          "translation": "Ella estará leyendo una novela.",
+          "meaning": "Planea pasar un tiempo tranquilo leyendo su libro."
         },
         {
           "id": 26,
@@ -6486,7 +6690,8 @@
             "playing",
             "played"
           ],
-          "meaning": "They won't spend their leisure time playing video or board games."
+          "translation": "Ellos no estarán jugando juegos.",
+          "meaning": "No pasarán su tiempo libre jugando videojuegos ni juegos de mesa."
         },
         {
           "id": 27,
@@ -6496,7 +6701,8 @@
             "teaching",
             "taught"
           ],
-          "meaning": "He expects to be busy delivering his lecture to the classroom."
+          "translation": "Él estará impartiendo la clase.",
+          "meaning": "Espera estar ocupado dando su lección en el aula."
         },
         {
           "id": 28,
@@ -6506,7 +6712,8 @@
             "attending",
             "attended"
           ],
-          "meaning": "We will not be going to the formal event or ceremony."
+          "translation": "No estaremos asistiendo al evento.",
+          "meaning": "No iremos al evento formal o ceremonia."
         },
         {
           "id": 29,
@@ -6516,7 +6723,8 @@
             "jogging",
             "jogged"
           ],
-          "meaning": "I plan to be taking a running exercise tomorrow morning."
+          "translation": "Estaré trotando por la mañana.",
+          "meaning": "Planeo salir a correr como ejercicio mañana por la mañana."
         },
         {
           "id": 30,
@@ -6526,7 +6734,8 @@
             "answering",
             "answered"
           ],
-          "meaning": "She will be busy and won't take any incoming phone calls."
+          "translation": "Ella no estará respondiendo llamadas.",
+          "meaning": "Estará ocupada y no atenderá llamadas telefónicas entrantes."
         },
         {
           "id": 31,
@@ -6536,7 +6745,8 @@
             "organizing",
             "organized"
           ],
-          "meaning": "They plan to be coordinating and arranging the setup for the event."
+          "translation": "Ellos estarán organizando el evento.",
+          "meaning": "Planean coordinar y preparar el montaje del evento."
         },
         {
           "id": 32,
@@ -6546,7 +6756,8 @@
             "traveling",
             "traveled"
           ],
-          "meaning": "He will spend his vacation locally and won't go overseas."
+          "translation": "Él no estará viajando al extranjero.",
+          "meaning": "Pasará sus vacaciones en la localidad y no irá fuera del país."
         },
         {
           "id": 33,
@@ -6556,7 +6767,8 @@
             "enjoying",
             "enjoyed"
           ],
-          "meaning": "We expect to be having a wonderful time during our travel."
+          "translation": "Estaremos disfrutando del viaje.",
+          "meaning": "Esperamos pasar un momento maravilloso durante el viaje."
         },
         {
           "id": 34,
@@ -6566,7 +6778,8 @@
             "buying",
             "bought"
           ],
-          "meaning": "I plan to save money and won't purchase any items at the store."
+          "translation": "No estaré comprando nada.",
+          "meaning": "Planeo ahorrar dinero y no compraré productos en la tienda."
         },
         {
           "id": 35,
@@ -6576,7 +6789,8 @@
             "painting",
             "painted"
           ],
-          "meaning": "She plans to spend her afternoon painting the bedroom walls."
+          "translation": "Ella estará pintando la pared.",
+          "meaning": "Planea pasar la tarde pintando las paredes del dormitorio."
         },
         {
           "id": 36,
@@ -6586,7 +6800,8 @@
             "listening",
             "listened"
           ],
-          "meaning": "They will be working in a quiet space and won't play any tunes."
+          "translation": "Ellos no estarán escuchando música.",
+          "meaning": "Estarán trabajando en un espacio tranquilo sin música."
         },
         {
           "id": 37,
@@ -6596,7 +6811,8 @@
             "watching",
             "watched"
           ],
-          "meaning": "He plans to spend some evening hours watching television programs."
+          "translation": "Él estará viendo la televisión.",
+          "meaning": "Planea pasar algunas horas de la noche viendo televisión."
         },
         {
           "id": 38,
@@ -6606,7 +6822,8 @@
             "staying",
             "stayed"
           ],
-          "meaning": "We have other lodging plans and won't be sleeping at this location."
+          "translation": "No nos estaremos quedando aquí.",
+          "meaning": "Tenemos otros planes de alojamiento y no dormiremos aquí."
         },
         {
           "id": 39,
@@ -6616,7 +6833,8 @@
             "meeting",
             "met"
           ],
-          "meaning": "I have plans to meet up and spend time with my friend."
+          "translation": "Estaré reuniéndome con mi amigo.",
+          "meaning": "Tengo planes para juntarme y pasar tiempo con mi amigo."
         },
         {
           "id": 40,
@@ -6626,40 +6844,41 @@
             "baking",
             "baked"
           ],
-          "meaning": "She won't be making any baked goods today."
+          "translation": "Ella no estará horneando un pastel.",
+          "meaning": "No preparará ningún producto horneado hoy."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Imagine a Smart City in 2050",
-          "description": "Describe a typical day in a futuristic city 30 years from now. What will citizens and smart machines be doing?",
+          "title": "Imagina una Ciudad Inteligente en 2050",
+          "description": "Describe un día típico en una ciudad futurista dentro de 30 años. ¿Qué estarán haciendo los ciudadanos y las máquinas inteligentes?",
           "imageUrl": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "Flying cars will be driving to Delhi tomorrow.",
-            "We will be celebrating the festival with holographic lights.",
-            "Robots will be preparing lunch for everyone.",
-            "I will not be working late because AI will help me.",
-            "They will be building a new house in just one day."
+            "Los coches voladores estarán conduciendo a Delhi mañana.",
+            "Estaremos celebrando el festival con luces holográficas.",
+            "Los robots estarán preparando el almuerzo para todos.",
+            "Yo no estaré trabajando hasta tarde porque la IA me ayudará.",
+            "Ellos estarán construyendo una casa nueva en tan solo un día."
           ]
         },
         {
           "id": 2,
-          "title": "Tomorrow's Schedule",
-          "description": "Write down what you and your family will be doing at different times tomorrow to make sure everything gets completed.",
+          "title": "El Horario de Mañana",
+          "description": "Escribe lo que tú y tu familia estarán haciendo a diferentes horas mañana para asegurarte de completar todo.",
           "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I will be studying tonight for the big examination.",
-            "She will be cleaning her room at 10 AM tomorrow.",
-            "We will not be staying here during the afternoon.",
-            "They will be discussing the plan for the weekend.",
-            "He will be fixing the car while I prepare lunch."
+            "Estaré estudiando esta noche para el gran examen.",
+            "Ella estará limpiando su habitación a las 10 AM mañana.",
+            "No nos estaremos quedando aquí durante la tarde.",
+            "Ellos estarán discutiendo el plan para el fin de semana.",
+            "Él estará arreglando el automóvil mientras yo preparo el almuerzo."
           ]
         }
       ]
     },
     "day12": {
-      "title": "Present Perfect Tense",
+      "title": "Presente Perfecto (Present Perfect Tense)",
       "sentences": [
         {
           "id": 1,
@@ -6669,7 +6888,8 @@
             "have",
             "has"
           ],
-          "meaning": "I have completed all my school tasks recently or just now."
+          "translation": "He terminado mis deberes.",
+          "meaning": "He completado todas mis tareas escolares recientemente."
         },
         {
           "id": 2,
@@ -6679,7 +6899,8 @@
             "has",
             "have"
           ],
-          "meaning": "She hasn't consumed her morning meal up to this moment."
+          "translation": "Ella no ha desayunado.",
+          "meaning": "No ha consumido su desayuno hasta este momento."
         },
         {
           "id": 3,
@@ -6689,7 +6910,8 @@
             "visited",
             "visit"
           ],
-          "meaning": "They have been to Delhi on multiple occasions in the past."
+          "translation": "Ellos han visitado Delhi muchas veces.",
+          "meaning": "Han estado en Delhi en múltiples ocasiones en el pasado."
         },
         {
           "id": 4,
@@ -6699,7 +6921,8 @@
             "completed",
             "complete"
           ],
-          "meaning": "He hasn't finished the assigned project yet."
+          "translation": "Él no ha completado el proyecto.",
+          "meaning": "Aún no ha terminado el proyecto asignado."
         },
         {
           "id": 5,
@@ -6709,7 +6932,8 @@
             "watched",
             "watching"
           ],
-          "meaning": "We have already seen that motion picture."
+          "translation": "Ya hemos visto esa película.",
+          "meaning": "Ya hemos visto esa producción cinematográfica."
         },
         {
           "id": 6,
@@ -6719,7 +6943,8 @@
             "seen",
             "saw"
           ],
-          "meaning": "I have not crossed paths with or looked at him today."
+          "translation": "No lo he visto hoy.",
+          "meaning": "No me he cruzado con él ni lo he visto el día de hoy."
         },
         {
           "id": 7,
@@ -6729,7 +6954,8 @@
             "learned",
             "learns"
           ],
-          "meaning": "She has acquired the ability to speak or understand French."
+          "translation": "Ella ha aprendido francés.",
+          "meaning": "Ha adquirido la habilidad de hablar o entender francés."
         },
         {
           "id": 8,
@@ -6739,7 +6965,8 @@
             "arrived",
             "arrive"
           ],
-          "meaning": "They have not reached the destination up to this moment."
+          "translation": "Ellos aún no han llegado.",
+          "meaning": "No han alcanzado el destino hasta este momento."
         },
         {
           "id": 9,
@@ -6749,7 +6976,8 @@
             "written",
             "wrote"
           ],
-          "meaning": "He has finished writing a letter."
+          "translation": "Él ha escrito una carta.",
+          "meaning": "Ha terminado de redactar una carta."
         },
         {
           "id": 10,
@@ -6759,7 +6987,8 @@
             "cleaned",
             "clean"
           ],
-          "meaning": "We have not tidied up the bedroom yet."
+          "translation": "No hemos limpiado la habitación.",
+          "meaning": "Aún no hemos ordenado el dormitorio."
         },
         {
           "id": 11,
@@ -6769,7 +6998,8 @@
             "bought",
             "buy"
           ],
-          "meaning": "I recently purchased a brand new mobile phone."
+          "translation": "He comprado un teléfono nuevo.",
+          "meaning": "Compré recientemente un teléfono móvil a estrenar."
         },
         {
           "id": 12,
@@ -6779,7 +7009,8 @@
             "called",
             "calls"
           ],
-          "meaning": "She hasn't telephoned or contacted me yet."
+          "translation": "Ella no me ha llamado.",
+          "meaning": "Aún no me ha telefoneado ni contactado."
         },
         {
           "id": 13,
@@ -6789,7 +7020,8 @@
             "played",
             "play"
           ],
-          "meaning": "They spent time playing a soccer match."
+          "translation": "Ellos han jugado al fútbol.",
+          "meaning": "Pasaron tiempo jugando un partido de fútbol."
         },
         {
           "id": 14,
@@ -6799,7 +7031,8 @@
             "fixed",
             "fix"
           ],
-          "meaning": "He has not repaired the broken vehicle yet."
+          "translation": "Él no ha arreglado el automóvil.",
+          "meaning": "Aún no ha reparado el vehículo averiado."
         },
         {
           "id": 15,
@@ -6809,7 +7042,8 @@
             "traveled",
             "travel"
           ],
-          "meaning": "We have made journeys to other countries before."
+          "translation": "Hemos viajado al extranjero.",
+          "meaning": "Hemos hecho viajes a otros países anteriormente."
         },
         {
           "id": 16,
@@ -6819,7 +7053,8 @@
             "read",
             "reads"
           ],
-          "meaning": "I have not spent time reading that particular book."
+          "translation": "No he leído ese libro.",
+          "meaning": "No he dedicado tiempo a leer ese libro en particular."
         },
         {
           "id": 17,
@@ -6829,7 +7064,8 @@
             "cooked",
             "cook"
           ],
-          "meaning": "She has prepared the evening meal."
+          "translation": "Ella ha cocinado la cena.",
+          "meaning": "Ha preparado la comida de la noche."
         },
         {
           "id": 18,
@@ -6839,7 +7075,8 @@
             "finished",
             "finish"
           ],
-          "meaning": "They still have pending tasks to complete."
+          "translation": "Ellos no han terminado su trabajo.",
+          "meaning": "Aún tienen tareas pendientes por completar."
         },
         {
           "id": 19,
@@ -6849,7 +7086,8 @@
             "opened",
             "open"
           ],
-          "meaning": "The door is now open because he opened it."
+          "translation": "Él ha abierto la puerta.",
+          "meaning": "La puerta está abierta ahora porque él la abrió."
         },
         {
           "id": 20,
@@ -6859,7 +7097,8 @@
             "met",
             "meet"
           ],
-          "meaning": "This is the first time we are seeing or meeting each other."
+          "translation": "No nos hemos conocido antes.",
+          "meaning": "Es la primera vez que nos vemos o nos reunimos."
         },
         {
           "id": 21,
@@ -6869,7 +7108,8 @@
             "completed",
             "complete"
           ],
-          "meaning": "I have finished doing the task assigned to me."
+          "translation": "He completado la tarea.",
+          "meaning": "He terminado de hacer la tarea que se me asignó."
         },
         {
           "id": 22,
@@ -6879,7 +7119,8 @@
             "understood",
             "understand"
           ],
-          "meaning": "She did not fully grasp the concept taught in class."
+          "translation": "Ella no ha entendido la lección.",
+          "meaning": "No comprendió del todo el concepto enseñado en clase."
         },
         {
           "id": 23,
@@ -6889,7 +7130,8 @@
             "built",
             "build"
           ],
-          "meaning": "They have completed the construction of a house."
+          "translation": "Ellos han construido una casa.",
+          "meaning": "Han finalizado la edificación de una vivienda."
         },
         {
           "id": 24,
@@ -6899,7 +7141,8 @@
             "taken",
             "took"
           ],
-          "meaning": "He hasn't attempted or written the test yet."
+          "translation": "Él no ha realizado el examen.",
+          "meaning": "Aún no ha hecho ni presentado el examen."
         },
         {
           "id": 25,
@@ -6909,7 +7152,8 @@
             "finished",
             "finish"
           ],
-          "meaning": "I still have some work left to complete."
+          "translation": "No he terminado mi trabajo.",
+          "meaning": "Aún me queda algo de trabajo por completar."
         },
         {
           "id": 26,
@@ -6919,7 +7163,8 @@
             "improved",
             "improve"
           ],
-          "meaning": "Her abilities and skills have become better over time."
+          "translation": "Ella ha mejorado sus habilidades.",
+          "meaning": "Sus capacidades y habilidades han mejorado con el tiempo."
         },
         {
           "id": 27,
@@ -6929,7 +7174,8 @@
             "joined",
             "join"
           ],
-          "meaning": "They haven't logged in or entered the meeting space."
+          "translation": "Ellos no se han unido a la reunión.",
+          "meaning": "Aún no han iniciado sesión ni entrado a la sala de reunión."
         },
         {
           "id": 28,
@@ -6939,7 +7185,8 @@
             "bought",
             "brings"
           ],
-          "meaning": "He has purchased food items and household supplies."
+          "translation": "Él ha comprado víveres.",
+          "meaning": "Ha comprado alimentos y suministros para el hogar."
         },
         {
           "id": 29,
@@ -6949,7 +7196,8 @@
             "started",
             "start"
           ],
-          "meaning": "We have yet to begin working on the project."
+          "translation": "No hemos comenzado el proyecto.",
+          "meaning": "Aún no hemos empezado a trabajar en el proyecto."
         },
         {
           "id": 30,
@@ -6959,7 +7207,8 @@
             "lost",
             "loose"
           ],
-          "meaning": "I cannot find my keys because I misplaced them."
+          "translation": "He perdido mis llaves.",
+          "meaning": "No puedo encontrar mis llaves porque las extravié."
         },
         {
           "id": 31,
@@ -6969,7 +7218,8 @@
             "replied",
             "reply"
           ],
-          "meaning": "She hasn't responded to my text message yet."
+          "translation": "Ella no ha respondido a mi mensaje.",
+          "meaning": "Aún no ha contestado a mi mensaje de texto."
         },
         {
           "id": 32,
@@ -6979,7 +7229,8 @@
             "watched",
             "watch"
           ],
-          "meaning": "They completed watching the performance or program."
+          "translation": "Ellos han visto el espectáculo.",
+          "meaning": "Terminaron de ver la función o programa."
         },
         {
           "id": 33,
@@ -6989,7 +7240,8 @@
             "visited",
             "visit"
           ],
-          "meaning": "He hasn't gone to see a physician yet."
+          "translation": "Él no ha visitado al médico.",
+          "meaning": "Aún no ha ido a ver a un médico."
         },
         {
           "id": 34,
@@ -6999,7 +7251,8 @@
             "completed",
             "complete"
           ],
-          "meaning": "We have finished and ready to submit our schoolwork."
+          "translation": "Hemos completado la tarea.",
+          "meaning": "Hemos terminado y estamos listos para entregar nuestro trabajo."
         },
         {
           "id": 35,
@@ -7009,7 +7262,8 @@
             "found",
             "find"
           ],
-          "meaning": "I am still searching for my missing wallet."
+          "translation": "No he encontrado mi cartera.",
+          "meaning": "Sigo buscando mi billetera extraviada."
         },
         {
           "id": 36,
@@ -7019,7 +7273,8 @@
             "painted",
             "paint"
           ],
-          "meaning": "She completed painting the surface of the wall."
+          "translation": "Ella ha pintado la pared.",
+          "meaning": "Completó el pintado de la superficie de la pared."
         },
         {
           "id": 37,
@@ -7029,7 +7284,8 @@
             "submitted",
             "submit"
           ],
-          "meaning": "They haven't handed in or submitted their application form."
+          "translation": "Ellos no han enviado el formulario.",
+          "meaning": "Aún no han entregado ni enviado su formulario de solicitud."
         },
         {
           "id": 38,
@@ -7039,7 +7295,8 @@
             "broken",
             "broke"
           ],
-          "meaning": "The glass is shattered because he broke it."
+          "translation": "Él ha roto el vaso.",
+          "meaning": "El vaso está roto porque él lo quebró."
         },
         {
           "id": 39,
@@ -7049,7 +7306,8 @@
             "received",
             "receive"
           ],
-          "meaning": "The delivery hasn't arrived for us yet."
+          "translation": "No hemos recibido el paquete.",
+          "meaning": "La entrega aún no ha llegado para nosotros."
         },
         {
           "id": 40,
@@ -7059,7 +7317,8 @@
             "called",
             "calls"
           ],
-          "meaning": "I have recently made a phone call to my friend."
+          "translation": "He llamado a mi amigo.",
+          "meaning": "He hecho recientemente una llamada telefónica a mi amigo."
         },
         {
           "id": 41,
@@ -7069,7 +7328,8 @@
             "checked",
             "check"
           ],
-          "meaning": "She hasn't opened her inbox to read any messages yet."
+          "translation": "Ella no ha revisado su correo electrónico.",
+          "meaning": "Aún no ha abierto su bandeja de entrada para leer mensajes."
         },
         {
           "id": 42,
@@ -7079,7 +7339,8 @@
             "played",
             "play"
           ],
-          "meaning": "They finished playing the round or match."
+          "translation": "Ellos han jugado el juego.",
+          "meaning": "Terminaron de jugar la ronda o partido."
         },
         {
           "id": 43,
@@ -7089,7 +7350,8 @@
             "finished",
             "finish"
           ],
-          "meaning": "He has not eaten all of his food yet."
+          "translation": "Él no ha terminado su comida.",
+          "meaning": "Aún no se ha comido todos sus alimentos."
         },
         {
           "id": 44,
@@ -7099,7 +7361,8 @@
             "taken",
             "took"
           ],
-          "meaning": "We clicked and saved a large number of pictures."
+          "translation": "Hemos tomado muchas fotos.",
+          "meaning": "Tomamos y guardamos una gran cantidad de fotografías."
         },
         {
           "id": 45,
@@ -7109,7 +7372,8 @@
             "completed",
             "complete"
           ],
-          "meaning": "I am still studying the curriculum and haven't graduated yet."
+          "translation": "No he completado el curso.",
+          "meaning": "Sigo estudiando el programa de estudio y aún no me he graduado."
         },
         {
           "id": 46,
@@ -7119,40 +7383,41 @@
             "bought",
             "buy"
           ],
-          "meaning": "She purchased a fresh garment for herself."
+          "translation": "Ella ha comprado un vestido nuevo.",
+          "meaning": "Compró una prenda de vestir nueva para ella."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "A Completed Journey",
-          "description": "Write about the things you and your friends have accomplished during your recent travels or life experiences.",
+          "title": "Un Viaje Completado",
+          "description": "Escribe sobre las cosas que tú y tus amigos han logrado durante sus viajes o experiencias de vida recientes.",
           "imageUrl": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "We have traveled abroad many times.",
-            "They have visited Delhi several times.",
-            "I have completed the task successfully.",
-            "She has learned French during her vacation.",
-            "He has written a long letter to describe his trip."
+            "Hemos viajado al extranjero muchas veces.",
+            "Ellos han visitado Delhi varias veces.",
+            "He completado la tarea con éxito.",
+            "Ella ha aprendido francés durante sus vacaciones.",
+            "Él ha escrito una larga carta para describir su viaje."
           ]
         },
         {
           "id": 2,
-          "title": "An Unfinished Checklist",
-          "description": "Write about a project or daily routine where some tasks are done and some are still not finished.",
+          "title": "Una Lista de Tareas Incompleta",
+          "description": "Escribe sobre un proyecto o rutina diaria donde algunas tareas se han hecho y otras aún no se han terminado.",
           "imageUrl": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I have finished my homework already.",
-            "She has not eaten breakfast yet.",
-            "We have not cleaned the room so far.",
-            "He has not completed the project.",
-            "They have built a house but haven't painted it."
+            "Ya he terminado mis deberes.",
+            "Ella aún no ha desayunado.",
+            "No hemos limpiado la habitación hasta ahora.",
+            "Él no ha completado el proyecto.",
+            "Ellos han construido una casa pero no la han pintado."
           ]
         }
       ]
     },
     "day13": {
-      "title": "Past Perfect Tense",
+      "title": "Pasado Perfecto (Past Perfect Tense)",
       "sentences": [
         {
           "id": 1,
@@ -7162,7 +7427,8 @@
             "had",
             "have"
           ],
-          "meaning": "My homework was completed prior to the moment he reached my house."
+          "translation": "Había terminado mis deberes antes de que él llegara.",
+          "meaning": "Mis deberes estaban completados antes del momento en que él llegó a mi casa."
         },
         {
           "id": 2,
@@ -7172,7 +7438,8 @@
             "had",
             "has"
           ],
-          "meaning": "Her breakfast was not consumed before the bell started ringing."
+          "translation": "Ella no había desayunado cuando sonó el timbre.",
+          "meaning": "Su desayuno no había sido consumido antes de que el timbre comenzara a sonar."
         },
         {
           "id": 3,
@@ -7182,7 +7449,8 @@
             "left",
             "leave"
           ],
-          "meaning": "They departed before the specific moment we made the phone call."
+          "translation": "Ellos ya se habían ido cuando los llamamos.",
+          "meaning": "Se marcharon antes del momento específico en que realizamos la llamada telefónica."
         },
         {
           "id": 4,
@@ -7192,7 +7460,8 @@
             "completed",
             "complete"
           ],
-          "meaning": "His project work remained unfinished at the time of the deadline."
+          "translation": "Él no había completado el proyecto antes de la fecha límite.",
+          "meaning": "El trabajo de su proyecto permaneció sin terminar en el momento del plazo límite."
         },
         {
           "id": 5,
@@ -7202,7 +7471,8 @@
             "watched",
             "watching"
           ],
-          "meaning": "We had already seen that film prior to it gaining widespread popularity."
+          "translation": "Habíamos visto esa película antes de que fuera famosa.",
+          "meaning": "Ya habíamos visto esa película antes de que ganara popularidad masiva."
         },
         {
           "id": 6,
@@ -7212,7 +7482,8 @@
             "seen",
             "saw"
           ],
-          "meaning": "I did not look at or meet him during the years preceding yesterday."
+          "translation": "No lo había visto durante años hasta ayer.",
+          "meaning": "No lo vi ni me reuní con él durante los años anteriores al día de ayer."
         },
         {
           "id": 7,
@@ -7222,7 +7493,8 @@
             "learned",
             "learns"
           ],
-          "meaning": "She acquired French speaking abilities prior to her relocation to Paris."
+          "translation": "Ella había aprendido francés antes de mudarse a París.",
+          "meaning": "Adquirió habilidades para hablar francés antes de su traslado a París."
         },
         {
           "id": 8,
@@ -7232,7 +7504,8 @@
             "arrived",
             "arrive"
           ],
-          "meaning": "They had not reached the auditorium prior to the commencement of the theatrical play."
+          "translation": "Ellos no habían llegado a la sala antes de que comenzara la obra.",
+          "meaning": "No habían alcanzado el auditorio antes del inicio de la obra teatral."
         },
         {
           "id": 9,
@@ -7242,7 +7515,8 @@
             "written",
             "wrote"
           ],
-          "meaning": "He completed writing the letter before he forgot to post it."
+          "translation": "Él había escrito una carta pero olvidó enviarla por correo.",
+          "meaning": "Completó la redacción de la carta antes de olvidar enviarla."
         },
         {
           "id": 10,
@@ -7252,7 +7526,8 @@
             "cleaned",
             "clean"
           ],
-          "meaning": "We did not finish tidying the room prior to the arrival of our guests."
+          "translation": "No habíamos limpiado la habitación antes de que llegaran los invitados.",
+          "meaning": "No terminamos de ordenar la habitación antes de la llegada de las visitas."
         },
         {
           "id": 11,
@@ -7262,7 +7537,8 @@
             "bought",
             "buy"
           ],
-          "meaning": "I purchased a brand new phone prior to the older model breaking down."
+          "translation": "Había comprado un teléfono nuevo antes de que el viejo se rompiera.",
+          "meaning": "Compré un teléfono a estrenar antes de que el modelo anterior dejara de funcionar."
         },
         {
           "id": 12,
@@ -7272,7 +7548,8 @@
             "called",
             "calls"
           ],
-          "meaning": "She reached my place without making any preceding phone call."
+          "translation": "Ella no me había llamado antes de venir a mi casa.",
+          "meaning": "Llegó a mi casa sin haber realizado una llamada telefónica previa."
         },
         {
           "id": 13,
@@ -7282,7 +7559,8 @@
             "played",
             "play"
           ],
-          "meaning": "They finished playing their soccer game prior to the downpour."
+          "translation": "Ellos habían jugado al fútbol antes de que comenzara la lluvia intensa.",
+          "meaning": "Terminaron su partido de fútbol antes del aguacero."
         },
         {
           "id": 14,
@@ -7292,7 +7570,8 @@
             "fixed",
             "fix"
           ],
-          "meaning": "He hadn't repaired the vehicle prior to our departure for the trip."
+          "translation": "Él no había arreglado el coche antes de que saliéramos de viaje.",
+          "meaning": "No había reparado el vehículo antes de nuestra salida de viaje."
         },
         {
           "id": 15,
@@ -7302,7 +7581,8 @@
             "traveled",
             "travel"
           ],
-          "meaning": "We made two journeys to foreign countries prior to the start of last summer."
+          "translation": "Habíamos viajado al extranjero dos veces antes del verano pasado.",
+          "meaning": "Realizamos dos viajes a países extranjeros antes del inicio del verano pasado."
         },
         {
           "id": 16,
@@ -7312,7 +7592,8 @@
             "read",
             "reads"
           ],
-          "meaning": "I had not spent time reading that book prior to your recommendation."
+          "translation": "No había leído ese libro antes de que me lo recomendaras.",
+          "meaning": "No había dedicado tiempo a leer ese libro antes de tu recomendación."
         },
         {
           "id": 17,
@@ -7322,7 +7603,8 @@
             "cooked",
             "cook"
           ],
-          "meaning": "She finished preparing the meal prior to the moment we stepped inside the house."
+          "translation": "Ella había cocinado la cena para cuando llegamos a casa.",
+          "meaning": "Terminó de preparar la comida antes del momento en que entramos a la casa."
         },
         {
           "id": 18,
@@ -7332,7 +7614,8 @@
             "finished",
             "finish"
           ],
-          "meaning": "Their tasks were still pending when the electricity went out."
+          "translation": "Ellos no habían terminado su trabajo antes del corte de luz.",
+          "meaning": "Sus tareas aún estaban pendientes cuando se fue la electricidad."
         },
         {
           "id": 19,
@@ -7342,7 +7625,8 @@
             "opened",
             "open"
           ],
-          "meaning": "The door was already open prior to me locating my key."
+          "translation": "Él había abierto la puerta antes de que yo pudiera encontrar mi llave.",
+          "meaning": "La puerta ya estaba abierta antes de que yo localizara mi llave."
         },
         {
           "id": 20,
@@ -7352,7 +7636,8 @@
             "met",
             "meet"
           ],
-          "meaning": "We did not know or encounter each other prior to the start of the conference."
+          "translation": "No nos habíamos conocido antes de que comenzara la conferencia.",
+          "meaning": "No nos conocíamos ni nos habíamos encontrado antes del inicio de la conferencia."
         },
         {
           "id": 21,
@@ -7362,7 +7647,8 @@
             "completed",
             "complete"
           ],
-          "meaning": "I finished the task prior to my supervisor requesting an update."
+          "translation": "Había completado la tarea antes de que mi jefe me lo pidiera.",
+          "meaning": "Terminé la tarea antes de que mi supervisor solicitara una actualización."
         },
         {
           "id": 22,
@@ -7372,7 +7658,8 @@
             "understood",
             "understand"
           ],
-          "meaning": "She failed to grasp the caution message prior to the occurrence of the mishap."
+          "translation": "Ella no había entendido la advertencia hasta que fue demasiado tarde.",
+          "meaning": "No comprendió el mensaje de advertencia antes de que ocurriera el percance."
         },
         {
           "id": 23,
@@ -7382,7 +7669,8 @@
             "built",
             "build"
           ],
-          "meaning": "They completed the construction phase prior to acquiring full legal land rights."
+          "translation": "Ellos habían construido una casa antes de comprar el terreno.",
+          "meaning": "Completaron la fase de construcción antes de adquirir los derechos legales del terreno."
         },
         {
           "id": 24,
@@ -7392,7 +7680,8 @@
             "taken",
             "took"
           ],
-          "meaning": "He had not sat for the exam prior to the class being closed."
+          "translation": "Él no había hecho el examen antes de que finalizara la clase.",
+          "meaning": "No se había presentado al examen antes de que se cerrara la clase."
         },
         {
           "id": 25,
@@ -7402,7 +7691,8 @@
             "finished",
             "finish"
           ],
-          "meaning": "I still had pending work when my computer suddenly lost power."
+          "translation": "No había terminado mi trabajo cuando mi portátil se apagó.",
+          "meaning": "Aún tenía trabajo pendiente cuando mi ordenador perdió repentinamente la energía."
         },
         {
           "id": 26,
@@ -7412,7 +7702,8 @@
             "improved",
             "improve"
           ],
-          "meaning": "Her English skills became significantly better prior to her travel to London."
+          "translation": "Ella había mejorado su inglés antes de ir a Londres.",
+          "meaning": "Sus habilidades en inglés mejoraron significativamente antes de viajar a Londres."
         },
         {
           "id": 27,
@@ -7422,7 +7713,8 @@
             "joined",
             "join"
           ],
-          "meaning": "They were not yet present in the meeting when it officially began."
+          "translation": "Ellos no se habían unido a la reunión cuando el anfitrión comenzó.",
+          "meaning": "Aún no estaban presentes en la reunión cuando esta comenzó oficialmente."
         },
         {
           "id": 28,
@@ -7432,7 +7724,8 @@
             "bought",
             "brings"
           ],
-          "meaning": "He completed buying food items prior to the arrival of the heavy storm."
+          "translation": "Él había comprado víveres antes de que la tormenta llegara a la ciudad.",
+          "meaning": "Completó la compra de alimentos antes de la llegada de la fuerte tormenta."
         },
         {
           "id": 29,
@@ -7442,7 +7735,8 @@
             "started",
             "start"
           ],
-          "meaning": "We had not begun any project activities prior to the new manager's start date."
+          "translation": "No habíamos comenzado el proyecto antes de que llegara el nuevo gerente.",
+          "meaning": "No habíamos iniciado actividades del proyecto antes de la fecha de inicio del nuevo gerente."
         },
         {
           "id": 30,
@@ -7452,7 +7746,8 @@
             "lost",
             "loose"
           ],
-          "meaning": "I misplaced my keys at some point prior to leaving my workplace."
+          "translation": "Había perdido mis llaves incluso antes de salir de la oficina.",
+          "meaning": "Extravié mis llaves en algún momento antes de salir de mi lugar de trabajo."
         },
         {
           "id": 31,
@@ -7462,7 +7757,8 @@
             "checked",
             "check"
           ],
-          "meaning": "She departed without reading her notifications or inbox first."
+          "translation": "Ella no había revisado sus mensajes antes de irse.",
+          "meaning": "Se fue sin haber leído primero sus notificaciones o bandeja de entrada."
         },
         {
           "id": 32,
@@ -7472,7 +7768,8 @@
             "played",
             "play"
           ],
-          "meaning": "They finished playing their game prior to the ground becoming wet and muddy."
+          "translation": "Ellos habían jugado el partido antes de que el campo se embarrara.",
+          "meaning": "Terminaron de jugar su partido antes de que el terreno se mojara y llenara de barro."
         },
         {
           "id": 33,
@@ -7482,7 +7779,8 @@
             "visited",
             "visit"
           ],
-          "meaning": "He did not see a physician prior to his body temperature rising severely."
+          "translation": "Él no había visitado al médico antes de que su fiebre empeorara.",
+          "meaning": "No acudió a un médico antes de que su temperatura corporal se elevara considerablemente."
         },
         {
           "id": 34,
@@ -7492,7 +7790,8 @@
             "completed",
             "complete"
           ],
-          "meaning": "All preparations were fully finalized prior to the arrival of the visitors."
+          "translation": "Habíamos completado la preparación antes de que llegaran los invitados.",
+          "meaning": "Todas las preparaciones estaban totalmente finalizadas antes de la llegada de los visitantes."
         },
         {
           "id": 35,
@@ -7502,7 +7801,8 @@
             "found",
             "find"
           ],
-          "meaning": "I was unable to locate my wallet prior to searching under the bed."
+          "translation": "No había encontrado mi cartera hasta que miré debajo de la cama.",
+          "meaning": "No pude localizar mi billetera antes de buscar debajo de la cama."
         },
         {
           "id": 36,
@@ -7512,7 +7812,8 @@
             "painted",
             "paint"
           ],
-          "meaning": "The walls were painted prior to the arrival of the new furniture."
+          "translation": "Ella había pintado la habitación antes de comprar los muebles.",
+          "meaning": "Las paredes se pintaron antes de la llegada de los nuevos muebles."
         },
         {
           "id": 37,
@@ -7522,7 +7823,8 @@
             "submitted",
             "submit"
           ],
-          "meaning": "They failed to upload the paper prior to the expiration of the link."
+          "translation": "Ellos no habían enviado el documento cuando el enlace expiró.",
+          "meaning": "No pudieron subir el documento antes de que venciera el enlace."
         },
         {
           "id": 38,
@@ -7532,7 +7834,8 @@
             "broken",
             "broke"
           ],
-          "meaning": "The cup was already shattered prior to him pouring any hot tea."
+          "translation": "Él había roto la taza antes de poder servir el té.",
+          "meaning": "La taza ya estaba rota antes de que sirviera el té caliente."
         },
         {
           "id": 39,
@@ -7542,7 +7845,8 @@
             "received",
             "receive"
           ],
-          "meaning": "The official message did not reach us prior to the execution of the event."
+          "translation": "No habíamos recibido el aviso antes de que tuviera lugar el evento.",
+          "meaning": "El mensaje oficial no nos llegó antes de la realización del evento."
         },
         {
           "id": 40,
@@ -7552,40 +7856,41 @@
             "called",
             "calls"
           ],
-          "meaning": "I made a phone call to my relatives prior to entering the flight."
+          "translation": "Había llamado a mi familia antes de embarcar en el avión.",
+          "meaning": "Hice una llamada telefónica a mis familiares antes de subir al vuelo."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Before the Rain Started",
-          "description": "Write about the activities you or others had completed yesterday before the sudden downpour disrupted everything.",
+          "title": "Antes de que Comenzara la Lluvia",
+          "description": "Escribe sobre las actividades que tú u otros habían completado ayer antes de que el aguacero repentino lo interrumpiera todo.",
           "imageUrl": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "They had played football before the heavy rain started.",
-            "I had finished my homework before he arrived.",
-            "She had cooked dinner by the time we reached home.",
-            "He had bought groceries before the storm hit the city.",
-            "We had completed the setup before the guests arrived."
+            "Ellos habían jugado al fútbol antes de que comenzara la lluvia intensa.",
+            "Había terminado mis deberes antes de que él llegara.",
+            "Ella había cocinado la cena para cuando llegamos a casa.",
+            "Él había comprado víveres antes de que la tormenta llegara a la ciudad.",
+            "Habíamos completado la preparación antes de que llegaran los invitados."
           ]
         },
         {
           "id": 2,
-          "title": "Missed Connections",
-          "description": "Write about a situation where things didn't align because actions had already happened in the past.",
+          "title": "Conexiones Perdidas",
+          "description": "Escribe sobre una situación en la que las cosas no coincidieron porque las acciones ya habían sucedido en el pasado.",
           "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "They had already left when we called them.",
-            "She had not eaten breakfast when the bell rang.",
-            "We had not cleaned the room before the guests came.",
-            "She had not checked her messages before she left.",
-            "I had lost my keys before I even left the office."
+            "Ellos ya se habían ido cuando los llamamos.",
+            "Ella no había desayunado cuando sonó el timbre.",
+            "No habíamos limpiado la habitación antes de que llegaran los invitados.",
+            "Ella no había revisado sus mensajes antes de irse.",
+            "Había perdido mis llaves incluso antes de salir de la oficina."
           ]
         }
       ]
     },
     "day14": {
-      "title": "Future Perfect Tense",
+      "title": "Futuro Perfecto (Future Perfect Tense)",
       "sentences": [
         {
           "id": 1,
@@ -7595,7 +7900,8 @@
             "finished",
             "finish"
           ],
-          "meaning": "I will complete my homework at or before 8 PM."
+          "translation": "Habré terminado mis deberes para las 8 PM.",
+          "meaning": "Completaré mis tareas escolares a las 8 PM o antes."
         },
         {
           "id": 2,
@@ -7605,7 +7911,8 @@
             "have",
             "has"
           ],
-          "meaning": "She won't be finished with the project when the deadline arrives."
+          "translation": "Ella no habrá completado el proyecto a tiempo.",
+          "meaning": "No habrá terminado con el proyecto cuando llegue la fecha límite."
         },
         {
           "id": 3,
@@ -7615,7 +7922,8 @@
             "arrived",
             "arrive"
           ],
-          "meaning": "Their arrival will happen before the start time of the meeting."
+          "translation": "Ellos habrán llegado antes de que comience la reunión.",
+          "meaning": "Su llegada ocurrirá antes de la hora de inicio de la reunión."
         },
         {
           "id": 4,
@@ -7625,7 +7933,8 @@
             "reached",
             "reach"
           ],
-          "meaning": "We will not be at the train station by that particular time."
+          "translation": "No habremos llegado a la estación para entonces.",
+          "meaning": "No estaremos en la estación de tren en ese momento en particular."
         },
         {
           "id": 5,
@@ -7635,7 +7944,8 @@
             "learned",
             "learn"
           ],
-          "meaning": "He will possess French language skills before next year begins."
+          "translation": "Él habrá aprendido francés para el próximo año.",
+          "meaning": "Poseerá habilidades en el idioma francés antes de que empiece el próximo año."
         },
         {
           "id": 6,
@@ -7645,7 +7955,8 @@
             "saved",
             "save"
           ],
-          "meaning": "My accumulated savings will still be insufficient when December comes."
+          "translation": "No habré ahorrado suficiente dinero para diciembre.",
+          "meaning": "Mis ahorros acumulados aún serán insuficientes cuando llegue diciembre."
         },
         {
           "id": 7,
@@ -7655,7 +7966,8 @@
             "left",
             "leave"
           ],
-          "meaning": "The train will depart prior to our arrival at the platform."
+          "translation": "El tren se habrá ido antes de que lleguemos allí.",
+          "meaning": "El tren saldrá antes de nuestra llegada al andén."
         },
         {
           "id": 8,
@@ -7665,7 +7977,8 @@
             "understood",
             "understand"
           ],
-          "meaning": "She won't have completely grasped the teaching concepts by then."
+          "translation": "Ella no habrá entendido la lección por completo.",
+          "meaning": "No habrá comprendido totalmente los conceptos enseñados para entonces."
         },
         {
           "id": 9,
@@ -7675,7 +7988,8 @@
             "built",
             "build"
           ],
-          "meaning": "Our new house construction will be finished by the year 2027."
+          "translation": "Habremos construido una casa nueva para 2027.",
+          "meaning": "La construcción de nuestra nueva casa estará terminada para el año 2027."
         },
         {
           "id": 10,
@@ -7685,7 +7999,8 @@
             "solved",
             "solve"
           ],
-          "meaning": "The issue will remain unresolved by that point."
+          "translation": "Ellos aún no habrán resuelto el problema.",
+          "meaning": "El problema seguirá sin resolverse para ese momento."
         },
         {
           "id": 11,
@@ -7695,7 +8010,8 @@
             "written",
             "wrote"
           ],
-          "meaning": "The writing of his report will be completed by tomorrow."
+          "translation": "Él habrá escrito el informe para mañana.",
+          "meaning": "La redacción de su informe estará completada para mañana."
         },
         {
           "id": 12,
@@ -7705,7 +8021,8 @@
             "cleaned",
             "clean"
           ],
-          "meaning": "I won't be finished tidying the room by the time evening arrives."
+          "translation": "No habré limpiado la habitación para la tarde.",
+          "meaning": "No habré terminado de ordenar la habitación para cuando llegue la tarde."
         },
         {
           "id": 13,
@@ -7715,7 +8032,8 @@
             "cooked",
             "cook"
           ],
-          "meaning": "She will finish preparing food prior to their guest's arrival."
+          "translation": "Ella habrá cocinado la cena antes de que ellos lleguen.",
+          "meaning": "Terminará de preparar la comida antes de la llegada de sus invitados."
         },
         {
           "id": 14,
@@ -7725,7 +8043,8 @@
             "finished",
             "finish"
           ],
-          "meaning": "The match or game will still be in progress at that time."
+          "translation": "No habremos terminado el juego para entonces.",
+          "meaning": "El partido o juego aún estará en curso en ese momento."
         },
         {
           "id": 15,
@@ -7735,7 +8054,8 @@
             "traveled",
             "travel"
           ],
-          "meaning": "They will complete visits to five different nations before next year."
+          "translation": "Ellos habrán viajado a cinco países para el próximo año.",
+          "meaning": "Completarán las visitas a cinco naciones diferentes antes del próximo año."
         },
         {
           "id": 16,
@@ -7745,7 +8065,8 @@
             "completed",
             "complete"
           ],
-          "meaning": "He will not have graduated or earned his degree when June arrives."
+          "translation": "Él no habrá terminado su carrera para junio.",
+          "meaning": "No se habrá graduado ni habrá obtenido su título cuando llegue junio."
         },
         {
           "id": 17,
@@ -7755,7 +8076,8 @@
             "read",
             "reads"
           ],
-          "meaning": "I will finish reading every page of the book before tonight ends."
+          "translation": "Habré leído todo el libro esta noche.",
+          "meaning": "Terminaré de leer cada página del libro antes de que termine la noche."
         },
         {
           "id": 18,
@@ -7765,7 +8087,8 @@
             "packed",
             "pack"
           ],
-          "meaning": "Her luggage will not be fully prepared before departure."
+          "translation": "Ella no habrá empacado sus maletas a tiempo.",
+          "meaning": "Su equipaje no estará totalmente preparado antes de la salida."
         },
         {
           "id": 19,
@@ -7775,7 +8098,8 @@
             "started",
             "start"
           ],
-          "meaning": "We will begin working on the project at some point before Monday."
+          "translation": "Habremos comenzado el proyecto para el lunes.",
+          "meaning": "Empezaremos a trabajar en el proyecto en algún momento antes del lunes."
         },
         {
           "id": 20,
@@ -7785,7 +8109,8 @@
             "repaired",
             "repair"
           ],
-          "meaning": "The mechanic won't have finished fixing the car by midday."
+          "translation": "Ellos no habrán arreglado el coche para el mediodía.",
+          "meaning": "El mecánico no habrá terminado de reparar el automóvil para el mediodía."
         },
         {
           "id": 21,
@@ -7795,7 +8120,8 @@
             "earned",
             "earn"
           ],
-          "meaning": "He expects to secure a promotion in his career in the near future."
+          "translation": "Él habrá ganado un ascenso pronto.",
+          "meaning": "Espera conseguir un ascenso en su carrera profesional en un futuro cercano."
         },
         {
           "id": 22,
@@ -7805,7 +8131,8 @@
             "memorized",
             "memorize"
           ],
-          "meaning": "I won't have fully committed every answer to memory by test time."
+          "translation": "No habré memorizado todas las respuestas.",
+          "meaning": "No habré memorizado cada respuesta para la hora del examen."
         },
         {
           "id": 23,
@@ -7815,7 +8142,8 @@
             "decorated",
             "decorate"
           ],
-          "meaning": "The room's decoration will be completely finished and look beautiful."
+          "translation": "Ella habrá decorado la habitación de forma hermosa.",
+          "meaning": "La decoración de la habitación estará completamente terminada y lucirá hermosa."
         },
         {
           "id": 24,
@@ -7825,7 +8153,8 @@
             "planted",
             "plant"
           ],
-          "meaning": "We will not have finished putting the saplings in the soil by that date."
+          "translation": "Aún no habremos plantado los árboles.",
+          "meaning": "No habremos terminado de plantar los brotes en la tierra para esa fecha."
         },
         {
           "id": 25,
@@ -7835,7 +8164,8 @@
             "achieved",
             "achieve"
           ],
-          "meaning": "They will have successfully realized their ambitions by 2030."
+          "translation": "Ellos habrán alcanzado sus metas para 2030.",
+          "meaning": "Habrán realizado con éxito sus ambiciones para el año 2030."
         },
         {
           "id": 26,
@@ -7845,7 +8175,8 @@
             "finished",
             "finish"
           ],
-          "meaning": "He won't be done eating his lunch when we meet."
+          "translation": "Él no habrá terminado su almuerzo.",
+          "meaning": "No habrá terminado de comer su almuerzo cuando nos reunamos."
         },
         {
           "id": 27,
@@ -7855,7 +8186,8 @@
             "sent",
             "send"
           ],
-          "meaning": "The message will be dispatched before my lunchtime."
+          "translation": "Habré enviado el correo electrónico antes del almuerzo.",
+          "meaning": "El mensaje habrá sido enviado antes de mi hora de almuerzo."
         },
         {
           "id": 28,
@@ -7865,7 +8197,8 @@
             "completed",
             "complete"
           ],
-          "meaning": "She won't have finished her homework assignment in time."
+          "translation": "Ella no habrá completado la tarea.",
+          "meaning": "No habrá terminado su tarea escolar a tiempo."
         },
         {
           "id": 29,
@@ -7875,40 +8208,41 @@
             "organized",
             "organize"
           ],
-          "meaning": "The planning and execution of the event will be fully finalized."
+          "translation": "Habremos organizado el evento con éxito.",
+          "meaning": "La planificación y ejecución del evento estarán completamente finalizadas."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "Project Milestones",
-          "description": "Describe what milestones your team will have reached by the end of this month or year using future perfect.",
+          "title": "Hitos del Proyecto",
+          "description": "Describe qué hitos habrá alcanzado tu equipo para finales de este mes o año utilizando el futuro perfecto.",
           "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "We will have started the project by Monday.",
-            "She will not have completed the project on time.",
-            "We will have organized the event successfully.",
-            "They won't have repaired the car by noon.",
-            "He will have written the report by tomorrow."
+            "Habremos comenzado el proyecto para el lunes.",
+            "Ella no habrá completado el proyecto a tiempo.",
+            "Habremos organizado el evento con éxito.",
+            "Ellos no habrán arreglado el coche para el mediodía.",
+            "Él habrá escrito el informe para mañana."
           ]
         },
         {
           "id": 2,
-          "title": "Life Accomplishments by 2030",
-          "description": "Envision your personal and family goals for the future. What achievements will you have finished by the year 2030?",
+          "title": "Logros de Vida para 2030",
+          "description": "Visualiza tus metas personales y familiares para el futuro. ¿Qué logros habrás terminado para el año 2030?",
           "imageUrl": "https://images.unsplash.com/photo-1491336477066-31156b5e4f35?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "They will have achieved their goals by 2030.",
-            "He will have learned French by next year.",
-            "We will have built a new house by 2027.",
-            "They will have traveled to five countries by next year.",
-            "I will have read the entire book tonight."
+            "Ellos habrán alcanzado sus metas para 2030.",
+            "Él habrá aprendido francés para el próximo año.",
+            "Habremos construido una casa nueva para 2027.",
+            "Ellos habrán viajado a cinco países para el próximo año.",
+            "Habré leído todo el libro esta noche."
           ]
         }
       ]
     },
     "day15": {
-      "title": "Present Perfect Continuous Tense",
+      "title": "Presente Perfecto Continuo (Present Perfect Continuous Tense)",
       "sentences": [
         {
           "id": 1,
@@ -7918,7 +8252,8 @@
             "been",
             "being"
           ],
-          "meaning": "I started working earlier today and am still working now."
+          "translation": "He estado trabajando todo el día.",
+          "meaning": "Empecé a trabajar temprano hoy y continúo trabajando ahora."
         },
         {
           "id": 2,
@@ -7928,7 +8263,8 @@
             "has",
             "have"
           ],
-          "meaning": "She started studying hours ago and is still in the middle of studying."
+          "translation": "Ella ha estado estudiando durante horas.",
+          "meaning": "Empezó a estudiar hace horas y todavía está en medio del estudio."
         },
         {
           "id": 3,
@@ -7938,7 +8274,8 @@
             "playing",
             "played"
           ],
-          "meaning": "They began playing football in the morning and continue to do so."
+          "translation": "Ellos han estado jugando al fútbol desde la mañana.",
+          "meaning": "Comenzaron a jugar al fútbol por la mañana y continúan haciéndolo."
         },
         {
           "id": 4,
@@ -7948,7 +8285,8 @@
             "waiting",
             "waited"
           ],
-          "meaning": "We began waiting for your arrival earlier and are still waiting."
+          "translation": "Hemos estado esperándote.",
+          "meaning": "Comenzamos a esperar tu llegada antes y aún seguimos esperando."
         },
         {
           "id": 5,
@@ -7958,7 +8296,8 @@
             "reading",
             "read"
           ],
-          "meaning": "He started reading the book a week ago and is still reading it."
+          "translation": "Él ha estado leyendo este libro durante una semana.",
+          "meaning": "Empezó a leer el libro hace una semana y todavía lo está leyendo."
         },
         {
           "id": 6,
@@ -7968,7 +8307,8 @@
             "learning",
             "learned"
           ],
-          "meaning": "I started my English studies two years ago and continue to learn."
+          "translation": "He estado aprendiendo inglés durante dos años.",
+          "meaning": "Comencé mis estudios de inglés hace dos años y sigo aprendiendo."
         },
         {
           "id": 7,
@@ -7978,7 +8318,8 @@
             "cooking",
             "cooked"
           ],
-          "meaning": "She began preparing the meal at 6 PM and is still cooking."
+          "translation": "Ella ha estado cocinando desde las 6 PM.",
+          "meaning": "Comenzó a preparar la comida a las 6 PM y todavía está cocinando."
         },
         {
           "id": 8,
@@ -7988,7 +8329,8 @@
             "traveling",
             "traveled"
           ],
-          "meaning": "We started our trip around India some time ago and are still doing so."
+          "translation": "Hemos estado viajando por la India.",
+          "meaning": "Iniciamos nuestro viaje por la India hace algún tiempo y seguimos haciéndolo."
         },
         {
           "id": 9,
@@ -7998,7 +8340,8 @@
             "building",
             "built"
           ],
-          "meaning": "They started constructing a new house and the process is ongoing."
+          "translation": "Ellos han estado construyendo una casa nueva.",
+          "meaning": "Comenzaron la construcción de una casa nueva y el proceso continúa."
         },
         {
           "id": 10,
@@ -8008,7 +8351,8 @@
             "practicing",
             "practiced"
           ],
-          "meaning": "He has been in a routine of practicing the piano every day."
+          "translation": "Él ha estado practicando el piano a diario.",
+          "meaning": "Tiene la rutina de practicar el piano todos los días."
         },
         {
           "id": 11,
@@ -8018,7 +8362,8 @@
             "writing",
             "written"
           ],
-          "meaning": "I started writing a book and am still in the process of drafting it."
+          "translation": "He estado escribiendo una novela.",
+          "meaning": "Comencé a escribir un libro y aún estoy en el proceso de redactarlo."
         },
         {
           "id": 12,
@@ -8028,7 +8373,8 @@
             "painting",
             "painted"
           ],
-          "meaning": "She has been spending her time creating beautiful artwork."
+          "translation": "Ella ha estado pintando cuadros hermosos.",
+          "meaning": "Ha estado dedicando su tiempo a crear hermosas obras de arte."
         },
         {
           "id": 13,
@@ -8038,7 +8384,8 @@
             "discussing",
             "discussed"
           ],
-          "meaning": "We started talking about the project earlier and are still in conversation."
+          "translation": "Hemos estado discutiendo el proyecto.",
+          "meaning": "Comenzamos a hablar sobre el proyecto antes y seguimos conversando."
         },
         {
           "id": 14,
@@ -8048,7 +8395,8 @@
             "working",
             "worked"
           ],
-          "meaning": "They have put consistent effort into achieving their goals over time."
+          "translation": "Ellos han estado trabajando duro en sus metas.",
+          "meaning": "Han realizado un esfuerzo constante para alcanzar sus objetivos con el tiempo."
         },
         {
           "id": 15,
@@ -8058,7 +8406,8 @@
             "jogging",
             "jogged"
           ],
-          "meaning": "He has established a habit of running every single morning."
+          "translation": "Él ha estado trotando todas las mañanas.",
+          "meaning": "Ha establecido el hábito de salir a correr cada mañana."
         },
         {
           "id": 16,
@@ -8068,7 +8417,8 @@
             "preparing",
             "prepared"
           ],
-          "meaning": "I have been dedicating time to study and get ready for the test."
+          "translation": "He estado preparándome para el examen.",
+          "meaning": "He estado dedicando tiempo a estudiar y alistarme para la prueba."
         },
         {
           "id": 17,
@@ -8078,7 +8428,8 @@
             "watching",
             "watched"
           ],
-          "meaning": "I started viewing this show recently and am still actively watching it."
+          "translation": "He estado viendo esta serie.",
+          "meaning": "Comencé a ver esta serie recientemente y sigo viéndola activamente."
         },
         {
           "id": 18,
@@ -8088,7 +8439,8 @@
             "teaching",
             "taught"
           ],
-          "meaning": "She has been working as a mathematics instructor over a period of time."
+          "translation": "Ella ha estado enseñando matemáticas.",
+          "meaning": "Ha estado trabajando como profesora de matemáticas durante un periodo de tiempo."
         },
         {
           "id": 19,
@@ -8098,7 +8450,8 @@
             "organizing",
             "organized"
           ],
-          "meaning": "We have been actively planning and coordinating the details of the event."
+          "translation": "Hemos estado organizando el evento.",
+          "meaning": "Hemos estado planificando y coordinando activamente los detalles del evento."
         },
         {
           "id": 20,
@@ -8108,7 +8461,8 @@
             "helping",
             "helped"
           ],
-          "meaning": "They have been continuously assisting or volunteering in their local area."
+          "translation": "Ellos han estado ayudando a la comunidad.",
+          "meaning": "Han estado prestando ayuda o voluntariado continuamente en su zona local."
         },
         {
           "id": 21,
@@ -8118,7 +8472,8 @@
             "learning",
             "learned"
           ],
-          "meaning": "He has been spending his time acquiring computer programming skills."
+          "translation": "Él ha estado aprendiendo programación.",
+          "meaning": "Ha estado dedicando su tiempo a adquirir habilidades de programación informática."
         },
         {
           "id": 22,
@@ -8128,7 +8483,8 @@
             "exercising",
             "exercised"
           ],
-          "meaning": "I have maintained a consistent routine of working out or staying active."
+          "translation": "He estado haciendo ejercicio con regularidad.",
+          "meaning": "He mantenido una rutina constante de entrenamiento físico."
         },
         {
           "id": 23,
@@ -8138,7 +8494,8 @@
             "singing",
             "sung"
           ],
-          "meaning": "She has been performing vocal melodies in an elegant manner."
+          "translation": "Ella ha estado cantando de manera hermosa.",
+          "meaning": "Ha estado interpretando melodías vocales de manera elegante."
         },
         {
           "id": 24,
@@ -8148,7 +8505,8 @@
             "planning",
             "planned"
           ],
-          "meaning": "We have been secretly setting up a special surprise for someone."
+          "translation": "Hemos estado planeando una sorpresa.",
+          "meaning": "Hemos estado preparando en secreto una sorpresa especial para alguien."
         },
         {
           "id": 25,
@@ -8158,7 +8516,8 @@
             "cleaning",
             "cleaned"
           ],
-          "meaning": "They have been tidying up and wiping down the house for some time."
+          "translation": "Ellos han estado limpiando la casa.",
+          "meaning": "Han estado ordenando y limpiando la casa durante algún tiempo."
         },
         {
           "id": 26,
@@ -8168,7 +8527,8 @@
             "repairing",
             "repaired"
           ],
-          "meaning": "He has been working on fixing mechanical issues with his bicycle."
+          "translation": "Él ha estado arreglando la bicicleta.",
+          "meaning": "Ha estado trabajando en solucionar problemas mecánicos de su bicicleta."
         },
         {
           "id": 27,
@@ -8178,7 +8538,8 @@
             "designing",
             "designed"
           ],
-          "meaning": "I have been developing the visual and functional layout of a webpage."
+          "translation": "He estado diseñando un sitio web.",
+          "meaning": "He estado desarrollando el diseño visual y funcional de una página web."
         },
         {
           "id": 28,
@@ -8188,7 +8549,8 @@
             "working",
             "worked"
           ],
-          "meaning": "She has spent time planting, weeding, or watering flowers in her garden."
+          "translation": "Ella ha estado trabajando en el jardín.",
+          "meaning": "Ha pasado tiempo plantando, desyerbando o regando flores en su jardín."
         },
         {
           "id": 29,
@@ -8198,7 +8560,8 @@
             "decorating",
             "decorated"
           ],
-          "meaning": "We have been putting up ornaments and painting the room to make it look nicer."
+          "translation": "Hemos estado decorando la habitación.",
+          "meaning": "Hemos estado colocando adornos y pintando la habitación para que luzca mejor."
         },
         {
           "id": 30,
@@ -8208,7 +8571,8 @@
             "exploring",
             "explored"
           ],
-          "meaning": "They have been visiting and discovering unfamiliar geographic locations."
+          "translation": "Ellos han estado explorando nuevos lugares.",
+          "meaning": "Han estado visitando y descubriendo ubicaciones geográficas desconocidas."
         },
         {
           "id": 31,
@@ -8218,7 +8582,8 @@
             "solving",
             "solved"
           ],
-          "meaning": "He has been spending his time working through tricky problems or riddles."
+          "translation": "Él ha estado resolviendo acertijos.",
+          "meaning": "Ha estado pasando su tiempo resolviendo problemas difíciles o adivinanzas."
         },
         {
           "id": 32,
@@ -8228,34 +8593,35 @@
             "practicing",
             "practiced"
           ],
-          "meaning": "I have been dedicating time to meditative stretches and yoga routines."
+          "translation": "He estado practicando yoga.",
+          "meaning": "He estado dedicando tiempo a estiramientos meditativos y rutinas de yoga."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "My Daily Routine",
-          "description": "Write about the activities you or others have been doing lately or continuously throughout the day.",
+          "title": "Mi Rutina Diaria",
+          "description": "Escribe sobre las actividades que tú u otros han estado haciendo últimamente o continuamente a lo largo del día.",
           "imageUrl": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "I have been working all day.",
-            "She has been studying for hours.",
-            "We have been waiting for you.",
-            "He has been reading this book for a week.",
-            "I have been preparing for the exam."
+            "He estado trabajando todo el día.",
+            "Ella ha estado estudiando durante horas.",
+            "Hemos estado esperándote.",
+            "Él ha estado leyendo este libro durante una semana.",
+            "He estado preparándome para el examen."
           ]
         },
         {
           "id": 2,
-          "title": "Hobbies and Activities",
-          "description": "Describe active hobbies that you or others have been practicing consistently over a duration.",
+          "title": "Aficiones y Actividades",
+          "description": "Describe aficiones activas que tú u otros han estado practicando constantemente durante un periodo de tiempo.",
           "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "They have been playing football since morning.",
-            "I have been learning English for two years.",
-            "She has been cooking since 6 PM.",
-            "He has been practicing the piano daily.",
-            "We have been planning a surprise."
+            "Ellos han estado jugando al fútbol desde la mañana.",
+            "He estado aprendiendo inglés durante dos años.",
+            "Ella ha estado cocinando desde las 6 PM.",
+            "Él ha estado practicando el piano a diario.",
+            "Hemos estado planeando una sorpresa."
           ]
         }
       ]

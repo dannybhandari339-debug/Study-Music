@@ -1553,7 +1553,7 @@
       ]
     },
     "day3": {
-      "title": "State of Being (Is, Am, Are, Was, Were)",
+      "title": "Estado de Ser o Estar (Is, Am, Are, Was, Were)",
       "sentences": [
         {
           "id": 1,
@@ -1563,7 +1563,8 @@
             "is",
             "are"
           ],
-          "meaning": "She feels joy and satisfaction."
+          "translation": "Ella está feliz.",
+          "meaning": "Ella siente alegría y satisfacción."
         },
         {
           "id": 2,
@@ -1573,7 +1574,8 @@
             "am",
             "is"
           ],
-          "meaning": "I need rest or sleep."
+          "translation": "Estoy cansado/a.",
+          "meaning": "Necesito descanso o dormir."
         },
         {
           "id": 3,
@@ -1583,7 +1585,8 @@
             "were",
             "was"
           ],
-          "meaning": "They wanted to eat some food."
+          "translation": "Ellos tenían hambre.",
+          "meaning": "Querían comer algo."
         },
         {
           "id": 4,
@@ -1593,7 +1596,8 @@
             "is",
             "are"
           ],
-          "meaning": "The atmosphere looks clear and blue."
+          "translation": "El cielo es azul.",
+          "meaning": "La atmósfera se ve clara y azul."
         },
         {
           "id": 5,
@@ -1603,7 +1607,8 @@
             "are",
             "is"
           ],
-          "meaning": "We share a close relationship."
+          "translation": "Somos amigos.",
+          "meaning": "Compartimos una relación cercana."
         },
         {
           "id": 6,
@@ -1613,7 +1618,8 @@
             "was",
             "were"
           ],
-          "meaning": "He lacked energy in the past."
+          "translation": "Él estaba cansado.",
+          "meaning": "Le faltaba energía en el pasado."
         },
         {
           "id": 7,
@@ -1623,7 +1629,8 @@
             "are",
             "is"
           ],
-          "meaning": "You show a friendly and warm nature."
+          "translation": "Eres amable.",
+          "meaning": "Muestras una naturaleza amigable y cálida."
         },
         {
           "id": 8,
@@ -1633,7 +1640,8 @@
             "was",
             "were"
           ],
-          "meaning": "The dog showed affectionate behavior."
+          "translation": "El perro era amigable.",
+          "meaning": "El perro mostró un comportamiento afectuoso."
         },
         {
           "id": 9,
@@ -1643,7 +1651,8 @@
             "am",
             "is"
           ],
-          "meaning": "I am fully prepared now."
+          "translation": "Estoy listo/a.",
+          "meaning": "Estoy completamente preparado/a ahora."
         },
         {
           "id": 10,
@@ -1653,7 +1662,8 @@
             "are",
             "is"
           ],
-          "meaning": "The apples are newly harvested."
+          "translation": "Las manzanas están frescas.",
+          "meaning": "Las manzanas están recién cosechadas."
         },
         {
           "id": 11,
@@ -1663,7 +1673,8 @@
             "was",
             "were"
           ],
-          "meaning": "The temperature was low yesterday."
+          "translation": "Hacía frío ayer.",
+          "meaning": "La temperatura era baja ayer."
         },
         {
           "id": 12,
@@ -1673,7 +1684,8 @@
             "are",
             "is"
           ],
-          "meaning": "The blooms look very lovely."
+          "translation": "Las flores son hermosas.",
+          "meaning": "Las flores se ven muy lindas."
         },
         {
           "id": 13,
@@ -1683,7 +1695,8 @@
             "were",
             "was"
           ],
-          "meaning": "We felt highly enthusiastic."
+          "translation": "Estábamos emocionados.",
+          "meaning": "Nos sentíamos muy entusiasmados."
         },
         {
           "id": 14,
@@ -1693,7 +1706,8 @@
             "is",
             "are"
           ],
-          "meaning": "The infant is peaceful and not crying."
+          "translation": "El bebé está tranquilo.",
+          "meaning": "El bebé está en paz y no llora."
         },
         {
           "id": 15,
@@ -1703,7 +1717,8 @@
             "were",
             "was"
           ],
-          "meaning": "You arrived before the scheduled time."
+          "translation": "Llegaste temprano.",
+          "meaning": "Llegaste antes de la hora programada."
         },
         {
           "id": 16,
@@ -1713,7 +1728,8 @@
             "is",
             "are"
           ],
-          "meaning": "The vehicle moves at high speed."
+          "translation": "El coche es rápido.",
+          "meaning": "El vehículo se mueve a gran velocidad."
         },
         {
           "id": 17,
@@ -1723,7 +1739,8 @@
             "are",
             "is"
           ],
-          "meaning": "They assist others generously."
+          "translation": "Ellos son serviciales.",
+          "meaning": "Ayudan a los demás generosamente."
         },
         {
           "id": 18,
@@ -1733,7 +1750,8 @@
             "was",
             "were"
           ],
-          "meaning": "The room had no dirt or clutter."
+          "translation": "La habitación estaba limpia.",
+          "meaning": "La habitación no tenía suciedad ni desorden."
         },
         {
           "id": 19,
@@ -1743,7 +1761,8 @@
             "am",
             "is"
           ],
-          "meaning": "I feel the urge to eat."
+          "translation": "Tengo hambre.",
+          "meaning": "Siento el impulso de comer."
         },
         {
           "id": 20,
@@ -1753,7 +1772,8 @@
             "were",
             "was"
           ],
-          "meaning": "The boys made loud sounds."
+          "translation": "Los niños eran ruidosos.",
+          "meaning": "Los niños hacían sonidos fuertes."
         },
         {
           "id": 21,
@@ -1763,7 +1783,8 @@
             "is",
             "are"
           ],
-          "meaning": "The chair cannot be used safely."
+          "translation": "La silla está rota.",
+          "meaning": "La silla no se puede usar con seguridad."
         },
         {
           "id": 22,
@@ -1773,7 +1794,8 @@
             "are",
             "is"
           ],
-          "meaning": "We are fully set for the action."
+          "translation": "Estamos listos.",
+          "meaning": "Estamos completamente preparados para la acción."
         },
         {
           "id": 23,
@@ -1783,7 +1805,8 @@
             "was",
             "were"
           ],
-          "meaning": "She felt cheerful in the past."
+          "translation": "Ella estaba feliz.",
+          "meaning": "Se sentía alegre en el pasado."
         },
         {
           "id": 24,
@@ -1793,7 +1816,8 @@
             "are",
             "is"
           ],
-          "meaning": "The books are newly bought or printed."
+          "translation": "Los libros son nuevos.",
+          "meaning": "Los libros son recién comprados o impresos."
         },
         {
           "id": 25,
@@ -1803,7 +1827,8 @@
             "are",
             "is"
           ],
-          "meaning": "You display high intelligence."
+          "translation": "Eres inteligente.",
+          "meaning": "Muestras gran inteligencia."
         },
         {
           "id": 26,
@@ -1813,7 +1838,8 @@
             "was",
             "were"
           ],
-          "meaning": "The feline wanted food earlier."
+          "translation": "El gato tenía hambre.",
+          "meaning": "El felino quería comida antes."
         },
         {
           "id": 27,
@@ -1823,7 +1849,8 @@
             "am",
             "is"
           ],
-          "meaning": "I go to school to learn."
+          "translation": "Soy estudiante.",
+          "meaning": "Voy a la escuela para aprender."
         },
         {
           "id": 28,
@@ -1833,7 +1860,8 @@
             "is",
             "are"
           ],
-          "meaning": "The fruit has a red skin color."
+          "translation": "La manzana es roja.",
+          "meaning": "La fruta tiene la piel de color rojo."
         },
         {
           "id": 29,
@@ -1843,7 +1871,8 @@
             "is",
             "are"
           ],
-          "meaning": "He has a great physical height."
+          "translation": "Él es alto.",
+          "meaning": "Tiene una gran estatura física."
         },
         {
           "id": 30,
@@ -1853,7 +1882,8 @@
             "was",
             "were"
           ],
-          "meaning": "The bag weighed a lot."
+          "translation": "La bolsa estaba pesada.",
+          "meaning": "La bolsa pesaba mucho."
         },
         {
           "id": 31,
@@ -1863,7 +1893,8 @@
             "are",
             "is"
           ],
-          "meaning": "You have great physical power."
+          "translation": "Eres fuerte.",
+          "meaning": "Tienes gran fuerza física."
         },
         {
           "id": 32,
@@ -1873,7 +1904,8 @@
             "were",
             "was"
           ],
-          "meaning": "The children were actively having fun."
+          "translation": "Los niños estaban jugando.",
+          "meaning": "Los niños se estaban divirtiendo activamente."
         },
         {
           "id": 33,
@@ -1883,7 +1915,8 @@
             "am",
             "is"
           ],
-          "meaning": "I feel a low temperature on my body."
+          "translation": "Tengo frío.",
+          "meaning": "Siento una temperatura baja en mi cuerpo."
         },
         {
           "id": 34,
@@ -1893,7 +1926,8 @@
             "was",
             "were"
           ],
-          "meaning": "There was no sunlight or stars were covered."
+          "translation": "El cielo estaba oscuro.",
+          "meaning": "No había luz solar o las estrellas estaban cubiertas."
         },
         {
           "id": 35,
@@ -1903,7 +1937,8 @@
             "were",
             "was"
           ],
-          "meaning": "They lacked energy in the past."
+          "translation": "Ellos estaban cansados.",
+          "meaning": "Les faltaba energía en el pasado."
         },
         {
           "id": 36,
@@ -1913,7 +1948,8 @@
             "are",
             "is"
           ],
-          "meaning": "The dogs are barking loudly."
+          "translation": "Los perros son ruidosos.",
+          "meaning": "Los perros están ladrando fuerte."
         },
         {
           "id": 37,
@@ -1923,7 +1959,8 @@
             "were",
             "was"
           ],
-          "meaning": "We missed the scheduled arrival time."
+          "translation": "Llegamos tarde.",
+          "meaning": "Perdimos la hora de llegada programada."
         },
         {
           "id": 38,
@@ -1933,7 +1970,8 @@
             "is",
             "are"
           ],
-          "meaning": "The book captures deep attention."
+          "translation": "El libro es interesante.",
+          "meaning": "El libro capta profundamente la atención."
         },
         {
           "id": 39,
@@ -1943,7 +1981,8 @@
             "is",
             "are"
           ],
-          "meaning": "She behaves gently and helpfully."
+          "translation": "Ella es amable.",
+          "meaning": "Se comporta de manera dulce y servicial."
         },
         {
           "id": 40,
@@ -1953,7 +1992,8 @@
             "were",
             "was"
           ],
-          "meaning": "You had a joyful expression."
+          "translation": "Estabas feliz.",
+          "meaning": "Tenías una expresión alegre."
         },
         {
           "id": 41,
@@ -1963,7 +2003,8 @@
             "are",
             "is"
           ],
-          "meaning": "The vehicles travel at high speeds."
+          "translation": "Los coches son rápidos.",
+          "meaning": "Los vehículos viajan a altas velocidades."
         },
         {
           "id": 42,
@@ -1973,7 +2014,8 @@
             "am",
             "is"
           ],
-          "meaning": "I have many tasks to complete now."
+          "translation": "Estoy ocupado/a.",
+          "meaning": "Tengo muchas tareas que completar ahora."
         },
         {
           "id": 43,
@@ -1983,7 +2025,8 @@
             "was",
             "were"
           ],
-          "meaning": "The fruit was red before."
+          "translation": "La manzana era roja.",
+          "meaning": "La fruta era roja antes."
         },
         {
           "id": 44,
@@ -1993,7 +2036,8 @@
             "are",
             "is"
           ],
-          "meaning": "They have high physical stature."
+          "translation": "Ellos son altos.",
+          "meaning": "Tienen una gran estatura física."
         },
         {
           "id": 45,
@@ -2003,7 +2047,8 @@
             "was",
             "were"
           ],
-          "meaning": "The tale kept us highly engaged."
+          "translation": "La historia era interesante.",
+          "meaning": "El relato nos mantuvo muy interesados."
         },
         {
           "id": 46,
@@ -2013,7 +2058,8 @@
             "are",
             "is"
           ],
-          "meaning": "We are thrilled and happy."
+          "translation": "Estamos emocionados.",
+          "meaning": "Estamos entusiasmados y felices."
         },
         {
           "id": 47,
@@ -2023,7 +2069,8 @@
             "was",
             "were"
           ],
-          "meaning": "The instructor treated us gently."
+          "translation": "El/la profesor(a) era amable.",
+          "meaning": "El/la instructor(a) nos trató con dulzura."
         },
         {
           "id": 48,
@@ -2033,7 +2080,8 @@
             "are",
             "is"
           ],
-          "meaning": "You are here before the appointed hour."
+          "translation": "Llegaste temprano.",
+          "meaning": "Estás aquí antes de la hora fijada."
         },
         {
           "id": 49,
@@ -2043,7 +2091,8 @@
             "are",
             "is"
           ],
-          "meaning": "The boys are making loud sounds."
+          "translation": "Los niños son ruidosos.",
+          "meaning": "Los niños están haciendo sonidos fuertes."
         },
         {
           "id": 50,
@@ -2053,7 +2102,8 @@
             "am",
             "is"
           ],
-          "meaning": "I display good manners."
+          "translation": "Soy educado/a.",
+          "meaning": "Muestro buenos modales."
         },
         {
           "id": 51,
@@ -2063,7 +2113,8 @@
             "are",
             "is"
           ],
-          "meaning": "The blooms look bright and newly cut."
+          "translation": "Las flores están frescas.",
+          "meaning": "Las flores se ven brillantes y recién cortadas."
         },
         {
           "id": 52,
@@ -2073,7 +2124,8 @@
             "were",
             "was"
           ],
-          "meaning": "They offered active support earlier."
+          "translation": "Ellos fueron de ayuda.",
+          "meaning": "Ofrecieron apoyo activo anteriormente."
         },
         {
           "id": 53,
@@ -2083,7 +2135,8 @@
             "is",
             "are"
           ],
-          "meaning": "The sun radiates intense light."
+          "translation": "El sol es brillante.",
+          "meaning": "El sol irradia una luz intensa."
         },
         {
           "id": 54,
@@ -2093,7 +2146,8 @@
             "were",
             "was"
           ],
-          "meaning": "We were companionable in the past."
+          "translation": "Éramos amigos.",
+          "meaning": "Éramos compañeros en el pasado."
         },
         {
           "id": 55,
@@ -2103,7 +2157,8 @@
             "is",
             "are"
           ],
-          "meaning": "The room has no dust or clutter now."
+          "translation": "La habitación está limpia.",
+          "meaning": "La habitación no tiene polvo ni desorden ahora."
         },
         {
           "id": 56,
@@ -2113,7 +2168,8 @@
             "were",
             "was"
           ],
-          "meaning": "You showed great warmth earlier."
+          "translation": "Fuiste amable.",
+          "meaning": "Mostraste gran calidez antes."
         },
         {
           "id": 57,
@@ -2123,7 +2179,8 @@
             "am",
             "is"
           ],
-          "meaning": "I possess high physical strength."
+          "translation": "Soy fuerte.",
+          "meaning": "Poseo una gran fuerza física."
         },
         {
           "id": 58,
@@ -2133,53 +2190,54 @@
             "was",
             "were"
           ],
-          "meaning": "The infant was peaceful before."
+          "translation": "El bebé estaba tranquilo.",
+          "meaning": "El bebé estaba en paz antes."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "A Happy Pet Sanctuary",
-          "description": "A bright room where playful cats, friendly dogs, and small rabbits live peacefully together.",
+          "title": "Un Santuario Feliz para Mascotas",
+          "description": "Una habitación luminosa donde gatos juguetones, perros amigables y conejitos viven juntos en paz.",
           "imageUrl": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "The small dog is friendly.",
-            "The fluffy cats are happy.",
-            "The warm room was clean.",
-            "I am ready to play with them.",
-            "The puppies are very cute."
+            "El perro pequeño es amigable.",
+            "Los gatos esponjosos están felices.",
+            "La cálida habitación estaba limpia.",
+            "Estoy listo/a para jugar con ellos.",
+            "Los cachorros son muy lindos."
           ]
         },
         {
           "id": 2,
-          "title": "A Calm Forest Lake",
-          "description": "A peaceful autumn view of tall green trees around a dark silent lake under a blue sky.",
+          "title": "Un Lago Tranquilo en el Bosque",
+          "description": "Una vista otoñal tranquila de árboles verdes y altos alrededor de un lago oscuro y silencioso bajo un cielo azul.",
           "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "The morning sky is blue.",
-            "The old trees are very tall.",
-            "The quiet lake was cold.",
-            "We were calm and relaxed.",
-            "The forest is beautiful."
+            "El cielo matutino es azul.",
+            "Los árboles viejos son muy altos.",
+            "El lago silencioso estaba frío.",
+            "Estábamos tranquilos y relajados.",
+            "El bosque es hermoso."
           ]
         },
         {
           "id": 3,
-          "title": "The Bright Art Gallery",
-          "description": "A modern, well-lit art hall displaying beautiful paintings, colorful sculptures, and excited visitors.",
+          "title": "La Galería de Arte Luminosa",
+          "description": "Una sala de arte moderna y bien iluminada que exhibe hermosas pinturas, esculturas coloridas y visitantes emocionados.",
           "imageUrl": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "The new paintings are colorful.",
-            "The art gallery is bright.",
-            "The visitors were very excited.",
-            "The huge sculptures are beautiful.",
-            "I am polite to the artist."
+            "Las nuevas pinturas son coloridas.",
+            "La galería de arte es luminosa.",
+            "Los visitantes estaban muy emocionados.",
+            "Las enormes esculturas son hermosas.",
+            "Soy educado/a con el artista."
           ]
         }
       ]
     },
     "day4": {
-      "title": "Has / Have / Had",
+      "title": "Tener / Haber (Has / Have / Had)",
       "sentences": [
         {
           "id": 1,
@@ -2190,29 +2248,32 @@
             "has",
             "had"
           ],
-          "meaning": "I possess a newly purchased book."
+          "translation": "Tengo un libro nuevo.",
+          "meaning": "Poseo un libro recién comprado."
         },
         {
           "id": 2,
           "sentence": "She has a beautiful dress.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "She owns an attractive dress."
+          "translation": "Ella tiene un vestido hermoso.",
+          "meaning": "Ella posee un vestido atractivo."
         },
         {
           "id": 3,
           "sentence": "They had a great time yesterday.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "They enjoyed themselves yesterday."
+          "translation": "Ellos la pasaron muy bien ayer.",
+          "meaning": "Se divirtieron ayer."
         },
         {
           "id": 4,
@@ -2223,29 +2284,32 @@
             "has",
             "had"
           ],
-          "meaning": "We possess a large home."
+          "translation": "Tenemos una casa grande.",
+          "meaning": "Poseemos un hogar grande."
         },
         {
           "id": 5,
           "sentence": "He has a pet dog.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "He owns a canine companion."
+          "translation": "Él tiene un perro de mascota.",
+          "meaning": "Tiene un compañero canino."
         },
         {
           "id": 6,
           "sentence": "I had a headache last night.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "I suffered from head pain last night."
+          "translation": "Tuve dolor de cabeza anoche.",
+          "meaning": "Sufrí dolor de cabeza anoche."
         },
         {
           "id": 7,
@@ -2256,40 +2320,44 @@
             "has",
             "had"
           ],
-          "meaning": "You possess a large social circle."
+          "translation": "Tienes muchos amigos.",
+          "meaning": "Tienes un amplio círculo social."
         },
         {
           "id": 8,
           "sentence": "She had a red car before.",
           "blankWord": "had",
           "options": [
-            "had",
+            "have",
             "has",
-            "have"
+            "had"
           ],
-          "meaning": "She previously owned a red car."
+          "translation": "Ella tenía un coche rojo antes.",
+          "meaning": "Anteriormente era dueña de un coche rojo."
         },
         {
           "id": 9,
           "sentence": "He has a sharp mind.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "He possesses high intelligence."
+          "translation": "Él tiene una mente brillante.",
+          "meaning": "Posee una gran inteligencia."
         },
         {
           "id": 10,
           "sentence": "We had dinner together.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "We ate our evening meal as a group."
+          "translation": "Cenamos juntos.",
+          "meaning": "Comimos nuestra cena en grupo."
         },
         {
           "id": 11,
@@ -2300,7 +2368,8 @@
             "has",
             "had"
           ],
-          "meaning": "They possess a capable group of people."
+          "translation": "Tienen un equipo fuerte.",
+          "meaning": "Tienen un grupo de personas capaz."
         },
         {
           "id": 12,
@@ -2311,29 +2380,32 @@
             "has",
             "had"
           ],
-          "meaning": "I possess two male siblings."
+          "translation": "Tengo dos hermanos.",
+          "meaning": "Tengo dos hermanos varones."
         },
         {
           "id": 13,
           "sentence": "She has a kind heart.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "She possesses a generous nature."
+          "translation": "Ella tiene un corazón amable.",
+          "meaning": "Tiene una naturaleza generosa."
         },
         {
           "id": 14,
           "sentence": "He had a bike in school.",
           "blankWord": "had",
           "options": [
-            "had",
+            "have",
             "has",
-            "have"
+            "had"
           ],
-          "meaning": "He owned a bicycle during school years."
+          "translation": "Él tenía una bicicleta en la escuela.",
+          "meaning": "Tuvo una bicicleta durante sus años escolares."
         },
         {
           "id": 15,
@@ -2344,29 +2416,32 @@
             "has",
             "had"
           ],
-          "meaning": "We possess a sufficient amount of food."
+          "translation": "Tenemos suficiente comida.",
+          "meaning": "Poseemos una cantidad suficiente de comida."
         },
         {
           "id": 16,
           "sentence": "They had a meeting earlier.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "They attended a meeting earlier today."
+          "translation": "Ellos tuvieron una reunión más temprano.",
+          "meaning": "Asistieron a una reunión hoy más temprano."
         },
         {
           "id": 17,
           "sentence": "I had a long day.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "I experienced a tiring and busy day."
+          "translation": "Tuve un día largo.",
+          "meaning": "Experimenté un día cansado y ocupado."
         },
         {
           "id": 18,
@@ -2377,40 +2452,44 @@
             "has",
             "had"
           ],
-          "meaning": "You possess a strong opportunity."
+          "translation": "Tienes una buena oportunidad.",
+          "meaning": "Posees una gran oportunidad."
         },
         {
           "id": 19,
           "sentence": "She has a lovely smile.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "She possesses an attractive facial expression."
+          "translation": "Ella tiene una linda sonrisa.",
+          "meaning": "Tiene una expresión facial atractiva."
         },
         {
           "id": 20,
           "sentence": "He has a new phone.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "He owns a modern mobile device."
+          "translation": "Él tiene un teléfono nuevo.",
+          "meaning": "Es dueño de un dispositivo móvil moderno."
         },
         {
           "id": 21,
           "sentence": "We had a party last week.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "We hosted a social gathering last week."
+          "translation": "Tuvimos una fiesta la semana pasada.",
+          "meaning": "Organizamos una reunión social la semana pasada."
         },
         {
           "id": 22,
@@ -2421,18 +2500,20 @@
             "has",
             "had"
           ],
-          "meaning": "They possess an amiable educator."
+          "translation": "Tienen un(a) profesor(a) agradable.",
+          "meaning": "Tienen un(a) educador(a) amable."
         },
         {
           "id": 23,
           "sentence": "I had a dream.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "I experienced a series of thoughts while sleeping."
+          "translation": "Tuve un sueño.",
+          "meaning": "Experimenté una serie de pensamientos mientras dormía."
         },
         {
           "id": 24,
@@ -2443,51 +2524,56 @@
             "has",
             "had"
           ],
-          "meaning": "You possess high vitality and strength."
+          "translation": "Tienes mucha energía.",
+          "meaning": "Posees gran vitalidad y fuerza."
         },
         {
           "id": 25,
           "sentence": "She has a sister.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "She possesses a female sibling."
+          "translation": "Ella tiene una hermana.",
+          "meaning": "Tiene una hermana."
         },
         {
           "id": 26,
           "sentence": "He has a job.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "He possesses paid employment."
+          "translation": "Él tiene trabajo.",
+          "meaning": "Tiene un empleo remunerado."
         },
         {
           "id": 27,
           "sentence": "We had a test yesterday.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "We underwent an examination yesterday."
+          "translation": "Tuvimos un examen ayer.",
+          "meaning": "Hicimos un examen ayer."
         },
         {
           "id": 28,
           "sentence": "They had a picnic.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "They enjoyed an outdoor meal together."
+          "translation": "Ellos tuvieron un día de campo.",
+          "meaning": "Disfrutaron de una comida al aire libre juntos."
         },
         {
           "id": 29,
@@ -2498,40 +2584,44 @@
             "has",
             "had"
           ],
-          "meaning": "I possess a query or inquiry."
+          "translation": "Tengo una pregunta.",
+          "meaning": "Tengo una duda o consulta."
         },
         {
           "id": 30,
           "sentence": "She had a chance.",
           "blankWord": "had",
           "options": [
-            "had",
+            "have",
             "has",
-            "have"
+            "had"
           ],
-          "meaning": "She possessed an opportunity."
+          "translation": "Ella tuvo una oportunidad.",
+          "meaning": "Tuvo una oportunidad."
         },
         {
           "id": 31,
           "sentence": "He has a talent.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "He possesses a natural skill."
+          "translation": "Él tiene talento.",
+          "meaning": "Posee una habilidad natural."
         },
         {
           "id": 32,
           "sentence": "The cat has soft fur.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "The feline possesses smooth hair."
+          "translation": "El gato tiene el pelaje suave.",
+          "meaning": "El felino tiene un pelo suave."
         },
         {
           "id": 33,
@@ -2542,18 +2632,20 @@
             "has",
             "had"
           ],
-          "meaning": "We possess a yard with plants."
+          "translation": "Tenemos un jardín en la parte trasera.",
+          "meaning": "Tenemos un patio con plantas."
         },
         {
           "id": 34,
           "sentence": "They had a computer last year.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "They owned a PC in the previous year."
+          "translation": "Ellos tenían una computadora el año pasado.",
+          "meaning": "Eran dueños de una PC el año pasado."
         },
         {
           "id": 35,
@@ -2564,29 +2656,32 @@
             "has",
             "had"
           ],
-          "meaning": "A new thought occurred to me."
+          "translation": "Tengo una idea repentina.",
+          "meaning": "Se me ocurrió un nuevo pensamiento."
         },
         {
           "id": 36,
           "sentence": "She has many toys.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "She owns numerous playthings."
+          "translation": "Ella tiene muchos juguetes.",
+          "meaning": "Es dueña de numerosos juguetes."
         },
         {
           "id": 37,
           "sentence": "He had fever yesterday.",
           "blankWord": "had",
           "options": [
-            "had",
+            "have",
             "has",
-            "have"
+            "had"
           ],
-          "meaning": "He suffered from high body temperature."
+          "translation": "Él tuvo fiebre ayer.",
+          "meaning": "Sufrió de alta temperatura corporal."
         },
         {
           "id": 38,
@@ -2597,7 +2692,8 @@
             "has",
             "had"
           ],
-          "meaning": "We enjoy a day off today."
+          "translation": "Tenemos un día festivo hoy.",
+          "meaning": "Disfrutamos de un día libre hoy."
         },
         {
           "id": 39,
@@ -2608,62 +2704,68 @@
             "has",
             "had"
           ],
-          "meaning": "They own three vehicles."
+          "translation": "Ellos tienen tres coches.",
+          "meaning": "Son dueños de tres vehículos."
         },
         {
           "id": 40,
           "sentence": "I had a blue bicycle when I was young.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "I owned a blue bike during childhood."
+          "translation": "Tenía una bicicleta azul cuando era joven.",
+          "meaning": "Tuve una bicicleta azul durante la infancia."
         },
         {
           "id": 41,
           "sentence": "She has a busy schedule.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "She possesses many tasks planned."
+          "translation": "Ella tiene una agenda muy ocupada.",
+          "meaning": "Tiene muchas tareas planificadas."
         },
         {
           "id": 42,
           "sentence": "He has two dogs.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "He owns two dogs."
+          "translation": "Él tiene dos perros.",
+          "meaning": "Es dueño de dos perros."
         },
         {
           "id": 43,
           "sentence": "We had breakfast at seven.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "We ate morning food at 7 AM."
+          "translation": "Desayunamos a las siete.",
+          "meaning": "Comimos por la mañana a las 7 AM."
         },
         {
           "id": 44,
           "sentence": "They had a house near the river.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "They owned a riverfront home previously."
+          "translation": "Tenían una casa cerca del río.",
+          "meaning": "Eran dueños de una casa frente al río anteriormente."
         },
         {
           "id": 45,
@@ -2674,29 +2776,32 @@
             "has",
             "had"
           ],
-          "meaning": "I possess a camera to capture photos."
+          "translation": "Tengo una cámara para fotografía.",
+          "meaning": "Tengo una cámara para tomar fotos."
         },
         {
           "id": 46,
           "sentence": "She had a cold last week.",
           "blankWord": "had",
           "options": [
-            "had",
+            "have",
             "has",
-            "have"
+            "had"
           ],
-          "meaning": "She suffered from a cold recently."
+          "translation": "Ella tuvo un resfriado la semana pasada.",
+          "meaning": "Sufrió de un resfriado recientemente."
         },
         {
           "id": 47,
           "sentence": "He has a lot of patience.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "He possesses high capacity to tolerate."
+          "translation": "Él tiene mucha paciencia.",
+          "meaning": "Posee gran capacidad de tolerancia."
         },
         {
           "id": 48,
@@ -2707,7 +2812,8 @@
             "has",
             "had"
           ],
-          "meaning": "We attend a class scheduled at 10 AM."
+          "translation": "Tenemos una clase a las diez.",
+          "meaning": "Asistimos a una clase programada a las 10 AM."
         },
         {
           "id": 49,
@@ -2718,40 +2824,44 @@
             "has",
             "had"
           ],
-          "meaning": "They own agricultural land in a rural area."
+          "translation": "Tienen una granja en el pueblo.",
+          "meaning": "Son dueños de terrenos agrícolas en una zona rural."
         },
         {
           "id": 50,
           "sentence": "I had a key, but I lost it.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "I possessed a key in the past."
+          "translation": "Tenía una llave, pero la perdí.",
+          "meaning": "Poseía una llave en el pasado."
         },
         {
           "id": 51,
           "sentence": "She has a silver necklace.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "She owns jewelry made of silver."
+          "translation": "Ella tiene un collar de plata.",
+          "meaning": "Es dueña de una joya de plata."
         },
         {
           "id": 52,
           "sentence": "He had a pet rabbit when he was young.",
           "blankWord": "had",
           "options": [
-            "had",
+            "have",
             "has",
-            "have"
+            "had"
           ],
-          "meaning": "He owned a rabbit during childhood."
+          "translation": "Él tenía un conejo de mascota cuando era joven.",
+          "meaning": "Tuvo un conejo durante la infancia."
         },
         {
           "id": 53,
@@ -2762,18 +2872,20 @@
             "has",
             "had"
           ],
-          "meaning": "An exam is scheduled for us next Monday."
+          "translation": "Tenemos un examen el próximo lunes.",
+          "meaning": "Un examen está programado para nosotros el próximo lunes."
         },
         {
           "id": 54,
           "sentence": "They had a discussion yesterday.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "They spoke together about a topic."
+          "translation": "Tuvieron una discusión ayer.",
+          "meaning": "Hablaron juntos sobre un tema."
         },
         {
           "id": 55,
@@ -2784,29 +2896,32 @@
             "has",
             "had"
           ],
-          "meaning": "I have a scheduled medical visit tomorrow."
+          "translation": "Tengo una cita médica mañana.",
+          "meaning": "Tengo una visita médica programada para mañana."
         },
         {
           "id": 56,
           "sentence": "She has a bright future.",
           "blankWord": "has",
           "options": [
-            "has",
             "have",
+            "has",
             "had"
           ],
-          "meaning": "She possesses good prospects ahead."
+          "translation": "Ella tiene un futuro brillante.",
+          "meaning": "Tiene buenas perspectivas por delante."
         },
         {
           "id": 57,
           "sentence": "He had a bad dream last night.",
           "blankWord": "had",
           "options": [
-            "had",
+            "have",
             "has",
-            "have"
+            "had"
           ],
-          "meaning": "He experienced a nightmare while sleeping."
+          "translation": "Él tuvo una pesadilla anoche.",
+          "meaning": "Experimentó una pesadilla mientras dormía."
         },
         {
           "id": 58,
@@ -2817,18 +2932,20 @@
             "has",
             "had"
           ],
-          "meaning": "We possess several arrangements for Saturday/Sunday."
+          "translation": "Tenemos muchos planes para el fin de semana.",
+          "meaning": "Tenemos varios planes para el sábado y domingo."
         },
         {
           "id": 59,
           "sentence": "They had a fight, but now they are friends.",
           "blankWord": "had",
           "options": [
-            "had",
             "have",
-            "has"
+            "has",
+            "had"
           ],
-          "meaning": "They argued in the past but reconciled."
+          "translation": "Tuvieron una pelea, pero ahora son amigos.",
+          "meaning": "Discutieron en el pasado pero se reconciliaron."
         },
         {
           "id": 60,
@@ -2839,47 +2956,48 @@
             "has",
             "had"
           ],
-          "meaning": "I possess a guide showing city streets."
+          "translation": "Tengo un mapa de la ciudad.",
+          "meaning": "Tengo una guía que muestra las calles de la ciudad."
         }
       ],
       "prompts": [
         {
           "id": 1,
-          "title": "The Wealthy Estate & Pets",
-          "description": "An elegant modern mansion with dogs playing on the grass, a luxury car in the driveway, and a lovely garden.",
+          "title": "La Gran Propiedad y las Mascotas",
+          "description": "Una elegante mansión moderna con perros jugando en el césped, un coche de lujo en la entrada y un hermoso jardín.",
           "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "They have a beautiful house with a large garden.",
-            "The owner has a cute pet dog.",
-            "He had a red sports car before.",
-            "They have a grand swimming pool in the backyard.",
-            "Yesterday, they had a wonderful family dinner."
+            "Tienen una casa hermosa con un gran jardín.",
+            "El dueño tiene un perro muy lindo.",
+            "Él tenía un coche deportivo rojo antes.",
+            "Tienen una gran piscina en el patio trasero.",
+            "Ayer tuvieron una cena familiar maravillosa."
           ]
         },
         {
           "id": 2,
-          "title": "A Classroom Test Day",
-          "description": "A quiet classroom where students are writing on their test sheets, some looking happy and some focused.",
+          "title": "Día de Examen en el Aula",
+          "description": "Un aula tranquila donde los estudiantes escriben en sus hojas de examen, algunos felices y otros concentrados.",
           "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "The students have an English test today.",
-            "She has a blue pen to write her answers.",
-            "We had a long preparation meeting earlier.",
-            "He has a clever mind and feels confident.",
-            "They have a very kind and helpful teacher."
+            "Los estudiantes tienen un examen de inglés hoy.",
+            "Ella tiene un bolígrafo azul para escribir sus respuestas.",
+            "Tuvimos una larga reunión de preparación antes.",
+            "Él tiene una mente brillante y se siente seguro.",
+            "Tienen un(a) profesor(a) muy amable y servicial."
           ]
         },
         {
           "id": 3,
-          "title": "A Weekend Outing",
-          "description": "A vibrant public park scene with a family enjoying a sunny day, holding a picnic basket, balloons, and riding bikes.",
+          "title": "Una Salida de Fin de Semana",
+          "description": "Una animada escena en un parque público con una familia disfrutando de un día soleado, con una cesta de picnic, globos y bicicletas.",
           "imageUrl": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?q=80&w=600&auto=format&fit=crop",
           "modelSentences": [
-            "The family has a colorful picnic basket.",
-            "We had a lot of fun at the green park.",
-            "The little girl has a bright yellow balloon.",
-            "They have bicycles to ride on the path.",
-            "We had a surprise visit from a friendly puppy."
+            "La familia tiene una cesta de picnic colorida.",
+            "Nos divertimos mucho en el parque verde.",
+            "La niña tiene un globo amarillo brillante.",
+            "Tienen bicicletas para andar por el sendero.",
+            "Tuvimos la visita sorpresa de un cachorrito amigable."
           ]
         }
       ]
